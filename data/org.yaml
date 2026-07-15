@@ -13,10 +13,10 @@ org:
   contact:
     name: "Corentin Dallenogare"
     role: "Président"
-    email: "falcohm6tm@outlook.com"
+    email: "contact@falcohmsystem.com"
   contact_rows:
     - label: "E-mail"
-      parts: [{ text: "falcohm6tm@outlook.com", url: "mailto:falcohm6tm@outlook.com" }]
+      parts: [{ text: "contact@falcohmsystem.com", url: "mailto:contact@falcohmsystem.com" }]
     - label: "Sites web"
       parts:
         - { text: "www.gazmatek.com",      url: "https://www.gazmatek.com" }

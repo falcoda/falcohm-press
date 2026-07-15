@@ -130,6 +130,14 @@ partners:
   email: info@lochten.be
   sent: ''
   followup: ''
+- company: Brasserie St-Feuillien
+  module: boissons
+  status: lead
+  score: 29
+  contact: Leylan Roland
+  email: leylan.roland@st-feuillien.com
+  sent: ''
+  followup: ''
 - company: Triplaco
   module: bois
   status: sent

@@ -21,7 +21,7 @@ Seriez-vous disponible pour un échange de quelques minutes ?
 Bien à vous,
 Corentin Dallenogare
 Président — Falc'ohm System ASBL
-falcohm6tm@outlook.com · gazmatek.com · falcohmsystem.com
+contact@falcohmsystem.com · gazmatek.com · falcohmsystem.com
 
 ---
 ## Règles

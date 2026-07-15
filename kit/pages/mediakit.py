@@ -97,8 +97,8 @@ def reach(c, ctx):
 
     # histogramme de croissance (vectoriel, pas d'image)
     eyebrow(c, M, y, r["chart"]["title"])
-    y -= 24
-    ch = 150
+    y -= 22
+    ch = 122
     base = y - ch
     rrect(c, M, base, CW, ch + 30, 8, fill=WHITE, stroke=LINE)
     series = r["chart"]["series"]
@@ -137,7 +137,7 @@ def events(c, ctx):
     ls_text(c, M, y, "ANNÉE", "Inter-B", 7.4, GREY, 1.2)
     ls_text(c, M + 60, y, "ÉVÉNEMENT", "Inter-B", 7.4, GREY, 1.2)
     ls_text(c, M + 250, y, "LIEU", "Inter-B", 7.4, GREY, 1.2)
-    ls_text(c, W - M, y, "JAUGE", "Inter-B", 7.4, GREY, 1.2, align="r")
+    ls_text(c, W - M, y, "FRÉQUENTATION", "Inter-B", 7.4, GREY, 1.2, align="r")
     y -= 8
     c.line(M, y, W - M, y)
     y -= 18
@@ -145,10 +145,15 @@ def events(c, ctx):
         if i % 2 == 0:
             c.setFillColor(LIGHT)
             c.rect(M - 6, y - 8, CW + 12, rh - 6, stroke=0, fill=1)
+        # « TODO » / vide sont des marqueurs internes : à l'écran, un tiret propre.
+        cap = str(e.get("capacity") or "").strip()
+        cap = "—" if cap in ("", "TODO", "-") else cap
+        venue = str(e.get("venue") or "").strip()
+        venue = "à venir" if venue in ("", "TODO") else venue
         ls_text(c, M, y, str(e["year"]), "Inter-SB", 9, BLUE)
         ls_text(c, M + 60, y, e["name"], "Inter-SB", 9.4, INK)
-        ls_text(c, M + 250, y, e["venue"], "Inter-L", 8.8, GREY)
-        ls_text(c, W - M, y, e["capacity"], "Inter-M", 9, INK, 0, align="r")
+        ls_text(c, M + 250, y, venue, "Inter-L", 8.8, GREY)
+        ls_text(c, W - M, y, cap, "Inter-M", 9, INK, 0, align="r")
         y -= rh
     y -= 10
 

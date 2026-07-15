@@ -21,7 +21,7 @@ technique avec Falc'ohm System. Plus de quarante bénévoles y participent.
 > — {{CONTACT_NAME}}, {{CONTACT_ROLE}}, {{COMPANY}}
 
 **Contact presse**
-Corentin Dallenogare — falcohm6tm@outlook.com
+Corentin Dallenogare — contact@falcohmsystem.com
 www.gazmatek.com · www.falcohmsystem.com
 
 *Visuels haute définition disponibles sur demande.*

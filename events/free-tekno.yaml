@@ -1,0 +1,31 @@
+# Ajouté le 2026-07-14 (source : Corentin). Fréquentation : 1700 (source : Corentin).
+# TODO : date exacte, lieu précis, lineup, budget, stats. Événement Falc'ohm System.
+slug: free-tekno
+name: Free Tekno
+date: '2026-01-01 # TODO'
+venue: Bruxelles
+city: ''
+capacity: '# TODO'
+attendance: 1700
+type: free-party
+lineup: []
+sponsors: []
+partners: []
+budget:
+  total: null
+  technique: null
+  artistes: null
+  communication: null
+technique:
+  system: Falc'ohm System
+  stages: 1
+  notes: ''
+medias:
+  poster: ''
+  photos: []
+  aftermovie: ''
+stats:
+  reach_instagram: null
+  reach_facebook: null
+  tickets_sold: null
+retombees: ''

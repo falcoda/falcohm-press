@@ -1,0 +1,147 @@
+slug: saint-feuillien
+company: Brasserie St-Feuillien
+aka:
+- Saint-Feuillien
+- St-Feuillien
+- Brasserie Friart
+country: BE
+sector: boissons
+persona: marque-grand-public
+categories:
+- beverage
+status: replied
+phase: 2
+tags:
+- marque
+- belge
+- deja-sponsor
+score: 29
+website: https://st-feuillien.com
+knowledge: ''
+profile:
+  activity: Brasserie familiale wallonne fondée en 1873 à Le Rœulx (Hainaut), réputée
+    pour sa bière d'abbaye Saint-Feuillien (l'abbaye remonte à 1125). Brasse des blondes,
+    brunes, triples, saisons et la Grisette. Distribution nationale et export, tourisme
+    brassicole (visites, salle Grand Cru).
+  products:
+  - Bières d'abbaye Saint-Feuillien (blonde, brune, triple, Cuvée de Noël)
+  - Grisette (gamme sans gluten / bio)
+  - Accueil d'événements à la brasserie (salle Grand Cru, concerts, dégustations)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Brasserie wallonne, familiale et de taille humaine (Hainaut, même région
+  que Gazmatek) : le genre de partenaire boissons où l''on parle à une personne, pas
+  à un service marketing centralisé. Surtout, ils sponsorisent DÉJÀ de la culture
+  et de la musique — les 900 ans de l''abbaye en 2025, des concerts à la brasserie,
+  le Faolan Irish Fest — donc le réflexe de soutenir un événement existe. Et nous
+  avons un contact direct : Roland Leylan, le maître-brasseur. Une bière-partenaire
+  sur un festival, c''est un bar qui tourne, une visibilité de marque, et un produit
+  belge sur un public jeune.'
+ask:
+  type:
+  - material
+  - discount
+  - financial
+  - visibility
+  detail: 'Fourniture de bière à conditions partenaire pour le bar de nos événements
+    (fûts), en échange d''une visibilité de marque sur site et sur nos réseaux (27
+    000 abonnés) ; idéalement un soutien financier ou en nature sur une date. Le bar
+    est un centre de revenu de l''événement : un accord profite aux deux.'
+  realistic_value_eur: 3500
+values:
+- Héritage d'abbaye (depuis 1125) et brasserie familiale depuis 1873
+- Ancrage wallon / Hainaut
+- Savoir-faire brassicole et tradition
+- Soutien à la culture et à la musique locales
+sponsorship_history:
+- what: 900 ans de l'abbaye de Saint-Feuillien (2025) — programme d'événements culturels
+    et bière commémorative, porté avec la Ville du Rœulx et ses partenaires.
+  url: https://st-feuillien.com/en/900-years-of-the-abbey-saint-feuillien/
+  retrieved_on: 2026-07-14
+- what: Concert baroque à la brasserie (ensemble La Cetra d'Orfeo, musique de Purcell)
+    « avec le soutien de la brasserie » ; accueil du Faolan Irish Fest en clôture
+    à la brasserie.
+  url: https://st-feuillien.com/en/the-brewery/events/
+  retrieved_on: 2026-07-14
+contacts:
+- name: Leylan Roland
+  role: Maître-brasseur
+  email: leylan.roland@st-feuillien.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://st-feuillien.com/en/cuvee-de-noel-belgian-beer-winter/
+  retrieved_on: 2026-07-14
+  evidence: 'Adresse communiquée directement par Corentin Dallenogare (président de
+    Falc''ohm) le 2026-07-14. La personne et sa fonction sont confirmées sur le site
+    officiel : « Master brewer Leylan Roland » (article Cuvée de Noël). Le domaine
+    @st-feuillien.com est confirmé par l''adresse publique visites@st-feuillien.com
+    lue sur st-feuillien.com. NB : le maître-brasseur n''est pas le service marketing/sponsoring
+    — c''est un contact chaud fourni par Corentin, à traiter comme tel.'
+- name: ''
+  role: Visites / accueil (canal public, pour repli uniquement)
+  email: visites@st-feuillien.com
+  email_status: generic
+  linkedin: ''
+  phone: +32 64 31 18 18
+  source_url: https://st-feuillien.com/en/the-brewery/
+  retrieved_on: 2026-07-14
+  evidence: '« visites@st-feuillien.com » et « +32 (0)64 31 18 18 », lus sur la page
+    The Brewery. Adresse dédiée au tourisme brassicole, pas au partenariat : ne pas
+    l''utiliser pour la demande, la garder en secours.'
+inbound_channels:
+- type: form
+  url: https://st-feuillien.com/en/news/
+scoring:
+  business_fit: 7
+  partnership_probability: 7
+  impact_if_successful: 6
+  rationale: 'Fit correct pour un partenaire boissons de festival (bar, produit belge,
+    marque connue), sans être le besoin technique cœur de Falc''ohm — d''où 7 et pas
+    plus. Probabilité élevée : brasserie familiale régionale qui sponsorise déjà de
+    la culture ET un contact direct nommé (le maître-brasseur), fourni par Corentin.
+    Impact moyen mais réel : le bar est un centre de revenu, et une marque de bière
+    belge sur nos dates a de la valeur — sans débloquer la construction du sound system.'
+deadlines: []
+sources:
+- url: https://st-feuillien.com/en/the-brewery/
+  retrieved_on: 2026-07-14
+- url: https://st-feuillien.com/en/the-brewery/events/
+  retrieved_on: 2026-07-14
+- url: https://st-feuillien.com/en/900-years-of-the-abbey-saint-feuillien/
+  retrieved_on: 2026-07-14
+- url: https://st-feuillien.com/en/cuvee-de-noel-belgian-beer-winter/
+  retrieved_on: 2026-07-14
+- url: https://fr.wikipedia.org/wiki/Brasserie_St-Feuillien
+  retrieved_on: 2026-07-14
+documents:
+- output\Brasserie-St-Feuillien\Brasserie-St-Feuillien-Partnership-2026.pdf
+- output\Brasserie-St-Feuillien\Brasserie-St-Feuillien-OnePager-2026.pdf
+- output\Brasserie-St-Feuillien\email.md
+interactions:
+- date: '2026-07-15'
+  type: contact
+  resume: 'Contact direct etabli par Corentin : discussion en personne et par SMS
+    avec Leylan Roland (maitre-brasseur). Accueil positif — il doit transmettre la
+    demande a l''equipe marketing de la brasserie.'
+events: []
+next_action:
+  what: >-
+    Contact établi (Corentin ↔ Leylan, en personne + SMS, positif). Leylan transmet au marketing.
+    À faire : (1) envoyer le dossier PDF à Leylan pour qu'il le relaie au marketing ; (2) obtenir de
+    lui le NOM et l'adresse du contact marketing — c'est là que se prend la décision ; (3) relancer
+    en douceur sous ~1-2 semaines si pas de retour du marketing.
+  due: '2026-07-29'
+notes: >-
+  ÉTAT : contact déjà établi. Corentin a parlé à Leylan Roland (maître-brasseur) en personne ET par
+  SMS ; accueil positif ; Leylan doit porter la demande à l'équipe marketing de la brasserie. La balle
+  est donc dans leur camp — la décision de sponsoring relève du marketing, pas du brasseur. Prochain
+  jalon réel : le contact marketing (nom + e-mail à récupérer via Leylan, actuellement inconnu → TODO).
+  ---
+  Brasserie fondée en 1873 (famille Friart), bière d'abbaye dont l'abbaye remonte à 1125. Présente au
+  Belgian Beer Weekend (Grand-Place de Bruxelles). Le Rœulx est à ~55 km de Genappe (même Région,
+  Hainaut vs Brabant wallon). Ne pas promettre de contrepartie non livrable (data/benefits-catalog.yaml).

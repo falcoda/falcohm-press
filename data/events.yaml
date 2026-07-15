@@ -1,11 +1,14 @@
 # Palmarès affiché dans le media kit. La base détaillée vit dans events/*.yaml.
-# TODO : confirmer jauges et lieux.
+# Fréquentation = nombre réel de personnes. Les valeurs sans « ~ » sont confirmées par
+# Corentin (2026-07-14) ; celles avec « ~ » restent des estimations à confirmer (TODO).
 events:
-  - { year: 2023, name: "Gazmatek Party",            venue: "Brabant wallon",   capacity: "~400" }
-  - { year: 2024, name: "Gazmatek invites Heretik",  venue: "Buda BXL",         capacity: "~800" }
-  - { year: 2024, name: "Molitor B-Day",             venue: "Buda BXL",         capacity: "~800" }
-  - { year: 2025, name: "Gazmatek invites SP23",     venue: "Bruxelles",        capacity: "~700" }
-  - { year: 2025, name: "Into The Rave III",         venue: "La Fabriek",       capacity: "~900" }
-  - { year: 2025, name: "Shadow — 3 stages",         venue: "Citygate",         capacity: "~1500" }
+  - { year: 2023, name: "Gazmatek Party",            venue: "Brabant wallon",    capacity: "~400" }
+  - { year: 2024, name: "Gazmatek invites Heretik",  venue: "Buda BXL",          capacity: "~800" }
+  - { year: 2024, name: "Molitor B-Day",             venue: "Buda BXL",          capacity: "~800" }
+  - { year: 2025, name: "Gazmatek invites SP23",     venue: "Bruxelles",         capacity: "900" }
+  - { year: 2025, name: "Into The Rave III",         venue: "La Fabriek",        capacity: "600" }
+  - { year: 2025, name: "Shadow — 3 stages",         venue: "Citygate",          capacity: "2500" }
   - { year: 2025, name: "Gazmatek invite Teknoise",  venue: "Chinastraat, Gand", capacity: "~600" }
-  - { year: 2026, name: "Bodies in Space",           venue: "À venir",          capacity: "—" }
+  - { year: 2026, name: "Bodies in Space",           venue: "Bruxelles",         capacity: "450" }
+  - { year: 2026, name: "Brussels Bass Festival",    venue: "Bruxelles",         capacity: "1600" }
+  - { year: 2026, name: "Free Tekno",                venue: "Bruxelles",         capacity: "1700" }
