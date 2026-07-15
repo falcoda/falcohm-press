@@ -1,0 +1,33 @@
+label: "Media Kit"
+subject: "Media kit Gazmatek — collectif, sound system et événements en Belgique"
+targets: ["Médias", "Sponsors", "Institutions", "Artistes", "Salles"]
+
+# Le media kit réutilise les pages communes : elles ont besoin de ces clés.
+cover:
+  kicker: "Media kit"
+  subtitle: "Collectif, sound system et événements en Belgique"
+
+partner:
+  role: "Le partenaire"
+  icon: link
+  items: ["Visibilité", "Activation", "Soutien technique", "Relation longue"]
+
+gazmatek:
+  intro: >-
+    Gazmatek programme, produit et sonorise ses propres événements. Le collectif fabrique son
+    matériel avec Falc'ohm System, le pôle technique de l'ASBL : c'est ce qui garantit la qualité
+    sonore et l'indépendance du projet.
+  band:
+    title: "Un projet qui vit toute l'année."
+    text: >-
+      Des soirées, des festivals, des plateaux d'artistes, et un parc technique construit et
+      entretenu en interne.
+
+ecosystem:
+  intro: >-
+    Gazmatek fait vivre les événements et la communauté. Falc'ohm System construit et exploite le
+    matériel qui les rend possibles. Un partenaire s'associe aux deux à la fois.
+  band:
+    title: "Deux projets, une seule structure."
+    text: >-
+      Une ASBL, deux marques, un public : c'est ce qui rend un partenariat visible sur la durée.

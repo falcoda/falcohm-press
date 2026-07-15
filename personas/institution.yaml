@@ -1,0 +1,6 @@
+label: "Institution"
+objective: "Subvention, appel à projets, mise à disposition de lieux."
+tone: "Sobre et institutionnel. Mission culturelle, bénévolat, impact local, non-lucratif."
+pages: [cover, about, gazmatek, ecosystem, project, timeline, benefits, packages, contact]
+emphasis: [mission_sociale, benevolat, impact_local, non_lucratif]
+email: institution

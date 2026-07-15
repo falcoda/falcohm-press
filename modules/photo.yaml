@@ -1,0 +1,123 @@
+# ⚠ SQUELETTE GÉNÉRÉ : les champs TODO doivent être réécrits avant envoi.
+label: Photo
+subject: Recherche d'un partenaire matériel photo
+targets:
+- À compléter
+pages:
+- cover
+- about
+- gazmatek
+- ecosystem
+- project
+- timeline
+- benefits
+- packages
+- contact
+cover:
+  kicker: Recherche d'un partenaire photo
+  subtitle: Événements culturels et parc technique en Belgique
+partner:
+  role: Le partenaire photo
+  icon: camera
+  items:
+  - Boîtiers et optiques
+  - Stockage et backup
+  - Éclairage studio
+  - Partenaire long terme
+gazmatek:
+  intro: Chaque événement Gazmatek repose sur une chaîne technique et logistique complète. Des images
+    qui circulent toute l'année sur nos réseaux et ceux des artistes.
+  band:
+    title: Un projet qui vit toute l'année.
+    text: Ce que vous nous fournissez sert sur l'ensemble des événements Gazmatek et sur les prestations
+      techniques de Falc'ohm System partout en Belgique.
+ecosystem:
+  intro: Gazmatek fait vivre les événements. Falc'ohm System construit et exploite le matériel. Votre
+    entreprise apporte matériel photo.
+  band:
+    title: Un usage réel, toute l'année.
+    text: Des images qui circulent toute l'année sur nos réseaux et ceux des artistes.
+project:
+  title: 'Notre parc,
+
+    nos événements.'
+  intro: TODO — décrire précisément le besoin en matériel photo. Des images qui circulent toute l'année
+    sur nos réseaux et ceux des artistes.
+  intro2: TODO — expliquer pourquoi ce poste est critique et pourquoi le besoin est récurrent.
+  images:
+  - file: gz_1.jpg
+    caption: Un événement Gazmatek
+  - file: band_stack.jpg
+    caption: Notre parc technique
+  - file: rig.jpg
+    caption: En prestation
+  caption: TODO — légende à écrire.
+needs:
+  title: CE QUE NOUS RECHERCHONS
+  items:
+  - icon: camera
+    title: Boîtiers et optiques
+    text: Matériel pour couvrir nos événements en basse lumière.
+  - icon: layers
+    title: Stockage et backup
+    text: Cartes, disques et sauvegarde des archives.
+  - icon: star
+    title: Éclairage studio
+    text: Prises de vue du matériel et des artistes.
+timeline:
+  intro: Notre activité grandit chaque année. Le besoin en matériel photo suit la même courbe.
+  overrides:
+    '2026':
+      title: Recherche d'un partenaire photo
+      text: TODO — l'étape 2026 pour ce secteur.
+    2027+:
+      title: Suite du parc
+      text: Extension, maintenance et renouvellement.
+  next:
+  - icon: camera
+    title: Boîtiers et optiques
+    text: TODO
+  - icon: layers
+    title: Stockage et backup
+    text: TODO
+  - icon: star
+    title: Éclairage studio
+    text: TODO
+  band:
+    title: Un besoin récurrent, pas un achat unique.
+    text: Le partenaire qui nous rejoint aujourd'hui s'inscrit dans les cinq à dix prochaines années d'activité
+      de l'association.
+benefits:
+  intro: 'Votre visibilité ne se limite pas à un logo sur une affiche : elle s''inscrit dans deux projets
+    actifs, Gazmatek et Falc''ohm System, et dans le matériel lui-même.'
+  band_text: 'Site, réseaux sociaux, salons professionnels : un caisson marqué et utilisé chaque week-end
+    prouve à vos clients que vos panneaux tiennent dans un usage exigeant.'
+  post_text: Merci à notre partenaire photo.
+  marking_text: PARTNER
+  marking_label: Sur notre matériel
+packages:
+  intro: Nous n'attendons pas un engagement unique et figé. Plusieurs formes de collaboration sont possibles,
+    des conditions tarifaires à la fourniture complète, et chacune a un impact direct sur la réalisation
+    du projet.
+  items:
+  - icon: tag
+    title: Conditions préférentielles
+    text: Des conditions adaptées à une ASBL culturelle.
+  - icon: euro
+    title: Tarif professionnel
+    text: L'accès aux conditions réservées aux professionnels.
+  - icon: boxes
+    title: Prix quantité
+    text: Une tarification dégressive sur nos volumes annuels.
+  - icon: camera
+    title: Fourniture de matériel
+    text: La mise à disposition de matériel ou de consommables.
+  - icon: link
+    title: Partenariat partiel
+    text: Une prise en charge partielle, en échange de visibilité.
+  - icon: star
+    title: Partenariat complet
+    text: Un partenariat annuel, avec une visibilité maximale.
+onepager:
+  pitch: TODO — pitch d'une phrase pour le one-pager.
+_status: squelette — À RÉÉCRIRE avant tout envoi (voir docs/PARTNER-MATRIX.md)

@@ -1,0 +1,90 @@
+label: "Éclairage"
+subject: "Recherche d'un partenaire éclairage scénique"
+targets: ["Highlite / Showtec", "Adam Hall / Cameo", "Chauvet", "Robe"]
+
+pages: [cover, about, gazmatek, ecosystem, project, timeline, benefits, packages, contact]
+
+cover:
+  kicker: "Recherche d'un partenaire éclairage"
+  subtitle: "Lumière et scénographie de nos événements en Belgique"
+
+partner:
+  role: "Le partenaire lumière"
+  icon: star
+  items: ["Projecteurs et lyres", "Contrôle et DMX", "Effets et machines", "Support technique"]
+
+gazmatek:
+  intro: >-
+    Un événement Gazmatek, ce n'est pas que du son : c'est une expérience visuelle. Falc'ohm System assure la lumière et la scénographie de nos dates, et le matériel d'éclairage est ce que le public voit en premier.
+  band:
+    title: "Une lumière vue par des milliers de personnes."
+    text: >-
+      Le matériel intégré grâce à ce partenariat éclairera l'ensemble des événements Gazmatek et les prestations techniques de Falc'ohm System partout en Belgique.
+
+ecosystem:
+  intro: >-
+    Gazmatek fait vivre les événements. Falc'ohm System conçoit et exploite la technique. Votre entreprise fournit le matériel qui donne à ces soirées leur identité visuelle.
+  band:
+    title: "Votre matériel, sur scène toute l'année."
+    text: >-
+      Chaque projecteur part en prestation : sur les événements Gazmatek d'abord, puis sur les dates techniques assurées par Falc'ohm System.
+
+project:
+  title: "Faire évoluer\nnotre parc lumière."
+  intro: >-
+    Nous développons notre pôle lumière : projecteurs, effets, structures et contrôle. L'objectif est de proposer des scénographies cohérentes sur nos événements sans dépendre en permanence de la location.
+  intro2: >-
+    La lumière est le premier élément d'identité visuelle d'une soirée. Nous recherchons un partenaire éclairage capable de nous accompagner sur la durée.
+  images:
+    - { file: gz_1.jpg, caption: "Scénographie d'un événement Gazmatek" }
+    - { file: band_night.jpg, caption: "Light show en prestation" }
+    - { file: rig.jpg, caption: "Notre parc technique" }
+  caption: >-
+    Nos ingénieurs lumière conçoivent chaque scénographie : il nous manque le parc pour la servir pleinement.
+
+needs:
+  title: "CE QUE NOUS RECHERCHONS EN ÉCLAIRAGE"
+  items:
+    - { icon: star, title: "Projecteurs et lyres", text: "Lyres, wash, beam et blinders pour nos scénographies." }
+    - { icon: cnc, title: "Contrôle et DMX", text: "Consoles, nodes et câblerie DMX pour piloter le parc." }
+    - { icon: layers, title: "Effets et machines", text: "Machines à fumée, stroboscopes et effets scéniques." }
+
+timeline:
+  intro: >-
+    Notre parc lumière se construit année après année, au rythme de la croissance de nos événements.
+  overrides:
+    "2026":  { title: "Recherche d'un partenaire éclairage", text: "Développement de notre parc lumière." }
+    "2027+": { title: "Suite du parc", text: "Extension du kit lumière, structures, maintenance et renouvellement." }
+  next:
+    - { icon: star, title: "Nouveau kit lumière", text: "Lyres, wash et effets pour nos scénographies." }
+    - { icon: cnc, title: "Contrôle et réseau", text: "Consoles, nodes DMX et câblerie." }
+    - { icon: tools, title: "Maintenance du parc", text: "Réparation et remplacement des projecteurs existants." }
+  band:
+    title: "Un besoin récurrent, pas un achat unique."
+    text: >-
+      Le parc lumière s'use, évolue et se renouvelle : le partenariat s'inscrit dans la durée.
+
+benefits:
+  intro: >-
+    Votre visibilité ne se limite pas à un logo sur une affiche : elle s'inscrit dans deux projets actifs, Gazmatek et Falc'ohm System, et dans le matériel lui-même.
+  band_text: >-
+    Site, réseaux sociaux, salons professionnels : du matériel exploité chaque week-end sur scène prouve à vos clients qu'il tient en usage réel.
+  post_text: "Notre nouvelle scénographie, équipée par notre partenaire lumière."
+  marking_text: "LIGHTING BY"
+  marking_label: "Sur nos structures et nos supports"
+
+packages:
+  intro: >-
+    Nous n'attendons pas un engagement unique et figé. Plusieurs formes de collaboration sont possibles, des conditions tarifaires à la fourniture complète.
+  items:
+    - { icon: tag, title: "Conditions préférentielles", text: "Des conditions adaptées à une ASBL culturelle." }
+    - { icon: euro, title: "Tarif professionnel", text: "L'accès aux conditions réservées aux professionnels." }
+    - { icon: boxes, title: "Prix quantité", text: "Une tarification dégressive sur un kit complet." }
+    - { icon: star, title: "Fourniture de matériel", text: "La mise à disposition de projecteurs et d'effets." }
+    - { icon: recycle, title: "Matériel de démonstration", text: "Du matériel de démo ou de fin de série, remis en service." }
+    - { icon: link, title: "Partenariat partiel", text: "Une prise en charge d'une partie du kit, en échange de visibilité." }
+    - { icon: star, title: "Partenariat complet", text: "L'équipement complet du parc lumière, avec une visibilité maximale." }
+
+onepager:
+  pitch: >-
+    Falc'ohm System est une ASBL belge qui organise des événements musicaux (Gazmatek) et assure leur technique. Nous développons notre parc lumière et recherchons un partenaire éclairage sur la durée.

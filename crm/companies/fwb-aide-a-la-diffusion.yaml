@@ -1,0 +1,164 @@
+slug: fwb-aide-a-la-diffusion
+company: Fédération Wallonie-Bruxelles — Service de la Diffusion (Tournées Art et
+  Vie)
+display_name: FWB — Aide à la diffusion
+aka:
+- Art et Vie
+- Art&Vie
+- Tournées Art et Vie
+- Aides à la diffusion
+- Direction de la Diffusion
+- Plateforme TARA
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- culture_funding
+- public_funding
+status: lead
+phase: 2
+tags:
+- institution
+- musique
+- a-verifier
+score: 14
+website: https://tara.cfwb.be/
+knowledge: ''
+profile:
+  activity: Service de l'Administration générale de la Culture de la FWB qui octroie
+    une subvention PAR REPRÉSENTATION afin de favoriser la programmation de spectacles
+    vivants de qualité dans les lieux de diffusion culturelle de Wallonie et de Bruxelles.
+    Gestion via la plateforme TARA (tara.cfwb.be). Boulevard Léopold II, 44 — 1080
+    Bruxelles.
+  products:
+  - Aides aux diffuseurs — labellisation, demandes de subvention, demandes de quotas
+  - Catalogue Diffusion — répertoire des productions reconnues (Arts visuels, Arts
+    vivants, Musique)
+  - Quotas de diffusion — enveloppe budgétaire réservée à un diffuseur labellisé pour
+    une année civile
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'C''est le seul dispositif du portefeuille qui ne finance pas le festival
+  mais fait BAISSER le coût de sa programmation — une logique complémentaire, et donc
+  cumulable, avec l''Aide aux structures de programmation. Le principe : un diffuseur
+  labellisé qui programme une production inscrite au Catalogue Diffusion reçoit une
+  subvention par représentation. Changement décisif entré en vigueur au 1er janvier
+  2025 : « les subventions à la diffusion seront désormais versées au diffuseur /
+  programmateur » — auparavant elles transitaient par l''artiste. Autrement dit, c''est
+  désormais l''organisateur, donc Falc''ohm, qui encaisse. Pour une ASBL qui programme
+  régulièrement (10-15 événements par an), une subvention récurrente par date représente
+  un flux potentiellement supérieur à un subside ponctuel.
+
+  '
+ask:
+  type:
+  - financial
+  detail: 'Étape 1 — obtenir la LABELLISATION de diffuseur et s''inscrire sur la plateforme
+    TARA (https://tara.cfwb.be/). C''est un prérequis absolu : sans label, aucune
+    aide. Étape 2 — demander un QUOTA de diffusion (enveloppe budgétaire réservée
+    pour une année civile) : les quotas se demandent en SEPTEMBRE et sont attribués
+    en DÉCEMBRE. Étape 3 — programmer des productions issues du Catalogue Diffusion
+    et percevoir la subvention par représentation. AVANT TOUTE CHOSE : faire confirmer
+    par le Service de la Diffusion que les MUSIQUES ACTUELLES sont bien couvertes
+    par le Catalogue Diffusion — ce point n''a pas pu être établi sur les pages publiques
+    et conditionne l''intérêt de toute la démarche.
+
+    '
+  realistic_value_eur: 3000
+values:
+- Diffusion des artistes de la Fédération Wallonie-Bruxelles
+- Circulation des spectacles sur le territoire
+- Soutien aux lieux et opérateurs de diffusion
+- Accès à la culture
+sponsorship_history:
+- what: 'Réforme du dispositif Art&Vie au 1er janvier 2025 : « Les subventions à la
+    diffusion seront désormais versées au diffuseur / programmateur » — l''organisateur
+    devient le bénéficiaire direct'
+  url: https://www.court-circuit.be/actualite/les-aides-a-la-diffusion-nouveautes-pour-le-dispositif-artvie-en-2025/
+  retrieved_on: 2026-07-14
+- what: Les aides aux diffuseurs couvrent « Labélisation – Événements professionnels
+    – Demandes de subvention – Demande de quotas » via le Catalogue Diffusion (Arts
+    visuels, Arts vivants et Musique)
+  url: https://creationartistique.cfwb.be/diffusion/aides/aides-aux-diffuseurs
+  retrieved_on: 2026-07-14
+contacts: []
+inbound_channels:
+- type: portal
+  url: https://tara.cfwb.be/
+- type: portal
+  url: https://creationartistique.cfwb.be/diffusion/aides/aides-aux-diffuseurs
+- type: portal
+  url: https://creationartistique.cfwb.be/a-propos/contacts
+scoring:
+  business_fit: 6
+  partnership_probability: 4
+  impact_if_successful: 6
+  rationale: 'Le fit est potentiellement bon — une subvention par représentation versée
+    à l''organisateur, pour une structure qui programme 10 à 15 événements par an,
+    c''est un flux récurrent et non un one-shot — mais il repose sur une inconnue
+    majeure : rien sur les pages publiques ne confirme que les MUSIQUES ACTUELLES
+    sont éligibles au Catalogue Diffusion, et le régime général des Tournées Art et
+    Vie les excluait historiquement. La probabilité est donc basse tant que ce point
+    n''est pas tranché, et elle est encore réduite par le prérequis de labellisation,
+    qui est une procédure en soi. À traiter comme une piste à qualifier par un appel
+    téléphonique, pas comme un dossier à monter en l''état.
+
+    '
+deadlines:
+- what: 'Demandes de QUOTAS de diffusion : les quotas sont demandés en SEPTEMBRE et
+    attribués en décembre. Date précise non publiée — à faire confirmer par le Service
+    de la Diffusion. Dépôts possibles pour une programmation à partir du 01.01.2026
+    (année suivante par extension).'
+  date: '2026-09-30'
+  url: https://creationartistique.cfwb.be/diffusion/aides/aides-aux-diffuseurs
+sources:
+- url: https://creationartistique.cfwb.be/diffusion/aides/aides-aux-diffuseurs
+  retrieved_on: 2026-07-14
+- url: https://creationartistique.cfwb.be/diffusion/aides
+  retrieved_on: 2026-07-14
+- url: https://www.court-circuit.be/actualite/les-aides-a-la-diffusion-nouveautes-pour-le-dispositif-artvie-en-2025/
+  retrieved_on: 2026-07-14
+documents:
+- output\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie-Partnership-2026.pdf
+- output\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie-OnePager-2026.pdf
+- output\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie\email.md
+interactions: []
+events: []
+next_action:
+  what: 'UN SEUL APPEL À PASSER, et tout en dépend : joindre le Service de la Diffusion
+    (02/413.3000) et demander si les MUSIQUES ACTUELLES sont éligibles au Catalogue
+    Diffusion et si une ASBL organisatrice peut être labellisée diffuseur. Si la réponse
+    est non, archiver la fiche.'
+  due: '2026-09-01'
+notes: "FICHE À QUALIFIER — À LIRE AVANT D'INVESTIR DU TEMPS.\nLE POINT DE BLOCAGE\
+  \ : le régime général des « Tournées Art et Vie » s'applique historiquement à l'ensemble\
+  \ des disciplines des arts de la scène « à l'exclusion des disciplines relevant\
+  \ de la musique classique (programme spécifique) ET DES MUSIQUES ACTUELLES ». Or\
+  \ la page « Aides aux diffuseurs » mentionne un Catalogue Diffusion couvrant « Arts\
+  \ visuels, Arts vivants et Musique », sans préciser les genres, et Court-Circuit\
+  \ — la fédération des musiques actuelles — publie des actualités sur les évolutions\
+  \ du dispositif Art&Vie, ce qui suggère qu'il concerne bien ses membres. CONTRADICTION\
+  \ NON RÉSOLUE au 14/07/2026. Un appel au 02/413.3000 la tranche en cinq minutes.\
+  \ Ne rien monter avant.\nSI LA RÉPONSE EST POSITIVE, la mécanique est la suivante\
+  \ : 1. LABELLISATION du diffuseur + inscription sur la plateforme TARA (https://tara.cfwb.be/).\
+  \ Prérequis absolu. 2. DEMANDE DE QUOTA — « certains diffuseurs labélisés disposent\
+  \ d'un ou de deux quotas de diffusion pour une\n   année civile », constituant «\
+  \ une enveloppe budgétaire réservée ». Les quotas se demandent en SEPTEMBRE et\n\
+  \   sont attribués en DÉCEMBRE. C'est une échéance annuelle à ne pas rater.\n3.\
+  \ PROGRAMMATION obligatoire de productions inscrites au Catalogue Diffusion — on\
+  \ ne subventionne pas\n   n'importe quel artiste, uniquement ceux du catalogue.\
+  \ C'est une contrainte de programmation réelle.\n\nRÉFORME 2025 (l'élément qui rend\
+  \ cette fiche intéressante) : depuis le 01/01/2025, « les subventions à la diffusion\
+  \ sont versées au diffuseur / programmateur » et non plus à l'artiste. C'est l'organisateur\
+  \ qui touche.\nCUMUL : ce dispositif est complémentaire de l'Aide aux structures\
+  \ de programmation (fiche `federation-wallonie-bruxelles`) — l'un subventionne l'édition,\
+  \ l'autre chaque représentation. Vérifier toutefois auprès du service qu'il n'y\
+  \ a pas d'incompatibilité, la FWB excluant généralement le double subventionnement\
+  \ d'une même dépense.\nCONTACTS : aucun contact nominatif du Service de la Diffusion\
+  \ n'est publié. Seul le numéro général de la Création artistique est disponible\
+  \ : 02/413.3000 (jours ouvrables, 8h30-17h). Page contacts : https://creationartistique.cfwb.be/a-propos/contacts.\
+  \ Ne pas inventer d'adresse email.\n"

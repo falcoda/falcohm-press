@@ -1,0 +1,19 @@
+company: Wopaco
+persona: fournisseur-technique
+module: bois
+phase: 1
+contact:
+  name: ''
+  role: ''
+  email: vanrobaeys@wopaco.be
+website: https://wopaco.be
+notes: 'Le seul fournisseur de la catégorie dont le catalogue affiche explicitement,
+  à la référence près, le produit exact dont Falc''ohm a besoin : ''MULTIPLEX BOULEAU
+  PLACAGE DEROULE B/BB (2500X1250X18)''. Leurs panneaux sont décrits comme 100 % placages
+  bouleau, collage WBP (résistants à l''eau) — exactement le cahier des charges d''enceintes
+  de sound system qui tournent en extérieur. L''enseigne Gesibois est à Sint-Pieters-Leeuw,
+  dans la périphérie bruxelloise, donc accessible depuis Genappe.
+
+  Fiche CRM : crm/companies/wopaco.yaml
+
+  '

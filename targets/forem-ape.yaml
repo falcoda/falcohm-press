@@ -1,0 +1,26 @@
+company: Le Forem — Aides à la Promotion de l'Emploi (APE)
+persona: institution
+module: institutionnel
+phase: 2
+contact:
+  name: ''
+  role: Support APE — Le Forem (lundi-vendredi, 9h-12h et 13h30-15h30)
+  email: ape.contact@forem.be
+website: https://www.leforem.be/entreprises/aides-financieres-aides-promotion-emploi.html
+notes: 'Falc''ohm System est exactement le profil visé : une organisation du secteur
+  NON MARCHAND (socio-culturel) établie en Wallonie de langue française. Et surtout
+  — c''est le point décisif — depuis le 1er janvier 2026, la CULTURE fait partie des
+  SECTEURS PRIORITAIRES de l''APE : là où le régime normal exige que le travailleur
+  soit inoccupé et inscrit comme demandeur d''emploi depuis au moins 4 mois, cette
+  durée est ramenée à UN SEUL JOUR pour les secteurs prioritaires (santé, aide à la
+  personne, petite enfance, culture, enseignement). Cela élargit massivement le vivier
+  de candidats engageables. C''est le seul dispositif du portefeuille qui finance
+  de l''EMPLOI STRUCTUREL et récurrent, et non un projet ponctuel : c''est le levier
+  qui ferait passer l''ASBL du bénévolat intégral à une permanence salariée — ce qui,
+  en retour, débloque le critère « activités artistiques professionnelles » exigé
+  par la FWB.
+
+  Fiche CRM : crm/companies/forem-ape.yaml
+
+  '
+display_name: Le Forem

@@ -1,0 +1,90 @@
+label: "Boissons"
+subject: "Recherche d'un partenaire boissons pour nos événements"
+targets: ["AB InBev / Jupiler", "Red Bull", "Brasseries locales", "Coca-Cola"]
+
+pages: [cover, about, gazmatek, ecosystem, project, timeline, benefits, packages, contact]
+
+cover:
+  kicker: "Recherche d'un partenaire boissons"
+  subtitle: "Événements culturels et festivals en Belgique"
+
+partner:
+  role: "Le partenaire boissons"
+  icon: euro
+  items: ["Fourniture bar", "Matériel de tirage", "Gobelets réutilisables", "Visibilité sur site"]
+
+gazmatek:
+  intro: >-
+    Un événement Gazmatek, c'est un dancefloor, mais aussi un bar : c'est là que le public passe, se retrouve et consomme. Le bar est un point de contact direct entre votre marque et plusieurs milliers de personnes.
+  band:
+    title: "Votre marque, au bar, toute la nuit."
+    text: >-
+      Nos événements réunissent chaque année plus de 10 000 festivaliers : un public jeune, fidèle et très actif sur les réseaux.
+
+ecosystem:
+  intro: >-
+    Gazmatek fait vivre les événements et rassemble le public. Falc'ohm System assure la technique. Votre entreprise approvisionne le bar, point névralgique de chaque soirée.
+  band:
+    title: "Un public de plus de 10 000 personnes par an."
+    text: >-
+      Une présence sur nos bars, nos affiches, nos réseaux et nos aftermovies.
+
+project:
+  title: "Faire vivre le bar,\nde la première à la dernière heure."
+  intro: >-
+    Nos événements réunissent plusieurs milliers de personnes sur une nuit entière. Le bar est géré par nos bénévoles et constitue une part essentielle de l'équilibre financier de l'association.
+  intro2: >-
+    Nous recherchons un partenaire boissons capable de nous accompagner sur la durée : approvisionnement, matériel de tirage et visibilité sur site.
+  images:
+    - { file: gz_2.jpg, caption: "Le public de nos événements" }
+    - { file: gz_1.jpg, caption: "Un événement Gazmatek" }
+    - { file: band_night.jpg, caption: "Nos soirées" }
+  caption: >-
+    Le bar est tenu par nos bénévoles : c'est un point de contact direct entre votre marque et notre public.
+
+needs:
+  title: "CE QUE NOUS RECHERCHONS EN BOISSONS"
+  items:
+    - { icon: euro, title: "Approvisionnement", text: "Fourniture de boissons à conditions ASBL pour nos événements." }
+    - { icon: boxes, title: "Matériel de bar", text: "Tireuses, frigos, comptoirs et matériel de service." }
+    - { icon: recycle, title: "Gobelets réutilisables", text: "Écocups personnalisés, dans une logique zéro déchet." }
+
+timeline:
+  intro: >-
+    Nos événements gagnent en taille chaque année. Le volume du bar suit la même courbe.
+  overrides:
+    "2026":  { title: "Recherche d'un partenaire boissons", text: "Approvisionnement et équipement de nos bars." }
+    "2027+": { title: "Suite du projet", text: "Plus de dates, plus de public, un bar structuré et durable." }
+  next:
+    - { icon: euro, title: "Approvisionnement annuel", text: "Un partenariat sur l'ensemble de nos dates." }
+    - { icon: boxes, title: "Équipement du bar", text: "Tireuses, frigos et matériel de service." }
+    - { icon: recycle, title: "Démarche zéro déchet", text: "Gobelets réutilisables et gestion des consignes." }
+  band:
+    title: "Un partenariat annuel, pas une livraison."
+    text: >-
+      Le partenaire qui nous rejoint aujourd'hui accompagne l'ensemble de nos événements, saison après saison.
+
+benefits:
+  intro: >-
+    Votre visibilité s'adresse directement au public : sur le bar, sur les supports scéniques, sur nos affiches et sur les réseaux des deux projets.
+  band_text: >-
+    Bar, affiches, réseaux, aftermovies : une présence sur des événements réunissant plus de 10 000 festivaliers par an.
+  post_text: "Notre bar est approvisionné par notre partenaire."
+  marking_text: "SERVED AT THE BAR"
+  marking_label: "Sur nos bars et nos supports"
+
+packages:
+  intro: >-
+    Nous n'attendons pas un engagement unique et figé. Plusieurs formes de collaboration sont possibles, des conditions tarifaires au partenariat annuel.
+  items:
+    - { icon: tag, title: "Conditions préférentielles", text: "Des conditions adaptées à une ASBL culturelle." }
+    - { icon: euro, title: "Tarif événementiel", text: "Des conditions sur le volume de nos événements." }
+    - { icon: boxes, title: "Prêt de matériel", text: "Tireuses, frigos et comptoirs mis à disposition." }
+    - { icon: recycle, title: "Gobelets réutilisables", text: "Fourniture d'écocups personnalisés." }
+    - { icon: megaphone, title: "Visibilité sur site", text: "Bâches, habillage de bar et supports scéniques." }
+    - { icon: link, title: "Partenariat partiel", text: "Un soutien sur une partie de nos dates, en échange de visibilité." }
+    - { icon: star, title: "Partenariat annuel", text: "Un partenariat sur l'ensemble de la saison, avec visibilité maximale." }
+
+onepager:
+  pitch: >-
+    Gazmatek, projet culturel de l'ASBL Falc'ohm System, réunit plus de 10 000 festivaliers par an. Le bar est un point de contact direct avec ce public : nous recherchons un partenaire boissons pour l'approvisionnement et la visibilité.

@@ -1,0 +1,104 @@
+slug: faitalpro
+company: Faital S.p.A. (FaitalPRO)
+aka:
+- FaitalPRO
+- Faital Pro
+- Faital
+country: IT
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 24
+website: https://faitalpro.com
+knowledge: ''
+profile:
+  activity: Fabricant de haut-parleurs fondé à Milan en 1958, l'un des plus gros d'Europe
+    (automobile + pro). La marque FaitalPRO, lancée en 2005, couvre le marché de la
+    sonorisation professionnelle. Production en Italie (San Donato Milanese, Chieve)
+    et en Hongrie.
+  products:
+  - Woofers 6" à 21" (18XL1800, 15FH500, 12FH500)
+  - Moteurs de compression 1" à 3" (HF10AK, HF146, HF1440)
+  - Médiums et large bande
+  - Pavillons, membranes et kits de recone
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: IT00757890157
+    linkedin: ''
+why_us: 'FaitalPRO est le transducteur "rapport rendement/prix" par excellence des
+  constructeurs de sound systems : le 18XL1800 et les moteurs HF14xx tournent dans
+  une bonne partie des rigs DIY européens. La gamme couvre toute la chaîne d''un système
+  (sub, médium, aigu) chez un seul fournisseur, ce qui répond directement au besoin
+  de "cohérence de gamme" du projet. Faital fabrique aussi en Hongrie, donc en UE
+  : argument made-in-EU cohérent avec le discours de l''ASBL.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: 'Compte à tarif professionnel / prix dégressif quantité sur les 18XL1800
+    et la série HF, dotation ou prise en charge partielle des transducteurs de la
+    nouvelle série de caissons, et stock de membranes de rechange. Contrepartie :
+    marquage sur les façades, mentions sur 10-15 événements/an et sur les prestations
+    techniques de Falc''ohm.'
+  realistic_value_eur: 12000
+values:
+- made-in-EU
+- made-in-Italy
+- industrie familiale historique
+- innovation
+sponsorship_history: []
+contacts:
+- name: ''
+  role: DPO / vie privée
+  email: privacy@faital.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://faital.com/file/en/Faital.com%20-%20Privacy%20Policy%20-%20EN.pdf
+  retrieved_on: '2026-07-14'
+  evidence: « You can revoke your consent at any time by sending us an email to privacy@faital.com
+    » (PDF politique de confidentialite lie depuis faital.com)
+inbound_channels:
+- type: form
+  url: https://faitalpro.com/en/contact_us/
+- type: form
+  url: https://faital.com/it/contact/
+scoring:
+  business_fit: 9
+  partnership_probability: 3
+  impact_if_successful: 9
+  rationale: Le catalogue couvre exactement les trois besoins (grave, médium, moteur
+    de compression) et le prix est accessible, donc un accord "prix quantité" seul
+    serait déjà très rentable. En revanche Faital est un groupe industriel important,
+    sans e-mail public, sans programme de sponsoring identifié, et qui filtre tout
+    par un formulaire à catégories ("Sales Contact", "R&D and Technical Support").
+    Probabilité basse en direct ; à attaquer en parallèle via TLHP ou SoundImports
+    qui distribuent la marque.
+deadlines: []
+sources:
+- url: https://faitalpro.com/en/contact_us/
+  retrieved_on: 2026-07-14
+- url: https://faital.com/it/contact/
+  retrieved_on: 2026-07-14
+- url: https://faital.com/file/en/Faital.com%20-%20Privacy%20Policy%20-%20EN.pdf
+  retrieved_on: '2026-07-14'
+documents:
+- output\Faital-S-p-A-FaitalPRO\Faital-S-p-A-FaitalPRO-Partnership-2026.pdf
+- output\Faital-S-p-A-FaitalPRO\Faital-S-p-A-FaitalPRO-OnePager-2026.pdf
+- output\Faital-S-p-A-FaitalPRO\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Aucun e-mail public : les deux sites (faitalpro.com et faital.com) ne proposent
+  qu''un formulaire. Adresse lue : "Via Bruno Buozzi,12 20097 San Donato Milanese
+  Milan - Italy", tél. "(+39) 02 5277031", P.IVA "IT00757890157". Le formulaire FaitalPRO
+  permet de cibler explicitement "Sales Contact" — c''est la voie à utiliser.'

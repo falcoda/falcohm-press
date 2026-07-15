@@ -1,0 +1,6 @@
+label: "Fabricant audio"
+objective: "Partenariat technique : transducteurs, amplification, DSP."
+tone: "Très technique. Le lecteur connaît le métier : pas de vulgarisation."
+pages: [cover, about, gazmatek, ecosystem, project, material, timeline, benefits, packages, contact]
+emphasis: [performance, fiabilite, reparabilite]
+email: technique

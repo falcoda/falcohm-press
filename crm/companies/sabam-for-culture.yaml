@@ -1,0 +1,184 @@
+slug: sabam-for-culture
+company: Sabam For Culture
+aka:
+- Sabam
+- Société d'Auteurs Belge — Belgische Auteurs Maatschappij
+- Fonds culturel de la Sabam
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- culture_funding
+status: lead
+phase: 2
+tags:
+- institution
+- musique
+- societe-de-gestion
+score: 15
+website: https://www.sabam.be/fr/sabamforculture
+knowledge: ''
+profile:
+  activity: Fonds culturel de la Sabam (société de gestion des droits d'auteur belge).
+    Alimenté par la part statutaire des perceptions affectée aux fins culturelles,
+    il soutient la création, la diffusion et l'internationalisation des auteurs. Rue
+    des Deux Églises 41-43, 1000 Bruxelles.
+  products:
+  - Bourses (par discipline — musique, audiovisuel, littérature, théâtre & danse,
+    arts visuels)
+  - Partenariats — soutien à des projets et événements culturels
+  - Formation et conseil
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE 0402.989.270
+    linkedin: ''
+why_us: 'La Sabam finance déjà des projets musicaux à hauteur de plus de 100.000 €
+  par session de commission (28 projets musicaux soutenus pour 115.000 € lors d''une
+  session récente) : le budget existe et sa raison d''être est d''être distribué au
+  secteur musical. Gazmatek diffuse des auteurs dont la Sabam perçoit les droits —
+  l''ASBL est donc du bon côté de l''écosystème. L''angle le plus solide n''est cependant
+  pas le festival en tant que tel : ce sont les bourses liées à l''organisation de
+  concerts live et au budget artistique, qui financent les cachets d''un organisateur
+  plutôt que la carrière d''un artiste.
+
+  '
+ask:
+  type:
+  - financial
+  detail: 'Deux portes distinctes, à ne pas confondre. (1) BOURSES (grants@sabam.be)
+    — le catalogue « musique » comprend des bourses accessibles à un ORGANISATEUR
+    et non seulement à un auteur, notamment une bourse liée au budget artistique d''un
+    concert live / livestream, et une bourse destinée aux établissements et maisons
+    de jeunes qui organisent un concert live. C''est la voie la plus réaliste : elle
+    finance des cachets. (2) PARTENARIATS (sabamforculture@sabam.be / justine.cornet@sabam.be)
+    — mais l''appel 2027 est orienté INTERNATIONAL (vitrines à l''export, résidences
+    croisées, professionnalisation à l''export), ce qui ne correspond pas à un festival
+    local : n''y aller que si Gazmatek développe un volet international réel.
+
+    '
+  realistic_value_eur: 2500
+values:
+- Soutien à la création des auteurs
+- Professionnalisation des carrières artistiques
+- Internationalisation du répertoire belge
+- Diversité disciplinaire et équité entre les genres
+sponsorship_history:
+- what: La commission Musique de Sabam for Culture a soutenu 28 projets musicaux pour
+    un montant global de 115.000 €
+  url: https://www.sabam.be/fr/news/sabam-culture-soutient-28-projets-musicaux-pour-un-montant-global-de-115000-euros
+  retrieved_on: 2026-07-14
+- what: Sabam for Culture a soutenu 20 projets culturels pour un montant global de
+    97.500 €
+  url: https://www.sabam.be/fr/news/sabam-culture-soutient-20-projets-culturels-pour-un-montant-global-de-97500-euros
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: Sabam For Culture — Bourses (grants)
+  email: grants@sabam.be
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.sabam.be/fr/sabamforculture
+  retrieved_on: 2026-07-14
+  evidence: 'Pour les Bourses : grants@sabam.be'
+- name: ''
+  role: Sabam For Culture — Projets et événements (partenariats)
+  email: sabamforculture@sabam.be
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.sabam.be/fr/sabamforculture
+  retrieved_on: 2026-07-14
+  evidence: 'Pour les Projets ou Événements : sabamforculture@sabam.be'
+- name: Justine Cornet
+  role: Sabam For Culture — contact de l'appel à partenariats 2027
+  email: justine.cornet@sabam.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.sabam.be/fr/sabam-culture/projets-ou-evenements
+  retrieved_on: 2026-07-14
+  evidence: 'Contact / Email : justine.cornet@sabam.be'
+- name: ''
+  role: Sabam — contact membres (général)
+  email: member@sabam.be
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.sabam.be/fr/sabamforculture/grants
+  retrieved_on: 2026-07-14
+  evidence: '©2026 Sabam SC | Rue des Deux Eglises 41-43, 1000 Bruxelles | member@sabam.be
+    | TVA: BE 0402.989.270 | RPM Bruxelles'
+inbound_channels:
+- type: portal
+  url: https://www.sabam.be/fr/sabamforculture/grants
+- type: portal
+  url: https://www.sabam.be/fr/sabam-culture/projets-ou-evenements
+scoring:
+  business_fit: 6
+  partnership_probability: 5
+  impact_if_successful: 5
+  rationale: 'Le fit est moyen et il faut être lucide sur pourquoi : la majorité des
+    bourses Sabam s''adressent à des AUTEURS MEMBRES (compositeurs, éditeurs), pas
+    à un organisateur de festival — Falc''ohm n''est pas dans la cible naturelle.
+    Deux bourses seulement (budget artistique d''un concert live ; organisation d''un
+    concert live par une structure) ouvrent une porte réelle, et l''appel à partenariats
+    2027 est explicitement tourné vers l''export international, ce qui exclut de fait
+    un festival local. La probabilité est donc moyenne et l''impact limité à quelques
+    milliers d''euros, mais le fonds distribue plus de 100.000 € par session musique
+    : le budget est là, il faut juste frapper à la bonne porte, et une seule.
+
+    '
+deadlines:
+- what: 'Appel à partenariats Sabam For Culture — événements se déroulant entre le
+    1er mai et le 31 août 2027. Le formulaire était annoncé « à publier prochainement
+    » au 14/07/2026 : surveiller la page.'
+  date: '2026-12-01'
+  url: https://www.sabam.be/fr/sabam-culture/projets-ou-evenements
+sources:
+- url: https://www.sabam.be/fr/sabamforculture
+  retrieved_on: 2026-07-14
+- url: https://www.sabam.be/fr/sabam-culture/projets-ou-evenements
+  retrieved_on: 2026-07-14
+- url: https://www.sabam.be/fr/sabamforculture/grants
+  retrieved_on: 2026-07-14
+- url: https://www.court-circuit.be/ressource/aides-financieres-pour-artistes-et-acteur%C2%B7rice%C2%B7s-du-secteur-musical/
+  retrieved_on: 2026-07-14
+documents:
+- output\Sabam-For-Culture\Sabam-For-Culture-Partnership-2026.pdf
+- output\Sabam-For-Culture\Sabam-For-Culture-OnePager-2026.pdf
+- output\Sabam-For-Culture\email.md
+interactions: []
+events: []
+next_action:
+  what: Écrire à grants@sabam.be pour demander le règlement exact et le montant de
+    la bourse « budget artistique concert live » et de la bourse « organisation d'un
+    concert live » — et vérifier si une ASBL organisatrice non-membre y est éligible
+  due: '2026-09-30'
+notes: 'POINT DE VIGILANCE N°1 — la plupart des dispositifs Sabam For Culture supposent
+  d''être MEMBRE de la Sabam (auteur, compositeur, éditeur). Falc''ohm System est
+  un organisateur, pas un ayant droit. AVANT de monter un dossier, poser la question
+  frontalement à grants@sabam.be : « une ASBL organisatrice, non membre, est-elle
+  éligible à la bourse budget artistique concert live ? ». La réponse conditionne
+  tout le reste.
+
+  POINT DE VIGILANCE N°2 — l''appel à PARTENARIATS 2027 porte exclusivement sur des
+  dispositifs à portée INTERNATIONALE : vitrines de créateurs à l''étranger, sessions
+  de pitching, résidences croisées Belgique ↔ International, professionnalisation
+  à l''export. Un festival local n''y entre pas. Ne pas y perdre de temps sauf si
+  Gazmatek monte un volet international (échange avec un sound system étranger, par
+  exemple) — auquel cas l''angle devient soudain excellent.
+
+  BOURSES REPÉRÉES dans l''annuaire sectoriel de Court-Circuit et pertinentes pour
+  un organisateur : « Bourse pour les établissements horeca et les maisons de jeunes
+  qui organisent un concert live » et « Budget artistique concert live / livestream
+  ». Les montants exacts ne sont pas publiés sur les pages publiques : la liste des
+  bourses est chargée dynamiquement en JavaScript et n''a pas pu être extraite. →
+  NON VÉRIFIÉ : montants, conditions détaillées et dates limites de ces deux bourses.
+
+  Le catalogue complet des bourses se filtre par discipline sur https://www.sabam.be/fr/sabamforculture/grants
+  (sélectionner « Musique »).
+
+  '

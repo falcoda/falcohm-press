@@ -1,0 +1,55 @@
+# Textes communs à tous les dossiers.
+about:
+  lead: >-
+    Nous sommes une association sans but lucratif belge, fondée en 2020 dans le Brabant wallon.
+    Notre activité repose sur deux projets complémentaires : Gazmatek, le projet culturel, et
+    Falc'ohm System, le pôle technique.
+  col1: >-
+    Gazmatek organise des événements musicaux et des expériences immersives partout en Belgique :
+    soirées, festivals, plateaux d'artistes. C'est la marque visible, celle que le public connaît
+    et suit.
+  col2: >-
+    Pour garantir une qualité sonore à la hauteur de nos ambitions et rester indépendants, nous
+    avons développé Falc'ohm System : sonorisation, lumière, régie et, désormais, fabrication de
+    nos propres enceintes.
+
+org_blocks:
+  gazmatek:
+    ["Organisation d'événements", "Festivals et soirées", "Communication", "Communauté",
+     "Expérience du public"]
+  falcohm:
+    ["Sonorisation et régie", "Fabrication d'enceintes", "Lumière et scénographie",
+     "Maintenance du parc"]
+
+approach:
+  - { icon: tools,  title: "Réparer plutôt que remplacer", text: "Nous restaurons et entretenons notre matériel au lieu de le jeter." }
+  - { icon: shield, title: "Conçu pour durer",             text: "Du matériel démontable, renforcé et pensé pour la tournée." }
+  - { icon: pin,    title: "Fabriqué localement",          text: "Découpe et assemblage en Belgique, dans notre atelier." }
+
+partner_band:
+  title: "Nous cherchons un partenaire, pas une commande."
+  text: >-
+    Nous ne recherchons pas simplement un fournisseur, mais un partenaire qui accompagnera la
+    construction de systèmes audio utilisés pendant de nombreuses années sur des événements
+    culturels partout en Belgique.
+
+benefits:
+  - { icon: speaker,   title: "Présence permanente sur le matériel", text: "Marquage sur nos caissons et nos flight cases. Le support, plaque ou sticker, est fourni par le partenaire." }
+  - { icon: megaphone, title: "Visibilité sur nos événements",       text: "Logo sur les décors et supports scéniques de nos dates, Gazmatek comme Falc'ohm." }
+  - { icon: globe,     title: "Deux sites internet",                 text: "Section partenaires sur gazmatek.com et falcohmsystem.com, avec lien vers votre site." }
+  - { icon: social,    title: "Réseaux des deux projets",            text: "27 000 abonnés Instagram et Facebook : annonce, making-of et résultat final." }
+  - { icon: video,     title: "Vidéos et aftermovies",               text: "Contenus où le partenaire est cité, et captations de nos événements." }
+  - { icon: camera,    title: "Photos professionnelles",             text: "Shooting du matériel équipé grâce à vous, images cédées au partenaire." }
+
+benefits_band:
+  title: "Droit d'usage en communication"
+
+collab_band:
+  title: "Toutes les formes de collaboration sont les bienvenues."
+  text: >-
+    Nous adaptons la contrepartie à votre engagement et restons ouverts à toute proposition
+    de votre part.
+
+thanks_text: >-
+  Nous serions ravis d'échanger avec vous afin de construire un partenariat durable, utile et
+  visible, au service d'un projet culturel bien réel.

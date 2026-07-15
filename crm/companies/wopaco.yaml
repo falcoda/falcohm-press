@@ -1,0 +1,106 @@
+slug: wopaco
+company: Wopaco
+aka:
+- Wopaco Wood
+- Vanrobaeys
+- Gesibois
+- Mekranoti
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 40
+website: https://wopaco.be
+knowledge: ''
+profile:
+  activity: 'Groupe belge spécialisé dans les panneaux et le bois, regroupant trois
+    enseignes : Vanrobaeys (Izegem), Gesibois (Sint-Pieters-Leeuw) et Mekranoti (Dottignies).
+    Fournit du multiplex, dont du contreplaqué 100 % bouleau collé WBP, ainsi que
+    des placages et panneaux décoratifs.'
+  products:
+  - Multiplex bouleau placage déroulé B/BB (ex. 2500x1250x18)
+  - Contreplaqué standard et collage WBP
+  - Panneaux constructifs
+  - Placages et panneaux décoratifs
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE0402.767.952
+    linkedin: ''
+why_us: 'Le seul fournisseur de la catégorie dont le catalogue affiche explicitement,
+  à la référence près, le produit exact dont Falc''ohm a besoin : ''MULTIPLEX BOULEAU
+  PLACAGE DEROULE B/BB (2500X1250X18)''. Leurs panneaux sont décrits comme 100 % placages
+  bouleau, collage WBP (résistants à l''eau) — exactement le cahier des charges d''enceintes
+  de sound system qui tournent en extérieur. L''enseigne Gesibois est à Sint-Pieters-Leeuw,
+  dans la périphérie bruxelloise, donc accessible depuis Genappe.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Tarif partenaire récurrent sur le multiplex bouleau B/BB 15/18/21 mm (le
+    produit est déjà à leur catalogue), plus accès aux chutes et fins de série de
+    panneaux bouleau. Enlèvement possible chez Gesibois (Sint-Pieters-Leeuw). Contrepartie
+    : logo gravé/sérigraphié sur les enceintes, visibilité sur 10-15 événements/an
+    et auprès de 27 000 abonnés.'
+  realistic_value_eur: 4500
+values:
+- Spécialiste du panneau
+- Groupe multi-enseignes belge
+- Expertise placage et décoratif
+sponsorship_history: []
+contacts:
+- name: ''
+  role: ''
+  email: vanrobaeys@wopaco.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 (0)51 33 58 68
+  source_url: https://wopaco.be/fr/contact-apercu/vanrobaeys-izegem
+  retrieved_on: 2026-07-14
+  evidence: Ambachtenstraat 23 | 8870 Izegem — +32 (0)51 33 58 68 — vanrobaeys@wopaco.be
+    — BE0402.767.952
+inbound_channels:
+- type: form
+  url: https://wopaco.be/fr/contact-apercu
+- type: portal
+  url: https://wopaco.be/fr/produits/constructif/multiplex/contreplaque-standard/multiplex-bouleau-placage-deroule-b-bb-2500x1250x18
+scoring:
+  business_fit: 10
+  partnership_probability: 5
+  impact_if_successful: 8
+  rationale: 'Business fit maximal : le multiplex bouleau B/BB en 2500x1250x18 est
+    une référence catalogue chez eux, collée WBP — c''est littéralement le panneau
+    que Falc''ohm consomme. La probabilité reste moyenne : aucun contact nominatif
+    ni antécédent de sponsoring publié, on entre par une adresse générique d''enseigne,
+    et le groupe est orienté B2B pur (menuisiers, industrie) sans culture visible
+    de mécénat. Impact fort : c''est le fournisseur le plus ''exact'' du panel, donc
+    celui qui débloque le plus directement la production d''enceintes.'
+deadlines: []
+sources:
+- url: https://wopaco.be/fr
+  retrieved_on: 2026-07-14
+- url: https://wopaco.be/fr/contact-apercu
+  retrieved_on: 2026-07-14
+- url: https://wopaco.be/fr/contact-apercu/vanrobaeys-izegem
+  retrieved_on: 2026-07-14
+documents:
+- output\Wopaco\Wopaco-Partnership-2026.pdf
+- output\Wopaco\Wopaco-OnePager-2026.pdf
+- output\Wopaco\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Adresses Vanrobaeys : showroom Ambachtenstraat 23, 8870 Izegem ; entrepôt
+  Ambachtenstraat 100, 8870 Izegem. Deux autres enseignes du groupe ont leur propre
+  page contact : Gesibois — Sint-Pieters-Leeuw (la plus proche de Genappe, à privilégier
+  pour l''enlèvement) et Mekranoti — Dottignies. Je n''ai PAS pu ouvrir les pages
+  contact individuelles de Gesibois et Mekranoti : leurs emails/téléphones directs
+  restent à récupérer (URL du type wopaco.be/fr/contact-apercu/…). Aucun nom de contact
+  publié — ne rien inventer, passer par vanrobaeys@wopaco.be ou le formulaire.'

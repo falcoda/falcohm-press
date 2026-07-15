@@ -1,0 +1,100 @@
+slug: beyma
+company: Acústica Beyma S.L.
+aka:
+- Beyma
+country: ES
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 36
+website: https://www.beyma.com
+knowledge: ''
+profile:
+  activity: Fabricant espagnol de haut-parleurs professionnels fondé en 1969 à Valence,
+    resté une entreprise familiale de taille moyenne. Conçoit et fabrique dans son
+    usine de Moncada, distribue dans 60 pays.
+  products:
+  - Woofers 8" à 21" (21SW1600Nd, 18LEX1600Nd, 15G450)
+  - Moteurs de compression 1" à 4" (CP380M, CP385Nd, CP850Nd)
+  - Médiums, coaxiaux, tweeters à ruban
+  - Pavillons et kits de reconing
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: https://www.linkedin.com/company/acustica-beyma
+why_us: 'Beyma est un des rares fabricants de transducteurs pro qui publie une adresse
+  e-mail directe et qui a gardé une taille humaine (entreprise familiale, une seule
+  usine). Sa gamme 21SW/18LEX est taillée pour le grave à fort niveau, et les moteurs
+  CP38x sont des classiques des tops à pavillon. Pour une ASBL belge, c''est le fabricant
+  "premier rang" le plus atteignable : pas de holding cotée, pas de comité de sponsoring,
+  un service technique centralisé à Valence qui répond aux constructeurs.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: 'Tarif professionnel / prix quantité sur la série 21SW et les moteurs CP,
+    dotation ou co-financement d''un jeu de transducteurs pour la nouvelle série de
+    subs horn et de tops, et accès aux kits de reconing. Contrepartie : marquage "Powered
+    by Beyma" sur les façades, visibilité sur 10-15 événements et sur le making-of
+    de la construction des caissons.'
+  realistic_value_eur: 13000
+values:
+- made-in-Spain
+- made-in-EU
+- entreprise familiale
+- savoir-faire artisanal + industriel
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général
+  email: beyma@beyma.com
+  email_status: generic
+  linkedin: ''
+  phone: (+34) 961 301 375
+  source_url: https://www.beyma.com/en/contact/
+  retrieved_on: 2026-07-14
+  evidence: beyma@beyma.com — Tel. (+34) 961 301 375 — Pol. Ind. II de Moncada C/
+    Pont Sec, 1C. 46113 Moncada, Valencia (Spain)
+inbound_channels:
+- type: form
+  url: https://www.beyma.com/en/contact/
+- type: linkedin
+  url: https://www.linkedin.com/company/acustica-beyma
+scoring:
+  business_fit: 8
+  partnership_probability: 5
+  impact_if_successful: 9
+  rationale: 'Gamme entièrement adaptée aux caissons horn et aux tops à pavillon,
+    e-mail direct vérifié, structure familiale à échelle humaine — c''est le fabricant
+    "tier 1" le plus abordable de la liste. Pas d''historique de sponsoring culturel
+    trouvé, donc pas de réflexe mécénat établi : la probabilité reste moyenne et l''accord
+    le plus réaliste est d''abord tarifaire (prix pro/quantité) avant d''être une
+    dotation.'
+deadlines: []
+sources:
+- url: https://www.beyma.com/en/contact/
+  retrieved_on: 2026-07-14
+- url: https://www.beyma.com/en/our-team/
+  retrieved_on: 2026-07-14
+- url: https://www.beyma.com/en/home/
+  retrieved_on: 2026-07-14
+documents:
+- output\Acustica-Beyma-S-L\Acustica-Beyma-S-L-Partnership-2026.pdf
+- output\Acustica-Beyma-S-L\Acustica-Beyma-S-L-OnePager-2026.pdf
+- output\Acustica-Beyma-S-L\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'La page "our-team" ne liste aucune personne nommée malgré son titre : seuls
+  le téléphone et l''e-mail générique y sont répétés. Horaires lus : "08:00 - 15:00
+  (CET) Monday to Friday" — journée continue espagnole, appeler le matin. Deux adresses
+  distinctes (bureaux et usine/entrepôt) à Moncada.'

@@ -1,0 +1,21 @@
+company: BMS Speakers GmbH
+persona: fabricant-audio
+module: audio
+phase: 1
+contact:
+  name: ''
+  role: Contact général
+  email: contact@bmsspeakers.com
+website: https://bmsspeakers.com
+notes: 'Les tops « multi horn entry » de Falc''ohm reposent sur des moteurs de compression
+  : c''est précisément le cœur de métier de BMS, et le coaxial 4594 (deux voies dans
+  un seul moteur, une seule bouche de pavillon) est la solution technique la plus
+  élégante pour ce type de conception. BMS est une GmbH de taille modeste avec une
+  gérante identifiée et un e-mail direct : contrairement aux géants italiens, il n''y
+  a pas dix niveaux hiérarchiques entre nous et le décideur. Le "made in Germany"
+  et la réparabilité (membranes disponibles à l''unité) collent au discours durabilité
+  de l''ASBL.
+
+  Fiche CRM : crm/companies/bms-speakers.yaml
+
+  '

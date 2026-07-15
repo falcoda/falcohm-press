@@ -1,0 +1,20 @@
+company: Bourguignon Bois
+persona: fournisseur-technique
+module: bois
+phase: 1
+contact:
+  name: ''
+  role: ''
+  email: info@bourguignonbois.be
+website: https://www.bourguignonbois.be
+notes: 'La cible la plus évidente de la catégorie : ~18 km de l''atelier de Genappe,
+  même province (Brabant wallon). Entreprise familiale (75 ans) où la décision se
+  prend en interne, sans comité de sponsoring. Surtout : ils sponsorisent DÉJÀ un
+  club local (CTT Tourinnes) — la démarche ''soutenir une asbl du coin'' fait partie
+  de leur culture. Ils vendent exactement notre matière première n°1 (multiplex) et
+  sont sur un site de scierie : les chutes et fins de série existent physiquement
+  chez eux.
+
+  Fiche CRM : crm/companies/bourguignon-bois.yaml
+
+  '

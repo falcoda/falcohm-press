@@ -1,0 +1,98 @@
+# ─── Catalogue des contreparties ────────────────────────────────────────────
+# Les paliers sont exprimés en VALEUR APPORTÉE (argent OU matériel OU service),
+# pas en prix de vente : une ASBL ne vend pas des espaces, elle échange.
+#
+# ⚠ Les paliers hauts (10 k€+) ne sont PAS encore réalistes pour Gazmatek aujourd'hui.
+#   Ils existent pour ne pas avoir à refaire le catalogue dans deux ans.
+#   Ne jamais proposer un palier qu'on n'est pas capable de livrer.
+
+benefits_catalog:
+
+  - tier: "100 €"
+    label: "Coup de main"
+    realistic: true
+    items:
+      - { family: visibilite, text: "Mention dans le post de remerciement (27 000 abonnés)" }
+      - { family: digital,    text: "Logo dans la section partenaires de gazmatek.com" }
+
+  - tier: "500 €"
+    label: "Soutien"
+    realistic: true
+    items:
+      - { family: visibilite, text: "Logo sur les affiches d'une soirée" }
+      - { family: digital,    text: "Logo sur les deux sites, avec lien" }
+      - { family: contenu,    text: "Une story dédiée le jour de l'événement" }
+      - { family: hospitalite, text: "2 entrées sur la date concernée" }
+
+  - tier: "1 000 €"
+    label: "Partenaire de date"
+    realistic: true
+    items:
+      - { family: visibilite, text: "Logo affiches + backdrop scénique de la date" }
+      - { family: technique,  text: "Marquage sur le matériel équipé grâce à vous" }
+      - { family: contenu,    text: "Un post dédié + mention dans l'aftermovie" }
+      - { family: digital,    text: "Section partenaires, sites + réseaux des deux projets" }
+      - { family: hospitalite, text: "4 entrées + accès backstage" }
+      - { family: photo,      text: "Photos du matériel en usage, cédées pour votre communication" }
+
+  - tier: "2 500 €"
+    label: "Partenaire de saison"
+    realistic: true
+    items:
+      - { family: visibilite, text: "Logo sur toutes les affiches de la saison" }
+      - { family: technique,  text: "Marquage permanent (« Built with… ») sur les caissons" }
+      - { family: contenu,    text: "Série making-of : conception, fabrication, première date" }
+      - { family: video,      text: "Mention dans tous les aftermovies de la saison" }
+      - { family: co_branding, text: "Droit d'usage du projet dans votre communication" }
+      - { family: hospitalite, text: "6 entrées par date + backstage" }
+      - { family: rp,         text: "Communiqué de presse commun à l'annonce" }
+
+  - tier: "5 000 €"
+    label: "Partenaire officiel"
+    realistic: false           # atteignable à 2-3 ans
+    items:
+      - { family: naming,     text: "« Zone / scène présentée par [marque] » sur une date" }
+      - { family: activation, text: "Espace d'activation sur site (stand, test produit)" }
+      - { family: contenu,    text: "Contenu vidéo dédié, format court, diffusé sur nos canaux" }
+      - { family: technique,  text: "Co-développement : votre produit testé en conditions réelles" }
+      - { family: rp,         text: "Interview croisée, relations presse communes" }
+      - { family: hospitalite, text: "10 entrées + backstage + visite d'atelier" }
+
+  - tier: "10 000 €"
+    label: "Partenaire principal"
+    realistic: false
+    items:
+      - { family: naming,     text: "Naming d'un festival ou d'une série d'événements" }
+      - { family: visibilite, text: "Présence sur l'ensemble des supports, format principal" }
+      - { family: activation, text: "Activation sur l'ensemble de la saison" }
+      - { family: co_branding, text: "Édition limitée co-brandée (gobelets, textile)" }
+      - { family: rp,         text: "Conférence de presse commune" }
+
+  - tier: "20 000 € +"
+    label: "Partenaire titre"
+    realistic: false
+    items:
+      - { family: naming,     text: "Naming du festival : « [Marque] présente Gazmatek Festival »" }
+      - { family: co_branding, text: "Co-production d'un événement" }
+      - { family: rp,         text: "Stratégie de communication commune sur l'année" }
+
+# Familles de contreparties (pour composer une proposition sur mesure)
+benefit_families:
+  visibilite:   "Affiches, backdrops, supports scéniques, signalétique"
+  digital:      "Sites, réseaux sociaux, newsletters"
+  contenu:      "Making-of, posts dédiés, stories, publications"
+  video:        "Aftermovies, captations, formats courts"
+  photo:        "Photos professionnelles cédées au partenaire"
+  technique:    "Marquage sur le matériel, test produit, retour d'usage"
+  hospitalite:  "Entrées, backstage, visite d'atelier"
+  activation:   "Stand, test produit, distribution sur site"
+  naming:       "Nom associé à une scène, une zone, un événement"
+  co_branding:  "Éditions limitées, produits communs"
+  rp:           "Communiqués, interviews, relations presse"
+
+# Règles d'or
+benefit_rules:
+  - "Ne jamais promettre une contrepartie qu'on ne sait pas livrer et prouver."
+  - "Chaque contrepartie livrée doit être documentée (capture, photo, chiffre) et envoyée au partenaire."
+  - "Le marquage sur le matériel est notre contrepartie la plus forte : elle prouve un usage réel."
+  - "Un partenaire technique n'a pas besoin de naming, une marque grand public n'a pas besoin de marquage."

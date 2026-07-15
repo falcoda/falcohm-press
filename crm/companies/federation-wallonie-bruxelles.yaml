@@ -1,0 +1,205 @@
+slug: federation-wallonie-bruxelles
+company: Fédération Wallonie-Bruxelles — Service des Musiques
+display_name: Fédération Wallonie-Bruxelles
+aka:
+- FWB
+- MFWB
+- Service des Musiques non classiques
+- Création artistique — Musiques
+- Administration générale de la Culture
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- culture_funding
+- public_funding
+status: lead
+phase: 2
+tags:
+- institution
+- musique
+- deadline-critique
+score: 54
+website: https://creationartistique.cfwb.be/musiques
+knowledge: knowledge/Fédération Wallonie-Bruxelles.md
+profile:
+  activity: Service de l'Administration générale de la Culture de la FWB qui instruit
+    et subventionne le secteur musical. Les dossiers sont analysés par la Commission
+    des Musiques ; la décision finale revient à la Ministre de la Culture. Boulevard
+    Léopold II, 44 — 1080 Bruxelles.
+  products:
+  - Aide aux structures de programmation (ponctuelle) — festivals, lieux de diffusion,
+    organisation de concerts
+  - Aides pluriannuelles — Contrat de diffusion (3 ans) et Contrat-programme (5 ans)
+  - Aides aux projets d'artistes et bourses (enregistrement, promotion, résidence/création)
+  - Aides aux structures de formation, de promotion et d'encadrement
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'C''est LE dispositif public taillé pour ce que fait Gazmatek : l''« Aide
+  aux structures de programmation » couvre explicitement l''organisation d''un festival
+  de musique et d''une année/saison de concerts. Falc''ohm System coche les conditions
+  de base : personne morale établie en Fédération Wallonie-Bruxelles (Genappe), aucun
+  contrat-programme ni contrat de diffusion en cours, et un historique de plusieurs
+  éditions — or le texte précise qu''en musiques actuelles « la priorité est accordée
+  aux projets ayant déjà eu 2 éditions ou saisons précédentes ». Décisif : le Service
+  des Musiques a une agente dédiée au secteur des MUSIQUES ÉLECTRONIQUES (Diane Dernouchamps).
+  Le genre est donc un secteur d''instruction identifié, pas une exception à plaider.
+
+  '
+ask:
+  type:
+  - financial
+  detail: '« Aide aux structures de programmation », volet FESTIVAL en musiques actuelles,
+    aide ponctuelle portant sur une édition. Subvention de MINIMUM 5.000 € (versée
+    en 1 fois si < 6.000 €, en 2 fois au-delà, le solde après justificatifs). Seuils
+    éliminatoires pour un festival de musiques actuelles : au minimum 7 concerts dont
+    au moins 1/3 d''artistes/groupes de la FWB, budget global ≥ 20.000 €, cachets
+    artistiques totaux ≥ 10.000 €. Dossier via formulaire en ligne + budget prévisionnel
+    (.xls) + grille de programmation (.docx) + comptes et bilan de la dernière édition.
+
+    '
+  realistic_value_eur: 6000
+values:
+- Diffusion des artistes de la Fédération Wallonie-Bruxelles
+- Professionnalisation du secteur musical
+- Diversité des esthétiques
+- Accès à la culture
+sponsorship_history:
+- what: 'Le Service des Musiques dispose d''un secteur d''instruction dédié aux «
+    Musiques électroniques » (agente : Diane Dernouchamps) — le genre est un champ
+    subventionné à part entière'
+  url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
+  retrieved_on: 2026-07-14
+- what: Dispositif « Aide aux structures de programmation » couvrant explicitement
+    l'organisation d'un festival de musique et les charges d'une année/saison de concerts
+  url: https://creationartistique.cfwb.be/musiques/aides-musiques/aides-aux-festivals-lieux-de-diffusion-et-a-lorganisation-de-concerts
+  retrieved_on: 2026-07-14
+contacts:
+- name: Diane Dernouchamps
+  role: Service des Musiques — Secteurs des Musiques électroniques, du Jeune public
+    et Réseau Plasma
+  email: diane.dernouchamps@cfwb.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 (0)2/413.39.11
+  source_url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
+  retrieved_on: 2026-07-14
+  evidence: Service des Musiques / Diane Dernouchamps - Secteurs des Musiques électroniques,
+    du Jeune public et Réseau Plasma / +32 (0)2/413.39.11 / diane.dernouchamps@cfwb.be
+- name: Jocelyne Antoine
+  role: Service des Musiques — Musiques Actuelles, tous genres musicaux
+  email: jocelyne.antoine@cfwb.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 (0)2/413.24.94
+  source_url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
+  retrieved_on: 2026-07-14
+  evidence: Jocelyne Antoine - Musiques Actuelles, tous genres musicaux / +32 (0)2/413.24.94
+    / jocelyne.antoine@cfwb.be
+- name: Sabrina Graci
+  role: Service des Musiques — Secrétariat et suivi des subventions en Musiques actuelles
+  email: sabrina.graci@cfwb.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 (0)2/413.30.65
+  source_url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
+  retrieved_on: 2026-07-14
+  evidence: Sabrina Graci - Secrétariat et suivi des subventions en Musiques actuelles
+    / +32(0)2/413.30.65 / sabrina.graci@cfwb.be
+- name: Sophie Millecamps
+  role: Directrice du Service des Musiques f.f.
+  email: sophie.millecamps@cfwb.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 (0)2/413.21.59
+  source_url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
+  retrieved_on: 2026-07-14
+  evidence: Sophie Millecamps - Directrice du Service des Musiques f.f. / +32(0)2/413.21.59
+    / sophie.millecamps@cfwb.be
+inbound_channels:
+- type: portal
+  url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
+- type: portal
+  url: https://creationartistique.cfwb.be/musiques/aides-musiques/calendrier-des-depots-en-musique
+scoring:
+  business_fit: 9
+  partnership_probability: 6
+  impact_if_successful: 10
+  rationale: 'Le dispositif finance littéralement l''objet social de l''ASBL (organiser
+    un festival de musiques actuelles), avec un agent public affecté aux musiques
+    électroniques : le fit est maximal. La probabilité est tempérée par deux exigences
+    dures — l''aide vise un organisateur PROFESSIONNEL développant des « activités
+    artistiques professionnelles », or Falc''ohm est une structure bénévole ; et il
+    faut prouver 7 concerts, 1/3 d''artistes FWB, 20.000 € de budget et 10.000 € de
+    cachets. L''impact est maximal : subside récurrent, sésame de crédibilité qui
+    débloque province, commune et fonds privés, et porte d''entrée vers le Contrat
+    de diffusion pluriannuel.
+
+    '
+deadlines:
+- what: Aides aux projets d'artistes et bourses — session d'automne (dernière date
+    publiée du cycle en cours)
+  date: '2026-09-05'
+  url: https://creationartistique.cfwb.be/musiques/aides-musiques/calendrier-des-depots-en-musique
+- what: 'DOSSIER PRINCIPAL — Aides aux projets ponctuels de festivals, lieux de diffusion
+    et organisation de concerts. Récurrence annuelle observée : 5 février (2026 confirmé).
+    La date 2027 n''était PAS publiée au 14/07/2026 : à reconfirmer sur le calendrier
+    officiel dès la rentrée.'
+  date: '2027-02-05'
+  url: https://creationartistique.cfwb.be/musiques/aides-musiques/calendrier-des-depots-en-musique
+sources:
+- url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
+  retrieved_on: 2026-07-14
+- url: https://creationartistique.cfwb.be/musiques/aides-musiques/aides-aux-festivals-lieux-de-diffusion-et-a-lorganisation-de-concerts
+  retrieved_on: 2026-07-14
+- url: https://creationartistique.cfwb.be/musiques/aides-musiques/calendrier-des-depots-en-musique
+  retrieved_on: 2026-07-14
+- url: https://creationartistique.cfwb.be/musiques
+  retrieved_on: 2026-07-14
+documents:
+- output/Federation-Wallonie-Bruxelles/Federation-Wallonie-Bruxelles-Partnership-2026.pdf
+- output/Federation-Wallonie-Bruxelles/Federation-Wallonie-Bruxelles-OnePager-2026.pdf
+- output/Federation-Wallonie-Bruxelles/email.md
+- output\Federation-Wallonie-Bruxelles-Service-des-Musiques\Federation-Wallonie-Bruxelles-Service-des-Musiques-Partnership-2026.pdf
+- output\Federation-Wallonie-Bruxelles-Service-des-Musiques\Federation-Wallonie-Bruxelles-Service-des-Musiques-OnePager-2026.pdf
+- output\Federation-Wallonie-Bruxelles-Service-des-Musiques\email.md
+interactions: []
+events: []
+next_action:
+  what: Appeler Diane Dernouchamps (musiques électroniques) pour cadrer le dossier
+    « Aide aux structures de programmation » AVANT le dépôt de février, et vérifier
+    dans les comptes Gazmatek que les cachets atteignent 10.000 €
+  due: '2026-09-15'
+notes: 'ÉLIGIBILITÉ — conditions cumulatives (fiche officielle mise à jour le 27 avril
+  2026) : (1) personne morale établie en FWB [OK, Genappe] ; (2) AUCUN contrat-programme
+  ni contrat de création/service/diffusion en cours [OK] ; (3) développer des activités
+  artistiques PROFESSIONNELLES s''adressant significativement aux publics FWB [POINT
+  FAIBLE — à argumenter : cachets réellement versés, billetterie, encadrement technique
+  rémunéré] ; (4) promouvoir des artistes FWB visant une carrière professionnelle
+  ; (5) pas de majorité de covers/tributes.
+
+  SEUILS FESTIVAL MUSIQUES ACTUELLES (ÉLIMINATOIRES) : ≥ 7 concerts, ≥ 1/3 d''artistes/groupes
+  FWB, budget global ≥ 20.000 €, cachets artistiques totaux ≥ 10.000 €. À VÉRIFIER
+  DANS LES COMPTES GAZMATEK AVANT DE DÉPOSER : si les cachets sont sous 10.000 €,
+  le dossier est irrecevable, point final.
+
+  PIÈGE #1 — la procédure prend jusqu''à 5 MOIS après la date butoir. Un dépôt au
+  5 février donne une réponse vers juin/juillet. Pour un festival d''été, il faut
+  donc déposer en février de l''année MÊME du festival, et avoir la trésorerie pour
+  avancer les frais. PIÈGE #2 — le vade-mecum « Aides aux structures de programmation
+  » contient l''intégralité des critères d''analyse. Le télécharger et le suivre ligne
+  à ligne.
+
+  LEVIER — appeler Diane Dernouchamps AVANT le dépôt : c''est elle qui instruira le
+  dossier électro. Sabrina Graci gère le suivi administratif des subventions en musiques
+  actuelles.
+
+  À TERME — viser le « Contrat de diffusion » pluriannuel : contrats de 3 ans (période
+  2027/2029) et contrats de 5 ans dont le prochain dépôt est annoncé pour le dernier
+  trimestre 2027 (période 2029/2033).
+
+  '

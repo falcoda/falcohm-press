@@ -1,0 +1,191 @@
+slug: commune-genappe
+company: Ville de Genappe — Administration communale
+display_name: Ville de Genappe
+aka:
+- Commune de Genappe
+- Genappe
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- public_funding
+- local_government
+status: lead
+phase: 2
+tags: []
+score: 24
+website: https://www.genappe.be/
+knowledge: ''
+profile:
+  activity: 'Pouvoir communal dont dépend le siège social de Falc''ohm System ASBL
+    (Rue des Croix du Feu 4, 1473 Genappe). Administration communale : Espace 2000,
+    3 — 1470 Genappe. Le Collège communal dispose d''échevinats distincts pour la
+    Culture d''une part, et pour les Festivités et la Jeunesse d''autre part.'
+  products:
+  - Subsides communaux aux associations (budget communal)
+  - Soutien logistique et matériel aux organisateurs d'événements sur le territoire
+  - Porte d'entrée obligatoire du dispositif provincial « Place aux jeunes » (contrepartie
+    1 € commune = 1 € Province)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Falc''ohm System est une ASBL genappienne : c''est la commune de son siège
+  social. Une commune soutient en priorité les associations de son territoire, et
+  un festival de +10.000 personnes est l''un des événements les plus visibles de l''entité
+  — c''est un argument de rayonnement communal direct. Deux échevinats sont concernés
+  et doivent être travaillés séparément : Christophe Balestrie (Culture, Bibliothèque,
+  ASBL des Salles communales) et Michaël Rouffiange (Festivités, Jeunesse) — ce dernier
+  est le plus aligné, puisqu''il cumule exactement les deux compétences de Gazmatek.
+  Enjeu stratégique majeur : la commune est la CLÉ D''ACCÈS au dispositif provincial
+  « Place aux jeunes », dans lequel chaque euro communal est doublé par le Brabant
+  wallon. Un euro obtenu ici en vaut donc deux.'
+ask:
+  type:
+  - financial
+  - material
+  - visibility
+  detail: '(1) Subside communal direct à l''ASBL, inscrit au budget communal — montant
+    à négocier avec l''échevin des Festivités/Jeunesse et validé par le Bourgmestre
+    (qui détient les Finances et le budget). (2) SURTOUT : obtenir un engagement financier
+    de la commune dans le cadre de « Place aux jeunes » (Province du Brabant wallon),
+    où chaque euro investi par la commune est doublé par la Province, dans la limite
+    de 1.000 à 5.000 €, et affecté aux cachets artistiques et à leurs besoins en logistique
+    et technique. C''est le meilleur rapport effort/rendement du portefeuille local.
+    (3) Appui matériel et logistique : prêt de matériel communal, mise à disposition
+    de terrain, soutien sécurité/propreté, facilitation des autorisations.'
+  realistic_value_eur: 2500
+values:
+- Vie associative locale
+- Jeunesse
+- Festivités et animation du territoire
+- Culture de proximité
+- Rayonnement de l'entité
+sponsorship_history:
+- what: La commune de Genappe a établi des partenariats avec le tissu associatif local
+    (Centre culturel, Maison des Jeunes, AMO Tempo, CEC Les Lez'Art) et soutient l'accès
+    à la culture via Article 27
+  url: https://www.genappe.be/commune/administration/services-communaux/social/affaires-sociales/article-27/a-nous-la-culture
+  retrieved_on: 2026-07-14
+- what: Échevinat cumulant Festivités et Jeunesse (Michaël Rouffiange), soit exactement
+    le périmètre d'un festival de musique électronique à public jeune
+  url: https://www.genappe.be/commune/vie-politique/college-communal
+  retrieved_on: 2026-07-14
+contacts:
+- name: Michaël Rouffiange
+  role: Cinquième Échevin — Festivités, Jeunesse, Environnement et transition environnementale,
+    Espaces verts, Propreté, Plaines de jeux, Commerce et PME
+  email: michael.rouffiange@genappe.be
+  email_status: verified_public
+  linkedin: ''
+  phone: 067 79 42 08 / 0476 73 47 44
+  source_url: https://www.genappe.be/commune/vie-politique/college-communal
+  retrieved_on: 2026-07-14
+  evidence: Michaël ROUFFIANGE / CINQUÈME ÉCHEVIN / 067 79 42 08 / 0476 73 47 44 /
+    michael.rouffiange@genappe.be / Environnement et transition environnementale -
+    Espaces verts - Propreté - Gestion des déchets - Plaines de jeux - Festivités
+    - Jeunesse - Gestion des cours d'eau + gestion dossiers inondations - Transition
+    énergétique - Commerce et PME
+- name: Christophe Balestrie
+  role: Deuxième Échevin — Culture, Bibliothèque, Sports et infrastructures sportives,
+    ASBL des Salles Communales, Santé, Seniors
+  email: christophe.balestrie@genappe.be
+  email_status: verified_public
+  linkedin: ''
+  phone: 067 79 42 03 / 0495 90 75 86
+  source_url: https://www.genappe.be/commune/vie-politique/college-communal
+  retrieved_on: 2026-07-14
+  evidence: Christophe BALESTRIE / DEUXIÈME ÉCHEVIN / 067 79 42 03 / 0495 90 75 86
+    / christophe.balestrie@genappe.be / Sports et infrastructures sportives - Santé
+    - Culture - Bibliothèque - ASBL des Salles Communales - Bien-être animal - Seniors
+    - GAL
+- name: Gérard Couronné
+  role: Bourgmestre — Finances et budget, Sécurité, Police, Économie, Communication,
+    Personnel
+  email: gerard.couronne@genappe.be
+  email_status: verified_public
+  linkedin: ''
+  phone: 067 79 42 02 / 0475 42 70 17
+  source_url: https://www.genappe.be/commune/vie-politique/college-communal
+  retrieved_on: 2026-07-14
+  evidence: 'Gérard COURONNÉ / BOURGMESTRE / 067 79 42 02 / 0475 42 70 17 / gerard.couronne@genappe.be
+    / Permanence : samedi de 10h à 12h sur rendez-vous / Finances et budget - Etat-civil/Population
+    - Sécurité - Police - Partenariat Locaux de Proximité (PLP) - Coordination du
+    Plan Stratégique Transversal (PST) - Participation citoyenne - Economie - Communication
+    - Personnel'
+- name: ''
+  role: Administration communale de Genappe — accueil général
+  email: info@genappe.be
+  email_status: generic
+  linkedin: ''
+  phone: 067 79 42 00
+  source_url: https://www.genappe.be/commune/vie-politique/college-communal
+  retrieved_on: 2026-07-14
+  evidence: ADMINISTRATION COMMUNALE / Espace 2000, 3 / 1470 GENAPPE / 067 79 42 00
+    / info@genappe.be
+inbound_channels:
+- type: portal
+  url: https://www.genappe.be/commune/vie-politique/college-communal
+- type: portal
+  url: https://www.genappe.be/loisirs-et-culture/culture
+scoring:
+  business_fit: 7
+  partnership_probability: 7
+  impact_if_successful: 5
+  rationale: 'Le fit est bon sans être parfait : une commune de cette taille n''a
+    pas de ligne budgétaire dédiée aux festivals de musique électronique, mais elle
+    a un échevin qui cumule Festivités et Jeunesse et une ASBL locale qui fait rayonner
+    l''entité au-delà de ses frontières — l''argument politique est facile à porter.
+    La probabilité est élevée : c''est le niveau de pouvoir le plus accessible, le
+    contact est direct et nominatif, et le Bourgmestre détient lui-même les Finances.
+    L''impact financier direct reste modeste (quelques milliers d''euros), mais il
+    est sous-estimé : c''est un effet de levier, puisque l''engagement communal est
+    la condition d''accès à « Place aux jeunes » où la Province double la mise, et
+    qu''un soutien communal crédibilise tous les dossiers supérieurs (Province, FWB).'
+deadlines:
+- what: 'Aucune date de dépôt de subside communal publiée sur le site. Un subside
+    communal doit être inscrit au BUDGET COMMUNAL : la demande doit donc être introduite
+    avant l''élaboration du budget de l''exercice suivant (traditionnellement à l''automne).
+    À confirmer directement auprès du Bourgmestre (Finances et budget) ou du Directeur
+    financier.'
+  date: '2026-09-30'
+  url: https://www.genappe.be/commune/vie-politique/college-communal
+sources:
+- url: https://www.genappe.be/commune/vie-politique/college-communal
+  retrieved_on: 2026-07-14
+- url: https://www.genappe.be/loisirs-et-culture/culture
+  retrieved_on: 2026-07-14
+- url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
+  retrieved_on: 2026-07-14
+documents:
+- output\Ville-de-Genappe-Administration-communale\Ville-de-Genappe-Administration-communale-Partnership-2026.pdf
+- output\Ville-de-Genappe-Administration-communale\Ville-de-Genappe-Administration-communale-OnePager-2026.pdf
+- output\Ville-de-Genappe-Administration-communale\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'ORDRE D''ATTAQUE : viser Michaël Rouffiange EN PREMIER (Festivités + Jeunesse
+  = le périmètre exact de Gazmatek), puis Christophe Balestrie (Culture) en second
+  appui, et n''aller vers le Bourgmestre Gérard Couronné (Finances et budget) qu''une
+  fois l''échevin acquis — c''est lui qui arbitre l''inscription budgétaire. ARGUMENT
+  CENTRAL À UTILISER : « chaque euro que Genappe met, le Brabant wallon le double
+  » (dispositif provincial Place aux jeunes, plafond 5.000 €, réservé aux cachets
+  artistiques et à leurs besoins logistiques et techniques, pour un public 10-20 ans).
+  C''est l''argument le plus efficace face à un échevin : il transforme une dépense
+  communale en investissement à effet multiplicateur. Le projet est formellement porté
+  par la commune mais « il peut être porté par une association locale ». ATTENTION
+  — INCOHÉRENCE D''ADRESSE À VÉRIFIER : le siège de l''ASBL est indiqué à 1473 Genappe,
+  or l''administration communale est à 1470 Genappe (Espace 2000, 3). Le code 1473
+  correspond à un village de l''entité (Glabais/Ways) : la commune de rattachement
+  est bien Genappe, mais confirmer avant tout envoi officiel. NON VÉRIFIÉ : aucun
+  règlement communal de subventionnement des associations n''est publié en ligne,
+  et aucun agent du service Culture n''est nommément identifiable sur le site. La
+  page « Primes communales » (https://www.genappe.be/je-trouve/primes-communales)
+  n''a pas été ouverte et pourrait contenir un règlement. Il faut passer par les échevins,
+  pas par un formulaire. ANGLE COMPLÉMENTAIRE : l''« ASBL des Salles Communales »
+  relève de l''échevin de la Culture — piste pour un accès à une salle ou à du matériel
+  à coût réduit.'

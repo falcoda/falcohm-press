@@ -1,0 +1,14 @@
+# Liste d'opposition (RGPD, art. 21).
+#
+# Toute personne ou entreprise qui demande à ne plus être contactée atterrit ici,
+# le jour même. `python -m kit --crm-validate` refuse ensuite toute fiche qui les
+# contient, et rien ne peut plus leur être envoyé.
+#
+# On n'efface pas la fiche : on la marque. Effacer, c'est risquer de les recontacter
+# dans six mois en toute bonne foi.
+#
+# Format :
+#   - { email: "x@y.be", date: "2026-07-14", reason: "demande explicite" }
+#   - { company: "Untel SA", date: "2026-07-14", reason: "refus définitif, ne pas relancer" }
+
+suppressed: []

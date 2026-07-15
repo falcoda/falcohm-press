@@ -1,0 +1,104 @@
+slug: wathelet-bois
+company: Wathelet Bois
+aka:
+- Wathelet sprl
+- Bois Wathelet Keumiée
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 21
+website: https://www.watheletbois.be
+knowledge: ''
+profile:
+  activity: Grossiste et détaillant en bois actif depuis les années 40 à Keumiée (Sambreville,
+    province de Namur). Fournit bois d'œuvre, panneaux, matériaux de toiture, isolation
+    et accessoires de construction, aux professionnels comme aux particuliers, avec
+    des services de sciage, rabotage et traitement autoclave. Rayonne sur le Hainaut,
+    Namur et le Brabant wallon.
+  products:
+  - Panneaux (menuiserie, bricolage)
+  - Bois d'œuvre (chêne, hêtre, mélèze, sapin...)
+  - Sciage, rabotage, traitement autoclave
+  - Toiture, isolation, accessoires
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Entreprise familiale de plus de 80 ans qui annonce elle-même se déplacer
+  en Brabant wallon : Falc''ohm est littéralement dans sa zone de chalandise. Structure
+  petite et locale — le patron décide seul, ce qui est le profil de cible le plus
+  rentable. Ils ont un atelier (sciage, rabotage), donc des chutes de panneaux et
+  de bois exploitables. L''adresse email est une adresse Outlook personnelle, signe
+  d''une structure très artisanale : l''approche humaine directe passera mieux qu''un
+  dossier corporate.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Remise pro sur les panneaux (multiplex bouleau) en récurrence, et surtout
+    récupération des chutes et fins de série. Approche à jouer localement et humainement
+    : les inviter à voir les enceintes en fabrication à Genappe, ils sont dans leur
+    rayon d''action habituel. Contrepartie : logo sur le sound system et visibilité
+    sur 10-15 événements/an.'
+  realistic_value_eur: 2000
+values:
+- Entreprise familiale (active depuis les années 40)
+- Ancrage Sambreville / Namur
+- Service artisanal et sur mesure
+- Proximité avec les artisans locaux
+sponsorship_history: []
+contacts:
+- name: ''
+  role: ''
+  email: watheletsprl@outlook.com
+  email_status: generic
+  linkedin: ''
+  phone: 071 81 25 46
+  source_url: https://www.boisdetaillantwatheletkeumiee.be/contacts
+  retrieved_on: 2026-07-14
+  evidence: Rue du Wainage 92, 5060 Keumiée (Sambreville) — 071 81 25 46 — watheletsprl@outlook.com
+inbound_channels:
+- type: form
+  url: https://www.boisdetaillantwatheletkeumiee.be/contacts
+scoring:
+  business_fit: 6
+  partnership_probability: 7
+  impact_if_successful: 5
+  rationale: 'Fit moyen : ils vendent bien des panneaux, mais leur coeur de métier
+    est le bois d''œuvre, la toiture et le bois de construction — rien n''atteste
+    d''une gamme multiplex bouleau technique en 15/18/21 mm, il faudra le vérifier
+    au téléphone. La probabilité est bonne : micro-entreprise familiale wallonne qui
+    couvre déjà le Brabant wallon, sans strate de décision. Impact limité — petite
+    structure, donc des remises et des dons de chutes utiles mais pas structurants
+    pour un besoin de 5-10 ans.'
+deadlines: []
+sources:
+- url: https://www.boisdetaillantwatheletkeumiee.be/contacts
+  retrieved_on: 2026-07-14
+- url: https://www.watheletbois.be/
+  retrieved_on: 2026-07-14
+- url: https://www.watheletbois.be/fr/grossiste-bois-12
+  retrieved_on: 2026-07-14
+documents:
+- output\Wathelet-Bois\Wathelet-Bois-Partnership-2026.pdf
+- output\Wathelet-Bois\Wathelet-Bois-OnePager-2026.pdf
+- output\Wathelet-Bois\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Deux sites web coexistent pour la même enseigne : watheletbois.be et boisdetaillantwatheletkeumiee.be
+  — l''email et le téléphone ont été lus sur le second. Adresse : Rue du Wainage 92,
+  5060 Keumiée (Sambreville), ~35 km de Genappe. Horaires : lun-ven 07:00-12:00 &
+  12:30-17:00, sam 08:00-12:00. Aucun nom de dirigeant publié, aucun n° de TVA sur
+  la page — ne rien inventer. À QUALIFIER : confirmer par téléphone qu''ils tiennent
+  du multiplex bouleau avant d''engager un dossier ; sinon, les garder uniquement
+  pour les chutes et le bois massif.'

@@ -1,0 +1,18 @@
+company: Carlier Bois
+persona: fournisseur-technique
+module: bois
+phase: 1
+contact:
+  name: ''
+  role: ''
+  email: ''
+website: https://www.carlier.be
+notes: 'Ils ont un ''Espace Pro'' dédié aux professionnels à Suarlée, distinct du
+  libre-service : c''est exactement le canal par lequel une asbl qui achète en récurrence
+  doit entrer, avec un vrai interlocuteur commercial en face. Namur est à ~35 km de
+  Genappe, dans le rayon d''un enlèvement mensuel. Acteur régional wallon indépendant,
+  pas un maillon d''un groupe international : le partenariat se décide sur place.
+
+  Fiche CRM : crm/companies/carlier-bois.yaml
+
+  '

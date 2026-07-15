@@ -1,0 +1,93 @@
+slug: audio-solvation
+company: Audio Solvation
+aka:
+- Audio Solvation B.V.
+country: NL
+sector: audio
+persona: fournisseur-technique
+categories:
+- distributors
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 25
+website: https://www.audiosolvation.nl
+knowledge: ''
+profile:
+  activity: Petit distributeur néerlandais de composants audio professionnels basé
+    à Sittard (Limbourg néerlandais). Distributeur mondial (hors Asie) des transducteurs
+    PHL Audio.
+  products:
+  - Transducteurs PHL Audio (grave, grave/médium, médium)
+  - Composants et accessoires de haut-parleurs
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Audio Solvation est à environ 1h15 de Genappe et détient la distribution
+  mondiale (hors Asie) de PHL Audio — c''est donc le chemin le plus court et le plus
+  concret vers les transducteurs français que Falc''ohm vise pour ses tops. Structure
+  minuscule : le patron décide seul, en une conversation. Et l''intérêt est mutuel
+  — un sound system belge visible, équipé en PHL et documenté publiquement, est exactement
+  l''argument commercial qui manque à un distributeur qui doit vendre une marque française
+  face aux Italiens dans le Benelux.'
+ask:
+  type:
+  - discount
+  - material
+  - visibility
+  detail: 'Compte revendeur / conditions ASBL sur les transducteurs PHL Audio pour
+    l''équipement des tops multi horn entry, avec dotation partielle sur le premier
+    jeu. Utiliser leur position de distributeur pour négocier en trio avec PHL Audio
+    (fabricant). Contrepartie : marquage sur les façades, making-of du build et statut
+    de référence Benelux démontrable.'
+  realistic_value_eur: 4000
+values:
+- proximité Benelux
+- petite structure
+- distribution spécialisée
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général
+  email: info@audiosolvation.nl
+  email_status: generic
+  linkedin: ''
+  phone: +31 (0)46 20 21 730
+  source_url: https://www.phlaudio.com/distribution/index.html
+  retrieved_on: 2026-07-14
+  evidence: Audio Solvation — Gasthuisgraaf 13, 6136 KS Sittard, Netherlands — +31
+    (0)46 20 21 730 — info@audiosolvation.nl
+inbound_channels: []
+scoring:
+  business_fit: 7
+  partnership_probability: 6
+  impact_if_successful: 6
+  rationale: 'Fit réel mais étroit : ils portent essentiellement PHL Audio, donc ils
+    ne couvrent qu''une partie du système (le médium/aigu des tops), pas le grave
+    des subs horn. Probabilité bonne — micro-structure à 1h15, décideur unique, et
+    un intérêt marketing direct à équiper un rig belge visible. Impact limité en euros
+    mais c''est un levier de négociation utile : passer par eux peut débloquer PHL
+    plus vite qu''un e-mail au fabricant.'
+deadlines: []
+sources:
+- url: https://www.phlaudio.com/distribution/index.html
+  retrieved_on: 2026-07-14
+documents:
+- output\Audio-Solvation\Audio-Solvation-Partnership-2026.pdf
+- output\Audio-Solvation\Audio-Solvation-OnePager-2026.pdf
+- output\Audio-Solvation\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Fiche construite à partir de la page « distribution » officielle de PHL Audio,
+  qui les désigne comme distributeur mondial (hors Asie) et publie leurs coordonnées
+  en clair. Le site audiosolvation.nl lui-même n''a pas été ouvert : NE PAS considérer
+  les informations d''activité comme exhaustives (ils distribuent peut-être d''autres
+  marques — à vérifier avant l''approche). Stratégie recommandée : les traiter conjointement
+  avec la fiche phl-audio, pas séparément.'

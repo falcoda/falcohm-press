@@ -1,0 +1,112 @@
+slug: bms-speakers
+company: BMS Speakers GmbH
+aka:
+- BMS
+country: DE
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 32
+website: https://bmsspeakers.com
+knowledge: ''
+profile:
+  activity: Fabricant allemand de transducteurs professionnels fondé en 1994 à Hanovre.
+    Spécialiste reconnu des moteurs de compression et des drivers coaxiaux à onde
+    plane, très utilisés dans les tops à pavillon et les line arrays.
+  products:
+  - Moteurs de compression 1" à 4" à onde plane (4550, 4592ND, 4594HE)
+  - Drivers coaxiaux néodyme (4594, 4592) — deux voies dans un seul moteur
+  - Woofers néodyme et ferrite 8" à 18" (18N862, 12N830)
+  - Pavillons et membranes de rechange
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: DE262938963
+    linkedin: ''
+why_us: 'Les tops « multi horn entry » de Falc''ohm reposent sur des moteurs de compression
+  : c''est précisément le cœur de métier de BMS, et le coaxial 4594 (deux voies dans
+  un seul moteur, une seule bouche de pavillon) est la solution technique la plus
+  élégante pour ce type de conception. BMS est une GmbH de taille modeste avec une
+  gérante identifiée et un e-mail direct : contrairement aux géants italiens, il n''y
+  a pas dix niveaux hiérarchiques entre nous et le décideur. Le "made in Germany"
+  et la réparabilité (membranes disponibles à l''unité) collent au discours durabilité
+  de l''ASBL.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: 'Conditions professionnelles / prix quantité sur les moteurs de compression
+    et coaxiaux pour les tops multi horn entry, dotation ou co-financement d''un jeu
+    de moteurs, et stock de membranes de rechange pour la maintenance. Contrepartie
+    : marquage sur les façades, visibilité sur 10-15 événements/an et documentation
+    technique du build (making-of) valorisable pour eux.'
+  realistic_value_eur: 8000
+values:
+- made-in-Germany
+- made-in-EU
+- ingénierie de précision
+- réparabilité
+- PME indépendante
+sponsorship_history: []
+contacts:
+- name: Marion Schroeder
+  role: Geschäftsführerin (gérante)
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: +49-(0)511-8793898
+  source_url: https://bmsspeakers.com/index.php-1.html?id=imprint0
+  retrieved_on: 2026-07-14
+  evidence: 'Managing Director: Marion Schroeder — Amtsgericht Hannover, HRB 203656
+    — VAT: DE262938963'
+- name: ''
+  role: Contact général
+  email: contact@bmsspeakers.com
+  email_status: generic
+  linkedin: ''
+  phone: +49 511 8 79 38 98
+  source_url: https://bmsspeakers.com/index.php-1.html?id=imprint0
+  retrieved_on: 2026-07-14
+  evidence: 'contact(at)bmsspeakers.com — Rue de Gent 2, 30539 Hannover, Germany —
+    Tel.: +49-(0)511-8793898'
+inbound_channels:
+- type: form
+  url: https://bmsspeakers.com/index.php-165.html?id=contact_us
+scoring:
+  business_fit: 8
+  partnership_probability: 5
+  impact_if_successful: 8
+  rationale: 'Fit élevé et ciblé : BMS ne couvre pas tout le système mais il couvre
+    l''endroit exact où la conception de Falc''ohm est la plus exigeante (les moteurs
+    des tops à pavillon). Petite structure allemande avec une gérante nommée et un
+    e-mail direct sur l''Impressum — le décideur est joignable en une étape, ce qui
+    fait monter la probabilité au-dessus des géants italiens. Aucun antécédent de
+    sponsoring trouvé : l''accord réaliste est d''abord tarifaire, la dotation viendrait
+    ensuite.'
+deadlines: []
+sources:
+- url: https://bmsspeakers.com/
+  retrieved_on: 2026-07-14
+- url: https://bmsspeakers.com/index.php-1.html?id=imprint0
+  retrieved_on: 2026-07-14
+documents:
+- output\BMS-Speakers-GmbH\BMS-Speakers-GmbH-Partnership-2026.pdf
+- output\BMS-Speakers-GmbH\BMS-Speakers-GmbH-OnePager-2026.pdf
+- output\BMS-Speakers-GmbH\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'L''e-mail est écrit "contact(at)bmsspeakers.com" sur l''Impressum (anti-spam)
+  : forme réelle contact@bmsspeakers.com. La gérante Marion Schroeder est nommée sur
+  l''Impressum, mais AUCUN e-mail nominatif n''est publié — ne pas inventer d''adresse
+  à son nom. BMS travaille via un réseau de distributeurs ("BMS is represented by
+  a network of global distributors") : un premier contact peut aussi passer par SoundImports
+  ou TLHP qui référencent la marque.'

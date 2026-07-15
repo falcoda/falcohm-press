@@ -1,0 +1,21 @@
+company: Beglec NV
+persona: fournisseur-technique
+module: audio
+phase: 1
+contact:
+  name: ''
+  role: ''
+  email: ''
+website: https://www.beglec.com
+notes: 'Beglec est à 30 minutes de Genappe — c''est la cible géographiquement la plus
+  proche du module. Et son portefeuille de marques maison couvre plusieurs besoins
+  d''un coup : Synq pour l''amplification, Hilec pour le câblage des façades et des
+  racks, JV Case pour les flightcases. Une entreprise qui possède ses propres marques
+  a une marge de manœuvre bien plus grande qu''un simple revendeur pour faire un geste
+  matériel : le coût réel d''une dotation est son prix de revient, pas son prix catalogue.
+  En face, ce qu''ils achètent, c''est une crédibilité dans la scène événementielle
+  belge que leurs marques (positionnées prosumer) n''ont pas.
+
+  Fiche CRM : crm/companies/beglec.yaml
+
+  '

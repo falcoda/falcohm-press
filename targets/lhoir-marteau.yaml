@@ -1,0 +1,19 @@
+company: Lhoir & Marteau
+persona: fournisseur-technique
+module: bois
+phase: 1
+contact:
+  name: Michel Marteau
+  role: ''
+  email: info@lhoir-marteau.be
+website: https://lhoiretmarteau.be
+notes: 'Le voisin direct : Waterloo est à ~15 km de l''atelier de Genappe, même province.
+  PME de 14 personnes dirigée par Michel Marteau — c''est le profil décrit comme la
+  meilleure cible : le patron décide seul, sans comité, et l''ancrage local le motive.
+  Ils vendent des panneaux ET font le travail à façon (découpe), donc ils couvrent
+  la fourniture et le débit. Une visite d''atelier est trivialement organisable :
+  20 minutes de route.
+
+  Fiche CRM : crm/companies/lhoir-marteau.yaml
+
+  '

@@ -1,0 +1,13 @@
+# Les images sont référencées par NOM DE FICHIER : le moteur les retrouve
+# n'importe où dans assets/ (voir kit/core.py::asset).
+images:
+  cover: cover.jpg
+  about_band: gz_hero.jpg
+  about_band_caption: "Into The Rave, un événement Gazmatek sonorisé par Falc'ohm System"
+  gazmatek_hero: gz_1.jpg
+  posters: [po1.jpg, po2.jpg, po3.jpg, po4.jpg]
+  events: [gz_2.jpg, gz_3.jpg, gz_about.jpg]
+  org_band: band_stack.jpg
+  org_band_caption: "Systèmes Falc'ohm System déployés en festival, Belgique"
+  mockup_post: gz_3.jpg
+  thanks: band_hero.jpg

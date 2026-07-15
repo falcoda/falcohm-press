@@ -1,0 +1,11 @@
+company: "Penn Elcom"
+persona: fournisseur-technique
+module: flightcases
+phase: 1
+contact:
+  name: ""
+  role: "Responsable commercial"
+  email: ""
+website: "https://www.pennelcom.com"
+notes: |
+  Composants flight cases.

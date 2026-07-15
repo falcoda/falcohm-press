@@ -1,0 +1,99 @@
+slug: vanhumbeeck-freres
+company: Vanhumbeeck Frères
+aka:
+- Vanhumbeeck frères sprl
+- Vanhum
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 25
+website: https://vanhumbeeckfreres.be
+knowledge: ''
+profile:
+  activity: Négociant bruxellois spécialisé en bois et panneaux depuis 1832, implanté
+    avenue de Vilvorde à Bruxelles. Dispose d'un stock étendu et propose portes intérieures,
+    parquets, revêtements de sol et mobilier sur mesure, en plus de son offre de bois
+    et panneaux.
+  products:
+  - Bois et panneaux
+  - Portes intérieures
+  - Parquets et revêtements de sol
+  - Mobilier sur mesure
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE 0400.449.949
+    linkedin: ''
+why_us: 'Maison familiale bruxelloise avec près de 200 ans d''histoire (1832) et un
+  stock important de bois et panneaux : le type d''acteur qui a la profondeur de stock
+  pour absorber un besoin récurrent sans que ça lui coûte cher. Bruxelles reste à
+  portée d''enlèvement depuis Genappe (~35 km). Leur activité de mobilier sur mesure
+  suppose un atelier : il y a une capacité de découpe à explorer, et des chutes de
+  panneaux qui existent forcément.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Compte professionnel avec remise récurrente sur le multiplex bouleau (15/18/21
+    mm) et récupération des chutes/fins de série issues de leur atelier de mobilier
+    sur mesure. Contrepartie : logo sur le sound system, mentions sur les 10-15 événements
+    Gazmatek/an et auprès des 27 000 abonnés.'
+  realistic_value_eur: 2500
+values:
+- Maison familiale depuis 1832
+- Spécialiste bois et panneaux
+- Stock étendu
+- Savoir-faire du sur-mesure
+sponsorship_history: []
+contacts:
+- name: ''
+  role: ''
+  email: info@vanhum.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 2 216 31 32
+  source_url: https://vanhumbeeckfreres.be/contact
+  retrieved_on: 2026-07-14
+  evidence: Vanhumbeeck frères sprl — Avenue de Vilvorde 100 - 1000 Bruxelles — +32
+    2 216 31 32 — info@vanhum.be — BE 0400.449.949
+inbound_channels:
+- type: form
+  url: https://vanhumbeeckfreres.be/contact
+scoring:
+  business_fit: 7
+  partnership_probability: 6
+  impact_if_successful: 6
+  rationale: 'Ils se présentent comme spécialistes bois et panneaux depuis 1832 avec
+    un stock étendu, mais leur communication est orientée portes/parquets/mobilier
+    plutôt que panneau technique : rien ne confirme une gamme bouleau BB/CP, d''où
+    un fit à 7. Probabilité moyenne : PME familiale indépendante, donc décision courte,
+    mais aucun contact nommé, aucun sponsoring connu, et l''entrée se fait par un
+    info@. Impact modéré — utile surtout comme source d''appoint et de chutes, pas
+    comme fournisseur principal.'
+deadlines: []
+sources:
+- url: https://vanhumbeeckfreres.be/contact
+  retrieved_on: 2026-07-14
+- url: https://vanhumbeeckfreres.be/specialiste-en-bois-et-panneaux-depuis-1832
+  retrieved_on: 2026-07-14
+documents:
+- output\Vanhumbeeck-Freres\Vanhumbeeck-Freres-Partnership-2026.pdf
+- output\Vanhumbeeck-Freres\Vanhumbeeck-Freres-OnePager-2026.pdf
+- output\Vanhumbeeck-Freres\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Adresse : Avenue de Vilvorde 100, 1000 Bruxelles. Horaires : lun-jeu 7h-17h
+  sans interruption, ven 7h-15h, fermé le samedi. Horaire d''été réduit du 22 juillet
+  au 7 août — éviter cette fenêtre pour prospecter. Aucun nom de contact publié sur
+  la page contact : ne rien extrapoler à partir du domaine vanhum.be. À qualifier
+  par téléphone : vérifier s''ils tiennent réellement du multiplex bouleau en épaisseurs
+  15/18/21 mm avant d''investir un dossier complet.'

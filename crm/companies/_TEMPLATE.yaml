@@ -1,0 +1,79 @@
+# crm/companies/<slug>.yaml — une entreprise.
+#
+# La règle qui compte plus que toutes les autres :
+#   un e-mail sans `source_url`, `retrieved_on` et `evidence` fait ÉCHOUER la validation.
+#   Pas un avertissement : une erreur, et la CI est rouge. Une adresse devinée qui rebondit
+#   grille l'entreprise pour de bon, et on ne le saura jamais.
+#
+# `make crm-validate` avant chaque envoi.
+
+slug: triplaco                    # = le nom du fichier, sans .yaml
+company: "Triplaco"
+aka: []                           # autres noms, marques, anciennes raisons sociales
+country: BE
+sector: bois                      # = module → modules/bois.yaml. Décide du contenu sectoriel.
+persona: fournisseur-technique    # → personas/. Décide des pages et du ton.
+categories: [wood]                # voir crm/categories.yaml
+status: lead                      # voir docs/CRM.md
+phase: 1
+tags: [technique, belge]
+score: 0                          # CALCULÉ. Ne pas y toucher : `--log` le recalcule.
+website: "https://www.triplaco.be"
+knowledge: knowledge/Triplaco.md
+
+profile:
+  activity: "Négociant en panneaux, trois dépôts en Wallonie."
+  products: ["Multiplex bouleau 15/18/21 mm", "Découpe sur mesure"]
+  size: { employees: "", revenue: "" }      # "" quand on ne sait pas. Jamais une estimation.
+  identifiers: { vat: "", linkedin: "" }
+
+why_us: >
+  Pourquoi EUX, et pas leur voisin. Une raison précise et vérifiable, pas une politesse.
+  « À 20 km de l'atelier, ils sponsorisent déjà le club de basket de Nivelles,
+  et le bouleau est leur produit d'appel. »
+
+ask:
+  type: [material, discount]      # financial | material | discount | loan | consumables | visibility | services
+  detail: >
+    Ce qu'on demande, en une phrase qu'on pourrait dire au téléphone.
+    « Un tarif partenaire sur le multiplex bouleau, et les chutes de découpe. »
+  realistic_value_eur: 2000       # ordre de grandeur annuel. Sert à trier, pas à facturer.
+
+values: []                        # ce qu'ILS affichent, pas ce qu'on aimerait qu'ils affichent
+
+sponsorship_history: []           # ce qu'ils sponsorisent DÉJÀ — le meilleur prédicteur d'un oui
+  # - { what: "Club de basket de Nivelles", url: "https://...", retrieved_on: 2026-07-14 }
+
+contacts:                         # sponsoring > marketing > commercial > communication > général
+  - name: ""
+    role: "Directeur commercial"
+    email: ""
+    email_status: none            # verified_public | generic | none   ← une adresse devinée n'existe pas
+    linkedin: ""
+    phone: ""
+    source_url: ""                # OBLIGATOIRE dès qu'il y a un e-mail : l'URL où on l'a lu
+    retrieved_on: ""              # OBLIGATOIRE dès qu'il y a un e-mail
+    evidence: ""                  # OBLIGATOIRE dès qu'il y a un e-mail : la ligne recopiée telle quelle
+
+inbound_channels: []              # quand il n'y a pas d'adresse publique, alors ceci est obligatoire
+  # - { type: form, url: "https://..." }        # form | portal | linkedin
+
+scoring:                          # 0-10 chacun. Le score global est calculé, pas saisi.
+  business_fit: 0                 # leurs produits répondent-ils à un besoin réel ?
+  partnership_probability: 0      # diront-ils oui ? Sois lucide : un géant mondial, c'est 2.
+  impact_if_successful: 0         # et si oui, qu'est-ce que ça change ?
+  rationale: >
+    Deux phrases qui justifient les trois chiffres. Sans elles, les notes ne valent rien,
+    et personne — toi compris, dans six mois — ne saura sur quoi elles reposaient.
+
+deadlines: []                     # pour les subsides : { what, date, url }. Rater une date coûte un an.
+sources: []                       # - { url: "https://...", retrieved_on: 2026-07-14 }
+
+documents: []                     # rempli automatiquement par `kit --target triplaco`
+interactions: []                  # { date, type: mail|relance|visio|réponse, resume, next }
+events: []                        # événements où l'entreprise était présente
+next_action:
+  what: "Identifier le directeur commercial"
+  due: ""
+
+notes: ""                         # les pièges, les précédents, ce qu'il ne faut pas dire

@@ -1,0 +1,90 @@
+label: "Institutionnel"
+subject: "Demande de soutien institutionnel : projet culturel en Brabant wallon"
+targets: ["Loterie Nationale", "Province du Brabant wallon", "Fédération Wallonie-Bruxelles", "Commune de Genappe"]
+
+pages: [cover, about, gazmatek, ecosystem, project, timeline, benefits, packages, contact]
+
+cover:
+  kicker: "Demande de soutien institutionnel"
+  subtitle: "Un projet culturel porté par une ASBL en Brabant wallon"
+
+partner:
+  role: "Le soutien public"
+  icon: shield
+  items: ["Subside ou appel à projets", "Mise à disposition de lieux", "Soutien logistique", "Relais institutionnel"]
+
+gazmatek:
+  intro: >-
+    Gazmatek fait vivre une scène culturelle indépendante en Belgique : événements musicaux, plateaux d'artistes émergents, expériences immersives. L'association est entièrement portée par des bénévoles.
+  band:
+    title: "Une scène culturelle indépendante et bénévole."
+    text: >-
+      Plus de 40 membres et bénévoles, une dizaine d'événements par an et plus de 10 000 festivaliers touchés chaque année, sans structure commerciale.
+
+ecosystem:
+  intro: >-
+    Gazmatek porte le projet culturel et la relation au public. Falc'ohm System assure la technique et la formation des bénévoles. Un soutien public permet à l'ensemble de fonctionner et de se pérenniser.
+  band:
+    title: "Un projet culturel à but non lucratif."
+    text: >-
+      Chaque euro investi retourne dans le matériel, la formation des bénévoles et la programmation d'artistes émergents.
+
+project:
+  title: "Un projet culturel,\nporté par des bénévoles."
+  intro: >-
+    Falc'ohm System est une ASBL fondée en 2020. Elle organise et sonorise des événements culturels, forme ses bénévoles à la technique du spectacle et construit son propre matériel pour rester indépendante.
+  intro2: >-
+    Nous sollicitons un soutien institutionnel pour poursuivre cette dynamique : équipement, formation et accessibilité de nos événements.
+  images:
+    - { file: gz_1.jpg, caption: "Un événement Gazmatek" }
+    - { file: constr.jpg, caption: "Fabrication en atelier" }
+    - { file: gz_2.jpg, caption: "Nos bénévoles et notre public" }
+  caption: >-
+    Une association sans but lucratif : les moyens obtenus servent le matériel, les bénévoles et les artistes.
+
+needs:
+  title: "CE QUE NOUS RECHERCHONS"
+  items:
+    - { icon: euro, title: "Soutien financier", text: "Subside ou appel à projets pour l'équipement et la programmation." }
+    - { icon: door, title: "Mise à disposition de lieux", text: "Accès à des salles ou à des espaces pour nos événements et notre atelier." }
+    - { icon: heart, title: "Soutien logistique", text: "Matériel, communication ou accompagnement administratif." }
+
+timeline:
+  intro: >-
+    L'association se construit année après année, sans structure commerciale, uniquement grâce à ses bénévoles et à ses partenaires.
+  overrides:
+    "2026":  { title: "Demande de soutien institutionnel", text: "Équipement, formation et accessibilité de nos événements." }
+    "2027+": { title: "Pérennisation", text: "Structuration de l'ASBL, formation continue et nouveaux projets." }
+  next:
+    - { icon: tools, title: "Formation des bénévoles", text: "Transmettre les métiers techniques du spectacle." }
+    - { icon: speaker, title: "Équipement du parc", text: "Du matériel construit et entretenu en interne." }
+    - { icon: heart, title: "Accessibilité", text: "Des événements accessibles et un soutien aux artistes émergents." }
+  band:
+    title: "Un projet inscrit dans la durée."
+    text: >-
+      Depuis 2020, l'association n'a cessé de se structurer : un soutien aujourd'hui produit des effets sur plusieurs années.
+
+benefits:
+  intro: >-
+    Un soutien institutionnel est valorisé sur l'ensemble de nos supports et dans la communication de nos deux projets, Gazmatek et Falc'ohm System.
+  band_text: >-
+    Affiches, sites, réseaux, aftermovies et rapport d'activité : votre soutien est mentionné sur chaque support de communication de l'association.
+  post_text: "Nos événements sont soutenus par nos partenaires institutionnels."
+  marking_text: "AVEC LE SOUTIEN DE"
+  marking_label: "Sur nos supports officiels"
+
+packages:
+  intro: >-
+    Plusieurs formes de soutien sont possibles. Chacune a un effet direct et mesurable sur l'activité de l'association.
+  items:
+    - { icon: euro, title: "Subside de fonctionnement", text: "Un soutien au fonctionnement courant de l'ASBL." }
+    - { icon: boxes, title: "Subside d'équipement", text: "Un soutien ciblé sur le matériel technique." }
+    - { icon: target, title: "Appel à projets", text: "Un accompagnement dans le cadre d'un appel à projets culturel." }
+    - { icon: door, title: "Mise à disposition de lieux", text: "Salles, espaces de stockage ou atelier." }
+    - { icon: megaphone, title: "Relais de communication", text: "Une visibilité sur vos canaux institutionnels." }
+    - { icon: tools, title: "Soutien à la formation", text: "Un appui à la formation technique de nos bénévoles." }
+    - { icon: star, title: "Partenariat pluriannuel", text: "Un soutien inscrit dans la durée, avec rapport d'activité." }
+
+onepager:
+  pitch: >-
+    Falc'ohm System est une ASBL fondée en 2020, portée par plus de 40 bénévoles. Elle organise des événements culturels (Gazmatek), forme ses bénévoles aux métiers techniques et construit son matériel. Nous sollicitons un soutien institutionnel.

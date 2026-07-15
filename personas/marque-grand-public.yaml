@@ -1,0 +1,7 @@
+label: "Marque grand public"
+objective: "Sponsoring financier, activation de marque, visibilité auprès du public."
+tone: "Orienté audience et image. Les chiffres de communauté priment sur la technique."
+# Pas de page « matière » : la marque se moque du multiplex bouleau.
+pages: [cover, about, gazmatek, ecosystem, project, timeline, benefits, packages, contact]
+emphasis: [audience, communaute, activation]
+email: marque

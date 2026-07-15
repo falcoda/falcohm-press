@@ -1,0 +1,90 @@
+label: "Télécom"
+subject: "Recherche d'un partenaire télécom pour nos événements"
+targets: ["Base", "Proximus", "Orange", "Telenet"]
+
+pages: [cover, about, gazmatek, ecosystem, project, timeline, benefits, packages, contact]
+
+cover:
+  kicker: "Recherche d'un partenaire télécom"
+  subtitle: "Connectivité et communication de nos événements culturels"
+
+partner:
+  role: "Le partenaire télécom"
+  icon: globe
+  items: ["Connectivité événementielle", "Data et téléphonie", "Radios et talkies", "Visibilité auprès du public"]
+
+gazmatek:
+  intro: >-
+    Un événement Gazmatek, c'est une billetterie, des paiements, une régie, une équipe de plus de quarante bénévoles à coordonner. Rien de tout cela ne fonctionne sans une connexion fiable sur site.
+  band:
+    title: "Votre marque, au contact direct du public."
+    text: >-
+      Nos événements réunissent chaque année plus de 10 000 festivaliers, un public jeune, urbain et très connecté.
+
+ecosystem:
+  intro: >-
+    Gazmatek fait vivre les événements et rassemble la communauté. Falc'ohm System assure la technique. Votre entreprise apporte la connectivité qui fait tourner le tout.
+  band:
+    title: "Une communauté de 27 000 abonnés."
+    text: >-
+      Un partenariat visible sur nos affiches, nos réseaux et nos sites, auprès d'un public jeune et engagé.
+
+project:
+  title: "Connecter nos événements,\ndu bar à la régie."
+  intro: >-
+    Nos événements réunissent plusieurs milliers de personnes, une billetterie, des terminaux de paiement, une régie technique et une équipe de bénévoles répartie sur tout le site.
+  intro2: >-
+    La connectivité conditionne la billetterie, les paiements, la sécurité et la coordination des équipes. Nous recherchons un partenaire télécom capable de nous accompagner sur la durée.
+  images:
+    - { file: gz_1.jpg, caption: "Un événement Gazmatek" }
+    - { file: band_night.jpg, caption: "Notre public" }
+    - { file: rig.jpg, caption: "La régie technique" }
+  caption: >-
+    Billetterie, paiements, régie, sécurité : nos événements reposent sur une connexion fiable de bout en bout.
+
+needs:
+  title: "CE QUE NOUS RECHERCHONS EN TÉLÉCOM"
+  items:
+    - { icon: globe, title: "Connectivité sur site", text: "Connexion data fiable pour la billetterie et les paiements." }
+    - { icon: social, title: "Téléphonie et data", text: "Forfaits pour l'équipe organisatrice et la régie." }
+    - { icon: megaphone, title: "Radios et talkies", text: "Matériel de communication pour la coordination des équipes." }
+
+timeline:
+  intro: >-
+    Nos événements gagnent en taille chaque année. Les besoins en connectivité suivent la même courbe.
+  overrides:
+    "2026":  { title: "Recherche d'un partenaire télécom", text: "Connectivité de nos événements et de notre régie." }
+    "2027+": { title: "Suite du projet", text: "Montée en charge : plus de dates, plus de public, plus de flux." }
+  next:
+    - { icon: globe, title: "Connectivité événementielle", text: "Une solution fiable pour la billetterie et les paiements." }
+    - { icon: megaphone, title: "Coordination des équipes", text: "Radios et téléphonie pour plus de 40 bénévoles." }
+    - { icon: social, title: "Communication en direct", text: "Diffusion et contenus live depuis nos événements." }
+  band:
+    title: "Un besoin sur chaque date, toute l'année."
+    text: >-
+      Le partenaire qui nous rejoint aujourd'hui accompagne l'ensemble de nos événements, saison après saison.
+
+benefits:
+  intro: >-
+    Votre visibilité s'adresse à un public jeune, urbain et connecté : celui des événements Gazmatek et de la communauté Falc'ohm System.
+  band_text: >-
+    Site, réseaux sociaux, affiches, écrans : une présence sur des événements réunissant plus de 10 000 festivaliers par an.
+  post_text: "Nos événements sont connectés grâce à notre partenaire télécom."
+  marking_text: "CONNECTED BY"
+  marking_label: "Sur nos supports et notre régie"
+
+packages:
+  intro: >-
+    Nous n'attendons pas un engagement unique et figé. Plusieurs formes de collaboration sont possibles, du soutien matériel au partenariat de visibilité.
+  items:
+    - { icon: tag, title: "Conditions préférentielles", text: "Des conditions adaptées à une ASBL culturelle." }
+    - { icon: globe, title: "Connectivité sur site", text: "Une solution data pour nos événements." }
+    - { icon: euro, title: "Forfaits équipe", text: "Des forfaits data et téléphonie pour l'organisation." }
+    - { icon: megaphone, title: "Matériel de communication", text: "Radios et talkies pour la coordination." }
+    - { icon: social, title: "Partenariat de visibilité", text: "Une présence sur nos supports et nos réseaux." }
+    - { icon: link, title: "Partenariat partiel", text: "Une prise en charge d'une partie des besoins, en échange de visibilité." }
+    - { icon: star, title: "Partenariat complet", text: "Un partenariat annuel sur l'ensemble de nos événements." }
+
+onepager:
+  pitch: >-
+    Gazmatek, projet culturel de l'ASBL Falc'ohm System, réunit plus de 10 000 festivaliers par an et une communauté de 27 000 abonnés. Nous recherchons un partenaire télécom pour la connectivité de nos événements et la visibilité auprès d'un public jeune.

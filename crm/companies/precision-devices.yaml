@@ -1,0 +1,105 @@
+slug: precision-devices
+company: Precision Devices Ltd
+aka:
+- PD
+- Precision Devices Loudspeakers
+country: GB
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 26
+website: https://www.precision-devices.com
+knowledge: ''
+profile:
+  activity: Fabricant britannique de transducteurs professionnels basé à Normanton
+    (West Yorkshire). Spécialiste du haut-parleur de grave de très grand diamètre,
+    avec deux sites de production (Yorkshire et Shenzhen).
+  products:
+  - Woofers de grave 12" à 24" (dont le 24" PD.2450, référence des subs à pavillon)
+  - Médiums vocaux 6,5" et 8"
+  - Moteurs de compression
+  - Produits OEM / special order
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: GB816856107
+    linkedin: ''
+why_us: 'Precision Devices est LE spécialiste du très grand diamètre : leurs 18\",
+  21\" et surtout le 24\" sont conçus pour le grave à fort niveau et sont un choix
+  classique des caissons à pavillon. C''est exactement la partie du système Falc''ohm
+  que les fabricants « généralistes » couvrent le moins bien. Structure britannique
+  de taille moyenne, joignable par téléphone en direct, et un catalogue qui vit aussi
+  de commandes spéciales / OEM — donc habituée aux petites séries et aux constructeurs.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: 'Conditions professionnelles ou dotation partielle sur les HP de grave 18\"/21\"
+    des caissons horn, plus accès aux membranes/kits de recone. Contrepartie : marquage
+    sur les façades et visibilité sur 10-15 événements/an. Prévoir la question des
+    droits de douane post-Brexit dans la négociation (voir notes).'
+  realistic_value_eur: 9000
+values:
+- made-in-UK
+- spécialisation grave
+- ingénierie
+- OEM / petites séries
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général
+  email: info@precision-devices.com
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.precision-devices.com/contact
+  retrieved_on: '2026-07-14'
+  evidence: Adresse masquee Cloudflare (email-protection#523b3c34…) decodee (cle XOR
+    0x52) = info@precision-devices.com. Tel +44 (0)1924 224610
+inbound_channels:
+- type: form
+  url: https://www.precision-devices.com/contact-us/
+scoring:
+  business_fit: 8
+  partnership_probability: 4
+  impact_if_successful: 8
+  rationale: 'Excellent fit sur le point le plus dur du projet (le grave des subs
+    horn), et une culture « special order / OEM » qui rend une petite série crédible
+    chez eux. Mais : aucun e-mail lisible (protection anti-spam), aucun antécédent
+    de sponsoring, et le Royaume-Uni hors UE ajoute douane et TVA à l''import — ce
+    qui rabote mécaniquement l''intérêt d''une remise. Ils poussent d''ailleurs leurs
+    clients européens vers Thomann, leur « Authorised Distribution Partner » pour
+    l''Europe.'
+deadlines: []
+sources:
+- url: https://www.precision-devices.com/contact-us/
+  retrieved_on: 2026-07-14
+- url: https://www.precision-devices.com/where-to-buy/
+  retrieved_on: 2026-07-14
+- url: https://www.precision-devices.com/products/archived-products/pd-122/
+  retrieved_on: 2026-07-14
+- url: https://www.precision-devices.com/contact
+  retrieved_on: '2026-07-14'
+documents:
+- output\Precision-Devices-Ltd\Precision-Devices-Ltd-Partnership-2026.pdf
+- output\Precision-Devices-Ltd\Precision-Devices-Ltd-OnePager-2026.pdf
+- output\Precision-Devices-Ltd\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'E-mail NON VÉRIFIABLE : l''adresse est masquée par la protection anti-spam
+  Cloudflare sur toutes les pages du site (contact, produits, where-to-buy) et s''affiche
+  en « [email protected] » à la lecture. Une adresse info@ circule sur des moteurs
+  de recherche mais n''a pas pu être lue sur la page : volontairement non reprise
+  ici. Coordonnées lues et fiables : "Unit 4 Ripley Close Normanton Wakefield West
+  Yorkshire WF6 1TB England", "+44 (0)1924 224610", "Registered in England No.: 4805351",
+  "VAT Registration No.: GB816856107". Premier contact recommandé par téléphone ou
+  via le formulaire. Distributeur EU officiel : Thomann (DE).'

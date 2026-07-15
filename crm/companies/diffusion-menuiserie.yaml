@@ -1,0 +1,99 @@
+slug: diffusion-menuiserie
+company: Diffusion Menuiserie
+aka: []
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 45
+website: https://www.diffusionmenuiserie.be
+knowledge: ''
+profile:
+  activity: 'Négoce de bois wallon multi-sites (Gosselies, Court-Saint-Étienne, Cuesmes,
+    Philippeville, Soignies), présent en magasin et en ligne. Se présente comme le
+    plus grand négoce de bois en ligne et en magasin. Propose un service de découpe
+    de panneaux : mélaminés, massifs, MDF, agglomérés, multiplex ou OSB.'
+  products:
+  - Multiplex / contreplaqué
+  - Panneaux mélaminés, MDF, agglomérés, OSB
+  - Bois massif
+  - Service de découpe de panneaux sur mesure
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Leur dépôt de Court-Saint-Étienne (1490) est le point de vente professionnel
+  le plus proche de l''atelier de Genappe de tout le panel — une dizaine de kilomètres,
+  même province. Ils proposent explicitement la découpe de multiplex, donc Falc''ohm
+  peut sortir des panneaux déjà débités aux cotes des enceintes. Négoce wallon 100
+  % régional (5 sites, tous en Wallonie) : l''argument ''nous sommes une asbl wallonne,
+  vos clients sont nos festivaliers'' porte directement.'
+ask:
+  type:
+  - material
+  - discount
+  - services
+  detail: 'Compte pro avec remise récurrente sur le multiplex bouleau, enlèvement
+    à Court-Saint-Étienne (~10 km de l''atelier), accès aux chutes et fins de série,
+    et découpe des panneaux aux cotes des enceintes à tarif partenaire. Contrepartie
+    : visibilité sur le sound system et sur les 10-15 événements Gazmatek/an, audience
+    jeune wallonne (27 000 abonnés).'
+  realistic_value_eur: 3500
+values:
+- Négoce wallon multi-sites
+- Service de découpe sur mesure
+- Accessibilité pro et particuliers
+sponsorship_history: []
+contacts:
+- name: ''
+  role: ''
+  email: contact@diffusionmenuiserie.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 71 25 70 80
+  source_url: https://www.diffusionmenuiserie.be/fr/contact
+  retrieved_on: 2026-07-14
+  evidence: contact@diffusionmenuiserie.be — eshop@diffusionmenuiserie.be — +32 71
+    25 70 80 — Avenue des Métallurgistes 5a, 1490 COURT-ST-ETIENNE
+inbound_channels:
+- type: form
+  url: https://www.diffusionmenuiserie.be/fr/contact
+scoring:
+  business_fit: 8
+  partnership_probability: 7
+  impact_if_successful: 8
+  rationale: 'Ils annoncent la découpe de multiplex et tiennent une gamme de panneaux
+    large, ce qui colle au besoin ; le fit n''est pas à 10 car le site ne confirme
+    pas explicitement une gamme bouleau qualité BB/CP. La probabilité est bonne :
+    négoce wallon indépendant, pas un groupe international, et le dépôt de Court-Saint-Étienne
+    est à ~10 km — la visite d''atelier est immédiate. Impact élevé grâce à la proximité
+    : enlèvements fréquents sans coût logistique, et la découpe sur place économise
+    du temps d''atelier.'
+deadlines: []
+sources:
+- url: https://www.diffusionmenuiserie.be/fr/contact
+  retrieved_on: 2026-07-14
+- url: https://www.diffusionmenuiserie.be/fr/
+  retrieved_on: 2026-07-14
+documents:
+- output\Diffusion-Menuiserie\Diffusion-Menuiserie-Partnership-2026.pdf
+- output\Diffusion-Menuiserie\Diffusion-Menuiserie-OnePager-2026.pdf
+- output\Diffusion-Menuiserie\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Dépôts et showrooms : Gosselies (Avenue des Etats-Unis 110, 6041), Court-Saint-Étienne
+  (Avenue des Métallurgistes 5a, 1490 — LE PLUS PROCHE de Genappe), Cuesmes (Rue de
+  la Poire d''Or 10, 7033), Philippeville (showroom, Zoning des Quatre Bras 6, 5600),
+  Soignies (showroom, Chaussée du Roeulx 353, 7060). Second email publié : eshop@diffusionmenuiserie.be.
+  Aucun nom de contact ni n° de TVA publié sur la page contact — ne rien inventer.
+  Aucun sponsoring identifié. STRATÉGIE : se présenter physiquement au dépôt de Court-Saint-Étienne,
+  c''est le canal le plus rapide vers un responsable.'

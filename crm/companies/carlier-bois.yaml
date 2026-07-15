@@ -1,0 +1,111 @@
+slug: carlier-bois
+company: Carlier Bois
+aka: []
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 25
+website: https://www.carlier.be
+knowledge: ''
+profile:
+  activity: 'Spécialiste du bois à Namur, sur deux implantations : un libre-service
+    avenue Albert 1er à Namur et un ''Espace Pro'' avec salle d''exposition à Suarlée.
+    Couvre tout ce qui touche à la construction et au travail du bois, avec un rayon
+    panneaux (panneaux de menuiserie, MDF).'
+  products:
+  - Panneaux de menuiserie
+  - MDF
+  - Bois de construction et de menuiserie
+  - Matériaux pour le travail du bois
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Ils ont un ''Espace Pro'' dédié aux professionnels à Suarlée, distinct du
+  libre-service : c''est exactement le canal par lequel une asbl qui achète en récurrence
+  doit entrer, avec un vrai interlocuteur commercial en face. Namur est à ~35 km de
+  Genappe, dans le rayon d''un enlèvement mensuel. Acteur régional wallon indépendant,
+  pas un maillon d''un groupe international : le partenariat se décide sur place.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Ouverture d''un compte via leur Espace Pro de Suarlée avec remise récurrente
+    négociée sur le multiplex bouleau (15/18/21 mm), plus accès aux chutes et fins
+    de série de panneaux. Contrepartie : visibilité sur le sound system Falc''ohm
+    et sur les 10-15 événements Gazmatek/an (+10 000 festivaliers).'
+  realistic_value_eur: 2500
+values:
+- Acteur régional namurois
+- Espace dédié aux professionnels
+- Spécialiste du travail du bois
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Espace Pro Suarlée
+  email: info@carlier.be
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://pro.carlier.be/contactez-nous
+  retrieved_on: '2026-07-14'
+  evidence: '« Carlier Bois (SUARLEE) — Rue du Fond du Maréchal, 29 — 5020 Suarlée
+    — Tél. 081 25 03 20 — Email : info@carlier.be » (Espace Pro)'
+- name: ''
+  role: ''
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: +32 (0)81 25 03 20
+  source_url: https://www.carlier.be/page/contact.html
+  retrieved_on: 2026-07-14
+  evidence: 'Espace Pro & Salle d''exposition : Rue du Fond du Maréchal 29, 5020 Suarlée
+    (Namur), Belgique — +32 (0)81 25 03 20. Libre-Service : Avenue Albert 1er 255,
+    5000 Namur — +32 (0)81 25 03 30. AUCUNE adresse email publiée sur la page contact.'
+inbound_channels:
+- type: form
+  url: https://www.carlier.be/page/contactez-nous.html
+scoring:
+  business_fit: 7
+  partnership_probability: 6
+  impact_if_successful: 6
+  rationale: 'Ils tiennent bien un rayon panneaux (menuiserie, MDF), mais la présence
+    d''une gamme multiplex bouleau technique n''est pas démontrée sur le site : fit
+    à 7 en attendant qualification. La probabilité est moyenne : acteur régional indépendant
+    et Espace Pro accessible, mais aucun contact nommé, aucun email public et aucun
+    antécédent de sponsoring repéré — l''entrée sera plus lente. Impact correct si
+    le compte pro est ouvert, la distance (~35 km) restant compatible avec des enlèvements
+    réguliers.'
+deadlines: []
+sources:
+- url: https://www.carlier.be/page/contact.html
+  retrieved_on: 2026-07-14
+- url: https://www.carlier.be/
+  retrieved_on: 2026-07-14
+- url: https://www.carlier.be/page/panneau-surface.html
+  retrieved_on: 2026-07-14
+- url: https://pro.carlier.be/contactez-nous
+  retrieved_on: '2026-07-14'
+documents:
+- output\Carlier-Bois\Carlier-Bois-Partnership-2026.pdf
+- output\Carlier-Bois\Carlier-Bois-OnePager-2026.pdf
+- output\Carlier-Bois\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'AUCUN EMAIL PUBLIC sur la page contact — contacts laissé sans email volontairement,
+  entrée par téléphone ou formulaire (/page/contactez-nous.html). Deux sites : Libre-Service
+  Namur (Avenue Albert 1er 255, 5000 Namur — lun-sam) et Espace Pro & Salle d''exposition
+  Suarlée (Rue du Fond du Maréchal 29, 5020 Suarlée — lun-ven 7h30-12h/13h-17h, sam
+  8h-12h/12h30-16h30). VISER SUARLÉE : c''est le canal professionnel. Aucun nom de
+  dirigeant ni n° de TVA publié. À QUALIFIER : confirmer la disponibilité du multiplex
+  bouleau en 15/18/21 mm.'

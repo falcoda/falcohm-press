@@ -1,0 +1,31 @@
+name: build
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  documents:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt
+      - name: CRM — aucune adresse e-mail sans source
+        run: python -m kit --crm-validate
+      - name: Dossiers génériques
+        run: python -m kit --all
+      - name: Media kit
+        run: python -m kit mediakit
+      - name: Dossiers par cible
+        run: python -m kit --targets
+      - name: Pipeline commercial
+        run: python -m kit --crm
+      - uses: actions/upload-artifact@v4
+        with:
+          name: documents
+          path: output/**
+          if-no-files-found: error

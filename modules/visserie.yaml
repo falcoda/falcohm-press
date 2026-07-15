@@ -1,0 +1,90 @@
+label: "Visserie"
+subject: "Recherche d'un partenaire visserie et quincaillerie"
+targets: ["Würth", "Fischer", "Bossard", "Fabory"]
+
+pages: [cover, about, gazmatek, ecosystem, project, timeline, benefits, packages, contact]
+
+cover:
+  kicker: "Recherche d'un partenaire visserie"
+  subtitle: "Assemblage et quincaillerie de nos enceintes et flight cases"
+
+partner:
+  role: "Le partenaire quincaillerie"
+  icon: boxes
+  items: ["Visserie et inserts", "Poignées et coins", "Grilles et accessoires", "Approvisionnement régulier"]
+
+gazmatek:
+  intro: >-
+    Chaque événement Gazmatek exige un système son performant, monté et démonté chaque week-end. Falc'ohm System fabrique ce matériel : la visserie et la quincaillerie sont ce qui tient l'ensemble, littéralement.
+  band:
+    title: "Un matériel démonté et remonté chaque week-end."
+    text: >-
+      Les caissons assemblés grâce à ce partenariat tournent sur l'ensemble des événements Gazmatek et sur les prestations techniques de Falc'ohm System.
+
+ecosystem:
+  intro: >-
+    Gazmatek fait vivre les événements. Falc'ohm System construit le matériel qui les rend possibles. Votre entreprise fournit ce qui l'assemble et le protège.
+  band:
+    title: "La quincaillerie, c'est ce qui tient en tournée."
+    text: >-
+      Une vis qui lâche, c'est un caisson au sol. Nos assemblages doivent encaisser des centaines de montages et démontages.
+
+project:
+  title: "Assembler nos enceintes,\npour qu'elles tiennent."
+  intro: >-
+    Nous fabriquons une nouvelle série d'enceintes acoustiques professionnelles : caissons de basse à pavillon et tops multi horn entry, assemblés dans notre atelier et destinés à un usage intensif en tournée.
+  intro2: >-
+    Inserts filetés, vis, poignées, coins et grilles : c'est la quincaillerie qui décide de la durée de vie réelle d'un caisson. Nous recherchons un partenaire capable de nous accompagner sur la durée.
+  images:
+    - { file: constr.jpg, caption: "Assemblage en atelier" }
+    - { file: fusion.jpg, caption: "Plans 3D du caisson", fit: true }
+    - { file: cab.jpg, caption: "Maintenance du parc" }
+  caption: >-
+    Chaque caisson est démontable et réparable : c'est un choix de conception, et une exigence sur la quincaillerie.
+
+needs:
+  title: "CE QUE NOUS RECHERCHONS EN QUINCAILLERIE"
+  items:
+    - { icon: boxes, title: "Visserie et inserts", text: "Vis à bois, inserts filetés et boulonnerie pour l'assemblage des caissons." }
+    - { icon: shield, title: "Poignées et coins", text: "Poignées encastrées, coins de protection et patins pour la tournée." }
+    - { icon: layers, title: "Grilles et accessoires", text: "Grilles de façade, aérations et petites pièces de finition." }
+
+timeline:
+  intro: >-
+    Notre parc se construit année après année. Le besoin en quincaillerie est permanent : construction, maintenance, réparation.
+  overrides:
+    "2026":  { title: "Recherche d'un partenaire quincaillerie", text: "Assemblage d'une nouvelle série de caissons." }
+    "2027+": { title: "Suite du parc", text: "Retours de scène, flight cases, maintenance et renouvellement." }
+  next:
+    - { icon: boxes, title: "Nouveaux caissons", text: "Visserie et inserts pour la nouvelle série d'enceintes." }
+    - { icon: shield, title: "Protection en tournée", text: "Coins, poignées et patins pour tout le parc." }
+    - { icon: tools, title: "Maintenance du parc", text: "Stock de pièces pour les réparations courantes." }
+  band:
+    title: "Un besoin permanent, pas un achat unique."
+    text: >-
+      La quincaillerie s'use, se perd et se remplace : c'est un flux continu sur toute la durée de vie du parc.
+
+benefits:
+  intro: >-
+    Votre visibilité ne se limite pas à un logo sur une affiche : elle s'inscrit dans deux projets actifs, Gazmatek et Falc'ohm System, et dans le matériel lui-même.
+  band_text: >-
+    Site, réseaux sociaux, salons professionnels : du matériel monté et démonté chaque week-end prouve à vos clients que vos produits tiennent en usage réel.
+  post_text: "Making-of : l'assemblage de nos nouveaux caissons avec notre partenaire."
+  marking_text: "ASSEMBLED WITH"
+  marking_label: "À l'arrière de nos enceintes"
+
+packages:
+  intro: >-
+    Nous n'attendons pas un engagement unique et figé. Plusieurs formes de collaboration sont possibles, des conditions tarifaires à la fourniture complète.
+  items:
+    - { icon: tag, title: "Conditions préférentielles", text: "Des conditions adaptées à une ASBL culturelle." }
+    - { icon: euro, title: "Tarif professionnel", text: "L'accès aux conditions réservées aux professionnels." }
+    - { icon: boxes, title: "Prix quantité", text: "Une tarification dégressive sur nos volumes annuels." }
+    - { icon: layers, title: "Fourniture de visserie", text: "La mise à disposition de vis, inserts et boulonnerie." }
+    - { icon: shield, title: "Accessoires de tournée", text: "Poignées, coins, patins et grilles de protection." }
+    - { icon: link, title: "Partenariat partiel", text: "Une prise en charge d'une partie du matériel, en échange de visibilité." }
+    - { icon: star, title: "Partenariat complet", text: "La fourniture de la quincaillerie du projet, avec une visibilité maximale." }
+
+onepager:
+  pitch: >-
+    Falc'ohm System est une ASBL belge qui organise des événements musicaux (Gazmatek) et fabrique son propre matériel. Nous recherchons un partenaire quincaillerie : visserie, inserts, poignées et coins pour du matériel monté et démonté chaque week-end.

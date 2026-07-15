@@ -1,0 +1,20 @@
+company: Oberton Ltd.
+persona: fabricant-audio
+module: audio
+phase: 1
+contact:
+  name: ''
+  role: ''
+  email: ''
+website: https://www.oberton.com
+notes: 'Oberton est le meilleur compromis euros/décibels de la liste : des transducteurs
+  fabriqués dans l''UE, de qualité pro reconnue (tests audioXpress sur leurs moteurs
+  1,4\"), à un prix qui permet d''équiper un parc entier plutôt qu''un seul caisson.
+  Pour une ASBL qui doit équiper une série complète de subs horn et de tops avec un
+  budget de bénévoles, c''est l''option qui rend le projet finançable. Fabricant de
+  taille moyenne, en croissance et en recherche de notoriété en Europe de l''Ouest
+  : un rig belge de référence a une vraie valeur marketing pour eux.
+
+  Fiche CRM : crm/companies/oberton.yaml
+
+  '

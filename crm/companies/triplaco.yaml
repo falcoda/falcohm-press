@@ -1,0 +1,119 @@
+slug: triplaco
+company: Triplaco
+aka:
+- Triplaco nv
+- Groep Lefevere
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: sent
+phase: 1
+tags:
+- technique
+- belge
+score: 28
+website: https://www.triplaco.be
+knowledge: knowledge/Triplaco.md
+profile:
+  activity: 'Spécialiste du panneau décoratif de haute qualité (groupe Lefevere, historique
+    familial depuis 1830 à Harelbeke). Distribue et transforme le plaatmateriaal :
+    multiplex, MDF, OSB, panneaux agglomérés, softboard, panneaux plaqués et mélaminés.
+    Assure aussi la transformation : découpe, défonçage, perçage, collage à plat,
+    postforming, laquage, panneaux acoustiques.'
+  products:
+  - Multiplex / contreplaqué (dont bouleau, qualités BB et CP)
+  - MDF, OSB, aggloméré, softboard
+  - Stratifiés HPL (distributeur Abet Laminati)
+  - Panneaux acoustiques
+  - Découpe, défonçage, perçage, collage à plat
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: https://be.linkedin.com/company/triplaco-nv
+why_us: 'Ils annoncent le multiplex bouleau en qualités BB et CP en stock — le coeur
+  du besoin. Au-delà du panneau brut, ils font la transformation (découpe, défonçage,
+  perçage) : le potentiel dépasse la simple fourniture, ils peuvent livrer des pièces
+  d''enceintes prêtes à assembler. L''enceinte de sound system est aussi une vitrine
+  idéale pour un spécialiste du panneau décoratif et acoustique : un sound system
+  Falc''ohm portant leur nom sur 10-15 événements/an est une démonstration produit
+  grandeur nature.'
+ask:
+  type:
+  - material
+  - discount
+  - services
+  detail: 'Fourniture partenaire de multiplex bouleau BB/CP (15/18/21 mm) en récurrence,
+    chutes et fins de série, et accès à leur atelier de transformation (découpe/défonçage)
+    pour les flancs d''enceintes. Angle spécifique : leur expertise en panneaux acoustiques
+    est directement pertinente pour un fabricant d''enceintes — proposer un partenariat
+    technique, pas seulement une remise.'
+  realistic_value_eur: 4000
+values:
+- Entreprise familiale (historique depuis 1830)
+- Certifié FSC (WB-COC-001751 / FSC-C146367)
+- Expertise décorative et acoustique
+- Partenaire premium des professionnels
+sponsorship_history: []
+contacts:
+- name: ''
+  role: ''
+  email: info@triplaco.be
+  email_status: generic
+  linkedin: ''
+  phone: 056/226217
+  source_url: https://www.ikzoekfsc.be/triplaco-nv/
+  retrieved_on: 2026-07-14
+  evidence: Triplaco nv | Groep Lefevere — Generaal Deprezstraat 2, 8530 Harelbeke
+    — 056/226217 — info@triplaco.be — FSC WB-COC-001751 / FSC-C146367
+inbound_channels:
+- type: form
+  url: https://www.triplaco.be/en-us/contact-us
+- type: linkedin
+  url: https://be.linkedin.com/company/triplaco-nv
+scoring:
+  business_fit: 8
+  partnership_probability: 5
+  impact_if_successful: 7
+  rationale: 'Bon fit produit : multiplex bouleau BB/CP annoncé en stock, plus un
+    atelier de transformation qui peut débiter les pièces d''enceintes, et une compétence
+    acoustique rare qui donne un angle technique crédible. Probabilité moyenne : aucun
+    contact nominatif ni antécédent de sponsoring publié, l''entrée se fait par un
+    info@ générique, et le positionnement est très industriel/B2B (mobilier, agencement).
+    Un premier envoi a déjà été fait sans interlocuteur nommé — il faut maintenant
+    obtenir un nom avant de relancer.'
+deadlines: []
+sources:
+- url: https://www.ikzoekfsc.be/triplaco-nv/
+  retrieved_on: 2026-07-14
+- url: https://www.europages.fr/TRIPLACO/BEL037276-179825001.html
+  retrieved_on: 2026-07-14
+- url: https://www.triplaco.be/en-us/wood-based-panels/plywood/plywood-birch/
+  retrieved_on: 2026-07-14
+documents:
+- output/Triplaco/Triplaco-Partnership-2026.pdf
+- output/Triplaco/Triplaco-OnePager-2026.pdf
+- output/Triplaco/email.md
+- output\Triplaco\Triplaco-Partnership-2026.pdf
+- output\Triplaco\Triplaco-OnePager-2026.pdf
+- output\Triplaco\email.md
+interactions:
+- date: '2026-07-14'
+  type: mail
+  resume: Dossier + one-pager envoyés au directeur commercial
+events: []
+next_action:
+  what: Appeler le 056/226217 pour identifier un interlocuteur nommé avant relance
+  due: ''
+notes: 'Adresse : Generaal Deprezstraat 2, 8530 Harelbeke (Flandre occidentale) —
+  loin de Genappe, l''argument de proximité ne joue pas. ATTENTION : le site triplaco.be
+  renvoie un HTTP 403 aux robots ; l''email info@triplaco.be et le téléphone 056/226217
+  ont été lus sur la fiche officielle du registre FSC belge (ikzoekfsc.be), pas sur
+  le site lui-même. Le n° de TVA n''a pas pu être confirmé sur une page réellement
+  ouverte — laissé vide volontairement. ÉTAT CRM : un dossier + one-pager ont déjà
+  été envoyés le 2026-07-14 ''au directeur commercial'' alors qu''aucun nom n''est
+  identifié — l''envoi est donc parti sur une adresse générique. Priorité : appeler
+  le 056/226217 pour obtenir le nom du responsable commercial avant toute relance.'

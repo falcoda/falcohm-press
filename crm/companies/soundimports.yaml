@@ -1,0 +1,159 @@
+slug: soundimports
+company: SoundImports B.V.
+aka:
+- SoundImports
+- SoundImports.eu
+country: NL
+sector: audio
+persona: fournisseur-technique
+categories:
+- distributors
+- audio_components
+- amplification
+status: lead
+phase: 1
+tags: []
+score: 57
+website: https://www.soundimports.eu
+knowledge: ''
+profile:
+  activity: Distributeur néerlandais spécialisé dans les composants de haut-parleurs
+    et l'audio DIY, fondé en 2015 à Groningue. Environ 30 salariés, 80 marques, 10
+    000+ références, entrepôt de 1 200 m², ~93 000 commandes/an, expéditions vers
+    60+ pays. Le premier acteur européen sur le composant HP.
+  products:
+  - Transducteurs bruts de toutes les grandes marques (woofers, moteurs de compression,
+    médiums)
+  - Modules d'amplification et DSP (Hypex, ICEpower, miniDSP, Purifi)
+  - Composants de filtre passif, câblage, connectique, bornes
+  - Outils de mesure et de conception d'enceintes
+  size:
+    employees: '30'
+    revenue: ''
+  identifiers:
+    vat: NL861325254B01
+    linkedin: https://nl.linkedin.com/company/soundimports
+why_us: 'C''est la cible la plus stratégique de tout le module audio. Un seul compte
+  chez SoundImports couvre TOUTE la nomenclature d''un caisson : les transducteurs
+  (ils référencent les grandes marques de sono), les modules d''amplification et DSP,
+  les composants de filtre, la connectique et même les outils de mesure. Là où un
+  fabricant italien ne peut offrir qu''une remise sur sa propre gamme, eux peuvent
+  porter le prix de tout le projet. Ils sont aux Pays-Bas (livraison rapide, même
+  fuseau, même TVA intracommunautaire), la structure est jeune (2015) et son fondateur
+  Martijn Ouwerkerk dirige toujours l''entreprise — pas de comité. Et ils ont déjà
+  le réflexe : ils organisent chaque année une DIY Competition, entretiennent une
+  galerie de projets communautaires et soutiennent les créateurs de contenu en produits
+  et en support technique. Une ASBL belge qui construit des subs à pavillon et documente
+  le build est littéralement leur contenu rêvé.'
+ask:
+  type:
+  - discount
+  - material
+  - consumables
+  - visibility
+  detail: 'Compte professionnel / revendeur avec remise permanente sur l''ensemble
+    de la nomenclature (transducteurs, modules d''ampli, DSP, composants de filtre,
+    connectique), plus une dotation partielle en composants pour la première série
+    de caissons. Contrepartie : documentation complète du build (photos, mesures,
+    making-of) exploitable par eux en contenu et en galerie DIY, marquage sur les
+    façades et visibilité sur 10-15 événements et 27 000 abonnés.'
+  realistic_value_eur: 15000
+values:
+- communauté DIY
+- transmission du savoir-faire
+- jeunesse
+- accessibilité technique
+- durabilité
+sponsorship_history:
+- what: 'Organise chaque année la « SoundImports DIY Competition » : les lauréats
+    reçoivent des composants audio premium (ex. 2025 : ampli Fosi Audio ZA3 + DAC
+    ZD3). Galerie de projets communautaires entretenue sur leur site.'
+  url: https://www.soundimports.eu/en/blogs/blog/soundimports-diy-competition-2025-a-father-son-adv/
+  retrieved_on: 2026-07-14
+- what: Soutiennent les créateurs de contenu en produits, support technique et via
+    un programme d'affiliation (mentionné sur leur page « About »).
+  url: https://www.soundimports.eu/en/service/about/
+  retrieved_on: 2026-07-14
+contacts:
+- name: Martijn Ouwerkerk
+  role: Fondateur & CEO
+  email: ''
+  email_status: none
+  linkedin: https://nl.linkedin.com/company/soundimports
+  phone: ''
+  source_url: https://www.soundimports.eu/en/service/about/
+  retrieved_on: 2026-07-14
+  evidence: 'Founder: Martijn Ouwerkerk (CEO) — established the company following
+    an internship in the United States, initially operating from a dorm room. Founded
+    2015, 30 staff members.'
+- name: ''
+  role: Équipe commerciale — commandes professionnelles et partenariats de long terme
+  email: sales@soundimports.nl
+  email_status: verified_public
+  linkedin: ''
+  phone: +3185-0711860
+  source_url: https://www.soundimports.eu/en/service/
+  retrieved_on: 2026-07-14
+  evidence: 'Adresse publiée sur la page « Customer support », masquée par la protection
+    anti-spam Cloudflare (« [email protected] ») et décodée depuis l''attribut data-cfemail
+    de la page le 2026-07-14. Vérifiable en ouvrant la page dans un navigateur. C''est
+    le canal que leur page « About » réserve explicitement aux « business orders and
+    long-term partnerships ». Coordonnées lues sur la même page : +3185-0711860 —
+    Peizerweg 97a, 9727AJ Groningen — TVA NL861325254B01 — KvK 78268753.'
+- name: ''
+  role: Contact général
+  email: info@soundimports.eu
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.soundimports.eu/en/service/
+  retrieved_on: 2026-07-14
+  evidence: Adresse publiée sur la page « Customer support », masquée par Cloudflare
+    et décodée depuis data-cfemail le 2026-07-14. À n'utiliser qu'en dernier recours
+    — sales@ est le bon canal.
+inbound_channels:
+- type: form
+  url: https://www.soundimports.eu/en/service/
+- type: linkedin
+  url: https://nl.linkedin.com/company/soundimports
+scoring:
+  business_fit: 9
+  partnership_probability: 7
+  impact_if_successful: 9
+  rationale: 'Un seul partenaire capable de couvrir toute la nomenclature du projet
+    — transducteurs, ampli/DSP, filtres, connectique — au lieu d''un composant. Probabilité
+    la plus élevée du module : PME néerlandaise de 30 personnes, fondateur toujours
+    aux commandes, à ~3h de route, et surtout un réflexe de soutien déjà prouvé (concours
+    DIY annuel, dotation de composants, soutien aux créateurs de contenu). Impact
+    fort et surtout RÉCURRENT : une remise revendeur permanente vaut plus sur 5-10
+    ans qu''une dotation unique.'
+deadlines: []
+sources:
+- url: https://www.soundimports.eu/en/service/
+  retrieved_on: 2026-07-14
+- url: https://www.soundimports.eu/en/service/about/
+  retrieved_on: 2026-07-14
+- url: https://www.soundimports.eu/nl/service/
+  retrieved_on: 2026-07-14
+- url: https://www.soundimports.eu/en/blogs/blog/soundimports-diy-competition-2025-a-father-son-adv/
+  retrieved_on: 2026-07-14
+documents:
+- output\SoundImports-B-V\SoundImports-B-V-Partnership-2026.pdf
+- output\SoundImports-B-V\SoundImports-B-V-OnePager-2026.pdf
+- output\SoundImports-B-V\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'E-mails NON VÉRIFIABLES en l''état : les deux adresses publiées sur la page
+  « Klantenservice / Customer support » (une générique + une pour l''équipe commerciale,
+  explicitement dédiée aux « business orders and long-term partnerships ») sont masquées
+  par la protection anti-spam Cloudflare et s''affichent en « [email protected] ».
+  Elles sont récupérables en 10 secondes en ouvrant la page dans un navigateur : À
+  FAIRE MANUELLEMENT AVANT L''ENVOI. Le fondateur-CEO Martijn Ouwerkerk est nommé
+  sur leur page About : c''est l''interlocuteur à viser (LinkedIn). Coordonnées lisibles
+  : Peizerweg 97a, 9727AJ Groningen — +3185-0711860 — KvK 78268753 — TVA NL861325254B01.
+  ANGLE : leur page « About » indique explicitement une adresse dédiée aux commandes
+  professionnelles et aux partenariats de long terme. C''est exactement le canal à
+  utiliser.'

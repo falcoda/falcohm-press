@@ -1,0 +1,160 @@
+slug: bureau-international-jeunesse
+company: Bureau International Jeunesse (BIJ)
+display_name: Bureau International Jeunesse
+aka:
+- BIJ
+- Agence nationale Erasmus+ Jeunesse (Communauté française)
+- Le BIJ
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- public_funding
+- culture_funding
+status: lead
+phase: 2
+tags:
+- institution
+- jeunesse
+- europe
+- deadline-critique
+score: 14
+website: https://www.lebij.be
+knowledge: ''
+profile:
+  activity: Agence de la Fédération Wallonie-Bruxelles qui gère le volet Jeunesse
+    du programme Erasmus+ (activités développées par et pour les jeunes dans le cadre
+    de l'éducation non formelle) ainsi que le volet Sport et le Corps européen de
+    solidarité. 18 rue du Commerce, 1000 Bruxelles.
+  products:
+  - Erasmus+ Action clé 1 — Échanges de jeunes
+  - Erasmus+ Action clé 1 — Mobilité des animateurs et responsables de jeunesse
+  - Erasmus+ Action clé 1 — Activités de participation des jeunes
+  - Erasmus+ Action clé 2 — Partenariats de coopération et partenariats simplifiés
+  - Accréditations Action clé 1 ; DiscoverEU Inclusion
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: https://be.linkedin.com/company/bureau-international-jeunesse
+why_us: 'C''est la porte européenne réellement praticable à notre échelle — contrairement
+  à Europe Créative. Erasmus+ Jeunesse finance l''éducation NON FORMELLE, hors cadre
+  scolaire, portée par et pour les jeunes : c''est exactement ce que fait le pôle
+  technique de Falc''ohm System quand des bénévoles de moins de 30 ans apprennent
+  à concevoir, fabriquer et exploiter un sound system et se transmettent ce savoir-faire.
+  Un « échange de jeunes » construit avec un ou deux collectifs sound system étrangers
+  (Pays-Bas, France, Allemagne, Espagne — la scène DIY y est dense et structurée)
+  autour de la construction d''enceintes et de la culture des musiques électroniques
+  coche toutes les cases du programme : mobilité, apprentissage non formel, coopération
+  transnationale, participation des jeunes. Les budgets Erasmus+ sont par ailleurs
+  sans commune mesure avec les subsides locaux.
+
+  '
+ask:
+  type:
+  - financial
+  detail: 'Erasmus+ Action clé 1 — « Échange de jeunes » : monter un projet de rencontre
+    entre les jeunes bénévoles de Falc''ohm et un ou plusieurs collectifs partenaires
+    européens, autour de la construction DIY de sound systems et des musiques électroniques
+    (ateliers techniques, transmission, restitution publique). Le programme couvre
+    les frais de voyage, les coûts organisationnels et les frais de séjour selon des
+    barèmes forfaitaires. Dépôt en ligne auprès du BIJ, deux fois par an. Alternative
+    plus légère à explorer : la « Mobilité des animateurs et responsables de jeunesse
+    ».
+
+    '
+  realistic_value_eur: 15000
+values:
+- Éducation non formelle
+- Mobilité européenne des jeunes
+- Participation et citoyenneté des jeunes
+- Inclusion et diversité
+- Coopération transnationale
+sponsorship_history:
+- what: Le BIJ gère le volet Jeunesse d'Erasmus+, qui concerne « les activités développées
+    par et pour les jeunes dans le cadre de l'éducation non formelle », avec un budget
+    renforcé de plus de 28 milliards d'euros pour la période 2021-2027
+  url: https://www.lebij.be/programmes/erasmus-2/
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: Bureau International Jeunesse — contact général (Info Mobilité)
+  email: bij@cfwb.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 2 219 09 06
+  source_url: https://www.lebij.be/programmes/erasmus-2/
+  retrieved_on: 2026-07-14
+  evidence: 'Contacts — Adresse : 18 rue du commerce, 1000 Bruxelles / Téléphone :
+    +32 2 219 09 06 / Email : bij@cfwb.be'
+inbound_channels:
+- type: portal
+  url: https://www.lebij.be/programmes/erasmus-2/echanges-de-jeunes/
+- type: portal
+  url: https://www.lebij.be/dates-de-depot-des-dossiers-erasmus/
+scoring:
+  business_fit: 5
+  partnership_probability: 4
+  impact_if_successful: 7
+  rationale: 'Le fit est réel mais exige une reformulation : Erasmus+ ne financera
+    jamais un festival, il finance un projet d''éducation non formelle porté par des
+    jeunes — il faut donc isoler le volet « transmission technique et échange européen
+    » et le monter comme un projet autonome, avec des partenaires étrangers réels.
+    La probabilité est basse-moyenne : le dossier est lourd (partenariat transnational,
+    calendrier long, reporting européen) et l''ASBL n''a probablement pas d''expérience
+    Erasmus+, ce qui pèse à l''évaluation. Mais l''impact est fort : les barèmes Erasmus+
+    dépassent largement tous les subsides locaux réunis, et une première accréditation
+    ouvre un accès pluriannuel simplifié.
+
+    '
+deadlines:
+- what: Erasmus+ Action clé 1 (échanges de jeunes, mobilité des animateurs, activités
+    de participation) — date limite 1er OCTOBRE 2026 à 12h (heure de Bruxelles), pour
+    des projets débutant entre le 1er janvier et le 31 mai 2027
+  date: '2026-10-01'
+  url: https://www.lebij.be/dates-de-depot-des-dossiers-erasmus/
+- what: 'Erasmus+ — demandes d''ACCRÉDITATION Action clé 1 : 29 septembre 2026 à 12h
+    (heure de Bruxelles)'
+  date: '2026-09-29'
+  url: https://www.lebij.be/dates-de-depot-des-dossiers-erasmus/
+- what: 'Erasmus+ Action clé 2 — partenariats de coopération et partenariats simplifiés
+    (la date 2027 n''était pas publiée au 14/07/2026 ; en 2026 : 5 mars à 12h)'
+  date: '2027-03-05'
+  url: https://www.lebij.be/dates-de-depot-des-dossiers-erasmus/
+sources:
+- url: https://www.lebij.be/programmes/erasmus-2/
+  retrieved_on: 2026-07-14
+- url: https://www.lebij.be/dates-de-depot-des-dossiers-erasmus/
+  retrieved_on: 2026-07-14
+documents:
+- output\Bureau-International-Jeunesse-BIJ\Bureau-International-Jeunesse-BIJ-Partnership-2026.pdf
+- output\Bureau-International-Jeunesse-BIJ\Bureau-International-Jeunesse-BIJ-OnePager-2026.pdf
+- output\Bureau-International-Jeunesse-BIJ\email.md
+interactions: []
+events: []
+next_action:
+  what: Décider avant fin août si on vise la deadline du 1er octobre 2026 — cela suppose
+    d'avoir DÉJÀ un partenaire européen identifié. Sinon, viser la session suivante
+    et utiliser l'automne pour trouver le partenaire.
+  due: '2026-08-31'
+notes: "ÉCHÉANCES 2026 CONFIRMÉES (heures de Bruxelles, 12h00) : • Action clé 1 (échanges\
+  \ de jeunes, mobilité des animateurs, participation des jeunes, mobilité du personnel\n\
+  \  sportif) : 12 février 2026 [passée] et 1er OCTOBRE 2026 → projets débutant entre\
+  \ le 1er janvier et le\n  31 mai 2027.\n• DiscoverEU volet inclusion : 12 février\
+  \ 2026 [passée] et 1er octobre 2026. • Action clé 2 (partenariats de coopération\
+  \ et simplifiés) : 5 mars 2026 [passée]. • Accréditation Action clé 1 : 29 septembre\
+  \ 2026.\nPRÉREQUIS BLOQUANT : un échange de jeunes Erasmus+ suppose au minimum UN\
+  \ PARTENAIRE ÉTRANGER conventionné. Sans partenaire identifié, le dossier du 1er\
+  \ octobre est hors de portée. C'est le vrai goulot d'étranglement — s'y atteler\
+  \ dès maintenant (réseaux sound system européens, festivals partenaires, plateforme\
+  \ de recherche de partenaires Erasmus+).\nANGLE GAGNANT : ne pas présenter Gazmatek.\
+  \ Présenter « un groupe de jeunes de moins de 30 ans qui conçoivent et fabriquent\
+  \ leur propre système de sonorisation, et qui veulent confronter et transmettre\
+  \ ce savoir-faire avec des collectifs européens équivalents ». C'est du texte Erasmus+\
+  \ pur : éducation non formelle, apprentissage par les pairs, mobilité, participation\
+  \ des jeunes.\nAPPUI GRATUIT : le BIJ dispose d'un espace « Info Mobilité » à Bruxelles,\
+  \ accessible librement (lundi-jeudi 10h-12h et 13h-17h, vendredi 10h-12h et 13h-16h).\
+  \ Y aller avec le projet en amont du dépôt.\nNON VÉRIFIÉ : les barèmes forfaitaires\
+  \ exacts (voyage, séjour, coûts organisationnels) n'ont pas été extraits ; la valeur\
+  \ de 15.000 € est un ordre de grandeur. Consulter la page « Budget » du BIJ.\n"

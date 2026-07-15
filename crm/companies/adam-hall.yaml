@@ -1,0 +1,110 @@
+slug: adam-hall
+company: Adam Hall
+aka:
+- Adam Hall Group
+- Adam Hall GmbH
+country: DE
+sector: flightcases
+persona: fournisseur-technique
+categories:
+- case_hardware
+status: lead
+phase: 1
+tags:
+- technique
+score: 7
+website: https://www.adamhall.com
+knowledge: knowledge/Adam Hall.md
+profile:
+  activity: Fabricant et distributeur allemand de technologie événementielle, basé
+    à Neu-Anspach (près de Francfort). Fournit la quincaillerie de flightcase (poignées,
+    roulettes, coins, grilles, connectique) et possède ses propres marques audio et
+    lumière (LD Systems, Cameo, Palmer, Gravity, Defender).
+  products:
+  - Quincaillerie de flightcase et de rack 19 pouces
+  - Grilles, poignées, roulettes, coins, fermetures
+  - Connectique et câblage (Palmer)
+  - Marques audio/lumière maison (LD Systems, Cameo, Gravity)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: DE114114041
+    linkedin: https://www.linkedin.com/company/adam-hall-group
+why_us: 'Adam Hall fournit exactement la quincaillerie utilisée pour habiller et protéger
+  un sound system fait maison : grilles, poignées, coins, roulettes, connectique.
+  En plus, ses marques audio maison (Palmer pour le câblage/DI) recoupent d''autres
+  besoins. Limite : c''est un grand groupe allemand orienté B2B/revendeurs, sans programme
+  de sponsoring identifié — l''entrée se fait par le formulaire de contact ou un compte
+  pro, pas par une adresse nominative.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Compte professionnel ou dotation de quincaillerie de flightcase (grilles,
+    poignées, roulettes, coins, connectique) à conditions ASBL. Contrepartie : marquage
+    sur les façades et racks, visibilité sur les événements Gazmatek.'
+  realistic_value_eur: 2500
+values:
+- ingénierie et qualité allemande
+- écosystème de marques événementielles
+- réseau mondial de revendeurs
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général (siège Adam Hall GmbH)
+  email: info@adamhall.com
+  email_status: generic
+  linkedin: ''
+  phone: +49 6081 9419-0
+  source_url: https://www.adamhall.com/en/imprint
+  retrieved_on: 2026-07-14
+  evidence: 'Adam Hall GmbH, Adam-Hall-Str. 1, D-61267 Neu-Anspach — Phone: +49 6081
+    9419-0 — Mail: info@adamhall.com'
+- name: Markus Jahnel / Alexander Pietschmann
+  role: Managing directors (Geschäftsführer)
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://www.adamhall.com/en/imprint
+  retrieved_on: 2026-07-14
+  evidence: 'Managing directors: Markus Jahnel, Alexander Pietschmann'
+inbound_channels:
+- type: form
+  url: https://www.adamhall.com/im-en/contact/
+- type: linkedin
+  url: https://www.linkedin.com/company/adam-hall-group
+scoring:
+  business_fit: 7
+  partnership_probability: 2
+  impact_if_successful: 5
+  rationale: 'Fit produit solide (quincaillerie de case + marques audio maison), mais
+    probabilité faible : grand groupe allemand structuré autour de revendeurs, aucun
+    antécédent de sponsoring, contact uniquement via formulaire ou adresse générique
+    info@. Un compte pro à conditions ASBL est le maximum réaliste ; le décideur n''est
+    pas joignable nominativement. Impact modéré.'
+deadlines: []
+sources:
+- url: https://www.adamhall.com/en/imprint
+  retrieved_on: 2026-07-14
+- url: https://www.adamhall.com/im-en/contact/
+  retrieved_on: 2026-07-14
+documents:
+- output/Adam-Hall/Adam-Hall-Partnership-2026.pdf
+- output/Adam-Hall/Adam-Hall-OnePager-2026.pdf
+- output/Adam-Hall/email.md
+- output\Adam-Hall\Adam-Hall-Partnership-2026.pdf
+- output\Adam-Hall\Adam-Hall-OnePager-2026.pdf
+- output\Adam-Hall\email.md
+interactions: []
+events: []
+next_action:
+  what: Soumettre une demande de compte pro/dotation via le formulaire, en visant
+    la filière Benelux
+  due: ''
+notes: 'Seule adresse publique : info@adamhall.com (générique, imprint). Dirigeants
+  nommés (Markus Jahnel, Alexander Pietschmann) mais sans e-mail direct — ne pas deviner
+  d''adresse nominative. VAT DE114114041, HRB 8076 (Bad Homburg). Le Benelux est servi
+  par des distributeurs ; envisager de passer par un revendeur BE/NL plutôt que par
+  Neu-Anspach directement.'

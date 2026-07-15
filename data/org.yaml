@@ -1,0 +1,35 @@
+# Identité, contacts, liens. Source unique — ne jamais réécrire ailleurs.
+year: 2026
+
+org:
+  name: "Falc'ohm System ASBL"
+  vat: "BE 0744.675.235"
+  address: "Rue des Croix du Feu 4, 1473 Genappe"
+  qr_url: "https://www.gazmatek.com"
+  qr_label: "www.gazmatek.com"
+  sites:
+    - { label: "www.gazmatek.com",      url: "https://www.gazmatek.com" }
+    - { label: "www.falcohmsystem.com", url: "https://falcohmsystem.com" }
+  contact:
+    name: "Corentin Dallenogare"
+    role: "Président"
+    email: "falcohm6tm@outlook.com"
+  contact_rows:
+    - label: "E-mail"
+      parts: [{ text: "falcohm6tm@outlook.com", url: "mailto:falcohm6tm@outlook.com" }]
+    - label: "Sites web"
+      parts:
+        - { text: "www.gazmatek.com",      url: "https://www.gazmatek.com" }
+        - { text: "www.falcohmsystem.com", url: "https://falcohmsystem.com" }
+    - label: "Adresse"
+      parts: [{ text: "Rue des Croix du Feu 4, 1473 Genappe" }]
+    - label: "N° d'entreprise"
+      parts: [{ text: "BE 0744.675.235" }]
+    - label: "Instagram"
+      parts:
+        - { text: "@gazmatek",   url: "https://www.instagram.com/gazmatek/" }
+        - { text: "@falcohm6tm", url: "https://www.instagram.com/falcohm6tm/" }
+    - label: "Facebook"
+      parts:
+        - { text: "GZK6tm",     url: "https://www.facebook.com/GZK6tm/" }
+        - { text: "Falcohm6TM", url: "https://www.facebook.com/Falcohm6TM" }

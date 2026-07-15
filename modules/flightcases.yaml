@@ -1,0 +1,90 @@
+label: "Flight cases"
+subject: "Recherche d'un partenaire flight cases et transport"
+targets: ["Penn Elcom", "Adam Hall", "Roadinger", "Sonlux"]
+
+pages: [cover, about, gazmatek, ecosystem, project, timeline, benefits, packages, contact]
+
+cover:
+  kicker: "Recherche d'un partenaire flight cases"
+  subtitle: "Protection et transport de notre parc technique"
+
+partner:
+  role: "Le partenaire transport"
+  icon: boxes
+  items: ["Profilés et coins", "Roulettes et poignées", "Panneaux et charnières", "Cases sur mesure"]
+
+gazmatek:
+  intro: >-
+    Chaque événement Gazmatek mobilise un parc technique qui voyage, se charge et se décharge. Falc'ohm System construit et entretient ce matériel : ce qui le protège sur la route conditionne sa durée de vie.
+  band:
+    title: "Du matériel qui roule toute l'année."
+    text: >-
+      Les flight cases construits grâce à ce partenariat protégeront le matériel utilisé sur l'ensemble des événements Gazmatek et des prestations Falc'ohm System.
+
+ecosystem:
+  intro: >-
+    Gazmatek fait vivre les événements. Falc'ohm System construit et exploite le matériel. Votre entreprise fournit ce qui le protège entre deux dates.
+  band:
+    title: "Un parc qui voyage chaque week-end."
+    text: >-
+      Camions, montages, démontages : sans protection, le matériel s'use trois fois plus vite.
+
+project:
+  title: "Protéger notre parc,\nd'une date à l'autre."
+  intro: >-
+    Nous construisons une nouvelle série d'enceintes et faisons évoluer notre parc technique. Il nous faut désormais protéger et transporter ce matériel dans des conditions professionnelles.
+  intro2: >-
+    Profilés, coins, roulettes, poignées : nous voulons construire nos propres flight cases, adaptés à nos caissons, dans notre atelier. Nous recherchons un partenaire capable de nous accompagner sur la durée.
+  images:
+    - { file: constr.jpg, caption: "Fabrication en atelier" }
+    - { file: fusion.jpg, caption: "Plans 3D du caisson", fit: true }
+    - { file: rig.jpg, caption: "Parc technique en prestation" }
+  caption: >-
+    Nos caissons sont démontables et réparables : leurs cases doivent l'être aussi.
+
+needs:
+  title: "CE QUE NOUS RECHERCHONS EN FLIGHT CASES"
+  items:
+    - { icon: boxes, title: "Profilés et coins", text: "Profilés aluminium, coins, papillons et fermetures pour la construction." }
+    - { icon: shield, title: "Roulettes et poignées", text: "Roulettes freinées, poignées encastrées et protections d'angle." }
+    - { icon: layers, title: "Panneaux et accessoires", text: "Panneaux composites, charnières et mousses de calage." }
+
+timeline:
+  intro: >-
+    Notre parc grandit chaque année. Chaque nouvelle enceinte demande sa protection : le besoin en cases suit la croissance du matériel.
+  overrides:
+    "2026":  { title: "Recherche d'un partenaire flight cases", text: "Protection de la nouvelle série de caissons." }
+    "2027+": { title: "Suite du parc", text: "Cases pour retours, racks et accessoires, maintenance et renouvellement." }
+  next:
+    - { icon: boxes, title: "Cases pour les nouveaux caissons", text: "Protection des subs horn et des tops multi horn entry." }
+    - { icon: layers, title: "Racks et accessoires", text: "Cases pour amplis, câblerie et petit matériel." }
+    - { icon: tools, title: "Maintenance du parc", text: "Remplacement des roulettes, coins et fermetures usés." }
+  band:
+    title: "Un besoin qui suit la croissance du parc."
+    text: >-
+      Chaque enceinte construite demandera sa protection : le partenariat s'inscrit dans la durée.
+
+benefits:
+  intro: >-
+    Votre visibilité ne se limite pas à un logo sur une affiche : elle s'inscrit dans deux projets actifs, Gazmatek et Falc'ohm System, et dans le matériel lui-même.
+  band_text: >-
+    Site, réseaux sociaux, salons professionnels : des cases chargées et déchargées chaque week-end prouvent à vos clients que vos produits tiennent en usage réel.
+  post_text: "Making-of : nos nouveaux flight cases construits avec notre partenaire."
+  marking_text: "CASED WITH"
+  marking_label: "Sur nos flight cases"
+
+packages:
+  intro: >-
+    Nous n'attendons pas un engagement unique et figé. Plusieurs formes de collaboration sont possibles, des conditions tarifaires à la fourniture complète.
+  items:
+    - { icon: tag, title: "Conditions préférentielles", text: "Des conditions adaptées à une ASBL culturelle." }
+    - { icon: euro, title: "Tarif professionnel", text: "L'accès aux conditions réservées aux professionnels." }
+    - { icon: boxes, title: "Prix quantité", text: "Une tarification dégressive sur nos volumes annuels." }
+    - { icon: layers, title: "Fourniture de composants", text: "Profilés, coins, roulettes et fermetures." }
+    - { icon: cnc, title: "Découpe des panneaux", text: "L'usinage des panneaux composites à nos dimensions." }
+    - { icon: link, title: "Partenariat partiel", text: "Une prise en charge d'une partie du matériel, en échange de visibilité." }
+    - { icon: star, title: "Partenariat complet", text: "La fourniture des cases du projet, avec une visibilité maximale." }
+
+onepager:
+  pitch: >-
+    Falc'ohm System est une ASBL belge qui organise des événements musicaux (Gazmatek) et construit son parc technique. Nous recherchons un partenaire flight cases pour protéger et transporter ce matériel toute l'année.

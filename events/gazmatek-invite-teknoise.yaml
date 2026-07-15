@@ -1,0 +1,30 @@
+# TODO : compléter jauge réelle, budget, lineup, stats.
+slug: gazmatek-invite-teknoise
+name: Gazmatek invite Teknoise
+date: '2025-01-01 # TODO'
+venue: Chinastraat, Gand
+city: ''
+capacity: ~600
+attendance: null
+type: soiree
+lineup: []
+sponsors: []
+partners: []
+budget:
+  total: null
+  technique: null
+  artistes: null
+  communication: null
+technique:
+  system: Falc'ohm System
+  stages: 1
+  notes: ''
+medias:
+  poster: ''
+  photos: []
+  aftermovie: ''
+stats:
+  reach_instagram: null
+  reach_facebook: null
+  tickets_sold: null
+retombees: ''

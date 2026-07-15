@@ -1,0 +1,193 @@
+slug: base
+company: Base
+aka:
+- BASE
+- Telenet Group
+country: BE
+sector: telecom
+persona: marque-grand-public
+categories:
+- telecom
+status: lead
+phase: 2
+tags:
+- marque
+score: 25
+website: https://www.base.be
+knowledge: knowledge/Base.md
+profile:
+  activity: Opérateur télécom belge (téléphonie mobile, internet, TV), marque du groupe
+    Telenet. Positionnement « Génération Débrouille » ciblant un public jeune et débrouillard.
+    En 2026, campagne musicale co-créative « Génération Débrouille feat. Camille Yembe
+    » avec cabine d'enregistrement mobile en tournée dans les festivals belges.
+  products:
+  - Téléphonie mobile, internet, TV
+  - Activation de marque et campagnes événementielles
+  - Campagne co-créative Camille Yembe (booth mobile en festivals, été 2026)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE 0473.416.418
+    linkedin: https://be.linkedin.com/company/telenet
+why_us: 'Falc''ohm a DÉJÀ fourni du matériel de sonorisation pour une campagne Base
+  (« Génération Débrouille feat. Camille Yembe ») : Base peut vérifier lui-même, sur
+  sa propre campagne, que nous avons déjà livré. Un antécédent commercial est le meilleur
+  prédicteur d''un oui. Surtout, l''opportunité est ACTIVE et DATÉE : la cabine d''enregistrement
+  mobile Base tourne dans les festivals belges cet été 2026 pour collecter des voix
+  avant la sortie du titre en septembre. Gazmatek (10-15 événements/an, +10 000 festivaliers,
+  27 000 abonnés) est exactement le public que Base cherche à capter — maintenant.'
+ask:
+  type:
+  - visibility
+  - services
+  - material
+  detail: 'Ce n''est pas « donnez-nous de l''argent » mais un échange : accueillir
+    la cabine d''enregistrement mobile Base sur un événement Gazmatek (accès direct
+    à leur cible) contre un partenariat télécom/visibilité et, idéalement, une location/fourniture
+    de sonorisation Falc''ohm reconduite. Réactiver la relation existante avant la
+    fermeture de la fenêtre de septembre 2026.'
+  realistic_value_eur: 5000
+values:
+- Génération Débrouille (débrouillardise, DIY)
+- musique et co-création
+- soutien aux talents belges
+prior_relationship:
+  what: Location de matériel de sonorisation Falc'ohm pour la campagne publicitaire
+    Base « Génération Débrouille feat. Camille Yembe »
+  when: ''
+  proof: public
+  source_url: https://www.youtube.com/watch?v=IKsPTZR0VB4
+  note: 'Vidéo « TBWA X BASE: Génération Débrouille (FR) », chaîne TBWA\Belgium, publiée
+    le 2025-11-06 (40 s). Le matériel Falc''ohm est, selon Corentin Dallenogare (président),
+    visible à l''image dans la campagne ; le TIMECODE EXACT et l''identification à
+    l''image restent à confirmer par Corentin. NB : cette vidéo est le spot « chapeau
+    » Génération Débrouille (TBWA, nov. 2025) ; l''activation musicale Camille Yembe
+    est la phase 2026 (Wave/VML) — vérifier avec Corentin dans quelle vidéo précise
+    apparaît le matériel. Collaboration NON créditée publiquement sur la page promo.
+    À utiliser en direct auprès de Base, qui le sait ; ne pas la présenter comme un
+    fait public établi dans un document diffusé.'
+sponsorship_history:
+- what: 'Campagne co-créative « Génération Débrouille feat. Camille Yembe » : Base
+    finance un dispositif musical (studio, cabine mobile en festivals, clip, sortie
+    du titre en septembre 2026). Agence créative TBWA, volet musical avec Wave, contenu
+    VML, média Wavemaker.'
+  url: https://pub.be/fr/wave-et-base-donnent-une-voix-a-la-generation-debrouille-avec-camille-yembe/
+  retrieved_on: 2026-07-14
+- what: « Génération Débrouille » — plateforme de marque primée (Effie 2024), campagne
+    TBWA multi-supports (OOH, radio, cinéma, social).
+  url: https://tbwa.be/work/base-generation-debrouille/
+  retrieved_on: 2026-07-14
+contacts:
+- name: Sylvie Dewaele
+  role: Partnerships — TBWA\Belgium (agence créative du spot Base)
+  email: sylvie.dewaele@tbwa.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 2 679 75 00
+  source_url: https://tbwa.be/contact/
+  retrieved_on: 2026-07-14
+  evidence: Partnerships — sylvie.dewaele@tbwa.be (TBWA Belgium, Excelsiorlaan 75/77,
+    1930 Zaventem, +32 2 679 75 00)
+- name: Nicolas De Bauw / Max Fauconnier
+  role: Business / New business — TBWA\Belgium
+  email: nicolas.de.bauw@tbwa.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 2 679 75 00
+  source_url: https://tbwa.be/contact/
+  retrieved_on: 2026-07-14
+  evidence: Business — nicolas.de.bauw@tbwa.be / max.fauconnier@tbwa.be
+- name: Kurt Tuypens
+  role: CEO & Founder — Wave (agence du volet musical Camille Yembe)
+  email: hello@wave-agency.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://wave-agency.com/
+  retrieved_on: 2026-07-14
+  evidence: Wave — hello@wave-agency.com — Kurt Tuypens, CEO & Founder (Alfred Nichelsstraat
+    14, 9300 Aalst, BE 0563.764.592)
+- name: Stefan Coenjaerts
+  role: Porte-parole / presse — Telenet group (Base)
+  email: stefan.coenjaerts@telenetgroup.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 (0)15 33 55 44
+  source_url: https://press.telenet.be/en
+  retrieved_on: 2026-07-14
+  evidence: Stefan Coenjaerts — Telenet group — stefan.coenjaerts@telenetgroup.be
+    — +32 (0)15 33 55 44
+- name: Elise Verlinden
+  role: Social Impact SPOC (sponsoring) — Telenet
+  email: elise.verlinden@telenetgroup.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www2.telenet.be/content/dam/www-telenet-corp/en/duurzaamheid/rapportage/telenet-charitable-giving-policy.pdf
+  retrieved_on: 2026-07-14
+  evidence: Motivated sponsoring requests can be submitted directly to the Social
+    Impact (SI) SPOC, currently elise.verlinden@telenetgroup.be
+inbound_channels:
+- type: form
+  url: https://tbwa.be/contact/
+- type: portal
+  url: https://press.telenet.be/en
+scoring:
+  business_fit: 6
+  partnership_probability: 6
+  impact_if_successful: 7
+  rationale: 'Probabilité la plus haute des six fiches, et de loin : (1) antécédent
+    commercial PROUVABLE — Base peut vérifier sur sa propre campagne que Falc''ohm
+    a déjà fourni du matériel ; (2) besoin ACTIF et DATÉ — la cabine mobile tourne
+    en festivals cet été 2026, le titre sort en septembre, la fenêtre est ouverte
+    maintenant ; (3) adéquation d''audience — le public Gazmatek est exactement la
+    « Génération Débrouille » que Base cherche à capter. Contact chaud via les agences
+    (TBWA/Wave) qui ont loué le matériel : témoins ET prescripteurs auprès du client.
+    Non retenu plus haut car le décideur budget côté Base/Telenet reste à confirmer
+    et la fenêtre est courte.'
+deadlines:
+- what: 'Fenêtre d''activation : accueillir la cabine Base avant la sortie du titre
+    Camille Yembe. Après, l''activation n''a plus d''objet.'
+  date: '2026-09-30'
+  url: https://www.base.be/fr/promo/camille.html
+sources:
+- url: https://www.youtube.com/watch?v=IKsPTZR0VB4
+  retrieved_on: 2026-07-14
+- url: https://pub.be/fr/wave-et-base-donnent-une-voix-a-la-generation-debrouille-avec-camille-yembe/
+  retrieved_on: 2026-07-14
+- url: https://www.mm.be/news-fr-90140-base-donne-une-voix-agrave-la-generation-debrouille
+  retrieved_on: 2026-07-14
+- url: https://tbwa.be/contact/
+  retrieved_on: 2026-07-14
+- url: https://wave-agency.com/
+  retrieved_on: 2026-07-14
+- url: https://press.telenet.be/en
+  retrieved_on: 2026-07-14
+- url: https://www.base.be/fr/promo/camille.html
+  retrieved_on: 2026-07-14
+documents:
+- output/Base/Base-Partnership-2026.pdf
+- output/Base/Base-OnePager-2026.pdf
+- output/Base/email.md
+- output\Base\Base-Partnership-2026.pdf
+- output\Base\Base-OnePager-2026.pdf
+- output\Base\email.md
+interactions: []
+events: []
+next_action:
+  what: Contacter TBWA (Partnerships) et Base pour accueillir la cabine Camille Yembe
+    sur un événement, AVANT septembre 2026
+  due: '2026-09-30'
+notes: 'Campagne 2026 : agence créative TBWA\Belgium (signataire du spot, info@tbwa.be,
+  +32 2 679 75 00, Zaventem), volet musical Wave (Aalst), contenu/documentaire VML,
+  média Wavemaker (agence média de Telenet). Ces agences ont opérationnellement loué/déployé
+  le matériel : contacts chauds et témoins de la collaboration. Côté Base/Telenet
+  : presse via Stefan Coenjaerts ; sponsoring « social impact » via Elise Verlinden
+  — MAIS ce canal vise le fossé numérique (charity), fit faible pour un festival musical,
+  à manier comme porte secondaire. Leads sponsoring/marketing repérés en annuaire
+  (RocketReach), e-mails NON vérifiés donc non inscrits : Jeroen Leen (Manager Marketing
+  Sponsoring) et Tom Guetens (Head of Retail Marketing, Brand Activation & Sponsoring)
+  — à approcher via LinkedIn, ne pas deviner d''adresse. Entité : Telenet, Liersesteenweg
+  4, 2800 Mechelen, BTW BE 0473.416.418. La cabine mobile (« phone booth » studio)
+  tourne dans des festivals belges l''été 2026 ; titre attendu septembre 2026.'

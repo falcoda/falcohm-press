@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+# output/ est entièrement généré (make all, make targets) — jamais versionné.
+output/
+.cache/
+.DS_Store

@@ -1,0 +1,98 @@
+slug: ram-audio
+company: RAM Audio (C.E. Studio-2 S.L.)
+aka:
+- RAM Audio
+- C.E. Studio-2
+country: ES
+sector: audio
+persona: fabricant-audio
+categories:
+- amplification
+status: lead
+phase: 1
+tags: []
+score: 24
+website: https://ramaudio.com
+knowledge: ''
+profile:
+  activity: Fabricant espagnol d'amplificateurs de puissance professionnels, basé
+    à Alaquás (Valence). La société C.E. Studio-2 est active depuis 1982 et exporte
+    la marque RAM Audio dans plus de 40 pays.
+  products:
+  - Amplis de puissance touring (séries Zetta, Bux, S)
+  - Amplis multicanaux pour installation (série T)
+  - Amplis avec DSP intégré
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'RAM Audio est l''ampli historique du sound system européen : robuste, puissant,
+  réputé pour son rapport watts/euro, et conçu pour tourner des nuits entières à fort
+  niveau — exactement le régime d''usage décrit dans le dossier Falc''ohm. C''est
+  une PME familiale espagnole indépendante (pas un groupe coté), donc un interlocuteur
+  où la décision se prend vite. Pour équiper un parc de subs horn et de tops sans
+  exploser le budget, c''est l''alternative crédible à Powersoft.'
+ask:
+  type:
+  - material
+  - discount
+  - loan
+  detail: 'Conditions constructeur / prix quantité sur 2 à 4 amplis de puissance pour
+    les nouveaux caissons, ou dotation/prêt longue durée d''un rack en échange de
+    visibilité. Contrepartie : marquage « Powered by RAM Audio » sur les racks, visibilité
+    sur 10-15 événements/an et sur les prestations techniques de Falc''ohm partout
+    en Belgique.'
+  realistic_value_eur: 8000
+values:
+- made-in-Spain
+- made-in-EU
+- PME indépendante
+- fiabilité en tournée
+- rapport puissance/prix
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Support (unique adresse publiée)
+  email: support@ramaudio.com
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://ramaudio.com/contact/
+  retrieved_on: '2026-07-14'
+  evidence: 'Adresse publiee en IMAGE (ramaudio.com/wp-content/uploads/2018/06/email-image.jpg),
+    image ouverte et lue : « support@ramaudio.com ». Boite support, pas commerciale.'
+inbound_channels:
+- type: form
+  url: https://ramaudio.com/contact/
+scoring:
+  business_fit: 7
+  partnership_probability: 5
+  impact_if_successful: 7
+  rationale: 'Fit solide : l''amplification est un besoin non substituable et RAM
+    est un choix pertinent et éprouvé pour ce type de système, même s''il est moins
+    « premium » que Powersoft ou APEX côté DSP. Probabilité moyenne : PME indépendante
+    donc décideur accessible, mais aucun e-mail exploitable, aucun antécédent de sponsoring
+    trouvé, et une organisation tournée vers ses distributeurs et les salons. Impact
+    réel mais borné à la partie amplification.'
+deadlines: []
+sources:
+- url: https://ramaudio.com/contact/
+  retrieved_on: 2026-07-14
+- url: https://ramaudio.com/company/
+  retrieved_on: 2026-07-14
+documents:
+- output\RAM-Audio-C-E-Studio-2-S-L\RAM-Audio-C-E-Studio-2-S-L-Partnership-2026.pdf
+- output\RAM-Audio-C-E-Studio-2-S-L\RAM-Audio-C-E-Studio-2-S-L-OnePager-2026.pdf
+- output\RAM-Audio-C-E-Studio-2-S-L\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'E-mail NON VÉRIFIABLE : sur la page contact, l''adresse est publiée sous forme
+  d''IMAGE (anti-spam), donc illisible en texte. Coordonnées lues et fiables : "P.I.
+  La Figuera, c/ Rosa Luxemburgo 34, 46970 Alaquás, Valencia, SPAIN", tél. "+34 96
+  127 30 54". Raison sociale : « RAM Audio and RAM logo are registered trademarks
+  of C.E. Studio-2 sl ». Premier contact : téléphone ou formulaire.'

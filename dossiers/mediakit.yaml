@@ -1,0 +1,5 @@
+# Media kit : le document de marque. Il ne demande jamais d'argent.
+module: mediakit
+filename: "Gazmatek-MediaKit-2026.pdf"
+pages: [mk_cover, mk_manifesto, about, mk_audience, mk_reach, gazmatek, mk_events, ecosystem,
+        mk_partners, mk_opportunities, contact]

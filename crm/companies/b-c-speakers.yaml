@@ -1,0 +1,115 @@
+slug: b-c-speakers
+company: B&C Speakers S.p.A.
+aka:
+- B&C
+- B&C Speakers SpA
+country: IT
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 27
+website: https://www.bcspeakers.com
+knowledge: ''
+profile:
+  activity: Fabricant italien de transducteurs professionnels depuis 1946, coté sur
+    Euronext Milan. Référence mondiale du haut-parleur de sonorisation ; possède depuis
+    2017 les marques Eighteen Sound et Ciare.
+  products:
+  - Woofers 10" à 21" (séries DS, SW, TBX — dont 21DS115, 21SW152)
+  - Moteurs de compression 1" à 4" (DE, DCX, DCM)
+  - Guides d'ondes et pavillons (ME, MMD)
+  - Kits de reconing / membranes de rechange (RCK)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: 01398890481
+    linkedin: https://www.linkedin.com/company/b&c-speakers-spa
+why_us: 'B&C est la référence absolue du transducteur pour caisson à pavillon : le
+  21DS115 et le 18SW115 sont littéralement les moteurs des sound systems horn-loaded
+  européens. Falc''ohm construit des subs horn et des tops multi horn entry d''après
+  des plans : le choix du transducteur est largement contraint par la conception acoustique,
+  et B&C figure presque toujours dans la liste. Ils fournissent aussi les kits de
+  reconing, ce qui couvre le besoin de maintenance sur 5-10 ans. Enfin, le groupe
+  détient 18Sound et Ciare : un seul accord peut ouvrir trois catalogues.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: Ouverture d'un compte à conditions professionnelles / OEM sur les séries
+    DS et SW, fourniture ou prise en charge partielle des HP de grave des nouveaux
+    caissons horn, et mise à disposition d'un stock de kits de reconing pour la maintenance
+    du parc. À défaut d'un accord direct, orientation vers leur centre de distribution
+    européen (Sound & Vision) avec conditions négociées.
+  realistic_value_eur: 18000
+values:
+- made-in-EU
+- made-in-Italy
+- excellence industrielle
+- innovation transducteur
+- réparabilité (reconing)
+sponsorship_history: []
+contacts:
+- name: Patty Adeyemi
+  role: Distribution Sales Manager
+  email: padeyemi@bcspeakers.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.bcspeakers.com/en/contacts
+  retrieved_on: '2026-07-14'
+  evidence: mailto padeyemi@bcspeakers.com → « Patty Adeyemi - Distribution Sales
+    Manager » (mailto injecte en JS sur /en/contacts, present dans le HTML brut)
+- name: ''
+  role: Presse
+  email: press@bcspeakers.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.bcspeakers.com/en/news-press/pressroom
+  retrieved_on: '2026-07-14'
+  evidence: mailto press@bcspeakers.com (page Pressroom)
+inbound_channels:
+- type: form
+  url: https://www.bcspeakers.com/en/contacts
+- type: linkedin
+  url: https://www.linkedin.com/company/b&c-speakers-spa
+scoring:
+  business_fit: 9
+  partnership_probability: 3
+  impact_if_successful: 10
+  rationale: 'Fit maximal : leurs HP sont exactement ce que le projet exige, et le
+    besoin est récurrent (reconing). Mais B&C est une société cotée, structurée autour
+    d''un réseau de distributeurs et de gros comptes OEM, sans aucun programme de
+    mécénat identifié — une ASBL belge de 40 bénévoles n''est pas leur canal. Probabilité
+    faible en direct : à jouer plutôt via un distributeur (TLHP, SoundImports) ou
+    via 18Sound. Impact maximal si ça aboutit, car c''est le composant qui décide
+    du son du système entier.'
+deadlines: []
+sources:
+- url: https://www.bcspeakers.com/en/contacts
+  retrieved_on: 2026-07-14
+- url: https://www.bcspeakers.com/en
+  retrieved_on: 2026-07-14
+- url: https://www.bcspeakers.com/en/news-press/pressroom
+  retrieved_on: '2026-07-14'
+documents:
+- output\B-C-Speakers-S-p-A\B-C-Speakers-S-p-A-Partnership-2026.pdf
+- output\B-C-Speakers-S-p-A\B-C-Speakers-S-p-A-OnePager-2026.pdf
+- output\B-C-Speakers-S-p-A\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Aucun e-mail public lisible : le site ne propose qu''un formulaire et la page
+  /en/contacts ne liste que des localisations (siège, usine, "Sound & Vision - EU
+  Distribution Centre", B&C Speakers NA, B&C Dongguan, B&C Brazil) sans coordonnées
+  nominatives. TVA lue en pied de page : "P.iva/vat 01398890481". Angle recommandé
+  : entrer par Eighteen Sound (même groupe, e-mail direct disponible) ou par un distributeur.
+  Ce fichier remplace le stub legacy généré par l''ancien script.'

@@ -1,0 +1,636 @@
+# Le registre des catégories de prospection.
+#
+# Une catégorie n'est PAS un dossier : c'est une étiquette. Une entreprise en porte
+# plusieurs (Adam Hall = case_hardware + cabling + audio_components). Un dossier par
+# catégorie aurait forcé à dupliquer la fiche — et à la maintenir en trois endroits.
+#
+# `tier` = l'ordre dans lequel on travaille, pas l'ordre alphabétique.
+#   A  le levier réel pour un sound system associatif belge. On commence par là.
+#   B  du vrai potentiel, mais plus long ou moins récurrent. Après.
+#   C  faible probabilité de retour pour NOTRE projet. À ne faire que si tout le reste est fait.
+#
+# `module` / `persona` = le branchement sur la chaîne de production existante.
+#   `~` = le module n'existe pas encore : une fiche de cette catégorie ne pourra pas
+#   produire de PDF tant qu'on n'aura pas écrit `modules/<nom>.yaml`. C'est voulu :
+#   ce champ mesure la dette de discours.
+#
+# `depth` = où en est le balayage. 0 → 25 → 50 → 100. On ne passe au palier suivant
+# qu'une fois le précédent complet et validé.
+
+categories:
+
+  # ─────────────────────────────────────────────────────────  TIER A — le levier réel
+
+  - id: wood
+    code: "01"
+    label: "Bois et panneaux"
+    tier: A
+    module: bois
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep:
+      - "Négociants bois Wallonie / Brabant wallon (proximité = argument décisif)"
+      - "Fabricants de contreplaqué bouleau : FI, LV, EE, ES"
+      - "Fedustria (fédération belge du bois), Kompass BE, Pages d'Or"
+    note: "La matière n°1. Chaque enceinte consomme des panneaux : le besoin est récurrent, donc le partenariat a du sens pour eux."
+
+  - id: audio_components
+    code: "02"
+    label: "Transducteurs et composants haut-parleurs"
+    tier: A
+    module: audio
+    persona: fabricant-audio
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep:
+      - "Fabricants de transducteurs pro (IT, ES, UK, DE, FR)"
+      - "Importateurs et distributeurs BE / NL / FR — souvent bien plus accessibles que le fabricant"
+      - "Salons : Prolight+Sound Francfort, ISE Barcelone"
+    note: "Le cœur technique. Un fabricant italien ne répondra pas ; son distributeur Benelux, si."
+
+  - id: amplification
+    code: "02b"
+    label: "Amplification, DSP, processeurs"
+    tier: A
+    module: audio
+    persona: fabricant-audio
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Fabricants d'amplis de puissance", "Distributeurs pro Benelux", "Reconditionné / seconde main pro"]
+    note: "Poste le plus cher après les transducteurs. Un ampli prêté est un ampli visible chaque week-end."
+
+  - id: cabling
+    code: "04"
+    label: "Câblage et connectique"
+    tier: A
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Neutrik et son réseau", "Câbliers (DE, FR)", "Grossistes électricité BE"]
+    note: "Consommable permanent, faible coût unitaire pour eux, valeur immédiate pour nous. Un des « oui » les plus faciles. Module à écrire."
+
+  - id: case_hardware
+    code: "03"
+    label: "Quincaillerie de flightcase, poignées, roulettes, grilles"
+    tier: A
+    module: flightcases
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Penn Elcom, Adam Hall et leurs revendeurs BE/NL", "Fabricants de flightcases belges"]
+    note: ""
+
+  - id: fasteners
+    code: "10"
+    label: "Visserie, fixations, colles"
+    tier: A
+    module: visserie
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Würth, Fischer, Rothoblaas", "Quincailleries pro Brabant wallon"]
+    note: ""
+
+  - id: tools
+    code: "09"
+    label: "Outillage et atelier"
+    tier: A
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Festool, Makita, Bosch, Metabo — programmes de dotation et de prêt", "Revendeurs pro BE"]
+    note: "Une dotation d'outillage est l'un des sponsorings en nature les plus accordés : le matériel est visible, filmable, et la marque adore les images d'atelier. Module à écrire."
+
+  - id: paint
+    code: "11"
+    label: "Peinture, revêtement, finition"
+    tier: A
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Revêtements type Warnex / Duratex et leurs distributeurs EU", "Fabricants de peinture BE"]
+    note: "Petit budget, forte probabilité d'accord. Module à écrire."
+
+  - id: public_funding
+    code: "27"
+    label: "Wallonie, SPW, aides régionales"
+    tier: A
+    module: institutionnel
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["SPW appels à projets culture et jeunesse", "Aides à l'équipement associatif"]
+    note: "Ils ont un budget dont la raison d'être est d'être distribué. C'est le plus gros levier € de tout ce CRM."
+
+  - id: culture_funding
+    code: "31"
+    label: "Fédération Wallonie-Bruxelles, sociétés de gestion, fonds musique"
+    tier: A
+    module: institutionnel
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["FWB — Service de la Musique, musiques non classiques", "Sabam For Culture", "PlayRight+", "Conseil de la Musique"]
+    note: "Attention aux échéances : rater une date de dépôt coûte un an."
+
+  - id: brabant_wallon
+    code: "28"
+    label: "Province du Brabant wallon"
+    tier: A
+    module: institutionnel
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Appels à projets culture / jeunesse", "Service de la culture provincial"]
+    note: "L'ASBL y est domiciliée. C'est notre terrain, et personne d'autre ne peut jouer cet argument."
+
+  - id: local_government
+    code: "26"
+    label: "Communes, Genappe et voisines"
+    tier: A
+    module: institutionnel
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Genappe : échevinats culture / jeunesse / associatif", "Communes limitrophes", "Centres culturels"]
+    note: "Petits montants, mais un premier subside public en légitime d'autres. Effet de levier."
+
+  - id: lottery
+    code: "30"
+    label: "Loterie Nationale"
+    tier: A
+    module: institutionnel
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Subsides directs", "Appels à projets"]
+    note: ""
+
+  - id: foundations
+    code: "33"
+    label: "Fondations et philanthropie"
+    tier: A
+    module: institutionnel
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Fondation Roi Baudouin et les fonds qu'elle héberge", "Fonds jeunesse", "Fondations d'entreprise belges"]
+    note: ""
+
+  # ─────────────────────────────────────────────────────────  TIER B — du potentiel, plus tard
+
+  - id: lighting
+    code: "05"
+    label: "Éclairage scénique"
+    tier: B
+    module: eclairage
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: stage
+    code: "06"
+    label: "Scène, praticables, structures"
+    tier: B
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: rigging
+    code: "07"
+    label: "Levage, ponts, élingues"
+    tier: B
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Matériel de sécurité : un partenaire sérieux exigera des certificats. Argument à double tranchant, à manier avec soin."
+
+  - id: power
+    code: "08"
+    label: "Énergie, distribution électrique, groupes"
+    tier: B
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: transport
+    code: "12"
+    label: "Transport et location de véhicules"
+    tier: B
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: vehicle
+    code: "13"
+    label: "Constructeurs et concessions"
+    tier: B
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Un camion floqué est une des contreparties les plus vendables qu'on ait."
+
+  - id: beverage
+    code: "15"
+    label: "Boissons, brasseurs"
+    tier: B
+    module: boissons
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: ["Brasseurs indépendants wallons — bien plus accessibles qu'AB InBev"]
+    note: "Les géants ont des portails sponsoring saturés. Le brasseur régional, lui, cherche des points de vente."
+
+  - id: energy_drink
+    code: "16"
+    label: "Boissons énergisantes"
+    tier: B
+    module: boissons
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: telecom
+    code: "17"
+    label: "Télécoms"
+    tier: B
+    module: telecom
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: media
+    code: "34"
+    label: "Médias et presse"
+    tier: B
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Un échange de visibilité, pas un chèque. Compte comme partenaire dans le dossier des autres."
+
+  - id: radio
+    code: "35"
+    label: "Radios"
+    tier: B
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: print
+    code: "37"
+    label: "Imprimerie, signalétique, impression textile"
+    tier: B
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Affiches, bâches, banderoles : besoin réel et récurrent, et l'imprimeur local sponsorise volontiers."
+
+  - id: clothing
+    code: "24"
+    label: "Textile et vêtements"
+    tier: B
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: music
+    code: "39"
+    label: "Magasins de musique, écoles, labels"
+    tier: B
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: distributors
+    code: "41"
+    label: "Distributeurs et importateurs pro"
+    tier: B
+    module: audio
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Recoupe volontairement audio_components : une entreprise peut porter les deux étiquettes."
+
+  - id: dj
+    code: "42"
+    label: "Matériel DJ"
+    tier: B
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: festivals
+    code: "43"
+    label: "Autres festivals et collectifs"
+    tier: B
+    module: ~
+    persona: ~
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Pas des sponsors : des pairs. Mutualisation de matériel, prêt croisé, échange de dates. Autre discours, autre document."
+
+  - id: local_business
+    code: "44"
+    label: "Commerces et PME du Brabant wallon"
+    tier: B
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Petits montants, mais taux d'acceptation élevé et zéro concurrence : personne d'autre ne leur parle."
+
+  - id: education
+    code: "38"
+    label: "Écoles, hautes écoles, formation technique"
+    tier: B
+    module: ~
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Angle : transmission d'un savoir-faire de fabrication à des jeunes. C'est un argument fort pour les subsides."
+
+  - id: security
+    code: "25"
+    label: "Sécurité et secours"
+    tier: B
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: environment
+    code: "32"
+    label: "Environnement, durabilité, économie circulaire"
+    tier: B
+    module: ~
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Angle réel : fabriquer et réparer soi-même plutôt qu'acheter et jeter. Des fonds financent exactement ça."
+
+  # ─────────────────────────────────────────────────────────  TIER C — à faire en dernier, si un jour
+  #
+  # Ces catégories figuraient dans le plan initial. Elles restent listées pour mémoire,
+  # mais aucune d'elles ne finance des sound systems associatifs. Y consacrer du temps
+  # avant d'avoir épuisé le tier A serait la seule vraie erreur possible ici.
+
+  - id: banks
+    code: "18"
+    label: "Banques"
+    tier: C
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Sponsoring très centralisé, orienté sport et grandes institutions. Sauf agence locale : voir local_business."
+
+  - id: insurance
+    code: "19"
+    label: "Assurances"
+    tier: C
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "En revanche, l'ASBL a besoin d'être assurée. Ce n'est pas un sponsor : c'est un fournisseur."
+
+  - id: it
+    code: "20"
+    label: "Informatique"
+    tier: C
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: cloud
+    code: "21"
+    label: "Cloud et hébergement"
+    tier: C
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Des programmes gratuits pour ASBL existent (Google for Nonprofits, Microsoft). C'est une démarche administrative, pas un partenariat : ça ne mérite pas une fiche, juste une case à cocher."
+
+  - id: camera
+    code: "22"
+    label: "Photo et vidéo"
+    tier: C
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: drones
+    code: "23"
+    label: "Drones"
+    tier: C
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: logistics
+    code: "14"
+    label: "Logistique et stockage"
+    tier: C
+    module: ~
+    persona: fournisseur-technique
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: federal
+    code: "29"
+    label: "Fédéral"
+    tier: C
+    module: institutionnel
+    persona: institution
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "La culture est communautaire en Belgique, pas fédérale. Peu de portes ici."
+
+  - id: tv
+    code: "36"
+    label: "Télévision"
+    tier: C
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: ""
+
+  - id: manufacturers
+    code: "40"
+    label: "Fabricants (générique)"
+    tier: C
+    module: audio
+    persona: fabricant-audio
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Doublon d'audio_components. Conservée pour compatibilité avec le plan initial ; ne pas l'alimenter."
+
+  - id: startups
+    code: "45"
+    label: "Startups"
+    tier: C
+    module: ~
+    persona: marque-grand-public
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Pas de budget sponsoring. Par définition."
+
+  - id: crypto
+    code: "46"
+    label: "Crypto"
+    tier: C
+    module: ~
+    persona: ~
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Ne pas alimenter. Risque réputationnel supérieur au gain espéré, et le public d'un festival techno belge n'y est pas favorable."
+
+  - id: web3
+    code: "47"
+    label: "Web3"
+    tier: C
+    module: ~
+    persona: ~
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Idem crypto."
+
+  - id: ai
+    code: "48"
+    label: "IA"
+    tier: C
+    module: ~
+    persona: ~
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Aucun lien avec un sound system. Ne pas alimenter."
+
+  - id: misc
+    code: "49"
+    label: "Divers"
+    tier: C
+    module: ~
+    persona: ~
+    depth: 0
+    last_sweep: ""
+    swept_sources: []
+    to_sweep: []
+    note: "Le purgatoire. Une fiche qui reste ici plus d'un mois est une fiche à supprimer."

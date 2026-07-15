@@ -1,0 +1,148 @@
+slug: europe-creative
+company: Bureau Europe Créative Wallonie-Bruxelles
+display_name: Bureau Europe Créative Wallonie-Bruxelles
+aka:
+- Europe Créative
+- Creative Europe Desk Wallonie-Bruxelles
+- Desk Europe Créative
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- culture_funding
+- public_funding
+status: discarded
+phase: 2
+tags:
+- institution
+- europe
+- ecarte-comme-financeur
+- conseil-gratuit
+score: 0
+website: https://www.europecreative.be
+knowledge: ''
+profile:
+  activity: Relais officiel du programme européen Europe Créative pour la Fédération Wallonie-Bruxelles.
+    Le bureau informe les professionnels sur les financements de la Commission européenne pour les secteurs
+    culturel, audiovisuel et créatif (volets Culture, MEDIA, transsectoriel) et accompagne gratuitement
+    les candidats dans la préparation de leur dossier. Rue du Commerce 68, 1040 Bruxelles.
+  products:
+  - Information sur les appels Europe Créative — volet Culture (projets de coopération européenne, réseaux,
+    plateformes)
+  - Accompagnement gratuit au montage de candidature
+  - Infolettre et sessions d'information
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: https://be.linkedin.com/company/desk-europe-cr%C3%A9ative-wallonie-bruxelles
+why_us: 'Soyons honnêtes : Europe Créative n''est PAS accessible à Falc''ohm System aujourd''hui, et prétendre
+  le contraire ferait perdre des mois. Les projets de coopération du volet Culture exigent un consortium
+  transnational de plusieurs structures professionnelles de pays différents, un cofinancement de 20 à
+  40 %, une capacité financière et administrative auditée, et un dossier en anglais de plusieurs dizaines
+  de pages. Une ASBL bénévole de 2020 sans salarié n''y a aucune chance et le sait. En revanche, ce que
+  ce bureau offre gratuitement a une valeur réelle : un rendez-vous de conseil avec une experte des financements
+  culturels européens, qui connaît les appels, les consortiums en formation et les alternatives plus accessibles.
+  C''est cela qu''on va chercher ici — de l''expertise, pas un chèque.
+
+  '
+ask:
+  type:
+  - services
+  detail: 'Solliciter un rendez-vous de conseil gratuit auprès de Nathalie Marchal (responsable du volet
+    Culture) pour (a) confirmer qu''Europe Créative est hors de portée à ce stade et à quelles conditions
+    cela changerait, et (b) identifier les dispositifs européens réellement accessibles à une petite structure
+    — notamment les schémas de mobilité et de soutien aux artistes émergents financés par Europe Créative
+    mais redistribués par des intermédiaires, qui ne demandent pas de consortium. Aucune candidature directe
+    à Europe Créative n''est à envisager avant que l''ASBL n''ait au moins un salarié et des comptes audités.
+
+    '
+  realistic_value_eur: 0
+values:
+- Coopération culturelle européenne
+- Circulation transnationale des œuvres et des artistes
+- Diversité culturelle et linguistique
+- Professionnalisation du secteur
+sponsorship_history:
+- what: Le desk informe les professionnels sur les financements du programme Europe Créative (Culture,
+    MEDIA, transsectoriel) et assiste les candidats dans la préparation de leurs demandes de subvention
+  url: https://www.europecreative.be/fr/contact
+  retrieved_on: 2026-07-14
+contacts:
+- name: Nathalie Marchal
+  role: Bureau Europe Créative Wallonie-Bruxelles — responsable du volet CULTURE
+  email: nathalie.marchal@cfwb.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 (0)2 413 20 07
+  source_url: https://www.europecreative.be/fr/contact
+  retrieved_on: 2026-07-14
+  evidence: 'CULTURE : NATHALIE MARCHAL / NATHALIE.MARCHAL@CFWB.BE / +32 (0)2 413 20 07'
+- name: ''
+  role: Bureau Europe Créative Belgique — contact général
+  email: europecreative@cfwb.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 (0)496 51 53 42
+  source_url: https://www.europecreative.be/fr/contact
+  retrieved_on: 2026-07-14
+  evidence: 'BUREAU EUROPE CREATIVE BELGIQUE / FÉDÉRATION WALLONIE-BRUXELLES / RUE DU COMMERCE, 68 / B-1040
+    BRUXELLES / EUROPECREATIVE@CFWB.BE — Téléphone : +32 2 413 34 91 (Media) / +32 2 413 20 07 +32 (0)496
+    51 53 42 (Culture)'
+inbound_channels:
+- type: form
+  url: https://www.europecreative.be/fr/contact
+scoring:
+  business_fit: 3
+  partnership_probability: 1
+  impact_if_successful: 8
+  rationale: 'Le fit est faible : Europe Créative finance la coopération culturelle transnationale entre
+    structures professionnelles, pas l''organisation d''un festival local par une ASBL bénévole. La probabilité
+    est de 1 sur 10, et ce n''est pas de la prudence — c''est un constat : le programme exige un consortium
+    multi-pays, un cofinancement substantiel, une capacité administrative auditée et un dossier en anglais.
+    Y candidater aujourd''hui serait un pur gaspillage de temps bénévole. L''impact serait évidemment
+    considérable en cas de succès (six chiffres), d''où la note élevée, mais l''espérance mathématique
+    reste proche de zéro. La fiche n''existe que pour une raison : capter le CONSEIL GRATUIT du desk,
+    qui est réel et utile.
+
+    '
+deadlines: []
+sources:
+- url: https://www.europecreative.be/fr/contact
+  retrieved_on: 2026-07-14
+- url: https://www.europecreative.be/fr/
+  retrieved_on: 2026-07-14
+documents: []
+interactions: []
+events: []
+next_action:
+  what: 'Un seul mail à Nathalie Marchal : demander un rendez-vous de conseil pour identifier les dispositifs
+    européens accessibles à une petite ASBL. Ne PAS monter de candidature Europe Créative.'
+  due: '2026-10-31'
+notes: 'STATUS `discarded` ASSUMÉ — et c''est le résultat de l''analyse, pas un abandon. La question posée
+  était « Europe Créative est-il réaliste à cette échelle ? ». La réponse est non, et la fiche est conservée
+  en `discarded` pour documenter ce non et éviter qu''on y revienne dans six mois. Le seul geste utile
+  reste dans `next_action` : un mail à Nathalie Marchal pour du conseil gratuit. Rien d''autre.
+
+  VERDICT SANS DÉTOUR : ne pas candidater. Europe Créative n''est pas dimensionné pour une ASBL bénévole.
+  Les projets de coopération du volet Culture supposent un consortium de plusieurs structures de pays
+  différents, un cofinancement de l''ordre de 20 à 40 %, une capacité financière démontrée et un dossier
+  lourd en anglais. Le taux de sélection est bas et les candidats sont des institutions professionnelles
+  avec des chargés de projets européens dédiés. Cette fiche est là pour éviter qu''on y perde du temps
+  — et pour exploiter la seule chose qui a de la valeur ici : le conseil.
+
+  CE QU''ON VIENT CHERCHER : Nathalie Marchal est l''experte des financements culturels européens côté
+  FWB. Un rendez-vous gratuit avec elle permet de cartographier ce qui EST accessible (schémas de mobilité
+  redistribués par des tiers, appels de moindre envergure, opportunités de rejoindre un consortium existant
+  en tant que partenaire secondaire plutôt que chef de file). Rejoindre un consortium comme partenaire
+  — et non le piloter — est la seule voie européenne réaliste à moyen terme.
+
+  ALTERNATIVE EUROPÉENNE RÉELLE : voir la fiche `bureau-international-jeunesse` (Erasmus+ Jeunesse). C''est
+  LA porte européenne praticable à notre échelle, avec des deadlines concrètes et des dossiers d''un ordre
+  de grandeur plus légers.
+
+  NOTE : le volet MEDIA (Stéphanie Leempoels, stephanie.leempoels@cfwb.be, +32 (0)2 413 34 91) concerne
+  l''audiovisuel et le cinéma — sans objet pour nous.
+
+  '

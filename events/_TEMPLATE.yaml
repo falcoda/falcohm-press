@@ -1,0 +1,36 @@
+# events/<slug>.yaml — un événement
+slug: into-the-rave-iii
+name: "Into The Rave III"
+date: "2025-12-06"
+venue: "La Fabriek"
+city: ""
+capacity: 900              # jauge
+attendance: null           # entrées réelles — TODO
+type: soiree               # soiree | festival | plateau | prestation
+
+lineup: []                 # artistes programmés
+sponsors: []               # slugs CRM des partenaires présents
+partners: []               # slugs CRM (soutien technique, matériel)
+
+budget:
+  total: null              # TODO
+  technique: null
+  artistes: null
+  communication: null
+
+technique:
+  system: "Falc'ohm System"
+  stages: 1
+  notes: ""
+
+medias:
+  poster: po3.jpg          # assets/posters/
+  photos: []               # assets/photos/events/
+  aftermovie: ""           # URL
+
+stats:
+  reach_instagram: null    # TODO — portée du post d'annonce
+  reach_facebook: null
+  tickets_sold: null
+
+retombees: ""              # presse, retours, ce qu'on en retire

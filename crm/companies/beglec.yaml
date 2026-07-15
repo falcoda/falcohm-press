@@ -1,0 +1,122 @@
+slug: beglec
+company: Beglec NV
+aka:
+- Beglec Sound & Light
+- Synq
+- JB Systems
+country: BE
+sector: audio
+persona: fournisseur-technique
+categories:
+- amplification
+- distributors
+status: lead
+phase: 1
+tags: []
+score: 15
+website: https://www.beglec.com
+knowledge: ''
+profile:
+  activity: Groupe belge de conception et distribution de matériel son et lumière,
+    basé à Groot-Bijgaarden (Grand-Bruxelles). Propriétaire d'un portefeuille de marques
+    maison couvrant l'amplification, l'éclairage, le câblage et les flightcases.
+  products:
+  - Synq — amplification et audio professionnel
+  - JB Systems — son et lumière
+  - Hilec — câbles et accessoires
+  - JV Case — flightcases et accessoires
+  - Audiophony / Audiophony PA, Briteq, Contest, Contestage
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE 0403.103.393
+    linkedin: ''
+why_us: 'Beglec est à 30 minutes de Genappe — c''est la cible géographiquement la
+  plus proche du module. Et son portefeuille de marques maison couvre plusieurs besoins
+  d''un coup : Synq pour l''amplification, Hilec pour le câblage des façades et des
+  racks, JV Case pour les flightcases. Une entreprise qui possède ses propres marques
+  a une marge de manœuvre bien plus grande qu''un simple revendeur pour faire un geste
+  matériel : le coût réel d''une dotation est son prix de revient, pas son prix catalogue.
+  En face, ce qu''ils achètent, c''est une crédibilité dans la scène événementielle
+  belge que leurs marques (positionnées prosumer) n''ont pas.'
+ask:
+  type:
+  - material
+  - discount
+  - loan
+  detail: 'Dotation ou prêt longue durée d''amplification Synq pour les nouveaux caissons,
+    fourniture de câblage Hilec (câbles HP, connectique) et éventuellement de flightcases
+    JV Case pour le transport du système. Contrepartie : marquage sur les racks, visibilité
+    sur 10-15 événements/an et matériel en usage réel exploitable en communication.'
+  realistic_value_eur: 4500
+values:
+- entreprise belge
+- marques propres
+- scène événementielle
+- proximité
+sponsorship_history: []
+contacts:
+- name: Kevin David
+  role: Commercial Wallonie, Bruxelles et Luxembourg
+  email: david.kevin@beglec.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://beglec.com/departments-and-representatives/
+  retrieved_on: '2026-07-14'
+  evidence: Section « Wallonie, Bruxelles et Luxembourg » → « Kevin David », mailto
+    Cloudflare decode = david.kevin@beglec.com. Le commercial de la zone de Genappe.
+- name: Yves Pollet
+  role: Inside Sales Wallonie/Bruxelles
+  email: ventes@beglec.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://beglec.com/departments-and-representatives/
+  retrieved_on: '2026-07-14'
+  evidence: Section « Inside Sales Wallonie, Bruxelles, France Nord+Est » → « Yves
+    Pollet », mailto decode = ventes@beglec.com
+inbound_channels:
+- type: form
+  url: https://www.beglec.com/general-contact
+- type: portal
+  url: https://www.beglec.com/departments-representatives
+scoring:
+  business_fit: 5
+  partnership_probability: 6
+  impact_if_successful: 5
+  rationale: 'Fit le plus faible du module : Beglec ne fabrique pas de transducteurs
+    et ses marques (Synq, Audiophony) sont positionnées prosumer, en dessous du niveau
+    visé pour un système de sonorisation de festival — ce n''est pas le partenaire
+    du cœur du projet. Mais la proximité (30 min) et le fait qu''ils possèdent leurs
+    marques rendent un geste matériel peu coûteux pour eux et donc plausible. Impact
+    modéré : de l''ampli d''appoint, du câblage, des flightcases — utile, pas décisif.'
+deadlines: []
+sources:
+- url: https://www.beglec.com/
+  retrieved_on: 2026-07-14
+- url: https://www.beglec.com/general-contact
+  retrieved_on: 2026-07-14
+- url: https://beglec.com/departments-and-representatives/
+  retrieved_on: '2026-07-14'
+- url: https://beglec.com/departments-and-representatives/
+  retrieved_on: '2026-07-14'
+documents:
+- output\Beglec-NV\Beglec-NV-Partnership-2026.pdf
+- output\Beglec-NV\Beglec-NV-OnePager-2026.pdf
+- output\Beglec-NV\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Aucun e-mail public : la page « general contact » ne propose qu''un formulaire.
+  Coordonnées lues : "Beglec NV", "''t Hofveld 2C, B-1702 Groot-Bijgaarden – Belgium"
+  (Industriezone ''Gosset''), tél. "+32(0)2/481.70.70", "BTW: BE 0403.103.393". Le
+  site expose une section « Departments & Representatives » qui n''a pas pu être ouverte
+  (404 sur l''URL devinée) : À OUVRIR MANUELLEMENT depuis le menu du site — c''est
+  là que devraient se trouver les interlocuteurs nommés. NB : Beglec possède aussi
+  JV Case (flightcases) et Hilec (câbles) — cette fiche recoupe donc partiellement
+  les modules flightcases et connectique. À signaler aux autres pistes pour ne pas
+  les démarcher deux fois.'

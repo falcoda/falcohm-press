@@ -1,0 +1,117 @@
+slug: cras
+company: Cras
+aka:
+- Cras Woodgroup
+- Cras Woodshops
+- Cras nv
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 49
+website: https://craswoodshops.be
+knowledge: ''
+profile:
+  activity: 'Groupe familial du bois basé à Waregem (racines en 1878), exploitant
+    un réseau de 12 succursales ''Cras Woodshops'' en Belgique, dont Rebecq et Trazegnies
+    en Wallonie. Négoce de bois, panneaux et matériaux : large gamme de multiplex/contreplaqué
+    (intérieur, milieu humide, rainuré, ignifuge), en grande partie certifiée FSC
+    et PEFC. Propose le collage de panneaux jusqu''à 4200 x 1300 mm.'
+  products:
+  - Multiplex / contreplaqué (intérieur, humide, ignifuge)
+  - Multiplex décoratif
+  - Bétonplex
+  - Placages
+  - Panneaux dérivés du bois
+  - Collage de panneaux jusqu'à 4200 x 1300 mm
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Signal n°1 réuni : Cras est déjà ''main partner'' d''un club sportif (SV
+  Zulte Waregem) avec un contrat prolongé de cinq ans — ils savent signer des partenariats
+  de visibilité pluriannuels, exactement le format que Falc''ohm propose sur 5-10
+  ans. Et surtout, ils ont une succursale à Rebecq (~25 km de Genappe) et une à Trazegnies
+  : l''approvisionnement récurrent en multiplex peut se faire en local, sans logistique
+  lourde. Gamme multiplex complète et certifiée.'
+ask:
+  type:
+  - material
+  - discount
+  - visibility
+  detail: 'Partenariat pluriannuel calqué sur leur logique ''main partner'' : remise
+    pro permanente sur le multiplex bouleau via la succursale de Rebecq, accès aux
+    chutes/fins de série, en échange d''une visibilité sur le sound system Falc''ohm
+    et sur les 10-15 événements Gazmatek/an. Argument : ils sponsorisent déjà le sport,
+    la musique électronique leur ouvre une audience jeune (27 000 abonnés) qu''un
+    club de foot ne leur donne pas.'
+  realistic_value_eur: 5000
+values:
+- Entreprise familiale (depuis 1878)
+- Bois certifié FSC / PEFC
+- Ambition saine et professionnalisme (valeurs revendiquées dans leur sponsoring)
+- Maillage local via 12 succursales
+sponsorship_history:
+- what: Main partner de SV Zulte Waregem (club de football de D1) — contrat prolongé
+    de cinq ans ; 'Het ziet Cras Woodshops, één van zijn main partners, zijn contract
+    met vijf jaar verlengen.'
+  url: https://www.made-in.be/west-vlaanderen/cras-vijf-jaar-langer-sponsor-van-sv-zulte-waregem/
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: ''
+  email: service@cras.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 56 60 34 44
+  source_url: https://craswoodshops.be/fr-be/contact
+  retrieved_on: 2026-07-14
+  evidence: service@cras.be — Industrielaan 5, 8790 Waregem — +32 56 60 34 44
+inbound_channels:
+- type: form
+  url: https://craswoodshops.be/fr-be/contact#form
+scoring:
+  business_fit: 9
+  partnership_probability: 6
+  impact_if_successful: 9
+  rationale: 'Gamme multiplex large et certifiée, plus une succursale à Rebecq à ~25
+    km de l''atelier : le besoin récurrent est couvert en local. La probabilité est
+    réelle mais modérée — ils PRATIQUENT le sponsoring pluriannuel (SV Zulte Waregem),
+    ce qui prouve un budget et un processus, mais c''est un groupe structuré de 12
+    succursales : la décision remonte au siège de Waregem et un club de D1 n''a pas
+    le même poids qu''une asbl. Impact élevé : volumes, récurrence et remises sur
+    toute la durée.'
+deadlines: []
+sources:
+- url: https://craswoodshops.be/fr-be/contact
+  retrieved_on: 2026-07-14
+- url: https://craswoodshops.be/fr-be/commerce-du-bois
+  retrieved_on: 2026-07-14
+- url: https://craswoodshops.be/fr-be/panneaux/multiplex
+  retrieved_on: 2026-07-14
+- url: https://www.made-in.be/west-vlaanderen/cras-vijf-jaar-langer-sponsor-van-sv-zulte-waregem/
+  retrieved_on: 2026-07-14
+documents:
+- output\Cras\Cras-Partnership-2026.pdf
+- output\Cras\Cras-OnePager-2026.pdf
+- output\Cras\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Succursales wallonnes / proches de Genappe : Rebecq — Rue du Radoux 47, 1430
+  Rebecq, +32 2 395 66 72 (la plus proche, ~25 km) ; Trazegnies — Rue de la Marche
+  28, 6183 Trazegnies, +32 71 36 01 05 ; Villers-le-Bouillet — Rue de Waremme 114,
+  4530. Siège : Industrielaan 5, 8790 Waregem. Email facility@cras.be existe aussi
+  (environnement/facility). Frédéric Cras est cité dans l''article de presse sur le
+  sponsoring (''We zijn tevreden over onze samenwerking'') mais l''article ne lui
+  donne PAS de titre officiel et aucun email personnel n''est publié — ne rien extrapoler.
+  Stratégie : double approche, service@cras.be au siège pour le cadre partenaire +
+  contact physique à la succursale de Rebecq.'

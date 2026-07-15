@@ -1,0 +1,105 @@
+slug: oberton
+company: Oberton Ltd.
+aka:
+- Oberton
+- Oberton Professional Loudspeakers
+country: BG
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 21
+website: https://www.oberton.com
+knowledge: ''
+profile:
+  activity: Fabricant bulgare de haut-parleurs professionnels basé à Plovdiv, en activité
+    depuis 1989. Produit en Bulgarie une gamme complète de transducteurs de sonorisation
+    à un positionnement prix nettement plus accessible que les fabricants italiens.
+  products:
+  - Woofers 10" à 21" (18B200, 21B1000)
+  - Moteurs de compression 1" à 2" (D2545, ND72CT)
+  - Drivers coaxiaux et médiums
+  - Pavillons et guides d'ondes
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Oberton est le meilleur compromis euros/décibels de la liste : des transducteurs
+  fabriqués dans l''UE, de qualité pro reconnue (tests audioXpress sur leurs moteurs
+  1,4\"), à un prix qui permet d''équiper un parc entier plutôt qu''un seul caisson.
+  Pour une ASBL qui doit équiper une série complète de subs horn et de tops avec un
+  budget de bénévoles, c''est l''option qui rend le projet finançable. Fabricant de
+  taille moyenne, en croissance et en recherche de notoriété en Europe de l''Ouest
+  : un rig belge de référence a une vraie valeur marketing pour eux.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: 'Tarif professionnel / prix quantité sur les woofers 18\"-21\" et les moteurs
+    de compression pour équiper la série complète, ou dotation partielle en échange
+    de visibilité. Passer si nécessaire par leur distributeur zone France/Benelux
+    (TLHP). Contrepartie : marquage sur les façades, making-of du build et visibilité
+    sur 10-15 événements/an.'
+  realistic_value_eur: 7000
+values:
+- made-in-EU
+- made-in-Bulgaria
+- accessibilité prix
+- fabricant indépendant
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général
+  email: info@oberton.com
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.oberton.com/en/contact.html
+  retrieved_on: '2026-07-14'
+  evidence: 'Masquage JS : addy = ''info''+''@''+''oberton''+''.''+''com'' → info@oberton.com.
+    OBERTON Ltd. 32 Tzar Simeon str., 4023 Plovdiv, Tel +35932681020'
+inbound_channels:
+- type: form
+  url: https://www.oberton.com/en/contact.html
+scoring:
+  business_fit: 7
+  partnership_probability: 5
+  impact_if_successful: 6
+  rationale: 'Fit réel mais un cran en dessous des références du secteur : Oberton
+    est un excellent choix budget, pas le choix « prestige » qu''on met sur une façade.
+    Probabilité moyenne — fabricant indépendant et ambitieux en Europe de l''Ouest,
+    mais sans e-mail accessible et organisé autour d''un réseau de distributeurs.
+    Impact plus faible en euros économisés (les composants coûtent moins cher), mais
+    c''est aussi l''option qui permet d''équiper le plus de caissons pour le même
+    budget.'
+deadlines: []
+sources:
+- url: https://www.oberton.com/en/contact.html
+  retrieved_on: 2026-07-14
+- url: https://www.oberton.com/en/where-to-buy.html
+  retrieved_on: 2026-07-14
+- url: https://www.loudspeakerindustrysourcebook.com/bulgaria/plovdiv/liscategories/oberton
+  retrieved_on: 2026-07-14
+documents:
+- output\Oberton-Ltd\Oberton-Ltd-Partnership-2026.pdf
+- output\Oberton-Ltd\Oberton-Ltd-OnePager-2026.pdf
+- output\Oberton-Ltd\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'E-mail NON VÉRIFIABLE : la page contact affiche « This email address is being
+  protected from spambots » (masquage JavaScript) et l''annuaire professionnel Loudspeaker
+  Industry Sourcebook ne publie pas d''adresse non plus. Coordonnées lues et fiables
+  : "32 Tzar Simeon str., 4023 Plovdiv, Bulgaria, PO box 49", tél. "+35932681020",
+  fax "+35932681021". IMPORTANT — leur page « where to buy » désigne TLHP SAS (Bourgbarré,
+  FR) comme distributeur pour la France, Monaco, l''Espagne et l''Italie, et LAUTSPRECHERSHOP
+  (Karlsruhe, DE) pour l''Allemagne. Aucun distributeur Benelux n''est listé : Falc''ohm
+  peut donc légitimement demander soit un contact direct, soit passer par TLHP.'

@@ -1,0 +1,26 @@
+company: Fédération Wallonie-Bruxelles — Service de la Jeunesse
+persona: institution
+module: institutionnel
+phase: 2
+contact:
+  name: ''
+  role: Service de la Jeunesse — contact général
+  email: service.jeunesse@cfwb.be
+website: https://servicejeunesse.cfwb.be/
+notes: 'Falc''ohm System est une ASBL non reconnue par l''Administration générale
+  de la Culture — c''est précisément le profil que la circulaire « Soutien aux projets
+  jeunes » rend éligible aux actions 1 et 2. Mieux : l''ASBL réunit 40+ bénévoles
+  et un public jeune, ce qui ouvre une seconde porte, bien plus lucrative. Le dispositif
+  accepte en effet « tout groupe composé de jeunes de moins de 30 ans — minimum 6
+  jeunes — qui se constitue en association de fait », avec une association de référence
+  identifiée comme coordinatrice du projet : Falc''ohm peut jouer ce rôle d''association
+  de référence pour un collectif de ses jeunes bénévoles, ce qui débloque les actions
+  3 (« Créations jeunes », jusqu''à 9.000 €) et 4 (« Diffusion jeunes », jusqu''à
+  7.500 €). Le pôle technique — des jeunes qui fabriquent eux-mêmes leurs enceintes
+  et se transmettent le savoir-faire — est un projet d''« expression » et de « création
+  collective » par et pour les jeunes au sens littéral de la circulaire.
+
+  Fiche CRM : crm/companies/fwb-service-de-la-jeunesse.yaml
+
+  '
+display_name: FWB — Service de la Jeunesse

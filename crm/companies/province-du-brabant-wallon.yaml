@@ -1,0 +1,197 @@
+slug: province-du-brabant-wallon
+company: Province du Brabant wallon — Direction d'administration de la culture, du
+  sport et du tourisme
+display_name: Province du Brabant wallon
+aka:
+- Le Brabant wallon
+- Province BW
+- Service de la culture BW
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- brabant_wallon
+- public_funding
+- local_government
+status: lead
+phase: 2
+tags:
+- institution
+- local
+- priorite-haute
+score: 44
+website: https://www.brabantwallon.be
+knowledge: knowledge/Province du Brabant wallon.md
+profile:
+  activity: Pouvoir provincial du Brabant wallon. Sa Direction d'administration de
+    la culture, du sport et du tourisme subventionne les opérateurs culturels et les
+    événements se déroulant sur le territoire provincial. Bâtiment Archimède, Place
+    du Brabant wallon 1, 1300 Wavre.
+  products:
+  - Aide à l'organisation d'événements culturels — 3 catégories selon l'ampleur, jusqu'à
+    10.000 €
+  - Place aux jeunes — contrepartie communale (1 € commune = 1 € Province) pour événements
+    10-20 ans, 1.000 à 5.000 €
+  - Appel à projets pour les associations actives en éducation permanente
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'L''ASBL est domiciliée à Genappe et Gazmatek se déroule sur le territoire
+  provincial : la condition territoriale — celle qui élimine le plus de candidats
+  — est acquise d''office. Le règlement cite nommément les « festivals » et les «
+  concerts » parmi les activités à réelle dimension culturelle, et réserve l''aide
+  aux ASBL et associations de fait, à l''exclusion des sociétés commerciales : Falc''ohm
+  System est exactement le profil ciblé. Avec plus de 10.000 festivaliers, Gazmatek
+  relève de la Catégorie 1 (grande ampleur), le plafond le plus élevé. Les critères
+  d''analyse récompensent précisément nos points forts : diversité et jeunesse des
+  publics, promotion d''artistes du Brabant wallon, tarification accessible, liens
+  avec le tissu associatif local, et développement durable en critère bonus.
+
+  '
+ask:
+  type:
+  - financial
+  detail: 'DEUX dispositifs à jouer en parallèle. (1) « Aide à l''organisation d''événements
+    culturels », Catégorie 1 (public > 1.000 ET budget > 50.000 € ET caractère supracommunal)
+    : subvention supérieure à 1.500 € avec un plafond de 10.000 €. Une seule demande
+    par an, au minimum 2 mois avant le début de l''événement, par courriel à culture.loisirs.citoyennete@brabantwallon.be
+    avec le formulaire PDF et ses annexes. (2) « Place aux jeunes » : chaque euro
+    investi par la COMMUNE est doublé par le Brabant wallon, uniquement pour des cachets
+    artistiques et leurs besoins en logistique et technique — minimum 1.000 €, plafond
+    5.000 €. Le projet est porté par la commune mais « il peut être porté par une
+    association locale » et doit viser les 10-20 ans : à monter avec Genappe.
+
+    '
+  realistic_value_eur: 8000
+values:
+- Accès à la culture sur le territoire
+- Émergence des artistes du Brabant wallon
+- Identité culturelle provinciale
+- Cohésion et tissu social
+- Développement durable
+- Publics jeunes et diversité des publics
+sponsorship_history:
+- what: Règlement « Aide à l'organisation d'événements culturels » citant explicitement
+    les festivals et les concerts parmi les activités éligibles, réservé aux asbl
+    et associations de fait
+  url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
+  retrieved_on: 2026-07-14
+- what: Dispositif « Place aux jeunes » (lancé en 2021) finançant des cachets artistiques
+    pour des événements destinés aux 10-20 ans, explicitement portable par une association
+    locale
+  url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: Service de la culture — Direction d'administration de la culture, du sport
+    et du tourisme
+  email: culture.loisirs.citoyennete@brabantwallon.be
+  email_status: generic
+  linkedin: ''
+  phone: '+3210236342'
+  source_url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
+  retrieved_on: 2026-07-14
+  evidence: 'Pour toute information complémentaire : Service de la culture / Contact
+    / +3210236342 / culture.loisirs.citoyennete@brabantwallon.be / Adresse Place du
+    Brabant wallon 1 / 1300 Wavre'
+- name: ''
+  role: Contact du dispositif « Place aux jeunes » (relation communes)
+  email: commune@brabantwallon.be
+  email_status: generic
+  linkedin: ''
+  phone: '+3210236355'
+  source_url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
+  retrieved_on: 2026-07-14
+  evidence: Contact / +3210236355 / commune@brabantwallon.be / Adresse Place du Brabant
+    wallon 1 / 1300 Wavre
+inbound_channels:
+- type: form
+  url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
+- type: form
+  url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
+scoring:
+  business_fit: 9
+  partnership_probability: 7
+  impact_if_successful: 7
+  rationale: 'Le règlement vise nommément les festivals et concerts organisés par
+    des ASBL sur le territoire du Brabant wallon : l''ASBL y est domiciliée et Gazmatek
+    s''y déroule, donc le fit est quasi parfait, et la volumétrie (+10.000 festivaliers)
+    place le dossier en Catégorie 1, plafond 10.000 €. La probabilité est la plus
+    élevée du portefeuille : les critères d''exclusion sont formels et franchissables,
+    et l''instruction est faite sur dossier par un collège d''agents administratifs,
+    pas par un jury politique. Le seul vrai risque est budgétaire : les demandes sont
+    examinées PAR ORDRE D''ARRIVÉE selon le crédit disponible, donc un dépôt tardif
+    peut échouer sur un budget épuisé, quelle que soit la qualité du projet.
+
+    '
+deadlines:
+- what: 'Aide à l''organisation d''événements culturels — pas de date fixe : dépôt
+    au MINIMUM 2 mois avant le début de l''événement. MAIS demandes examinées par
+    ordre d''arrivée selon le crédit budgétaire disponible, et analysées durant l''année
+    budgétaire de l''événement → déposer dès début janvier.'
+  date: '2027-01-05'
+  url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
+- what: 'Place aux jeunes — activités éligibles entre le début des vacances d''été
+    et la fin des vacances de printemps de l''année suivante. Aucune date de clôture
+    publiée au 14/07/2026 : à initier avec Genappe dès la rentrée.'
+  date: '2026-09-01'
+  url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
+sources:
+- url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
+  retrieved_on: 2026-07-14
+- url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
+  retrieved_on: 2026-07-14
+documents:
+- output/Province-du-Brabant-wallon/Province-du-Brabant-wallon-Partnership-2026.pdf
+- output/Province-du-Brabant-wallon/Province-du-Brabant-wallon-OnePager-2026.pdf
+- output/Province-du-Brabant-wallon/email.md
+- output\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme-Partnership-2026.pdf
+- output\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme-OnePager-2026.pdf
+- output\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme\email.md
+interactions: []
+events: []
+next_action:
+  what: Vérifier que Falc'ohm ne touche aucune subvention provinciale récurrente ≥
+    2.000 € (critère d'exclusion), puis préparer le dossier Catégorie 1 pour dépôt
+    début janvier
+  due: '2026-12-01'
+notes: 'MONTANTS (Aide événements culturels) — Cat. 1 : public > 1.000 pers. ET budget
+  > 50.000 € ET caractère supra local → subvention > 1.500 €, plafond 10.000 €. Cat.
+  2 : public > 500 ET budget > 30.000 € → plafond 5.000 €. Cat. 3 : public ≥ 100 ET
+  budget < 30.000 € → maximum 1.500 €. En cas de conflit entre catégories, c''est
+  le critère BUDGET qui tranche.
+
+  CRITÈRES D''EXCLUSION (éliminatoires) : ne pas être une asbl ou une association
+  de fait ; bénéficier déjà d''une subvention récurrente ≥ 2.000 € au budget provincial
+  ; avoir un contrat de gestion avec la Province ; activité déjà subventionnée par
+  un autre service provincial ; activité à but philanthropique. → VÉRIFIER le premier
+  point avant toute chose : s''il tombe, le dossier est mort d''office.
+
+  PIÈGE MAJEUR : « Les demandes seront examinées par ordre d''arrivée en fonction
+  du crédit budgétaire disponible » et « les demandes de subvention sont analysées
+  l''année budgétaire durant laquelle l''événement a lieu ». Traduction : déposer
+  le plus tôt possible dans l''année civile de l''événement. Un dossier parfait déposé
+  en septembre peut être refusé faute de crédit restant.
+
+  LIMITE : une seule demande par an sur ce règlement.
+
+  CRITÈRES D''ANALYSE NOTÉS : visée supracommunale ; importance et diversité du public
+  (les jeunes sont explicitement cités, ainsi que la tarification solidaire et la
+  gratuité ciblée) ; émergence et promotion de NOUVEAUX ARTISTES DU BRABANT WALLON
+  ; identité culturelle du BW et dimension provinciale (visibilité, LOGO, rayonnement
+  média) ; budget réaliste et recherche d''autres soutiens ; partenariats et mutualisation
+  ; BONUS développement durable. → Trois leviers gratuits à activer dans le dossier
+  : programmer des artistes électro du Brabant wallon, afficher le logo de la Province,
+  documenter la démarche éco-responsable.
+
+  PLACE AUX JEUNES : le porteur formel est la COMMUNE — impossible de déposer seul.
+  Le dossier se construit avec Michaël Rouffiange (échevin des Festivités et de la
+  Jeunesse à Genappe). Le doublement provincial ne porte QUE sur les cachets artistiques
+  et leurs besoins logistiques et techniques — ce qui peut inclure le déploiement
+  du sound system. Le projet doit faire appel à au moins un artiste et cibler les
+  10-20 ans.
+
+  '

@@ -1,0 +1,133 @@
+slug: ab-inbev-jupiler
+company: AB InBev / Jupiler
+aka:
+- Anheuser-Busch InBev
+- AB InBev Belgique
+- Jupiler
+country: BE
+sector: boissons
+persona: marque-grand-public
+categories:
+- beverage
+status: lead
+phase: 2
+tags:
+- marque
+score: 17
+website: https://www.abinbev.be
+knowledge: knowledge/AB InBev / Jupiler.md
+profile:
+  activity: Premier brasseur mondial ; siège belge à Leuven (Brouwerijplein 1). Marque
+    phare Jupiler, très active dans les festivals de musique électronique belges via
+    ses dispositifs Jupiler Mirror House et Talent TakeOff by Jupiler.
+  products:
+  - Bières (Jupiler, Stella Artois, Leffe, Tripel Karmeliet…)
+  - Dispositifs festivals (Jupiler Mirror House)
+  - Programme de développement de DJ (Talent TakeOff by Jupiler)
+  size:
+    employees: ±2 800 (Belgique, selon ab-inbev.be)
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Jupiler investit DÉJÀ dans la musique électronique belge : la scène Mirror
+  House et le programme Talent TakeOff tournent à Dour, Les Ardentes, Voodoo Village
+  et WECANDANCE. C''est exactement l''univers de Gazmatek. La bière est aussi un besoin/recette
+  direct pour un festival. Limite : AB InBev est un géant au sponsoring très sélectif
+  et centralisé ; un festival associatif de 10 000 personnes est petit pour eux.'
+ask:
+  type:
+  - material
+  - visibility
+  detail: 'Accord bière festival (fourniture/consignation à conditions ASBL) et/ou
+    intégration au dispositif Jupiler sur un événement Gazmatek. Contrepartie : exclusivité
+    bière, visibilité sur +10 000 festivaliers/an et 27 000 abonnés, terrain d''expression
+    pour la « Génération » ciblée par la marque.'
+  realistic_value_eur: 3000
+values:
+- héritage brassicole belge (600 ans)
+- musique électronique et culture festival
+- soutien aux talents émergents (DJ)
+sponsorship_history:
+- what: 'Jupiler Mirror House (scène entièrement en miroirs) et Talent TakeOff by
+    Jupiler : programme de coaching de 12 DJ déployé à Dour, Les Ardentes, Voodoo
+    Village et WECANDANCE.'
+  url: https://jupiler.be/en/talentTakeoff
+  retrieved_on: 2026-07-14
+- what: Jupiler à la recherche de nouveaux DJ belges (annonce du programme Talent
+    TakeOff, partenariat festivals électro).
+  url: https://www.mm.be/news-fr-69047-jupiler-agrave-la-recherche-de-nouveaux-dj-belges
+  retrieved_on: 2026-07-14
+contacts:
+- name: Esther Louis
+  role: Responsable des communications externes, AB InBev
+  email: esther.louis@ab-inbev.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.ab-inbev.be/fr/contact
+  retrieved_on: 2026-07-14
+  evidence: 'Esther Louis | Responsable des communications externes, AB InBev — Par
+    courriel : esther.louis@ab-inbev.com'
+- name: Aron Wils
+  role: Responsable des affaires institutionnelles Belgique, AB InBev
+  email: aron.wils@ab-inbev.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.ab-inbev.be/fr/contact
+  retrieved_on: 2026-07-14
+  evidence: 'Aron Wils | Responsable des affaires institutionnelles Belgique, AB InBev
+    — Par courriel : aron.wils@ab-inbev.com'
+- name: ''
+  role: Service client marchand de bière (Horeca)
+  email: cx.horeca@ab-inbev.com
+  email_status: generic
+  linkedin: ''
+  phone: 02 200 60 50
+  source_url: https://www.ab-inbev.be/fr/contact
+  retrieved_on: 2026-07-14
+  evidence: 'Je suis un client – marchand de bière — Par téléphone : 02 200 60 50
+    — Par courriel : cx.horeca@ab-inbev.com'
+inbound_channels:
+- type: form
+  url: https://www.ab-inbev.be/fr/contact
+- type: portal
+  url: https://www.horecasupport.be/fr/sur-ab-inbev/contact/
+scoring:
+  business_fit: 6
+  partnership_probability: 4
+  impact_if_successful: 7
+  rationale: 'Meilleur fit du trio boissons : Jupiler finance déjà l''électro belge
+    (Mirror House, Talent TakeOff à Dour/Ardentes/Voodoo/WECANDANCE) et la bière est
+    une recette directe. Probabilité relevée à 4 grâce à cet antécédent musical avéré,
+    mais bridée par la taille : AB InBev cible de gros festivals et son sponsoring
+    est centralisé. Un accord bière/Horeca est plus atteignable qu''une intégration
+    Mirror House. Impact € et image élevés si oui.'
+deadlines: []
+sources:
+- url: https://www.ab-inbev.be/fr/contact
+  retrieved_on: 2026-07-14
+- url: https://jupiler.be/en/talentTakeoff
+  retrieved_on: 2026-07-14
+- url: https://www.mm.be/news-fr-69047-jupiler-agrave-la-recherche-de-nouveaux-dj-belges
+  retrieved_on: 2026-07-14
+documents:
+- output/AB-InBev-Jupiler/AB-InBev-Jupiler-Partnership-2026.pdf
+- output/AB-InBev-Jupiler/AB-InBev-Jupiler-OnePager-2026.pdf
+- output/AB-InBev-Jupiler/email.md
+- output\AB-InBev-Jupiler\AB-InBev-Jupiler-Partnership-2026.pdf
+- output\AB-InBev-Jupiler\AB-InBev-Jupiler-OnePager-2026.pdf
+- output\AB-InBev-Jupiler\email.md
+interactions: []
+events: []
+next_action:
+  what: 'Double approche : accord bière via cx.horeca@ab-inbev.com et pitch dispositif
+    Jupiler via Esther Louis'
+  due: ''
+notes: 'Deux adresses nominatives vérifiées (Esther Louis, communications externes
+  ; Aron Wils, affaires institutionnelles), toutes deux orientées presse/institutionnel
+  — utiles pour un pitch marque/Jupiler. Pour le volet opérationnel bière : cx.horeca@ab-inbev.com
+  / 02 200 60 50 (Horeca). Siège : AB InBev, Brouwerijplein 1, 3000 Leuven. Angle
+  le plus fort : s''inscrire dans l''écosystème électro que Jupiler alimente déjà
+  (Mirror House / Talent TakeOff).'

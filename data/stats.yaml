@@ -1,0 +1,13 @@
+# Les chiffres. On les modifie ICI et nulle part ailleurs.
+followers: "27 000"
+
+stats:
+  title: "NOTRE COMMUNAUTÉ (GAZMATEK + FALC'OHM SYSTEM)"
+  items:
+    - { value: "2020",    label: "Création de l'ASBL" }
+    - { value: "10-15",   label: "Événements par an" }
+    - { value: "+10 000", label: "Festivaliers chaque année" }
+    - { value: "+40",     label: "Membres et bénévoles" }
+    - { value: "27 000",  label: "Abonnés Instagram et Facebook" }
+
+chips: ["Événements", "Festivals", "Sonorisation", "Lumière", "Fabrication d'enceintes"]

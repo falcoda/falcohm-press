@@ -1,0 +1,118 @@
+slug: lochten-germeau
+company: Lochten & Germeau
+aka:
+- Lochten & Germeau s.a.
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 32
+website: https://www.lochten.be
+knowledge: ''
+profile:
+  activity: Négoce bruxellois de bois, panneaux, isolation et matériaux de parachèvement
+    (Forest), s'adressant aux professionnels de la construction et de la rénovation
+    comme aux particuliers. Petite structure (5-9 personnes selon Europages), positionnée
+    sur les filières d'approvisionnement responsables (bois certifié FSC et PEFC).
+  products:
+  - Multiplex / contreplaqué en plusieurs essences
+  - Multiplex base BOULEAU et base peuplier
+  - Multiplex prépeints, vernis, mélaminés, stratifiés, plaqués
+  - Panneaux, isolation, matériaux de parachèvement
+  size:
+    employees: 5-9
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Ils annoncent explicitement une gamme de multiplex ''en base peuplier ou
+  bouleau'', y compris prépeints et vernis — donc l''essence exacte du besoin, avec
+  des finitions qui pourraient éviter à Falc''ohm une étape de vernissage. Petite
+  structure de 5 à 9 personnes : le décideur est joignable en un appel. Bruxelles
+  (Forest) est à ~25 km de Genappe, donc l''enlèvement reste réaliste. Leur discours
+  sur l''approvisionnement responsable et le recyclage colle aux valeurs d''une asbl
+  non lucrative.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Remise pro récurrente sur le multiplex bouleau (15/18/21 mm) et accès aux
+    chutes/fins de série de panneaux. Explorer aussi leur gamme de multiplex prépeints/vernis
+    : une finition déjà appliquée en usine ferait gagner du temps d''atelier sur chaque
+    enceinte. Contrepartie : visibilité sur le sound system et sur 10-15 événements/an.'
+  realistic_value_eur: 2500
+values:
+- Filières d'approvisionnement responsables
+- Bois certifié FSC et PEFC
+- Recyclage (page dédiée sur leur site)
+- Petite structure de proximité
+sponsorship_history: []
+contacts:
+- name: ''
+  role: DPO / vie privée
+  email: info@lochten.be
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.lochten.be/fr/gdpr
+  retrieved_on: '2026-07-14'
+  evidence: '« il est prié d''envoyer un e-mail à l''adresse suivante : info@lochten.be
+    »'
+- name: ''
+  role: ''
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: +32 (0)2 215 24 55
+  source_url: https://www.lochten.be/fr/contact
+  retrieved_on: 2026-07-14
+  evidence: Bd de l'Humanité, 51, 1190 Forest — + 32 (0)2 215 24 55 — + 32 (0)2 216
+    92 87 — AUCUNE adresse email n'est publiée sur le site (ni page contact, ni pied
+    de page)
+inbound_channels:
+- type: form
+  url: https://www.lochten.be/fr/contact
+scoring:
+  business_fit: 9
+  partnership_probability: 6
+  impact_if_successful: 6
+  rationale: 'Fit très élevé : c''est l''un des rares négociants à mentionner noir
+    sur blanc le multiplex en base bouleau, avec en prime des versions prépeintes/vernies
+    exploitables directement pour des caissons. La probabilité est correcte — micro-structure
+    où le patron décide — mais rien ne prouve une culture de sponsoring et aucun email
+    n''est publié, ce qui rend l''entrée plus lente (téléphone ou formulaire uniquement).
+    Impact plus limité : 5-9 personnes, donc des volumes et une capacité de don modestes
+    comparés à un Cras ou un Biemar.'
+deadlines: []
+sources:
+- url: https://www.lochten.be/fr/contact
+  retrieved_on: 2026-07-14
+- url: https://www.lochten.be/fr
+  retrieved_on: 2026-07-14
+- url: https://www.lochten.be/fr/produits/panneaux/panneaux-contreplaqu%C3%A9s-ou-multiplex
+  retrieved_on: 2026-07-14
+- url: https://www.europages.fr/LOCHTEN-GERMEAU/BEL003236-00101.html
+  retrieved_on: 2026-07-14
+- url: https://www.lochten.be/fr/gdpr
+  retrieved_on: '2026-07-14'
+documents:
+- output\Lochten-Germeau\Lochten-Germeau-Partnership-2026.pdf
+- output\Lochten-Germeau\Lochten-Germeau-OnePager-2026.pdf
+- output\Lochten-Germeau\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'AUCUN EMAIL PUBLIC : ni la page contact, ni le pied de page du site ne publient
+  d''adresse email — contacts laissé sans email volontairement. Des annuaires tiers
+  mentionnent des adresses de type lochten@ ou info@, mais je n''ai pu les lire sur
+  AUCUNE page réellement ouverte : ne pas les utiliser tant qu''elles ne sont pas
+  confirmées. Entrée par téléphone (+32 (0)2 215 24 55, second numéro +32 (0)2 216
+  92 87) ou par le formulaire. Adresse : Bd de l''Humanité 51, 1190 Forest (Europages
+  affiche une adresse différente, Rue du Cerf 300 — se fier au site officiel). Horaires
+  : lun-ven 7h00-12h30 / 13h30-17h00, fermé le week-end.'

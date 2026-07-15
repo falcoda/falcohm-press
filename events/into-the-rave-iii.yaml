@@ -1,0 +1,31 @@
+# TODO : date exacte, budget, lineup, stats.
+# Fréquentation : 600 (chiffre donné par Corentin, 2026-07-14).
+slug: into-the-rave-iii
+name: Into The Rave III
+date: '2025-01-01 # TODO'
+venue: La Fabriek
+city: ''
+capacity: ~900
+attendance: 600
+type: soiree
+lineup: []
+sponsors: []
+partners: []
+budget:
+  total: null
+  technique: null
+  artistes: null
+  communication: null
+technique:
+  system: Falc'ohm System
+  stages: 1
+  notes: ''
+medias:
+  poster: ''
+  photos: []
+  aftermovie: ''
+stats:
+  reach_instagram: null
+  reach_facebook: null
+  tickets_sold: null
+retombees: ''

@@ -1,0 +1,113 @@
+slug: powersoft
+company: Powersoft S.p.A.
+aka:
+- Powersoft Audio
+country: IT
+sector: audio
+persona: fabricant-audio
+categories:
+- amplification
+status: lead
+phase: 1
+tags: []
+score: 27
+website: https://www.powersoft.com
+knowledge: ''
+profile:
+  activity: Fabricant italien d'amplification de puissance haut de gamme et de DSP pour la sonorisation
+    professionnelle, basé à Scandicci (Florence). Coté en bourse. Développe aussi des transducteurs (M-Force)
+    et le logiciel de calage système ArmoníaPlus.
+  products:
+  - Amplis de puissance touring et install (séries K, X, T, Duecanali, Quattrocanali, Mezzo)
+  - DSP intégré et plateforme de calage système ArmoníaPlus
+  - Modules d'amplification OEM et transducteurs M-Force
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: 04644200489
+    linkedin: ''
+why_us: 'L''amplification est la moitié du besoin que Falc''ohm ne peut pas fabriquer lui-même : on construit
+  un caisson, on ne construit pas un ampli. Powersoft est la référence du rack de puissance de sound system
+  (rendement, DSP embarqué, calage réseau) et c''est la seule société de la catégorie qui affiche un vrai
+  programme de mécénat public — "Advocacy" — sponsorisant des écoles de musique, des installations artistiques,
+  des associations caritatives et le fonds Crew Nation pour les techniciens du live. Le vocabulaire de
+  Falc''ohm (non lucratif, jeunesse, technique, bénévoles) est exactement celui de leur page Advocacy
+  : c''est la porte d''entrée, pas le service commercial.'
+ask:
+  type:
+  - material
+  - loan
+  - discount
+  - visibility
+  detail: 'Candidature au programme Advocacy : dotation ou prêt longue durée d''un rack d''amplification
+    (2 à 4 amplis de la série Quattrocanali/X) pour les nouveaux subs horn et les tops, plus licences/formation
+    ArmoníaPlus pour le calage système. À défaut : conditions professionnelles via leur distributeur autorisé
+    Benelux. Contrepartie : marquage "Powered by Powersoft" sur les racks, visibilité sur 10-15 événements
+    et +10 000 festivaliers/an.'
+  realistic_value_eur: 12000
+values:
+- innovation
+- efficacité énergétique
+- made-in-Italy
+- soutien à la communauté du live
+- éducation
+sponsorship_history:
+- what: 'Programme « Advocacy » : sponsoring d''écoles de musique (Scuola di Musica di Scandicci), d''associations
+    caritatives (Save The Children Italia, GILP Onlus, ATT) et d''installations artistiques ; « we are
+    proud to sponsor activities that align with our core values ».'
+  url: https://www.powersoft.com/en/advocacy
+  retrieved_on: 2026-07-14
+- what: 'Soutien au fonds Crew Nation (aide aux techniciens du spectacle vivant) : reversement de 5% des
+    ventes d''amplis touring, ~48 000 € levés.'
+  url: https://www.powersoft.com/en/advocacy
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: DPO / vie privée (seul contact humain public)
+  email: privacy@powersoft.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.powersoft.com/en/privacy
+  retrieved_on: '2026-07-14'
+  evidence: '« For more information on the processing of your Personal Data, you can write to the e-mail
+    address privacy@powersoft.com ». NB : le subside/partenariat passe par Advocacy, pas par le DPO.'
+inbound_channels:
+- type: portal
+  url: https://www.powersoft.com/en/advocacy
+- type: form
+  url: https://www.powersoft.com/en/about/commercial-enquiries
+- type: form
+  url: https://www.powersoft.com/en/supports/contact-us
+scoring:
+  business_fit: 9
+  partnership_probability: 3
+  impact_if_successful: 10
+  rationale: 'Besoin réel et non substituable : sans amplification, les caissons ne sonnent pas. Mais
+    Powersoft est coté, applique une politique explicite de vente exclusivement via distributeurs autorisés,
+    et son programme Advocacy est un canal de mécénat visible donc probablement sollicité en permanence
+    — une petite ASBL belge y est un dossier parmi des centaines. Probabilité basse mais pas nulle : c''est
+    la seule cible de la catégorie avec un antécédent de sponsoring documenté et un discours "give back
+    to the community".'
+deadlines: []
+sources:
+- url: https://www.powersoft.com/en/about/contacts/
+  retrieved_on: 2026-07-14
+- url: https://www.powersoft.com/en/about/commercial-enquiries
+  retrieved_on: 2026-07-14
+- url: https://www.powersoft.com/en/advocacy
+  retrieved_on: 2026-07-14
+- url: https://www.powersoft.com/en/privacy
+  retrieved_on: '2026-07-14'
+documents: []
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'powersoft@pec.it est une adresse PEC (posta elettronica certificata) : c''est une boîte légale/administrative
+  italienne, à ne PAS utiliser pour de la prospection. Aucun e-mail commercial nominatif n''est publié.
+  La bonne voie est la page Advocacy + le formulaire "Commercial Enquiries". La page contacts précise
+  explicitement de passer par les distributeurs autorisés pour toute demande de prix/disponibilité. Ce
+  fichier remplace le stub legacy généré par l''ancien script.'

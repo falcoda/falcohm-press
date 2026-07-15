@@ -1,0 +1,106 @@
+slug: phl-audio
+company: PHL Audio
+aka:
+- PHL
+country: FR
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 34
+website: https://www.phlaudio.com
+knowledge: ''
+profile:
+  activity: Fabricant français de haut-parleurs professionnels depuis 1990, installé
+    à Vaux-le-Pénil (Seine-et-Marne). Très petite structure (une poignée de salariés)
+    mais fournisseur historique de transducteurs haut de gamme pour la sonorisation,
+    le monitoring studio et la Hi-Fi.
+  products:
+  - Haut-parleurs de grave et grave/médium 8" à 15"
+  - Médiums et médiums à haut rendement
+  - Transducteurs pour sonorisation, monitoring et Hi-Fi (100+ références)
+  - Reconing et réparation de ses propres HP
+  size:
+    employees: 6-9
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'PHL est le seul fabricant de transducteurs francophone et de taille vraiment
+  humaine de la liste : le dossier arrive en français, sur le bureau de quelqu''un
+  qui décide. Leur positionnement — haut rendement, excursion contrôlée, fabrication
+  en France — correspond mot pour mot au cahier des charges de la page « matériel
+  » du dossier Falc''ohm. Et surtout : PHL a besoin de visibilité face aux marques
+  italiennes. Un sound system belge visible sur 10-15 événements et +10 000 festivaliers/an,
+  monté en PHL, est une vitrine qu''ils n''ont pas aujourd''hui. Le rapport de force
+  est ici le plus favorable de tout le module.'
+ask:
+  type:
+  - material
+  - discount
+  - visibility
+  detail: 'Partenariat de visibilité croisée : conditions préférentielles ou dotation
+    partielle sur les médiums et grave/médium des tops multi horn entry, en échange
+    d''un marquage « Powered by PHL Audio » sur les façades, d''un making-of documenté
+    de la construction et de mentions sur les réseaux (27 000 abonnés). Le grave des
+    subs horn (21\") restera à sourcer ailleurs : proposer PHL sur la partie médium/haut
+    du système.'
+  realistic_value_eur: 6000
+values:
+- made-in-France
+- made-in-EU
+- PME artisanale
+- haut rendement
+- savoir-faire historique
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général / commercial
+  email: contact@phlaudio.com
+  email_status: generic
+  linkedin: ''
+  phone: +33 (0)1 60 68 79 08
+  source_url: https://www.phlaudio.com/contact/
+  retrieved_on: 2026-07-14
+  evidence: contact@phlaudio.com — 190 rue des Trois Tilleuls 77000 Vaux-le-Pénil,
+    France — +33 (0)1 60 68 79 08 — 8:30 am – 5:30 pm, Monday through Friday
+inbound_channels:
+- type: form
+  url: https://www.phlaudio.com/contact/
+scoring:
+  business_fit: 8
+  partnership_probability: 6
+  impact_if_successful: 7
+  rationale: 'Le catalogue PHL ne descend pas aussi bas que les 21\" des subs horn
+    : le fit est donc excellent sur le médium/aigu des tops mais partiel sur le système
+    complet, d''où 8 et non 9. En revanche c''est la meilleure probabilité parmi les
+    fabricants : 6 à 9 salariés, francophone, e-mail direct, et un intérêt marketing
+    évident à voir son nom sur un rig visible en Belgique. Impact modéré en euros
+    mais fort en crédibilité technique (« nos médiums sont français »).'
+deadlines: []
+sources:
+- url: https://www.phlaudio.com/contact/
+  retrieved_on: 2026-07-14
+- url: https://www.phlaudio.com/
+  retrieved_on: 2026-07-14
+- url: https://www.phlaudio.com/distribution/index.html
+  retrieved_on: 2026-07-14
+documents:
+- output\PHL-Audio\PHL-Audio-Partnership-2026.pdf
+- output\PHL-Audio\PHL-Audio-OnePager-2026.pdf
+- output\PHL-Audio\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'PHL ne distribue pas en direct partout : sa page « distribution » ne liste
+  que deux distributeurs mondiaux, Audio Solvation (NL, Sittard — 1h de Genappe) et
+  TLHP (FR). Les deux sont fichés séparément dans ce CRM et constituent une voie d''accès
+  parallèle (et un levier : un accord PHL peut se négocier via Audio Solvation). PHL
+  revendique des clients OEM de premier plan dans la sono (L-Acoustics, Nexo, Martin
+  Audio, APG) — argument de crédibilité, mais non vérifié sur le site du fabricant
+  lui-même.'

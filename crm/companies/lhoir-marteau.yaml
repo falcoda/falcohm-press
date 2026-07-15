@@ -1,0 +1,102 @@
+slug: lhoir-marteau
+company: Lhoir & Marteau
+aka:
+- Lhoir et Marteau S.A.
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 45
+website: https://lhoiretmarteau.be
+knowledge: ''
+profile:
+  activity: Marchand de bois et de dérivés du bois établi à Waterloo (Brabant wallon)
+    depuis 1945, spécialisé dans les produits de rénovation, d'isolation et de parachèvement
+    du bâtiment. Équipe de 14 personnes sur ~3 500 m² d'ateliers et de stockage couvert.
+    Propose la vente de panneaux et un service de découpe et travail à façon.
+  products:
+  - Panneaux
+  - Bois et dérivés du bois
+  - Découpes & travail à façon
+  - Isolation et parachèvement
+  size:
+    employees: '14'
+    revenue: ''
+  identifiers:
+    vat: 0415.575.516
+    linkedin: ''
+why_us: 'Le voisin direct : Waterloo est à ~15 km de l''atelier de Genappe, même province.
+  PME de 14 personnes dirigée par Michel Marteau — c''est le profil décrit comme la
+  meilleure cible : le patron décide seul, sans comité, et l''ancrage local le motive.
+  Ils vendent des panneaux ET font le travail à façon (découpe), donc ils couvrent
+  la fourniture et le débit. Une visite d''atelier est trivialement organisable :
+  20 minutes de route.'
+ask:
+  type:
+  - material
+  - discount
+  - services
+  detail: Compte professionnel avec remise récurrente sur le multiplex bouleau (15/18/21
+    mm), récupération des chutes et fins de série de panneaux, et découpe à façon
+    des flancs d'enceintes à tarif partenaire. Proposer une visite de l'atelier Falc'ohm
+    à Genappe et, en retour, la présence de leur logo sur le sound system devant +10
+    000 festivaliers/an.
+  realistic_value_eur: 3000
+values:
+- PME familiale (fondée en 1945)
+- Ancrage Brabant wallon
+- Conseil et service sur mesure
+- Savoir-faire bois sur 3 générations
+sponsorship_history: []
+contacts:
+- name: Michel Marteau
+  role: ''
+  email: info@lhoir-marteau.be
+  email_status: generic
+  linkedin: ''
+  phone: 02/354 78 92
+  source_url: https://lhoiretmarteau.be/about/
+  retrieved_on: 2026-07-14
+  evidence: 'Michel Marteau — dirige une équipe de 14 personnes (page ''about'').
+    Coordonnées de l''entreprise sur la même page : Avenue des Pâquerettes 55, bte
+    31, 1410 Waterloo — 02/354 78 92 — info@lhoir-marteau.be — n° d''entreprise 0415.575.516'
+inbound_channels:
+- type: form
+  url: https://lhoiretmarteau.be/
+scoring:
+  business_fit: 8
+  partnership_probability: 8
+  impact_if_successful: 7
+  rationale: 'Ils vendent les panneaux et font la découpe à façon, donc le besoin
+    technique est couvert, même si leur coeur de métier est plutôt la rénovation/parachèvement
+    que le panneau technique haut de gamme — d''où un fit de 8 et pas 10. La probabilité
+    est parmi les meilleures du panel : PME de 14 personnes à ~15 km, un dirigeant
+    identifié nommément (Michel Marteau), aucune couche hiérarchique. Impact correct
+    : volumes plus modestes qu''un gros négociant, mais la proximité rend les enlèvements
+    de chutes quasi gratuits et répétables.'
+deadlines: []
+sources:
+- url: https://lhoiretmarteau.be/
+  retrieved_on: 2026-07-14
+- url: https://lhoiretmarteau.be/about/
+  retrieved_on: 2026-07-14
+documents:
+- output\Lhoir-Marteau\Lhoir-Marteau-Partnership-2026.pdf
+- output\Lhoir-Marteau\Lhoir-Marteau-OnePager-2026.pdf
+- output\Lhoir-Marteau\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Adresse : Avenue des Pâquerettes 55, bte 31, 1410 Waterloo (zoning industriel,
+  ancienne usine Fiat). Fax 02/354 54 48. Horaires : lun-ven 7-17h, sam 8-12h. Fondée
+  en 1945 par Paul Lhoir, aujourd''hui menée par Michel Marteau. ATTENTION : la page
+  ''about'' nomme Michel Marteau comme dirigeant de l''équipe mais n''imprime PAS
+  de titre officiel (gérant/CEO/administrateur) — le champ position est donc laissé
+  vide volontairement, et son email personnel n''est PAS publié : passer par info@lhoir-marteau.be
+  ou par téléphone en le demandant nommément. Aucun sponsoring identifié.'

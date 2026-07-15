@@ -1,0 +1,106 @@
+slug: bourguignon-bois
+company: Bourguignon Bois
+aka:
+- Bourguignon SA
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 58
+website: https://www.bourguignonbois.be
+knowledge: ''
+profile:
+  activity: Négociant en bois et panneaux implanté à Tourinnes-Saint-Lambert (Walhain),
+    en Brabant wallon, sur un site de scierie historique. Distribue panneaux (multiplex/contreplaqué),
+    bois de menuiserie, parquets, portes, isolation et colles, aux professionnels
+    comme aux particuliers.
+  products:
+  - Multiplex / contreplaqué
+  - Panneaux dérivés du bois
+  - Bois de menuiserie et de construction
+  - Parquets, lambris, portes
+  - Isolation, colles et produits de finition
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE 0464.933.272
+    linkedin: ''
+why_us: 'La cible la plus évidente de la catégorie : ~18 km de l''atelier de Genappe,
+  même province (Brabant wallon). Entreprise familiale (75 ans) où la décision se
+  prend en interne, sans comité de sponsoring. Surtout : ils sponsorisent DÉJÀ un
+  club local (CTT Tourinnes) — la démarche ''soutenir une asbl du coin'' fait partie
+  de leur culture. Ils vendent exactement notre matière première n°1 (multiplex) et
+  sont sur un site de scierie : les chutes et fins de série existent physiquement
+  chez eux.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: 'Compte professionnel avec remise négociée sur le multiplex bouleau (15/18/21
+    mm), accès prioritaire aux chutes et fins de série de panneaux, et fourniture
+    de colles/produits de finition. Visite de l''atelier de Genappe proposée : ils
+    sont à 20 minutes. Contrepartie : logo sur le sound system, mentions sur les 10-15
+    événements Gazmatek/an et auprès des 27 000 abonnés.'
+  realistic_value_eur: 4000
+values:
+- Entreprise familiale
+- Ancrage local Brabant wallon
+- Savoir-faire bois depuis 75 ans
+- Soutien au tissu associatif et sportif local
+sponsorship_history:
+- what: Partenaire du CTT Tourinnes Saint-Lambert (club de tennis de table local)
+  url: https://ctttourinnes.be/partenaires/fiche/12/bourguignon-bois-sa-walhain-chemin-de-la-scierie-12-16
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: ''
+  email: info@bourguignonbois.be
+  email_status: generic
+  linkedin: ''
+  phone: 010 65 55 66
+  source_url: https://www.bourguignonbois.be/fr/contactez-nous
+  retrieved_on: 2026-07-14
+  evidence: info@bourguignonbois.be — Chemin de la Scierie, 18, Tourinnes St Lambert,
+    1457, Belgique — 010 65 55 66
+inbound_channels:
+- type: form
+  url: https://www.bourguignonbois.be/fr/contactez-nous
+scoring:
+  business_fit: 9
+  partnership_probability: 8
+  impact_if_successful: 8
+  rationale: 'Ils stockent le multiplex dont Falc''ohm a besoin en récurrence, et
+    le site de scierie génère des chutes exploitables pour des pièces d''enceintes.
+    La probabilité est la plus haute du panel : PME familiale du Brabant wallon, décision
+    courte, et sponsoring local déjà pratiqué (CTT Tourinnes) — le précédent existe,
+    il suffit de s''y greffer. Impact fort car la proximité (~18 km) permet des enlèvements
+    réguliers sans coût logistique.'
+deadlines: []
+sources:
+- url: https://www.bourguignonbois.be/fr/contactez-nous
+  retrieved_on: 2026-07-14
+- url: https://www.bourguignonbois.be/fr/122-multiplex
+  retrieved_on: 2026-07-14
+- url: https://ctttourinnes.be/partenaires/fiche/12/bourguignon-bois-sa-walhain-chemin-de-la-scierie-12-16
+  retrieved_on: 2026-07-14
+documents:
+- output\Bourguignon-Bois\Bourguignon-Bois-Partnership-2026.pdf
+- output\Bourguignon-Bois\Bourguignon-Bois-OnePager-2026.pdf
+- output\Bourguignon-Bois\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Fermeture annuelle du 17 juillet au 01 août inclus — ne pas prospecter sur
+  cette fenêtre. Adresse : la page contact indique Chemin de la Scierie 18, la fiche
+  du CTT Tourinnes indique ''CHEMIN DE LA SCIERIE 12-16'' (même site). Aucun nom de
+  dirigeant n''est publié sur le site : passer par info@ ou par téléphone pour identifier
+  le décideur. Angle à jouer : le sponsoring CTT Tourinnes prouve qu''ils disent oui
+  aux assos locales.'

@@ -1,0 +1,161 @@
+slug: loterie-nationale
+company: Loterie Nationale
+aka:
+- Nationale Loterij
+- Loterie Nationale — Subsides
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- lottery
+- foundations
+- public_funding
+status: lead
+phase: 2
+tags:
+- institution
+- deadline-glissante
+score: 21
+website: https://www.loterie-nationale.be
+knowledge: knowledge/Loterie Nationale.md
+profile:
+  activity: 'Entreprise publique fédérale dont une part statutaire des bénéfices est
+    redistribuée en subsides d''utilité publique (culture, sport, social, développement
+    durable). Deux canaux : les soutiens financiers permanents (Prestige National
+    / Proximity) et des appels à projets thématiques annuels.'
+  products:
+  - Soutien financier « Proximity » — événements ancrés localement, cohésion sociale
+    et vie associative
+  - Soutien financier « Prestige National » — projets à portée symbolique/culturelle
+    nationale
+  - 'Appels à projets thématiques annuels (2026 : développement durable, Parasport,
+    lutte contre la pauvreté)'
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Le volet « Proximity » décrit Gazmatek presque mot pour mot. Il vise les
+  événements ancrés localement, organisés par des acteurs de terrain, qui renforcent
+  la cohésion sociale et la vie associative, et couvre explicitement « les initiatives
+  culturelles accessibles et non commerciales (musique, humour, cinéma, théâtre de
+  rue, projets pluridisciplinaires) » ainsi que « les événements en plein air ». Falc''ohm
+  System est une ASBL non lucrative animée par 40+ bénévoles, qui organise des événements
+  de musique en plein air rassemblant plus de 10.000 personnes : acteur de terrain,
+  événement local, non commercial, cohésion sociale — les quatre cases sont cochées
+  sans forcer le récit. La condition d''ancienneté (personne morale belge à but désintéressé,
+  minimum 1 an d''existence) est largement acquise : l''ASBL existe depuis 2020.
+
+  '
+ask:
+  type:
+  - financial
+  detail: 'Soutien financier « Proximity » via le portail de demande de subsides.
+    La catégorie (Prestige National ou Proximity) est déterminée par la Loterie Nationale
+    elle-même sur base des informations fournies : ne pas chercher à la choisir, remplir
+    honnêtement. Conditions : demande introduite par une personne majeure, événement
+    se déroulant en Belgique, public non exclusivement mineur, et demande soumise
+    AU PLUS TARD 3 MOIS AVANT L''ÉVÉNEMENT. Frais explicitement inéligibles : assurances,
+    taxes, carburant, consultance, catering → construire le budget de la demande sur
+    les cachets, la technique, la scène et la production.
+
+    '
+  realistic_value_eur: 5000
+values:
+- Cohésion sociale
+- Vie associative
+- Accessibilité de la culture
+- Ancrage local
+sponsorship_history:
+- what: Le volet « Proximity » cible nommément les initiatives culturelles accessibles
+    et non commerciales (musique, humour, cinéma, théâtre de rue, projets pluridisciplinaires)
+    et les événements en plein air
+  url: https://demandesubside.loterie-nationale.be/fr
+  retrieved_on: 2026-07-14
+- what: 'Appels à projets annuels à budgets importants — ex. 2026 : 1,5 M€ pour l''écologie
+    et le développement durable, jusqu''à 80.000 € par projet et 75 % du budget total,
+    ouverts aux projets culturels et participatifs'
+  url: https://www.loterie-nationale.be/bien-plus-que-jouer/societe/appel-a-projets-sur-le-developpement-durable
+  retrieved_on: 2026-07-14
+contacts: []
+inbound_channels:
+- type: portal
+  url: https://demandesubside.loterie-nationale.be/fr
+- type: portal
+  url: https://www.loterie-nationale.be/bien-plus-que-jouer/introduire-une-demande
+- type: form
+  url: https://www.loterie-nationale.be/info/contact/formulaire-de-contact
+scoring:
+  business_fit: 7
+  partnership_probability: 5
+  impact_if_successful: 6
+  rationale: 'Le fit est bon : la définition officielle de « Proximity » (événement
+    local, plein air, initiative culturelle musicale accessible et non commerciale,
+    cohésion sociale, vie associative) est une description quasi littérale de Gazmatek,
+    et l''ASBL remplit la condition d''ancienneté. La probabilité reste moyenne :
+    la Loterie est très sollicitée, n''affiche ni montant ni taux de réussite, précise
+    que « l''introduction d''une demande n''implique pas automatiquement l''octroi
+    d''un soutien », et ne publie AUCUN contact humain — impossible de défendre le
+    dossier, tout se joue sur le formulaire. Impact correct mais non structurant :
+    soutien ponctuel, sans l''effet de reconnaissance sectorielle d''un subside FWB.
+
+    '
+deadlines:
+- what: 'Soutien Proximity / Prestige National — pas de date fixe, mais règle ABSOLUE
+    : la demande doit être soumise AU PLUS TARD 3 MOIS AVANT L''ÉVÉNEMENT. Pour une
+    édition à l''été 2027, viser un dépôt en hiver 2026-2027.'
+  date: '2027-01-31'
+  url: https://demandesubside.loterie-nationale.be/fr
+sources:
+- url: https://demandesubside.loterie-nationale.be/fr
+  retrieved_on: 2026-07-14
+- url: https://www.loterie-nationale.be/bien-plus-que-jouer/introduire-une-demande
+  retrieved_on: 2026-07-14
+- url: https://www.loterie-nationale.be/bien-plus-que-jouer/societe/appel-a-projets-2026
+  retrieved_on: 2026-07-14
+documents:
+- output/Loterie-Nationale/Loterie-Nationale-Partnership-2026.pdf
+- output/Loterie-Nationale/Loterie-Nationale-OnePager-2026.pdf
+- output/Loterie-Nationale/email.md
+- output\Loterie-Nationale\Loterie-Nationale-Partnership-2026.pdf
+- output\Loterie-Nationale\Loterie-Nationale-OnePager-2026.pdf
+- output\Loterie-Nationale\email.md
+interactions: []
+events: []
+next_action:
+  what: Créer le compte sur demandesubside.loterie-nationale.be et préparer la demande
+    Proximity — en calant le dépôt à plus de 3 mois avant la prochaine édition
+  due: '2027-01-31'
+notes: 'RÈGLE ÉLIMINATOIRE : demande à soumettre au plus tard 3 MOIS AVANT l''événement.
+  C''est le piège n°1 — un dépôt à 2 mois est irrecevable, quel que soit le projet.
+
+  ÉLIGIBILITÉ « Prestige National » : réservé aux personnes morales de droit public
+  ou privé belge à but désintéressé, minimum 1 an d''existence [OK — ASBL de 2020].
+  « Proximity » est accessible aux personnes morales ET physiques.
+
+  AUTRE CONDITION : l''événement ne peut pas viser un public exclusivement mineur.
+  Gazmatek visant un public jeune, vérifier que la communication du dossier ne laisse
+  pas croire à un événement pour mineurs.
+
+  FRAIS INÉLIGIBLES (Prestige National) : assurances, taxes, carburant, consultance,
+  frais de catering. → Bâtir le budget de la demande sur les cachets artistiques,
+  la technique, la scène et la sécurité.
+
+  CONTACTS : la Loterie Nationale ne publie AUCUN email ni téléphone de service subsides.
+  Le seul canal est le portail de dépôt + le formulaire de contact générique. Ne pas
+  inventer d''adresse.
+
+  MÉCANIQUE DU PORTAIL : sauvegarde automatique pendant la saisie ; demandes non modifiables
+  après soumission ; toute demande entamée mais non mise à jour pendant 6 mois est
+  automatiquement supprimée.
+
+  PISTE COMPLÉMENTAIRE : surveiller les appels à projets thématiques annuels (publiés
+  vers mars). Celui sur le développement durable 2026 était doté de 1,5 M€, jusqu''à
+  80.000 € par projet et 75 % du budget, et acceptait les « projets culturels, éducatifs
+  ou participatifs qui sensibilisent les citoyens aux objectifs de développement durable
+  ». Un festival éco-responsable qui fabrique et répare son propre matériel plutôt
+  que d''acheter et jeter y a un angle réel. Le calendrier 2027 n''est pas encore
+  publié.
+
+  '

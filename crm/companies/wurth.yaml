@@ -1,0 +1,127 @@
+slug: wurth
+company: Würth
+aka:
+- Würth Belux
+- Würth Belux N.V.
+- Würth Belux SA
+country: BE
+sector: visserie
+persona: fournisseur-technique
+categories:
+- fasteners
+status: lead
+phase: 1
+tags:
+- technique
+score: 19
+website: https://www.wurth.be
+knowledge: knowledge/Würth.md
+profile:
+  activity: Filiale belgo-luxembourgeoise du groupe Würth, négociant en technique
+    d'assemblage et de fixation. Siège Belux à Turnhout, réseau de plus de 30 shops
+    en Belgique, service externe de gestionnaires de comptes. Plus de 125 000 références.
+  products:
+  - Visserie, boulonnerie, chevilles et fixations
+  - Colles, mousses, produits chimiques et consommables d'atelier
+  - Outillage à main et électroportatif, rangement d'atelier
+  - Équipements de protection et abrasifs
+  size:
+    employees: ±324 ETP (Belux, companyweb 2025) ; « plus de 400 personnes » selon
+      wurth.be
+    revenue: ''
+  identifiers:
+    vat: BE 0435.180.897
+    linkedin: ''
+why_us: 'Würth couvre trois postes récurrents et à faible coût unitaire de la fabrication
+  d''enceintes : la visserie/fixation, les colles et consommables, et l''outillage
+  d''atelier. Le siège Belux et un shop sont à Turnhout, une décision de compte pro
+  se prend localement. L''angle réaliste n''est pas un sponsoring (leur sponsoring
+  groupe est verrouillé sur le sport auto et le foot) mais un COMPTE PARTENAIRE avec
+  conditions ASBL et dotation de consommables, plus atteignable via le réseau de shops
+  belge.'
+ask:
+  type:
+  - discount
+  - material
+  - consumables
+  detail: 'Ouverture d''un compte professionnel avec conditions préférentielles ASBL
+    sur la visserie, les colles et l''outillage, et une dotation de consommables d''atelier.
+    Contrepartie : marquage « équipé par Würth » sur les racks/façades et visibilité
+    sur 10-15 événements/an.'
+  realistic_value_eur: 3000
+values:
+- savoir-faire artisanal
+- qualité produit
+- proximité et service externe
+- sponsoring sportif (foot, sport auto, Special Olympics, esport)
+sponsorship_history:
+- what: 'Sponsoring corporate orienté sport : Bundesliga, Liga, arbitres (ES), Fédération
+    allemande de ski, Formule 1 / rallyes / NASCAR, Special Olympics (équipe allemande
+    depuis 2008), esport (FOKUS depuis 2022). Aucun sponsoring musique/culture en
+    Belgique trouvé.'
+  url: https://www.wurth.be/fr/wuerth_belux/company/engagement/engagement.php
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: Service clientèle Würth Belux
+  email: service@wurth.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 (0)14 44 55 66
+  source_url: https://www.wurth.be/fr/wuerth_belux/company/contact/contact_wurth.php
+  retrieved_on: 2026-07-14
+  evidence: service@wurth.be — +32 (0)14 44 55 66 — Everdongenlaan 29 (4253) 2300
+    Turnhout, België
+- name: ''
+  role: Contact général Würth Belux N.V.
+  email: info@wurth.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 144 455 66
+  source_url: https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Company-directory/W%C3%BCrth-Belux-N.V.php
+  retrieved_on: 2026-07-14
+  evidence: Würth Belux N.V. — Everdongenlaan 29 (4253) 2300 Turnhout — info@wurth.be
+    — +32 144 455 66
+inbound_channels:
+- type: form
+  url: https://www.wurth.be/fr/wuerth_belux/company/wuerth___friends/Wurthandfriends.php
+- type: portal
+  url: https://www.wurth.be/fr/wuerth_belux/company/contact/contact_wurth.php
+scoring:
+  business_fit: 8
+  partnership_probability: 4
+  impact_if_successful: 6
+  rationale: 'Fit élevé : visserie, colles et outillage sont un besoin permanent et
+    récurrent de l''atelier. Probabilité basse-moyenne : le sponsoring du groupe Würth
+    est centralisé sur le sport de haut niveau, aucun antécédent culturel — mais un
+    compte partenaire avec remise ASBL est décidable localement au shop de Turnhout,
+    ce qui rend l''ASK atteignable même sans « sponsoring » au sens strict. Impact
+    modéré mais tangible sur le coût de fabrication.'
+deadlines: []
+sources:
+- url: https://www.wurth.be/fr/wuerth_belux/company/contact/contact_wurth.php
+  retrieved_on: 2026-07-14
+- url: https://www.wuerth.com/wuerth-group/Company/W%C3%BCrth-worldwide/Company-directory/W%C3%BCrth-Belux-N.V.php
+  retrieved_on: 2026-07-14
+- url: https://www.wurth.be/fr/wuerth_belux/company/engagement/engagement.php
+  retrieved_on: 2026-07-14
+- url: https://www.companyweb.be/en/0435180897/wurth-belux
+  retrieved_on: 2026-07-14
+documents:
+- output/Wurth/Wurth-Partnership-2026.pdf
+- output/Wurth/Wurth-OnePager-2026.pdf
+- output/Wurth/email.md
+- output\Wurth\Wurth-Partnership-2026.pdf
+- output\Wurth\Wurth-OnePager-2026.pdf
+- output\Wurth\email.md
+interactions: []
+events: []
+next_action:
+  what: Contacter le service Belux (service@wurth.be) pour un compte partenaire ASBL
+  due: ''
+notes: 'Aucune adresse nominative publique ; service@wurth.be et info@wurth.be sont
+  génériques. Siège Belux : Everdongenlaan 29/A, 2300 Turnhout ; établie le 05-09-1988
+  ; « Big », 323,8 ETP (companyweb 2025) ; VAT BE 0435.180.897 confirmée sur companyweb.
+  Passer par le réseau de shops belge plutôt que par le siège groupe (Allemagne).
+  « Würth & friends » est un système de parrainage commercial (bon de 50 €), pas un
+  canal de sponsoring.'

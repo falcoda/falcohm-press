@@ -1,0 +1,7 @@
+label: "Fournisseur technique"
+objective: "Obtenir du matériel, des conditions préférentielles ou une fourniture."
+# Vocabulaire : « partenaire technique », jamais « sponsor ».
+tone: "Technique, factuel, orienté usage réel du matériel."
+pages: [cover, about, gazmatek, ecosystem, project, material, timeline, benefits, packages, contact]
+emphasis: [durabilite, usage_terrain, recurrence]
+email: technique

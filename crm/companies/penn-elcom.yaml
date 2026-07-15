@@ -1,0 +1,106 @@
+slug: penn-elcom
+company: Penn Elcom
+aka:
+- Penn Elcom Ltd
+- Penn Elcom GmbH
+- Penn Elcom B.V.
+country: GB
+sector: flightcases
+persona: fournisseur-technique
+categories:
+- case_hardware
+status: lead
+phase: 1
+tags:
+- technique
+score: 7
+website: https://www.penn-elcom.com
+knowledge: knowledge/Penn Elcom.md
+profile:
+  activity: Fabricant mondial de quincaillerie de flightcase et de solutions de rack
+    19 pouces (depuis 1974). Siège au Royaume-Uni, hub européen à Emmerich (Allemagne)
+    qui sert la Belgique et le Benelux, entité Penn Elcom B.V. aux Pays-Bas (Vleuten).
+  products:
+  - Quincaillerie de flightcase (coins, poignées, fermetures, angles)
+  - Quincaillerie d'enceinte (grilles, poignées, coins de HP)
+  - Rack 19 pouces, tiroirs, panneaux
+  - Câbles et connectique, boîtiers
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Penn Elcom est LE catalogue de référence pour la quincaillerie d''enceinte
+  et de flightcase : grilles, poignées, coins de HP, angles, connectique — tout ce
+  qui habille un caisson fait maison. La Belgique est explicitement rattachée au hub
+  européen d''Emmerich (shop.eu@penn-elcom.com). Vente e-commerce B2B directe, pas
+  de programme de sponsoring : viser un compte pro/remise volume plutôt qu''un don.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Compte professionnel avec remise volume ASBL sur la quincaillerie d''enceinte
+    (grilles, poignées, coins, angles) et la connectique, via le hub EU. Contrepartie
+    : marquage sur les façades et visibilité événementielle.'
+  realistic_value_eur: 2500
+values:
+- expertise technique (industry experts)
+- catalogue mondial et disponibilité
+- vente directe B2B
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Ventes Europe / Belgique (hub Emmerich)
+  email: shop.eu@penn-elcom.com
+  email_status: generic
+  linkedin: ''
+  phone: +49 2828 3130100
+  source_url: https://www.penn-elcom.com/contact-eu
+  retrieved_on: 2026-07-14
+  evidence: Belgium — 00800-55566600 — shop.eu@penn-elcom.com (Penn Elcom GMBH, Groenlandstr.
+    2, 46446 Emmerich Am Rhein, Germany)
+- name: ''
+  role: Contact général (siège UK)
+  email: info@penn-elcom.com
+  email_status: generic
+  linkedin: ''
+  phone: +44 (0)191 416 1717
+  source_url: https://www.penn-elcom.com/contact-eu
+  retrieved_on: 2026-07-14
+  evidence: United Kingdom — Tyne & Wear — +44 (0) 191 416 1717 — info@penn-elcom.com
+inbound_channels:
+- type: portal
+  url: https://www.penn-elcom.com/contact-eu
+- type: form
+  url: https://www.penn-elcom.com/mc/contact-us
+scoring:
+  business_fit: 7
+  partnership_probability: 2
+  impact_if_successful: 5
+  rationale: 'Fit produit direct (quincaillerie d''enceinte et de case), mais probabilité
+    faible : fabricant mondial en vente B2B e-commerce, aucun programme de sponsoring
+    ni antécédent culturel, contact via adresses génériques (shop.eu@, info@). Le
+    levier réaliste est une remise compte pro via le hub EU d''Emmerich. Impact modéré
+    sur le coût de fabrication.'
+deadlines: []
+sources:
+- url: https://www.penn-elcom.com/contact-eu
+  retrieved_on: 2026-07-14
+documents:
+- output/Penn-Elcom/Penn-Elcom-Partnership-2026.pdf
+- output/Penn-Elcom/Penn-Elcom-OnePager-2026.pdf
+- output/Penn-Elcom/email.md
+- output\Penn-Elcom\Penn-Elcom-Partnership-2026.pdf
+- output\Penn-Elcom\Penn-Elcom-OnePager-2026.pdf
+- output\Penn-Elcom\email.md
+interactions: []
+events: []
+next_action:
+  what: Demander un compte pro/remise volume au hub EU (shop.eu@penn-elcom.com)
+  due: ''
+notes: 'Belgique rattachée au hub européen d''Emmerich (DE) : e-mail shop.eu@penn-elcom.com
+  (générique). Siège UK : info@penn-elcom.com. Entité Penn Elcom B.V. aux Pays-Bas
+  (Vleuten) — piste de proximité Benelux, mais aucune adresse NL nominative publiée
+  sur la page contacts. Aucune adresse nominative ; ne rien deviner. Site officiel
+  = penn-elcom.com (le stub pointait pennelcom.com).'

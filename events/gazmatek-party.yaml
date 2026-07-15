@@ -1,0 +1,30 @@
+# TODO : compléter jauge réelle, budget, lineup, stats.
+slug: gazmatek-party
+name: Gazmatek Party
+date: '2023-01-01 # TODO'
+venue: Brabant wallon
+city: ''
+capacity: ~400
+attendance: null
+type: soiree
+lineup: []
+sponsors: []
+partners: []
+budget:
+  total: null
+  technique: null
+  artistes: null
+  communication: null
+technique:
+  system: Falc'ohm System
+  stages: 1
+  notes: ''
+medias:
+  poster: ''
+  photos: []
+  aftermovie: ''
+stats:
+  reach_instagram: null
+  reach_facebook: null
+  tickets_sold: null
+retombees: ''

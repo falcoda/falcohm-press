@@ -1,0 +1,118 @@
+slug: latvijas-finieris
+company: Latvijas Finieris (Riga Wood)
+aka:
+- AS Latvijas Finieris
+- Riga Wood
+- Riga Ply
+country: LV
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 16
+website: https://www.finieris.com
+knowledge: ''
+profile:
+  activity: Premier fabricant de placage et de contreplaqué de bouleau des pays baltes,
+    basé à Riga. Exporte ses contreplaqués vers plus de 50 pays sous la marque Riga
+    Wood. Le contreplaqué de bouleau est son coeur de métier, avec des gammes techniques
+    (Riga Ply, bouleau intégral poncé deux faces) et filmées/décoratives (Riga Pattern+).
+  products:
+  - Contreplaqué bouleau (Riga Wood)
+  - Riga Ply — bouleau intégral, deux faces poncées
+  - Riga Pattern+ — bouleau filmé décoratif
+  - Placages de bouleau
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'C''est la source amont : le fabricant du matériau exact (contreplaqué bouleau
+  intégral) que Falc''ohm consomme depuis le début. La gamme Riga Ply — bouleau tout
+  épaisseur, poncé deux faces, conçue pour les applications exigeant les meilleures
+  propriétés mécaniques — correspond au cahier des charges d''un caisson d''enceinte.
+  Un partenariat direct (ou même une simple mise en relation avec leur distributeur
+  Benelux) court-circuiterait la marge du négoce sur 5-10 ans. Marque forte et reconnue
+  : leur nom sur un sound system a une vraie valeur de caution technique.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Deux demandes distinctes : (1) une dotation ou un tarif direct usine sur
+    du contreplaqué bouleau Riga Ply pour les enceintes ; (2) à défaut, la mise en
+    relation avec leur importateur/distributeur Benelux avec appui de leur part (le
+    ''mot du fabricant'' vaut souvent la remise). Contrepartie : marque Riga Wood
+    visible sur le sound system, contenu technique et photo/vidéo de fabrication réutilisable
+    dans leur communication.'
+  realistic_value_eur: 6000
+values:
+- Leader du contreplaqué bouleau balte
+- Innovation et R&D matériaux
+- Marque d'export mondiale (50+ pays)
+sponsorship_history: []
+contacts:
+- name: Inese Paberza
+  role: Contact média
+  email: inese.paberza@finieris.lv
+  email_status: verified_public
+  linkedin: ''
+  phone: +371 26 418 755
+  source_url: https://www.finieris.com/contact/
+  retrieved_on: 2026-07-14
+  evidence: Inese Paberza — +371 26 418 755 — inese.paberza@finieris.lv (listée comme
+    contact média sur la page Contact)
+- name: ''
+  role: ''
+  email: info@finieris.lv
+  email_status: generic
+  linkedin: ''
+  phone: +371 67 067 207
+  source_url: https://www.finieris.com/contact/
+  retrieved_on: 2026-07-14
+  evidence: AS "Latvijas Finieris" — Bauskas iela 59, Riga LV-1004, Latvia — +371
+    67 067 207 — info@finieris.lv
+inbound_channels:
+- type: form
+  url: https://www.finieris.com/contact/
+scoring:
+  business_fit: 10
+  partnership_probability: 2
+  impact_if_successful: 8
+  rationale: 'Fit maximal : ils FABRIQUENT le contreplaqué bouleau, c''est littéralement
+    la matière première n°1 de Falc''ohm, et la gamme Riga Ply vise les applications
+    mécaniquement exigeantes. Mais la probabilité est faible et il faut l''assumer
+    : multinationale lettone qui vend par conteneurs à des distributeurs, sans lien
+    avec la Belgique associative, sans historique de mécénat repéré, et sans commercial
+    Benelux nommé publiquement. Impact élevé si par extraordinaire ça passe — tarif
+    usine sur 5-10 ans, ou au minimum une introduction appuyée chez leur distributeur
+    local, ce qui est le résultat réaliste à viser.'
+deadlines: []
+sources:
+- url: https://www.finieris.com/contact/
+  retrieved_on: 2026-07-14
+- url: https://www.finieris.com/products-and-services/rigawood/
+  retrieved_on: 2026-07-14
+- url: https://www.finieris.com/products/riga-ply/
+  retrieved_on: 2026-07-14
+documents:
+- output\Latvijas-Finieris-Riga-Wood\Latvijas-Finieris-Riga-Wood-Partnership-2026.pdf
+- output\Latvijas-Finieris-Riga-Wood\Latvijas-Finieris-Riga-Wood-OnePager-2026.pdf
+- output\Latvijas-Finieris-Riga-Wood\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Siège : Bauskas iela 59, Riga LV-1004, Lettonie. Tél. +371 67 067 207 (lun-ven
+  8h-17h), fax +371 67 067 326. Emails publiés : info@finieris.lv (général), personals@finieris.lv
+  (RH), trauksme@finieris.lv (alerte), inese.paberza@finieris.lv (média). AUCUN commercial
+  Benelux/Belgique nommé sur le site — la page contact propose un sélecteur de pays
+  mais n''affiche ni bureau ni interlocuteur pour l''Europe de l''Ouest : ne rien
+  inventer. OBJECTIF RÉALISTE : ne pas viser le sponsoring, viser la mise en relation
+  avec le distributeur Riga Wood pour le Benelux + un éventuel soutien produit. Le
+  contact média (Inese Paberza) est un angle sous-estimé : une histoire ''une asbl
+  belge fabrique ses enceintes en Riga Ply'' est un sujet de contenu pour eux.'

@@ -1,0 +1,101 @@
+# ─── Données du Media Kit ────────────────────────────────────────────────
+# ⚠ Les valeurs marquées TODO sont des estimations : à remplacer par les
+#   statistiques Meta réelles avant tout envoi. Voir docs/MEDIA-KIT.md.
+
+content:
+  baseline: "Collectif belge, sound system, événements underground depuis 2020."
+  manifesto:
+    - "Le son d'abord."
+    - "Le reste suit."
+  manifesto_text: >-
+    Gazmatek est né d'une conviction simple : une soirée se juge à ce qu'on entend, pas à ce qu'on
+    dépense. Nous programmons des artistes, nous construisons nos propres systèmes audio et nous
+    faisons vivre une scène indépendante en Belgique. Sans structure commerciale, sans actionnaire,
+    avec plus de quarante bénévoles.
+  events_intro: >-
+    Depuis 2020, Gazmatek a construit une scène : des soirées en warehouse, des plateaux
+    d'artistes internationaux, des festivals. Chaque date est sonorisée par notre propre matériel.
+  events_band:
+    title: "Une scène, pas une série de soirées."
+    text: >-
+      Le public revient : c'est ce qui fait la valeur d'une marque événementielle, et ce qui
+      intéresse un partenaire.
+  partners_intro: >-
+    Nos partenaires ne se contentent pas d'un logo sur une affiche : ils équipent un projet réel,
+    utilisé toute l'année, et leur nom circule avec lui.
+  partners_band:
+    title: "Il reste de la place."
+    text: >-
+      Nous construisons des relations longues, pas des échanges ponctuels. Si votre marque a du
+      sens sur nos événements, parlons-en.
+
+audience:
+  intro: >-
+    Notre public est jeune, urbain et très actif en ligne. Il vient pour la musique et il revient :
+    c'est une communauté, pas une audience de passage.
+  profile:                      # TODO : remplacer par les stats Meta réelles
+    - { value: "18-34", label: "Tranche d'âge principale" }
+    - { value: "62 %",  label: "Hommes (TODO : à confirmer)" }
+    - { value: "38 %",  label: "Femmes (TODO : à confirmer)" }
+    - { value: "BE",    label: "Marché principal" }
+    - { value: "+10 000", label: "Festivaliers par an" }
+  geo:
+    - { icon: pin,    title: "Brabant wallon",  text: "Notre base : Genappe, Nivelles, Louvain-la-Neuve." }
+    - { icon: globe,  title: "Bruxelles",       text: "Une part importante du public vient de la capitale." }
+    - { icon: social, title: "Flandre et France", text: "Les plateaux d'artistes attirent au-delà de la Wallonie." }
+  band:
+    title: "Une communauté, pas une audience."
+    text: >-
+      27 000 abonnés cumulés, un public qui revient d'une date à l'autre et relaie nos annonces.
+
+reach:
+  intro: >-
+    Nos canaux touchent chaque mois des dizaines de milliers de personnes, sans achat média.
+  items:                        # TODO : remplacer par les chiffres Meta Business Suite
+    - { value: "27 000", label: "Abonnés cumulés" }
+    - { value: "16 000", label: "Facebook" }
+    - { value: "11 000", label: "Instagram" }
+    - { value: "2",      label: "Sites internet" }
+    - { value: "SoundCloud", label: "Diffusion des sets" }
+  chart:
+    title: "CROISSANCE DE LA COMMUNAUTÉ"
+    series:                     # TODO : chiffres à confirmer
+      - { label: "2022", value: 9000,  display: "9 k" }
+      - { label: "2023", value: 14000, display: "14 k" }
+      - { label: "2024", value: 20000, display: "20 k" }
+      - { label: "2025", value: 24000, display: "24 k" }
+      - { label: "2026", value: 27000, display: "27 k" }
+  meaning:
+    - { icon: megaphone, title: "Une annonce est vue",   text: "Chaque publication touche notre communauté sans achat média." }
+    - { icon: video,     title: "Le contenu circule",    text: "Aftermovies et making-of prolongent la durée de vie d'un partenariat." }
+    - { icon: heart,     title: "Un public engagé",      text: "Commentaires, partages, présence : ce n'est pas une audience passive." }
+  band:
+    title: "Votre marque, portée par une communauté."
+    text: >-
+      Une communication native, dans un contexte que le public a choisi, sans espace publicitaire
+      acheté.
+
+opportunities:
+  intro: >-
+    Nous ne vendons pas des emplacements publicitaires. Nous construisons des collaborations dans
+    lesquelles votre marque a un rôle : équiper, soutenir, activer.
+  families:
+    - { icon: speaker,   title: "Partenariat technique",  text: "Vous fournissez du matériel ou des conditions ; il tourne toute l'année sur nos dates." }
+    - { icon: megaphone, title: "Partenariat de marque",  text: "Visibilité, activation sur site, contenus dédiés." }
+    - { icon: shield,    title: "Soutien institutionnel", text: "Subvention ou mise à disposition, valorisée sur tous nos supports." }
+  levels:
+    - { tier: "Soutien",  title: "Coup de main ponctuel",     text: "Matériel, conditions préférentielles ou petit soutien. Mention sur nos supports." }
+    - { tier: "Partenaire", title: "Partenariat de saison",   text: "Logo sur les affiches, présence sur nos réseaux, contenus making-of.", highlight: true }
+    - { tier: "Officiel", title: "Partenaire officiel",       text: "Naming d'une scène ou d'un projet, activation sur site, contenus dédiés." }
+  band:
+    title: "Ce media kit ne demande rien."
+    text: >-
+      Il vous montre ce que nous sommes. Si le projet vous parle, la conversation peut commencer :
+      falcohm6tm@outlook.com.
+
+images:
+  mk_cover: cover.jpg
+  audience: [gz_2.jpg, gz_1.jpg, band_night.jpg]
+
+# Logos des partenaires actifs (assets/partners/current/). Vide = emplacements libres.
+partner_logos: []

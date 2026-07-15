@@ -1,0 +1,10 @@
+# Trajectoire. Les deux dernières entrées sont surchargeables par module
+# (clé `timeline.overrides` dans modules/<x>.yaml).
+timeline:
+  - { year: "2019",    title: "Premiers caissons",           text: "Le collectif assemble ses premières enceintes." }
+  - { year: "2020",    title: "Création de l'ASBL",          text: "Falc'ohm System devient une association sans but lucratif." }
+  - { year: "2020-22", title: "Prestations et festivals",    text: "Sonorisation d'événements culturels partout en Belgique." }
+  - { year: "2023",    title: "Association avec Gazmatek",   text: "Le projet culturel rejoint l'aventure : événements et communauté." }
+  - { year: "2025",    title: "Croissance",                  text: "Festivals, plateaux d'artistes, montée en puissance du parc." }
+  - { year: "2026",    title: "Recherche d'un partenaire",   text: "Nouvelle étape dans le développement de notre parc." }
+  - { year: "2027+",   title: "Suite du parc",               text: "Extension, maintenance et renouvellement du matériel." }

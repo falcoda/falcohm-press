@@ -1,0 +1,113 @@
+slug: red-bull
+company: Red Bull
+aka:
+- Red Bull Belgium
+- Jet Import NV
+country: BE
+sector: boissons
+persona: marque-grand-public
+categories:
+- energy_drink
+status: lead
+phase: 2
+tags:
+- marque
+score: 6
+website: https://www.redbull.com
+knowledge: knowledge/Red Bull.md
+profile:
+  activity: Marque de boisson énergisante. En Belgique, la distribution et l'activation
+    de marque passent par Jet Import NV (Lauwe). Red Bull produit et sponsorise massivement
+    ses PROPRES événements (sport, gaming, musique électronique) plutôt que de financer
+    des tiers.
+  products:
+  - Boissons énergisantes Red Bull
+  - Activation de marque et présence événementielle
+  - Événements propriétaires (sport, musique, gaming)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Le public d''un festival techno correspond au cœur de cible Red Bull, et
+  un stand/dotation produit est une contrepartie vendable. Mais Red Bull investit
+  d''abord dans ses propres formats (Red Bull Music, Elektropedia) et cash-sponsorise
+  rarement de petits festivals tiers. L''angle réaliste : dotation produit et présence
+  via Jet Import, pas un chèque de sponsoring.'
+ask:
+  type:
+  - material
+  - visibility
+  detail: 'Dotation produit et présence d''un stand Red Bull sur les événements Gazmatek,
+    via Jet Import. Contrepartie : visibilité auprès de +10 000 festivaliers/an et
+    27 000 abonnés, cible jeune et festive.'
+  realistic_value_eur: 2000
+values:
+- énergie et culture jeune
+- sport extrême et gaming
+- musique électronique
+sponsorship_history:
+- what: Red Bull organise et sponsorise un calendrier mondial d'événements propriétaires
+    (sport, musique, gaming) ; déclinaisons belges régulières (ex. Red Bull Vél'eau
+    à Hasselt, Red Bull BC One, Red Bull Soapbox Race Belgium).
+  url: https://www.redbull.com/be-fr/events
+  retrieved_on: 2026-07-14
+contacts:
+- name: Karel Voet
+  role: Communications Manager (Red Bull Belgium / Jet Import)
+  email: karel.voet@jetimport.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 472 52 12 38
+  source_url: https://red-bull-belgium.prezly.com/
+  retrieved_on: 2026-07-14
+  evidence: Karel Voet, Communications Manager — karel.voet@jetimport.be — +32 472
+    52 12 38
+- name: ''
+  role: Contact presse Red Bull Belgium
+  email: press@redbull.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 56 50 97 40
+  source_url: https://red-bull-belgium.prezly.com/
+  retrieved_on: 2026-07-14
+  evidence: press@redbull.be — +32 56 50 97 40 — Jet Import NV, Rekkemstraat 58, 8930
+    Lauwe
+inbound_channels:
+- type: portal
+  url: https://red-bull-belgium.prezly.com/
+scoring:
+  business_fit: 5
+  partnership_probability: 2
+  impact_if_successful: 6
+  rationale: 'Cohérence d''image forte avec un public techno, mais probabilité faible
+    : Red Bull privilégie ses propres formats et son portefeuille d''activation est
+    saturé ; il cash-sponsorise peu de petits festivals tiers. Le maximum réaliste
+    est une dotation produit + stand via Jet Import. Impact d''image élevé si oui,
+    valeur € modérée.'
+deadlines: []
+sources:
+- url: https://red-bull-belgium.prezly.com/
+  retrieved_on: 2026-07-14
+- url: https://www.redbull.com/be-fr/events
+  retrieved_on: 2026-07-14
+documents:
+- output/Red-Bull/Red-Bull-Partnership-2026.pdf
+- output/Red-Bull/Red-Bull-OnePager-2026.pdf
+- output/Red-Bull/email.md
+- output\Red-Bull\Red-Bull-Partnership-2026.pdf
+- output\Red-Bull\Red-Bull-OnePager-2026.pdf
+- output\Red-Bull\email.md
+interactions: []
+events: []
+next_action:
+  what: Contacter Karel Voet (Jet Import) pour une dotation produit + stand sur un
+    événement
+  due: ''
+notes: L'entité belge est Jet Import NV (Rekkemstraat 58, 8930 Lauwe), importateur/activateur
+  Red Bull. Karel Voet (Communications Manager) est joignable nominativement — meilleure
+  porte d'entrée. press@redbull.be = adresse presse générique. Viser une dotation
+  produit/stand plutôt qu'un sponsoring cash. Red Bull Elektropedia (plateforme musique
+  électronique BE) était injoignable au 14-07-2026 (erreur SSL) — non citée comme
+  preuve.

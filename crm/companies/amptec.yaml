@@ -1,0 +1,129 @@
+slug: amptec
+company: Amptec BV
+aka:
+- Amptec
+- Amptec BeNeLux
+country: BE
+sector: audio
+persona: fournisseur-technique
+categories:
+- distributors
+- amplification
+status: lead
+phase: 1
+tags: []
+score: 25
+website: https://www.amptec.be
+knowledge: ''
+profile:
+  activity: Distributeur belge de matériel audio professionnel (broadcast, live, studio,
+    corporate), basé à Bilzen (Limbourg) avec une antenne à Utrecht. Distribue de
+    nombreuses marques pro, assure aussi la production de câblage, le support technique
+    et un centre de réparation.
+  products:
+  - Distribution de marques audio professionnelles (amplification, traitement, monitoring,
+    réseau audio)
+  - Production et confection de câblage sur mesure
+  - Support technique, réparation et pièces détachées
+  - Solutions de sonorisation pour lieux publics (Amptec Corporate)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE 0442.333.460
+    linkedin: https://be.linkedin.com/company/amptec
+why_us: 'Amptec est belge, à environ 1h30 de Genappe, et surtout : c''est la seule
+  cible du module dont les DEUX dirigeants publient leur e-mail nominatif direct sur
+  le site. Bart Willems (CEO) et Charlotte Willems (co-CEO) — entreprise familiale,
+  décision prise par le patron, aucun comité de sponsoring à franchir. C''est structurellement
+  la cible la plus « adressable » de toute la liste. Au-delà du sponsoring, ils couvrent
+  trois besoins concrets et récurrents de Falc''ohm : l''amplification (via les marques
+  distribuées), la confection de câblage sur mesure pour les racks et les façades,
+  et un centre de réparation/pièces détachées pour l''entretien du parc.'
+ask:
+  type:
+  - discount
+  - services
+  - material
+  - consumables
+  detail: 'Compte professionnel avec conditions ASBL sur les marques distribuées (amplification,
+    traitement), partenariat sur la confection du câblage des racks et des façades
+    (câbles HP, panels Speakon), et accès au service de réparation/pièces à conditions
+    préférentielles. Contrepartie : marquage sur les racks, visibilité sur 10-15 événements/an
+    et statut de partenaire technique belge affiché.'
+  realistic_value_eur: 5000
+values:
+- entreprise familiale belge
+- service et proximité
+- expertise technique
+- après-vente
+sponsorship_history: []
+contacts:
+- name: Bart Willems
+  role: CEO
+  email: bart.willems@amptec.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 (0) 11 28 14 58
+  source_url: https://www.amptec.be/contact
+  retrieved_on: 2026-07-14
+  evidence: 'CEO: Bart Willems — bart.willems@amptec.be'
+- name: Charlotte Willems
+  role: co-CEO
+  email: charlotte.willems@amptec.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 (0) 11 28 14 58
+  source_url: https://www.amptec.be/contact
+  retrieved_on: 2026-07-14
+  evidence: 'co-CEO: Charlotte Willems — charlotte.willems@amptec.be'
+- name: ''
+  role: Sales Belgium
+  email: sales@amptec.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 (0) 11 28 62 60
+  source_url: https://www.amptec.be/contact
+  retrieved_on: 2026-07-14
+  evidence: 'Sales Belgium: sales@amptec.be | +32 (0) 11 28 62 60 — Bremakker 45 -
+    3740 Bilzen - Belgium — VAT: BE 0442.333.460'
+inbound_channels:
+- type: form
+  url: https://www.amptec.be/contact
+- type: linkedin
+  url: https://be.linkedin.com/company/amptec
+scoring:
+  business_fit: 6
+  partnership_probability: 7
+  impact_if_successful: 6
+  rationale: 'Fit moyen : Amptec n''est pas un spécialiste du transducteur brut —
+    son cœur est le broadcast/studio et la distribution de marques finies — donc il
+    ne répond qu''à une partie du besoin (amplification, câblage, réparation). Mais
+    c''est la probabilité la plus haute du module : entreprise familiale belge, deux
+    CEO joignables nominativement en un e-mail, aucune bureaucratie. Impact modéré
+    en euros mais un « oui » facile ici crédibilise le dossier auprès des cibles plus
+    dures et fournit un partenaire technique de proximité.'
+deadlines: []
+sources:
+- url: https://www.amptec.be/contact
+  retrieved_on: 2026-07-14
+- url: https://www.amptec.be/partners
+  retrieved_on: 2026-07-14
+- url: https://www.amptec.be/support
+  retrieved_on: 2026-07-14
+documents:
+- output\Amptec-BV\Amptec-BV-Partnership-2026.pdf
+- output\Amptec-BV\Amptec-BV-OnePager-2026.pdf
+- output\Amptec-BV\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Autres adresses de service lues sur la même page (toutes génériques) : production@amptec.be
+  (production / câblage, +32 11 28 62 64), support@amptec.be (support technique +32
+  11 28 62 62 ; réparation et pièces détachées +32 11 28 62 61), logistics@amptec.be,
+  sales@amptec.nl (antenne NL). Siège : Bremakker 45, 3740 Bilzen (l''entreprise était
+  historiquement à Diepenbeek — les annuaires sont périmés). Horaires : lun-jeu 9h-12h30
+  / 13h-18h, ven 9h-12h30 / 13h-16h. Aucun antécédent de sponsoring culturel trouvé
+  — mais ce n''est pas bloquant vu l''accessibilité du décideur.'

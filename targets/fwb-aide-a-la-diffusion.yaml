@@ -1,0 +1,25 @@
+company: Fédération Wallonie-Bruxelles — Service de la Diffusion (Tournées Art et
+  Vie)
+persona: institution
+module: institutionnel
+phase: 2
+contact:
+  name: ''
+  role: ''
+  email: ''
+website: https://tara.cfwb.be/
+notes: 'C''est le seul dispositif du portefeuille qui ne finance pas le festival mais
+  fait BAISSER le coût de sa programmation — une logique complémentaire, et donc cumulable,
+  avec l''Aide aux structures de programmation. Le principe : un diffuseur labellisé
+  qui programme une production inscrite au Catalogue Diffusion reçoit une subvention
+  par représentation. Changement décisif entré en vigueur au 1er janvier 2025 : «
+  les subventions à la diffusion seront désormais versées au diffuseur / programmateur
+  » — auparavant elles transitaient par l''artiste. Autrement dit, c''est désormais
+  l''organisateur, donc Falc''ohm, qui encaisse. Pour une ASBL qui programme régulièrement
+  (10-15 événements par an), une subvention récurrente par date représente un flux
+  potentiellement supérieur à un subside ponctuel.
+
+  Fiche CRM : crm/companies/fwb-aide-a-la-diffusion.yaml
+
+  '
+display_name: FWB — Aide à la diffusion

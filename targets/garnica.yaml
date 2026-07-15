@@ -1,0 +1,20 @@
+company: Garnica
+persona: fournisseur-technique
+module: bois
+phase: 1
+contact:
+  name: ''
+  role: ''
+  email: ''
+website: https://www.garnica.one
+notes: 'Seul fabricant du panel disposant d''implantations industrielles en France
+  (Samazan, Troyes), donc d''une logistique déjà tournée vers l''Europe de l''Ouest
+  et d''interlocuteurs francophones — bien plus abordable qu''un producteur balte
+  ou finlandais. Leur spécialité, le contreplaqué léger, est un argument technique
+  réel pour un sound system : une enceinte plus légère à masse rigide équivalente,
+  c''est du portage et du transport économisés sur 10-15 événements par an. À explorer
+  sérieusement comme alternative ou complément au bouleau intégral.
+
+  Fiche CRM : crm/companies/garnica.yaml
+
+  '

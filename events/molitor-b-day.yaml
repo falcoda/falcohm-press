@@ -1,0 +1,30 @@
+# TODO : compléter jauge réelle, budget, lineup, stats.
+slug: molitor-b-day
+name: Molitor B-Day
+date: '2024-01-01 # TODO'
+venue: Buda BXL
+city: ''
+capacity: ~800
+attendance: null
+type: soiree
+lineup: []
+sponsors: []
+partners: []
+budget:
+  total: null
+  technique: null
+  artistes: null
+  communication: null
+technique:
+  system: Falc'ohm System
+  stages: 1
+  notes: ''
+medias:
+  poster: ''
+  photos: []
+  aftermovie: ''
+stats:
+  reach_instagram: null
+  reach_facebook: null
+  tickets_sold: null
+retombees: ''

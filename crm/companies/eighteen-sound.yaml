@@ -1,0 +1,103 @@
+slug: eighteen-sound
+company: Eighteen Sound S.r.l.
+aka:
+- 18 Sound
+- 18Sound
+country: IT
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+status: lead
+phase: 1
+tags: []
+score: 32
+website: https://www.eighteensound.it
+knowledge: ''
+profile:
+  activity: Fabricant de transducteurs professionnels basé à Reggio Emilia, filiale
+    du groupe B&C Speakers depuis 2017. Deux lignes de production de HP à cône et
+    une de moteurs de compression, chaque unité testée et tracée individuellement.
+  products:
+  - Woofers 12" à 21" (21NLW9601, 18NLW9601, 15NLW9400)
+  - Médiums et coaxiaux (12ND610, 6ND430)
+  - Moteurs de compression 1" à 4" (ND3ST, NSD1095N, ND1460)
+  - Pavillons et guides d'ondes (XT/XR)
+  - Kits de recone et membranes
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: IT02577810357
+    linkedin: https://it.linkedin.com/company/eighteen-sound
+why_us: '18Sound est le transducteur historique du sound system : rendement élevé,
+  pavillonnable, et surtout une documentation technique (paramètres Thiele-Small,
+  notes d''application, designs de pavillons) plus ouverte que la moyenne — exactement
+  ce dont a besoin une équipe qui construit ses caissons d''après plans. Contrairement
+  à sa maison mère B&C, 18Sound reste une structure de taille humaine à Reggio Emilia,
+  avec une adresse e-mail directe publiée. C''est la meilleure porte d''entrée du
+  groupe B&C.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: 'Conditions professionnelles / prix quantité sur les 21NLW et 12ND pour
+    équiper la nouvelle série de subs horn et de tops, fourniture ou co-financement
+    d''un premier jeu de transducteurs, et accès aux kits de recone pour la maintenance.
+    En échange : marquage "Powered by 18 Sound" sur les façades et les racks, et visibilité
+    sur 10-15 événements/an.'
+  realistic_value_eur: 14000
+values:
+- made-in-Italy
+- innovation transducteur
+- qualité industrielle
+- traçabilité produit
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général / commercial
+  email: info@eighteensound.it
+  email_status: generic
+  linkedin: ''
+  phone: (+39) 0522 1861800
+  source_url: https://www.eighteensound.it/en/contacts
+  retrieved_on: 2026-07-14
+  evidence: info@eighteensound.it — Via Botticelli 8, 42124 Reggio Emilia Italia —
+    (+39) 0522 1861800
+inbound_channels:
+- type: form
+  url: https://www.eighteensound.it/en/contacts
+- type: linkedin
+  url: https://it.linkedin.com/company/eighteen-sound
+scoring:
+  business_fit: 9
+  partnership_probability: 4
+  impact_if_successful: 9
+  rationale: 'Produits parfaitement alignés avec des caissons horn et des tops multi
+    horn entry, et un e-mail direct lisible publiquement (rare dans cette catégorie).
+    La probabilité reste modérée : appartenir au groupe B&C (coté) signifie que les
+    décisions de dotation remontent probablement, et aucun antécédent de sponsoring
+    culturel n''a été trouvé. Mais la structure est petite et italienne — un dossier
+    technique sérieux peut atterrir sur le bon bureau.'
+deadlines: []
+sources:
+- url: https://www.eighteensound.it/en/contacts
+  retrieved_on: 2026-07-14
+- url: https://www.eighteensound.it/en/about/about/
+  retrieved_on: 2026-07-14
+- url: https://www.bcspeakers.com/en/news/eighteen-sound-sale-completed%E2%80%A6
+  retrieved_on: 2026-07-14
+documents:
+- output\Eighteen-Sound-S-r-l\Eighteen-Sound-S-r-l-Partnership-2026.pdf
+- output\Eighteen-Sound-S-r-l\Eighteen-Sound-S-r-l-OnePager-2026.pdf
+- output\Eighteen-Sound-S-r-l\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Horaires lus sur la page contact : "Monday - Friday 08.30-12.30 / 13.30-17.30
+  (GMT +1)". Un "OEM Sales Director" nommé Matteo Bianchini apparaît sur des agrégateurs
+  commerciaux (RocketReach) : NON VÉRIFIÉ sur une source officielle, donc volontairement
+  non repris ici.'

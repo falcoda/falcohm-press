@@ -1,0 +1,165 @@
+slug: fwb-service-de-la-jeunesse
+company: Fédération Wallonie-Bruxelles — Service de la Jeunesse
+display_name: FWB — Service de la Jeunesse
+aka:
+- Service Jeunesse FWB
+- SJ
+- Administration générale de la Culture — Jeunesse
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- public_funding
+status: lead
+phase: 2
+tags: []
+score: 22
+website: https://servicejeunesse.cfwb.be/
+knowledge: ''
+profile:
+  activity: 'Service de la Fédération Wallonie-Bruxelles chargé de la reconnaissance
+    et du subventionnement des Organisations de Jeunesse et des Centres de Jeunes,
+    et de l''appel à projets permanent « Soutien aux projets jeunes ». Adresse : Boulevard
+    Léopold II, 44 — 1080 Bruxelles.'
+  products:
+  - Appel à projets « Soutien aux projets jeunes » — 6 actions, 4 sessions de dépôt
+    par an, de 1.000 à 9.000 €
+  - Reconnaissance et subventions des Organisations de Jeunesse (OJ) et Centres de
+    Jeunes
+  - Subventions emploi ; Avance de fonds (Fonds écureuil)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Falc''ohm System est une ASBL non reconnue par l''Administration générale
+  de la Culture — c''est précisément le profil que la circulaire « Soutien aux projets
+  jeunes » rend éligible aux actions 1 et 2. Mieux : l''ASBL réunit 40+ bénévoles
+  et un public jeune, ce qui ouvre une seconde porte, bien plus lucrative. Le dispositif
+  accepte en effet « tout groupe composé de jeunes de moins de 30 ans — minimum 6
+  jeunes — qui se constitue en association de fait », avec une association de référence
+  identifiée comme coordinatrice du projet : Falc''ohm peut jouer ce rôle d''association
+  de référence pour un collectif de ses jeunes bénévoles, ce qui débloque les actions
+  3 (« Créations jeunes », jusqu''à 9.000 €) et 4 (« Diffusion jeunes », jusqu''à
+  7.500 €). Le pôle technique — des jeunes qui fabriquent eux-mêmes leurs enceintes
+  et se transmettent le savoir-faire — est un projet d''« expression » et de « création
+  collective » par et pour les jeunes au sens littéral de la circulaire.'
+ask:
+  type:
+  - financial
+  detail: "Appel à projets « Soutien aux projets jeunes », dépôt EXCLUSIVEMENT via\
+    \ la plateforme SUBside (https://www.subside.cfwb.be/sub/tiers/authentification)\
+    \ — « aucune suite ne sera donnée aux demandes adressées par une autre voie ».\
+    \ Deux voies : (A) En tant qu'ASBL non reconnue par l'AG Culture → accès aux ACTIONS\
+    \ 1 et 2 uniquement.\n    Action 1 « Coopération jeunes » : 1.000 à 3.000 €. Action\
+    \ 2 « Expression jeunes » : 3.000 à 6.500 €.\n(B) En constituant un groupe d'au\
+    \ moins 6 jeunes de moins de 30 ans en association de fait, avec Falc'ohm\n  \
+    \  System comme association de référence → accès aux ACTIONS 3 et 4.\n    Action\
+    \ 3 « Créations jeunes » : 4.000 à 9.000 €. Action 4 « Diffusion jeunes » : 3.750\
+    \ à 7.500 €.\nAngle le plus fort : action 2 ou 3 sur la construction du sound\
+    \ system par les jeunes bénévoles (expression, création collective, transmission\
+    \ technique)."
+  realistic_value_eur: 5000
+values:
+- Éducation non formelle
+- Citoyenneté responsable, active, critique et solidaire
+- Expression et créativité des jeunes
+- Participation des jeunes
+- Vivre ensemble
+sponsorship_history:
+- what: 'Circulaire « Soutien aux projets jeunes » : les actions 1 et 2 sont ouvertes
+    à « toute association sans but lucratif, non reconnue par l''Administration Générale
+    de la Culture », et les actions 1 à 4 à tout groupe de 6 jeunes de moins de 30
+    ans constitué en association de fait'
+  url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
+  retrieved_on: 2026-07-14
+- what: 'Barème publié : Action 1 : 1.000 à 3.000 € / Action 2 : 3.000 à 6.500 € /
+    Action 3 : 4.000 à 9.000 € / Action 4 : 3.750 à 7.500 € / Action 5 : 1.000 à 9.000
+    € / Action 6 : 1.000 à 5.000 €'
+  url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
+  retrieved_on: 2026-07-14
+contacts:
+- name: Virginie Huybrecht
+  role: Service de la Jeunesse — contact de l'appel à projets « Soutien aux projets
+    jeunes »
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: 02 413 40 17
+  source_url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
+  retrieved_on: 2026-07-14
+  evidence: Contacts / Virginie Huybrecht - 02 413 40 17  [le site publie le nom et
+    le téléphone, mais AUCUN email nominatif]
+- name: ''
+  role: Service de la Jeunesse — contact général
+  email: service.jeunesse@cfwb.be
+  email_status: generic
+  linkedin: ''
+  phone: 02 413 29 39
+  source_url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
+  retrieved_on: 2026-07-14
+  evidence: Contactez-nous / Le Service de la Jeunesse / Boulevard Léopold II, 44
+    / 1080 Bruxelles / 02 413 29 39 / service.jeunesse(at)cfwb.be  [la page publie
+    l'adresse avec « (at) » en anti-spam ; l'adresse réelle est service.jeunesse@cfwb.be]
+inbound_channels:
+- type: portal
+  url: https://www.subside.cfwb.be/sub/tiers/authentification
+- type: portal
+  url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
+scoring:
+  business_fit: 6
+  partnership_probability: 6
+  impact_if_successful: 6
+  rationale: 'Le fit est réel mais indirect : le dispositif ne finance pas un festival
+    en tant que tel, il finance un projet PORTÉ PAR ET POUR des jeunes — il faut donc
+    reformuler l''angle (construction du sound system, transmission technique aux
+    bénévoles, création collective) plutôt que présenter Gazmatek tel quel. La probabilité
+    est correcte : l''ASBL est explicitement éligible aux actions 1-2 de par son statut
+    de non- reconnue, et la voie du collectif de jeunes en association de fait ouvre
+    les montants supérieurs. Les 4 sessions annuelles autorisent en outre un dépôt
+    raté sans perdre l''année. Impact moyen-fort : jusqu''à 9.000 € et, surtout, une
+    première reconnaissance publique fédérale qui crédibilise le dossier Musiques.'
+deadlines:
+- what: 'Soutien aux projets jeunes — Train 4 : plateforme SUBside ouverte du 15 août
+    au 15 SEPTEMBRE 2026 (clôture). ATTENTION : SUBside a été mis à jour en 2025 —
+    les comptes existants doivent changer de mot de passe avant tout dépôt.'
+  date: '2026-09-15'
+  url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
+- what: 'Soutien aux projets jeunes — Train 1 : dépôt du 15 décembre 2026 au 15 janvier
+    2027 (clôture)'
+  date: '2027-01-15'
+  url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
+sources:
+- url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
+  retrieved_on: 2026-07-14
+- url: https://servicejeunesse.cfwb.be/subventions/
+  retrieved_on: 2026-07-14
+documents:
+- output\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse-Partnership-2026.pdf
+- output\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse-OnePager-2026.pdf
+- output\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'CALENDRIER — 4 trains par an, la plateforme SUBside n''ouvre qu''UN MOIS avant
+  la clôture : Train 1 : 15 décembre → 15 janvier | Train 2 : 15 février → 15 mars
+  | Train 3 : 15 mai → 15 juin | Train 4 : 15 août → 15 septembre. DÉPÔT : exclusivement
+  via SUBside. « Aucune suite ne sera donnée aux demandes adressées par une autre
+  voie. » PIÈGE TECHNIQUE : la plateforme SUBside a changé d''URL en 2025 ; les opérateurs
+  disposant déjà d''un compte DOIVENT changer leur mot de passe à la première connexion
+  à la nouvelle version — étape obligatoire avant tout dépôt. Créer/réactiver le compte
+  SUBside AVANT le 15 août, pas le 14 septembre. ÉLIGIBILITÉ — LE POINT CLÉ : en tant
+  qu''ASBL, Falc''ohm n''a accès QU''AUX ACTIONS 1 ET 2 (plafond 6.500 €). Pour viser
+  les actions 3 (jusqu''à 9.000 €) et 4 (jusqu''à 7.500 €), il faut passer par « tout
+  groupe composé de jeunes de moins de 30 ans — minimum 6 jeunes — qui se constitue
+  en association de fait », Falc''ohm jouant le rôle d''association de référence/coordinatrice.
+  Avec 40+ bénévoles, c''est faisable — mais cela suppose de formaliser le collectif
+  et de vérifier la condition d''âge (< 30 ans). PIÈCES : circulaire « soutien aux
+  projets jeunes » (.pdf), formulaire/grille Actions 1 à 4 (.docx), budget type (.xls),
+  convention de parrainage (.docx), FAQ (.pdf) — tous téléchargeables sur la page
+  de l''appel. NON VÉRIFIABLE : le Service de la Jeunesse publie le nom et le téléphone
+  de Virginie Huybrecht mais AUCUN email nominatif. Passer par le téléphone (02 413
+  40 17) ou l''adresse générique.'

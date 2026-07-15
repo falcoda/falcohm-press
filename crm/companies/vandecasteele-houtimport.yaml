@@ -1,0 +1,127 @@
+slug: vandecasteele-houtimport
+company: Vandecasteele Houtimport
+aka:
+- Vandecasteele
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 20
+website: https://vandecasteele.be
+knowledge: ''
+profile:
+  activity: Entreprise familiale d'importation de bois fondée en 1883 à Aalbeke (Courtrai),
+    l'une des plus grandes d'Europe. 4e génération, dirigée par Stefaan Vandecasteele.
+    Capacité de stockage annoncée de 140 000 m³ sur 20 hectares (dont 16 couverts)
+    et plus de 130 essences. Très engagée sur la traçabilité et la gestion forestière
+    durable (FSC, ATIBT, Fair&Precious, UN Global Compact).
+  products:
+  - Bois durs et bois tendres importés (130+ essences)
+  - Bois certifié FSC / PEFC
+  - Bois modifié (Accoya, thermotraité)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: https://be.linkedin.com/company/vandecasteele-houtimport
+why_us: 'Ils publient un ''Sales Manager Wallonië'' nommé, David Pierre, avec son
+  email direct : on entre par la porte wallonne d''un géant, sans passer par un standard.
+  C''est le seul acteur du panel doté d''un stock de cette taille (140 000 m³) — une
+  palette de panneaux ne représente rien pour eux, ce qui rend un don en nature indolore.
+  Leur discours public est massivement axé durabilité et responsabilité (UN Global
+  Compact, Fair&Precious) : une asbl non lucrative qui construit du matériel durable
+  et réparable s''inscrit dans ce récit.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Approche par David Pierre (Sales Manager Wallonië) : tarif partenaire ou
+    dotation en nature sur les panneaux et le bois nécessaires aux enceintes, plus
+    accès aux chutes et fins de série. Angle durabilité : des enceintes fabriquées
+    à la main, réparables et conservées 10 ans, illustrent concrètement leur discours
+    sur le bois responsable.'
+  realistic_value_eur: 6000
+values:
+- Entreprise familiale depuis 1883 (4e génération)
+- Gestion forestière durable et traçabilité
+- Membre UN Global Compact, ATIBT, Fair&Precious
+- Certifié FSC
+sponsorship_history: []
+contacts:
+- name: David Pierre
+  role: Sales Manager Wallonië
+  email: david@vandecasteele.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://vandecasteele.be/en/contact
+  retrieved_on: 2026-07-14
+  evidence: David Pierre, Sales Manager Wallonië, david@vandecasteele.be
+- name: Stefaan Vandecasteele
+  role: Owner
+  email: stefaan@vandecasteele.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://vandecasteele.be/en/contact
+  retrieved_on: 2026-07-14
+  evidence: Stefaan Vandecasteele, Owner, stefaan@vandecasteele.be
+- name: Johan Grimonprez
+  role: Sales Manager Belgium
+  email: johan@vandecasteele.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://vandecasteele.be/en/contact
+  retrieved_on: 2026-07-14
+  evidence: Johan Grimonprez, Sales Manager Belgium, johan@vandecasteele.be
+inbound_channels:
+- type: form
+  url: https://vandecasteele.be/en/contact
+- type: linkedin
+  url: https://be.linkedin.com/company/vandecasteele-houtimport
+scoring:
+  business_fit: 5
+  partnership_probability: 5
+  impact_if_successful: 8
+  rationale: 'Fit modéré et honnête : c''est un importateur de bois massif (130 essences,
+    bois durs/tendres, Accoya) et je n''ai PAS pu confirmer sur leur site qu''ils
+    tiennent du contreplaqué bouleau — le coeur du besoin de Falc''ohm n''est donc
+    pas garanti chez eux, d''où un 5. La probabilité reste moyenne malgré la taille,
+    parce qu''on dispose d''un contact wallon nommé et d''un propriétaire joignable
+    directement, ce qui compense la structure. Impact élevé si ça mord : leur volume
+    rend une dotation en nature quasi indolore, et l''entreprise a le poids pour un
+    engagement pluriannuel.'
+deadlines: []
+sources:
+- url: https://vandecasteele.be/en/contact
+  retrieved_on: 2026-07-14
+- url: https://vandecasteele.be/en
+  retrieved_on: 2026-07-14
+- url: https://www.ikzoekfsc.be/vandecasteele-houtimport/
+  retrieved_on: 2026-07-14
+- url: https://www.fair-and-precious.org/en/partners/40/vandecasteele-houtimport
+  retrieved_on: 2026-07-14
+documents:
+- output\Vandecasteele-Houtimport\Vandecasteele-Houtimport-Partnership-2026.pdf
+- output\Vandecasteele-Houtimport\Vandecasteele-Houtimport-OnePager-2026.pdf
+- output\Vandecasteele-Houtimport\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Adresses : Bergstraat 25, BE-8511 Aalbeke (siège) ; livraisons Moeskroensesteenweg
+  1, BE-8511 Aalbeke. Tél. général +32 56 43 33 33, email général info@vandecasteele.be.
+  Autres contacts nommés publiés sur la même page (emails vérifiés) : Valerie Vanwalleghem
+  (Sales Belgium - Purchasing, valerie@), Dirk Debussche (Purchasing Manager Hardwoods,
+  dirk@), Jeroen Platteau (Purchasing Manager Softwoods & European Hardwoods, jeroen@),
+  Isabelle Polfliet (Compliance Manager, isabelle@). RÉSERVE IMPORTANTE : leur gamme
+  panneaux/contreplaqué n''est PAS confirmée — qualifier avant d''envoyer un dossier,
+  sinon on propose un partenariat sur un produit qu''ils ne vendent pas. Aucun sponsoring
+  culturel/sportif identifié.'

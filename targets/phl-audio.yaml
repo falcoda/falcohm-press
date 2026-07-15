@@ -1,0 +1,21 @@
+company: PHL Audio
+persona: fabricant-audio
+module: audio
+phase: 1
+contact:
+  name: ''
+  role: Contact général / commercial
+  email: contact@phlaudio.com
+website: https://www.phlaudio.com
+notes: 'PHL est le seul fabricant de transducteurs francophone et de taille vraiment
+  humaine de la liste : le dossier arrive en français, sur le bureau de quelqu''un
+  qui décide. Leur positionnement — haut rendement, excursion contrôlée, fabrication
+  en France — correspond mot pour mot au cahier des charges de la page « matériel
+  » du dossier Falc''ohm. Et surtout : PHL a besoin de visibilité face aux marques
+  italiennes. Un sound system belge visible sur 10-15 événements et +10 000 festivaliers/an,
+  monté en PHL, est une vitrine qu''ils n''ont pas aujourd''hui. Le rapport de force
+  est ici le plus favorable de tout le module.
+
+  Fiche CRM : crm/companies/phl-audio.yaml
+
+  '

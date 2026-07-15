@@ -1,0 +1,126 @@
+slug: apex-audio
+company: APEX — GIVA Audiovisual Technologies BV
+display_name: APEX
+aka:
+- APEX
+- Apex Audio
+- APEX Intelligent Audio
+country: BE
+sector: audio
+persona: fabricant-audio
+categories:
+- amplification
+status: lead
+phase: 1
+tags: []
+score: 43
+website: https://apex-audio.be
+knowledge: ''
+profile:
+  activity: Fabricant belge d'amplification de puissance et de processeurs DSP, basé
+    à Ham (Limbourg). Conçoit, assemble et teste tous ses produits en Belgique. Racheté
+    par Community Europe S.A. (groupe Community Europe).
+  products:
+  - Amplis Class-D CloudPower 4 et 16 canaux (technologie GlidePath, monitoring IntelliCloud)
+  - Processeurs de gestion système et DSP Intelli-X2 / Intelli-X3 (traitement jusqu'à
+    192 kHz)
+  - Logiciel de calage système Intelli-Ware
+  - Solutions OEM (Apex OEM Solutions)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'C''est le seul fabricant d''amplification et de DSP conçu, assemblé et testé
+  EN BELGIQUE — à environ 1h30 de Genappe. Il couvre d''un coup deux des trois besoins
+  de la page « needs » du dossier audio : amplification et traitement/DSP. Et surtout,
+  un détail décisif lu sur leur propre page « where to buy » : APEX n''a AUCUN distributeur
+  en Belgique (« is still looking for the right distribution partner for this country
+  »). Ils vendent donc en direct sur leur marché domestique et n''ont pas de vitrine
+  belge. Un sound system associatif visible sur 10-15 événements/an, équipé en CloudPower
+  et calé en Intelli-X, est exactement la référence terrain qui leur manque — et ça
+  ne leur coûte pas de marge distributeur.'
+ask:
+  type:
+  - material
+  - loan
+  - discount
+  - visibility
+  detail: 'Dotation ou prêt longue durée d''un rack CloudPower + un processeur Intelli-X
+    pour les nouveaux subs horn et les tops, avec accompagnement au calage système.
+    À défaut : conditions constructeur/OEM. Contrepartie : marquage « Powered by APEX
+    » sur les racks et les façades, statut de référence belge démontrable pour leurs
+    prospects, et accès au matériel en usage réel (nuits entières à fort niveau) comme
+    banc d''essai.'
+  realistic_value_eur: 11000
+values:
+- made-in-Belgium
+- innovation (Class-D, GlidePath)
+- simplicité d'usage
+- proximité
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Marketing & presse — le bon canal pour un partenariat de visibilité
+  email: marketing@apex-audio.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 11 21 24 32
+  source_url: https://apex-audio.be/contact/
+  retrieved_on: 2026-07-14
+  evidence: 'Adresse publiée sur la page contact, masquée par la protection anti-spam
+    Cloudflare (« [email protected] ») et décodée depuis l''attribut data-cfemail
+    le 2026-07-14. Vérifiable en ouvrant la page dans un navigateur. Siège : APEX
+    GIVA Audiovisual Technologies BV, Truibroek 53 Unit 9, 3945 Ham.'
+- name: ''
+  role: Sales & OEM
+  email: info@apex-audio.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 11 21 24 32 (touche 2)
+  source_url: https://apex-audio.be/contact/
+  retrieved_on: 2026-07-14
+  evidence: Adresse publiée sur la page contact, masquée par Cloudflare et décodée
+    depuis data-cfemail le 2026-07-14. Le téléphone, lui, est lisible en clair — touche
+    2 = Sales & OEM.
+inbound_channels:
+- type: form
+  url: https://apex-audio.be/contact/
+scoring:
+  business_fit: 8
+  partnership_probability: 6
+  impact_if_successful: 9
+  rationale: 'Couvre amplification ET DSP, les deux briques que l''ASBL ne peut pas
+    fabriquer — fit très élevé, un cran sous Powersoft seulement sur la notoriété.
+    La probabilité est la plus haute des fabricants : entreprise belge, à 1h30, sans
+    distributeur sur son propre marché domestique, donc structurellement obligée de
+    traiter en direct et demandeuse de références belges visibles. Impact fort : un
+    rack ampli+DSP débloque tout le système et ancre un partenaire technique local
+    pour les 5-10 ans.'
+deadlines: []
+sources:
+- url: https://apex-audio.be/contact/
+  retrieved_on: 2026-07-14
+- url: https://apex-audio.be/about-us/
+  retrieved_on: 2026-07-14
+- url: https://apex-audio.be/where-to-buy/
+  retrieved_on: 2026-07-14
+documents:
+- output\APEX-GIVA-Audiovisual-Technologies-BV\APEX-GIVA-Audiovisual-Technologies-BV-Partnership-2026.pdf
+- output\APEX-GIVA-Audiovisual-Technologies-BV\APEX-GIVA-Audiovisual-Technologies-BV-OnePager-2026.pdf
+- output\APEX-GIVA-Audiovisual-Technologies-BV\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'E-mails NON VÉRIFIABLES : les trois adresses de la page contact (Sales & OEM,
+  Technical support, Marketing & press) sont masquées par la protection anti-spam
+  Cloudflare et s''affichent en « [email protected] ». Le TÉLÉPHONE, lui, est lisible
+  en clair : +32 11 21 24 32 (touche 2 = Sales & OEM). Premier contact recommandé
+  : appel direct, en néerlandais ou en anglais. Fait clé confirmé sur leur page «
+  where to buy » : pas de distributeur en Belgique ni au Luxembourg (« APEX is still
+  looking for the right distribution partner for this country »). Distributeur NL
+  : Audio Acoustics (+31 88 007 66 66). Propriété : « APEX is owned by Giva Audiovisual
+  Technologies BV and is part of the Community Europe Group ».'

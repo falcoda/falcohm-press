@@ -1,0 +1,121 @@
+slug: rcf
+company: RCF S.p.A.
+aka:
+- RCF
+- RCF Group
+country: IT
+sector: audio
+persona: fabricant-audio
+categories:
+- audio_components
+- amplification
+status: lead
+phase: 1
+tags: []
+score: 17
+website: https://www.rcf.it
+knowledge: ''
+profile:
+  activity: Groupe italien de sonorisation professionnelle fondé en 1949 à Reggio
+    Emilia. Fabrique des systèmes complets (enceintes actives, line arrays, subs)
+    et ses propres transducteurs et amplifications, y compris pour le marché OEM.
+  products:
+  - Transducteurs OEM (woofers, moteurs de compression)
+  - Enceintes de sonorisation actives et passives, line arrays
+  - Amplification et processeurs / DSP
+  - Systèmes de sonorisation d'événements et d'installation
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: 04081310965
+    linkedin: ''
+why_us: 'RCF est la seule cible de la catégorie dont la culture de sponsoring événementiel
+  est prouvée à grande échelle : ils ont acheté les droits de dénomination de la RCF
+  Arena de Reggio Emilia (10 000 à 100 000 spectateurs, plus grande salle de concert
+  en plein air d''Europe) et en sont le main sponsor. Une entreprise qui met son nom
+  sur un lieu de musique comprend immédiatement ce que Falc''ohm propose — pas besoin
+  de leur expliquer la valeur d''une visibilité sur 10-15 événements et +10 000 festivaliers.
+  C''est un interlocuteur qui parle déjà la langue du partenariat culturel, pas seulement
+  celle du bon de commande.'
+ask:
+  type:
+  - material
+  - financial
+  - visibility
+  - discount
+  detail: 'Partenariat de visibilité : dotation de transducteurs OEM et/ou d''amplification
+    pour la nouvelle série de caissons, ou soutien financier au projet d''équipement,
+    en échange d''un marquage « Powered by RCF » sur les façades et les racks et d''une
+    visibilité sur l''ensemble des événements Gazmatek. Angle à privilégier : le sponsoring
+    culturel, pas l''achat de composants.'
+  realistic_value_eur: 10000
+values:
+- made-in-Italy
+- musique live
+- sponsoring culturel assumé
+- héritage industriel (1949)
+sponsorship_history:
+- what: Main sponsor et détenteur des droits de dénomination de la RCF Arena Reggio
+    Emilia (Campovolo), plus grande salle de concert en plein air d'Europe, 10 000
+    à 100 000 spectateurs — « acquisendo i diritti di denominazione, è diventata main
+    sponsor dando così il nome alla struttura ».
+  url: https://it.wikipedia.org/wiki/RCF_Arena
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: DPO / vie privée
+  email: privacy@rcf.it
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.rcf.it/en/privacy-policy
+  retrieved_on: '2026-07-14'
+  evidence: '« the owner of the processing of data … is RCF S.p.A. … E-mail: privacy@rcf.it
+    »'
+- name: ''
+  role: Siège
+  email: info@rcf.it
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.rcf.it/en/headquarters
+  retrieved_on: '2026-07-14'
+  evidence: « Via Raffaello Sanzio, 13 42124 Reggio Emilia (RE) Italy  info@rcf.it  Phone.
+    +39 0522 274 411 »
+inbound_channels:
+- type: form
+  url: https://www.rcf.it/en/headquarters
+scoring:
+  business_fit: 6
+  partnership_probability: 4
+  impact_if_successful: 7
+  rationale: 'Fit moyen sur le produit : RCF vend surtout des systèmes finis, et ses
+    transducteurs bruts sont réservés à un canal OEM peu ouvert aux petits volumes
+    — ce n''est pas le fournisseur naturel d''un constructeur de caissons DIY. Mais
+    c''est le meilleur profil « sponsor » de toute la catégorie, avec un antécédent
+    spectaculaire (RCF Arena). D''où une probabilité honorable malgré la taille du
+    groupe, à condition d''attaquer par la porte marketing/sponsoring et non par la
+    porte commerciale.'
+deadlines: []
+sources:
+- url: https://www.rcf.it/en/headquarters
+  retrieved_on: 2026-07-14
+- url: https://it.wikipedia.org/wiki/RCF_Arena
+  retrieved_on: 2026-07-14
+- url: https://www.rcf.it/en/privacy-policy
+  retrieved_on: '2026-07-14'
+documents:
+- output\RCF-S-p-A\RCF-S-p-A-Partnership-2026.pdf
+- output\RCF-S-p-A\RCF-S-p-A-OnePager-2026.pdf
+- output\RCF-S-p-A\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Aucun e-mail public : le site n''expose qu''un formulaire et un helpdesk.
+  Coordonnées lues : "Via Raffaello Sanzio, 13 42124 Reggio Emilia (RE) Italy", tél.
+  "+39 0522 274 411", VAT "04081310965". À noter : RCF et Eighteen Sound sont tous
+  deux à Reggio Emilia — un déplacement unique peut couvrir les deux. La RCF Arena
+  est gérée par le consortium C.Volo dont RCF fait partie.'

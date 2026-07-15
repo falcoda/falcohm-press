@@ -1,0 +1,120 @@
+slug: koskisen
+company: Koskisen
+aka:
+- Koskisen Oy
+country: FI
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 19
+website: https://koskisen.com
+knowledge: ''
+profile:
+  activity: Groupe bois familial finlandais basé à Järvelä, fabricant de contreplaqué
+    (dont contreplaqué de bouleau et contreplaqué fin), de placages et de bois scié.
+    Dispose d'une usine dédiée au contreplaqué fin et aux placages à Hirvensalmi.
+    Vend en direct sur les marchés européens via des Area Managers salariés.
+  products:
+  - Contreplaqué de bouleau
+  - Contreplaqué fin (thin plywood)
+  - Placages
+  - Bois scié
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Contrairement aux autres fabricants nordiques, Koskisen publie nominativement
+  ses commerciaux de zone AVEC leurs emails directs, et surtout une adresse dédiée
+  aux demandes contreplaqué (Mirkka Aarrekorpi). On peut donc parler à un humain identifié,
+  pas à un formulaire. André Wolff couvre le contreplaqué fin pour l''Allemagne/Autriche/Suisse/France
+  et Maxime Pelikh la France : la Belgique est à la charnière de leurs zones, et un
+  francophone (Maxime Pelikh) est joignable directement — ce qui lève la barrière
+  de la langue et rend l''approche crédible.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Contacter Mirkka Aarrekorpi (demandes contreplaqué) et Maxime Pelikh (Area
+    Manager francophone) pour : un tarif direct usine ou une dotation en contreplaqué
+    bouleau pour la fabrication des enceintes, et/ou une orientation vers leur distributeur
+    Benelux. Contrepartie : marque visible sur le sound system, contenu technique
+    et images de fabrication.'
+  realistic_value_eur: 5000
+values:
+- Groupe familial finlandais
+- Fabrication intégrée (de la forêt au panneau)
+- Vente directe en Europe
+sponsorship_history: []
+contacts:
+- name: Mirkka Aarrekorpi
+  role: Contact demandes contreplaqué (plywood inquiries)
+  email: mirkka.aarrekorpi@koskisen.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://koskisen.fi/en//contact/
+  retrieved_on: 2026-07-14
+  evidence: 'Plywood inquiries: mirkka.aarrekorpi@koskisen.com'
+- name: Maxime Pelikh
+  role: Area Manager France, Italy, North Africa
+  email: maxime.pelikh@koskisen.com
+  email_status: verified_public
+  linkedin: ''
+  phone: +33 6 71 70 74 15
+  source_url: https://koskisen.fi/en//contact/
+  retrieved_on: 2026-07-14
+  evidence: Maxime Pelikh — Area Manager for France, Italy, North Africa — +33 6 71
+    70 74 15 — maxime.pelikh@koskisen.com
+- name: André Wolff
+  role: Area Manager Thin Plywood (Germany, Austria, Switzerland, France)
+  email: andre.wolff@koskisen.com
+  email_status: verified_public
+  linkedin: ''
+  phone: +49 176 70493383
+  source_url: https://koskisen.fi/en//contact/
+  retrieved_on: 2026-07-14
+  evidence: André Wolff — Area Manager Thin Plywood (Germany, Austria, Switzerland,
+    France) — +49 176 70493383 — andre.wolff@koskisen.com
+inbound_channels:
+- type: form
+  url: https://koskisen.fi/en//contact/
+scoring:
+  business_fit: 9
+  partnership_probability: 3
+  impact_if_successful: 7
+  rationale: 'Fit très élevé : fabricant intégré de contreplaqué bouleau, exactement
+    l''amont du besoin. La probabilité reste faible — un industriel finlandais n''a
+    aucune raison structurelle de sponsoriser une asbl belge et vend par volumes industriels
+    — mais elle est supérieure à celle des autres fabricants (3 et non 2) parce qu''un
+    Area Manager FRANCOPHONE (Maxime Pelikh) et un contact dédié contreplaqué sont
+    joignables en direct par email : la barrière d''entrée est bien plus basse. Impact
+    bon si ça aboutit, ne serait-ce qu''en tarif direct ou en orientation vers le
+    bon distributeur Benelux.'
+deadlines: []
+sources:
+- url: https://koskisen.fi/en//contact/
+  retrieved_on: 2026-07-14
+- url: https://koskisen.fi/en/products/plywood/
+  retrieved_on: 2026-07-14
+documents:
+- output\Koskisen\Koskisen-Partnership-2026.pdf
+- output\Koskisen\Koskisen-OnePager-2026.pdf
+- output\Koskisen\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'Siège : Tehdastie 2, 16600 Järvelä, Finlande — +358 20 553 41 — info@koskisen.com.
+  Usine contreplaqué fin/placages : Otavantie 395, 52550 Hirvensalmi. ATTENTION :
+  koskisen.com redirige vers koskisen.fi/en/ — les emails ont été lus sur https://koskisen.fi/en//contact/.
+  AUCUN Area Manager Benelux/Belgique n''est publié : la Belgique n''apparaît dans
+  le périmètre explicite d''aucun commercial — ne pas inventer d''affectation. STRATÉGIE
+  : écrire à Maxime Pelikh (francophone) en copie de mirkka.aarrekorpi@koskisen.com.
+  Aucun sponsoring identifié.'

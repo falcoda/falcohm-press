@@ -1,0 +1,154 @@
+slug: forem-ape
+company: Le Forem — Aides à la Promotion de l'Emploi (APE)
+display_name: Le Forem
+aka:
+- Forem
+- APE
+- Aide à la Promotion de l'Emploi
+- Service public wallon de l'emploi
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- public_funding
+status: lead
+phase: 2
+tags:
+- institution
+- emploi
+- structurel
+score: 18
+website: https://www.leforem.be/entreprises/aides-financieres-aides-promotion-emploi.html
+knowledge: ''
+profile:
+  activity: Service public wallon de l'emploi et de la formation. Il gère les Aides
+    à la Promotion de l'Emploi (APE), subsides régionaux octroyés aux employeurs du
+    secteur non marchand wallon qui engagent un demandeur d'emploi.
+  products:
+  - Aide à la Promotion de l'Emploi (APE) — subvention forfaitaire annuelle versée
+    trimestriellement à l'employeur
+  - Autres aides à l'embauche régionales wallonnes
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Falc''ohm System est exactement le profil visé : une organisation du secteur
+  NON MARCHAND (socio-culturel) établie en Wallonie de langue française. Et surtout
+  — c''est le point décisif — depuis le 1er janvier 2026, la CULTURE fait partie des
+  SECTEURS PRIORITAIRES de l''APE : là où le régime normal exige que le travailleur
+  soit inoccupé et inscrit comme demandeur d''emploi depuis au moins 4 mois, cette
+  durée est ramenée à UN SEUL JOUR pour les secteurs prioritaires (santé, aide à la
+  personne, petite enfance, culture, enseignement). Cela élargit massivement le vivier
+  de candidats engageables. C''est le seul dispositif du portefeuille qui finance
+  de l''EMPLOI STRUCTUREL et récurrent, et non un projet ponctuel : c''est le levier
+  qui ferait passer l''ASBL du bénévolat intégral à une permanence salariée — ce qui,
+  en retour, débloque le critère « activités artistiques professionnelles » exigé
+  par la FWB.
+
+  '
+ask:
+  type:
+  - financial
+  detail: 'Obtenir une APE pour un premier poste salarié (coordination / production
+    / régie technique). L''employeur perçoit « une subvention forfaitaire annuelle
+    » versée trimestriellement. Conditions : être une organisation du secteur non
+    marchand avec un établissement en Wallonie de langue française, et engager un
+    demandeur d''emploi inoccupé inscrit au Forem — durée d''inscription préalable
+    ramenée à 1 jour pour le secteur culture. Vérification d''éligibilité du travailleur
+    via le calculateur de l''espace employeur du Forem.
+
+    '
+  realistic_value_eur: 12000
+values:
+- Emploi durable dans le non-marchand
+- Insertion des demandeurs d'emploi
+- Soutien au secteur socio-culturel wallon
+sponsorship_history:
+- what: Les APE sont des subsides octroyés aux employeurs du secteur non-marchand
+    (socio-culturel, santé, action sociale) situés en Wallonie qui engagent — le secteur
+    socio-culturel est nommément visé
+  url: https://www.leforem.be/entreprises/aides-financieres-aides-promotion-emploi.html
+  retrieved_on: 2026-07-14
+- what: 'Depuis le 01/01/2026, la CULTURE figure parmi les secteurs prioritaires :
+    la condition d''inoccupation de 4 mois y est réduite à 1 jour'
+  url: https://www.leforem.be/entreprises/aides-financieres-aides-promotion-emploi.html
+  retrieved_on: 2026-07-14
+contacts:
+- name: ''
+  role: Support APE — Le Forem (lundi-vendredi, 9h-12h et 13h30-15h30)
+  email: ape.contact@forem.be
+  email_status: generic
+  linkedin: ''
+  phone: 071/23 15 41
+  source_url: https://www.leforem.be/entreprises/aides-financieres-aides-promotion-emploi.html
+  retrieved_on: 2026-07-14
+  evidence: 'Contact Information — Phone: 071/23 15 41 / Email: ape.contact@forem.be
+    / Hours: Monday-Friday, 9am-12pm and 1:30pm-3:30pm'
+inbound_channels:
+- type: portal
+  url: https://www.leforem.be/espace-entreprise
+- type: portal
+  url: https://www.leforem.be/entreprises/aides-financieres-aides-promotion-emploi.html
+scoring:
+  business_fit: 5
+  partnership_probability: 4
+  impact_if_successful: 9
+  rationale: 'Le fit est moyen dans l''immédiat : l''APE ne finance pas un festival,
+    elle finance un SALAIRE — or l''ASBL fonctionne aujourd''hui entièrement au bénévolat
+    et n''a probablement ni la trésorerie ni la structure administrative pour porter
+    un contrat de travail. La probabilité est basse à court terme pour la même raison,
+    et la procédure est lourde. Mais l''impact serait le plus élevé de tout le portefeuille
+    : c''est une subvention ANNUELLE ET RÉCURRENTE, pas un one-shot, et un poste salarié
+    transformerait l''ASBL en structure professionnelle — ce qui lèverait précisément
+    le point faible qui plombe le dossier FWB (« activités artistiques professionnelles
+    »). À considérer comme un objectif à 18-24 mois, pas comme une action de rentrée.
+
+    '
+deadlines: []
+sources:
+- url: https://www.leforem.be/entreprises/aides-financieres-aides-promotion-emploi.html
+  retrieved_on: 2026-07-14
+- url: https://emploi.wallonie.be/home/aides-a-lemploi/APE.html
+  retrieved_on: 2026-07-14
+documents:
+- output\Le-Forem-Aides-a-la-Promotion-de-l-Emploi-APE\Le-Forem-Aides-a-la-Promotion-de-l-Emploi-APE-Partnership-2026.pdf
+- output\Le-Forem-Aides-a-la-Promotion-de-l-Emploi-APE\Le-Forem-Aides-a-la-Promotion-de-l-Emploi-APE-OnePager-2026.pdf
+- output\Le-Forem-Aides-a-la-Promotion-de-l-Emploi-APE\email.md
+interactions: []
+events: []
+next_action:
+  what: Appeler le support APE (071/23 15 41) pour valider si une ASBL culturelle
+    100 % bénévole peut prétendre à une APE et obtenir le montant forfaitaire annuel
+    exact — information non publiée en ligne
+  due: '2027-01-31'
+notes: 'PAS DE DATE LIMITE : l''APE n''est pas un appel à projets, c''est un régime
+  permanent. Aucune échéance à rater — mais aussi aucune urgence artificielle. C''est
+  un chantier de fond.
+
+  CONDITION CLÉ (nouveauté 2026) : le travailleur doit être inoccupé et inscrit comme
+  demandeur d''emploi depuis au moins 4 mois la veille de son engagement — SAUF dans
+  les secteurs prioritaires, dont la CULTURE, où cette durée tombe à 1 jour. C''est
+  l''argument à faire valoir : le secteur culturel est explicitement prioritaire.
+
+  MONTANT : la page officielle indique « une subvention forfaitaire annuelle » versée
+  trimestriellement, sans jamais publier le barème. → NON VÉRIFIÉ : le montant exact.
+  La valeur de 12.000 € inscrite ici est un ordre de grandeur pour trier, pas un chiffre
+  sourcé. À faire confirmer par le support APE.
+
+  PROCÉDURE : vérifier l''éligibilité du travailleur via le calculateur disponible
+  dans l''espace employeur (https://www.leforem.be/espace-entreprise). Sans accès
+  à cet espace, un formulaire de demande d''accès est mis à disposition sur la page
+  APE.
+
+  PRÉREQUIS RÉALISTE AVANT DE SE LANCER : l''ASBL doit être capable de porter un contrat
+  de travail (secrétariat social, trésorerie de roulement, gouvernance). Tant que
+  ce n''est pas le cas, l''APE reste théorique. Le bon ordre est : sécuriser d''abord
+  les subsides de projet (Province, FWB, Loterie), puis structurer l''emploi.
+
+  EFFET DE LEVIER À NE PAS SOUS-ESTIMER : un poste salarié fait basculer Falc''ohm
+  dans la catégorie « activités artistiques professionnelles » exigée par le Service
+  des Musiques de la FWB — c''est le seul critère FWB que l''ASBL ne coche pas aujourd''hui.
+
+  '

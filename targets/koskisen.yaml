@@ -1,0 +1,20 @@
+company: Koskisen
+persona: fournisseur-technique
+module: bois
+phase: 1
+contact:
+  name: Mirkka Aarrekorpi
+  role: Contact demandes contreplaqué (plywood inquiries)
+  email: mirkka.aarrekorpi@koskisen.com
+website: https://koskisen.com
+notes: 'Contrairement aux autres fabricants nordiques, Koskisen publie nominativement
+  ses commerciaux de zone AVEC leurs emails directs, et surtout une adresse dédiée
+  aux demandes contreplaqué (Mirkka Aarrekorpi). On peut donc parler à un humain identifié,
+  pas à un formulaire. André Wolff couvre le contreplaqué fin pour l''Allemagne/Autriche/Suisse/France
+  et Maxime Pelikh la France : la Belgique est à la charnière de leurs zones, et un
+  francophone (Maxime Pelikh) est joignable directement — ce qui lève la barrière
+  de la langue et rend l''approche crédible.
+
+  Fiche CRM : crm/companies/koskisen.yaml
+
+  '

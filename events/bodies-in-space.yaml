@@ -1,0 +1,32 @@
+# TODO : date exacte, lieu, budget, lineup, stats.
+# Fréquentation : 450 (chiffre donné par Corentin, 2026-07-14).
+# L'événement a EU LIEU — la fiche le donnait encore « à venir ».
+slug: bodies-in-space
+name: Bodies in Space
+date: '2026-01-01 # TODO'
+venue: '# TODO — l''événement a eu lieu'
+city: ''
+capacity: —
+attendance: 450
+type: soiree
+lineup: []
+sponsors: []
+partners: []
+budget:
+  total: null
+  technique: null
+  artistes: null
+  communication: null
+technique:
+  system: Falc'ohm System
+  stages: 1
+  notes: ''
+medias:
+  poster: ''
+  photos: []
+  aftermovie: ''
+stats:
+  reach_instagram: null
+  reach_facebook: null
+  tickets_sold: null
+retombees: ''

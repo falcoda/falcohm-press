@@ -1,0 +1,102 @@
+slug: garnica
+company: Garnica
+aka: []
+country: ES
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: lead
+phase: 1
+tags: []
+score: 9
+website: https://www.garnica.one
+knowledge: ''
+profile:
+  activity: Fabricant espagnol de contreplaqué, siège à Logroño (La Rioja), avec plusieurs
+    usines en Espagne (Fuenmayor, Baños, Valencia de Don Juan, Llodio) et deux implantations
+    en France (Samazan et Sainte-Savine/Troyes). Spécialiste du contreplaqué léger
+    à âme peuplier, décliné avec différents parements dont le bouleau.
+  products:
+  - Contreplaqué (âme peuplier)
+  - Contreplaqué à parement bouleau
+  - Panneaux légers pour agencement et industrie
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Seul fabricant du panel disposant d''implantations industrielles en France
+  (Samazan, Troyes), donc d''une logistique déjà tournée vers l''Europe de l''Ouest
+  et d''interlocuteurs francophones — bien plus abordable qu''un producteur balte
+  ou finlandais. Leur spécialité, le contreplaqué léger, est un argument technique
+  réel pour un sound system : une enceinte plus légère à masse rigide équivalente,
+  c''est du portage et du transport économisés sur 10-15 événements par an. À explorer
+  sérieusement comme alternative ou complément au bouleau intégral.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Prise de contact via leurs implantations françaises (Samazan / Troyes)
+    : tarif direct ou dotation en contreplaqué à parement bouleau, et évaluation technique
+    de leurs panneaux légers pour des caissons d''enceintes plus faciles à transporter.
+    Contrepartie : marque visible sur le sound system, retour d''expérience technique
+    et images de fabrication.'
+  realistic_value_eur: 4000
+values:
+- Fabricant industriel européen
+- Spécialiste du contreplaqué léger
+- Présence industrielle en France
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Ventes
+  email: sales@garnica.one
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.garnica.one/en-uk/legal-notice.html
+  retrieved_on: '2026-07-14'
+  evidence: « GRUPO GARNICA PLYWOOD, S.A.U. … Parque San Miguel 10 Bajo, 26007 Logroño
+    … sales@garnica.one »
+inbound_channels:
+- type: form
+  url: https://www.garnica.one/en-uk/contact.html
+scoring:
+  business_fit: 5
+  partnership_probability: 3
+  impact_if_successful: 6
+  rationale: 'Fit moyen et assumé : Garnica est un spécialiste du contreplaqué à ÂME
+    PEUPLIER, le bouleau n''étant qu''un parement — ce n''est donc pas le multiplex
+    bouleau intégral que Falc''ohm utilise aujourd''hui, et un changement de matériau
+    impacterait la rigidité et l''acoustique des caissons. Probabilité faible : industriel
+    de taille internationale, aucun email ni contact nommé publié, aucun historique
+    de mécénat trouvé. Impact modéré, mais l''angle ''panneau léger'' mérite au moins
+    une évaluation technique : c''est le seul fournisseur qui pourrait alléger les
+    enceintes.'
+deadlines: []
+sources:
+- url: https://www.garnica.one/en-uk/contact.html
+  retrieved_on: 2026-07-14
+- url: https://www.garnica.one/en/
+  retrieved_on: 2026-07-14
+- url: https://www.garnica.one/en-uk/legal-notice.html
+  retrieved_on: '2026-07-14'
+documents:
+- output\Garnica\Garnica-Partnership-2026.pdf
+- output\Garnica\Garnica-OnePager-2026.pdf
+- output\Garnica\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'AUCUN EMAIL PUBLIC ni contact nommé sur la page contact — contacts: [] volontairement,
+  entrée exclusivement par le formulaire. Siège : Parque San Miguel, 10 bajos, 26007
+  Logroño, La Rioja (Espagne), +34 941 51 23 53. Implantations FRANÇAISES à privilégier
+  (francophones, logistique proche) : Garnica Samazan — 19 impasse Galilée, 47250
+  Samazan, +33 5 53 94 88 90 ; Garnica Troyes — 1 rue de Varsovie, 10300 Sainte-Savine,
+  +33 3 25 79 03 02. RÉSERVE : la fabrication de contreplaqué bouleau INTÉGRAL n''est
+  pas confirmée — leur positionnement documenté est le contreplaqué à âme peuplier.
+  À qualifier techniquement avant tout dossier de partenariat.'

@@ -1,0 +1,412 @@
+# VUE générée depuis crm/companies/ par `python -m kit --crm-sync`.
+# Ne pas éditer à la main : la vérité est dans les fiches. Triée par score.
+# Statuts : lead | contacted | replied | negotiating | won | lost.
+partners:
+- company: Bourguignon Bois
+  module: bois
+  status: lead
+  score: 58
+  contact: ''
+  email: info@bourguignonbois.be
+  sent: ''
+  followup: ''
+- company: SoundImports B.V.
+  module: audio
+  status: lead
+  score: 57
+  contact: ''
+  email: sales@soundimports.nl
+  sent: ''
+  followup: ''
+- company: Fédération Wallonie-Bruxelles — Service des Musiques
+  module: institutionnel
+  status: lead
+  score: 54
+  contact: Diane Dernouchamps
+  email: diane.dernouchamps@cfwb.be
+  sent: ''
+  followup: ''
+- company: Biemar Bois
+  module: bois
+  status: lead
+  score: 49
+  contact: Serge Tilkin
+  email: serge.tilkin@biemar.be
+  sent: ''
+  followup: ''
+- company: Cras
+  module: bois
+  status: lead
+  score: 49
+  contact: ''
+  email: service@cras.be
+  sent: ''
+  followup: ''
+- company: TLHP SAS — Tout Le Haut-Parleur
+  module: audio
+  status: lead
+  score: 49
+  contact: ''
+  email: info@toutlehautparleur.com
+  sent: ''
+  followup: ''
+- company: Diffusion Menuiserie
+  module: bois
+  status: lead
+  score: 45
+  contact: ''
+  email: contact@diffusionmenuiserie.be
+  sent: ''
+  followup: ''
+- company: Lhoir & Marteau
+  module: bois
+  status: lead
+  score: 45
+  contact: Michel Marteau
+  email: info@lhoir-marteau.be
+  sent: ''
+  followup: ''
+- company: Province du Brabant wallon — Direction d'administration de la culture, du sport et du tourisme
+  module: institutionnel
+  status: lead
+  score: 44
+  contact: ''
+  email: culture.loisirs.citoyennete@brabantwallon.be
+  sent: ''
+  followup: ''
+- company: APEX — GIVA Audiovisual Technologies BV
+  module: audio
+  status: lead
+  score: 43
+  contact: ''
+  email: marketing@apex-audio.be
+  sent: ''
+  followup: ''
+- company: Wopaco
+  module: bois
+  status: lead
+  score: 40
+  contact: ''
+  email: vanrobaeys@wopaco.be
+  sent: ''
+  followup: ''
+- company: Acústica Beyma S.L.
+  module: audio
+  status: lead
+  score: 36
+  contact: ''
+  email: beyma@beyma.com
+  sent: ''
+  followup: ''
+- company: PHL Audio
+  module: audio
+  status: lead
+  score: 34
+  contact: ''
+  email: contact@phlaudio.com
+  sent: ''
+  followup: ''
+- company: BMS Speakers GmbH
+  module: audio
+  status: lead
+  score: 32
+  contact: ''
+  email: contact@bmsspeakers.com
+  sent: ''
+  followup: ''
+- company: Eighteen Sound S.r.l.
+  module: audio
+  status: lead
+  score: 32
+  contact: ''
+  email: info@eighteensound.it
+  sent: ''
+  followup: ''
+- company: Lochten & Germeau
+  module: bois
+  status: lead
+  score: 32
+  contact: ''
+  email: info@lochten.be
+  sent: ''
+  followup: ''
+- company: Triplaco
+  module: bois
+  status: sent
+  score: 28
+  contact: ''
+  email: info@triplaco.be
+  sent: '2026-07-14'
+  followup: ''
+- company: B&C Speakers S.p.A.
+  module: audio
+  status: lead
+  score: 27
+  contact: Patty Adeyemi
+  email: padeyemi@bcspeakers.com
+  sent: ''
+  followup: ''
+- company: Powersoft S.p.A.
+  module: audio
+  status: lead
+  score: 27
+  contact: ''
+  email: privacy@powersoft.com
+  sent: ''
+  followup: ''
+- company: Precision Devices Ltd
+  module: audio
+  status: lead
+  score: 26
+  contact: ''
+  email: info@precision-devices.com
+  sent: ''
+  followup: ''
+- company: Amptec BV
+  module: audio
+  status: lead
+  score: 25
+  contact: Bart Willems
+  email: bart.willems@amptec.be
+  sent: ''
+  followup: ''
+- company: Audio Solvation
+  module: audio
+  status: lead
+  score: 25
+  contact: ''
+  email: info@audiosolvation.nl
+  sent: ''
+  followup: ''
+- company: Base
+  module: telecom
+  status: lead
+  score: 25
+  contact: Sylvie Dewaele
+  email: sylvie.dewaele@tbwa.be
+  sent: ''
+  followup: ''
+- company: Carlier Bois
+  module: bois
+  status: lead
+  score: 25
+  contact: ''
+  email: info@carlier.be
+  sent: ''
+  followup: ''
+- company: Vanhumbeeck Frères
+  module: bois
+  status: lead
+  score: 25
+  contact: ''
+  email: info@vanhum.be
+  sent: ''
+  followup: ''
+- company: Ville de Genappe — Administration communale
+  module: institutionnel
+  status: lead
+  score: 24
+  contact: Michaël Rouffiange
+  email: michael.rouffiange@genappe.be
+  sent: ''
+  followup: ''
+- company: Conseil de la Musique
+  module: institutionnel
+  status: lead
+  score: 24
+  contact: Christophe Hars
+  email: c.hars@conseildelamusique.be
+  sent: ''
+  followup: ''
+- company: Faital S.p.A. (FaitalPRO)
+  module: audio
+  status: lead
+  score: 24
+  contact: ''
+  email: privacy@faital.com
+  sent: ''
+  followup: ''
+- company: RAM Audio (C.E. Studio-2 S.L.)
+  module: audio
+  status: lead
+  score: 24
+  contact: ''
+  email: support@ramaudio.com
+  sent: ''
+  followup: ''
+- company: Fédération Wallonie-Bruxelles — Service de la Jeunesse
+  module: institutionnel
+  status: lead
+  score: 22
+  contact: ''
+  email: service.jeunesse@cfwb.be
+  sent: ''
+  followup: ''
+- company: Loterie Nationale
+  module: institutionnel
+  status: lead
+  score: 21
+  contact: ''
+  email: ''
+  sent: ''
+  followup: ''
+- company: Oberton Ltd.
+  module: audio
+  status: lead
+  score: 21
+  contact: ''
+  email: info@oberton.com
+  sent: ''
+  followup: ''
+- company: Wathelet Bois
+  module: bois
+  status: lead
+  score: 21
+  contact: ''
+  email: watheletsprl@outlook.com
+  sent: ''
+  followup: ''
+- company: Vandecasteele Houtimport
+  module: bois
+  status: lead
+  score: 20
+  contact: David Pierre
+  email: david@vandecasteele.be
+  sent: ''
+  followup: ''
+- company: Koskisen
+  module: bois
+  status: lead
+  score: 19
+  contact: Mirkka Aarrekorpi
+  email: mirkka.aarrekorpi@koskisen.com
+  sent: ''
+  followup: ''
+- company: Würth
+  module: visserie
+  status: lead
+  score: 19
+  contact: ''
+  email: service@wurth.be
+  sent: ''
+  followup: ''
+- company: Le Forem — Aides à la Promotion de l'Emploi (APE)
+  module: institutionnel
+  status: lead
+  score: 18
+  contact: ''
+  email: ape.contact@forem.be
+  sent: ''
+  followup: ''
+- company: AB InBev / Jupiler
+  module: boissons
+  status: lead
+  score: 17
+  contact: Esther Louis
+  email: esther.louis@ab-inbev.com
+  sent: ''
+  followup: ''
+- company: RCF S.p.A.
+  module: audio
+  status: lead
+  score: 17
+  contact: ''
+  email: privacy@rcf.it
+  sent: ''
+  followup: ''
+- company: Latvijas Finieris (Riga Wood)
+  module: bois
+  status: lead
+  score: 16
+  contact: Inese Paberza
+  email: inese.paberza@finieris.lv
+  sent: ''
+  followup: ''
+- company: Beglec NV
+  module: audio
+  status: lead
+  score: 15
+  contact: Kevin David
+  email: david.kevin@beglec.com
+  sent: ''
+  followup: ''
+- company: Sabam For Culture
+  module: institutionnel
+  status: lead
+  score: 15
+  contact: Justine Cornet
+  email: justine.cornet@sabam.be
+  sent: ''
+  followup: ''
+- company: Bureau International Jeunesse (BIJ)
+  module: institutionnel
+  status: lead
+  score: 14
+  contact: ''
+  email: bij@cfwb.be
+  sent: ''
+  followup: ''
+- company: Fédération Wallonie-Bruxelles — Service de la Diffusion (Tournées Art et Vie)
+  module: institutionnel
+  status: lead
+  score: 14
+  contact: ''
+  email: ''
+  sent: ''
+  followup: ''
+- company: Cera
+  module: institutionnel
+  status: lead
+  score: 9
+  contact: ''
+  email: info@cera.coop
+  sent: ''
+  followup: ''
+- company: Garnica
+  module: bois
+  status: lead
+  score: 9
+  contact: ''
+  email: sales@garnica.one
+  sent: ''
+  followup: ''
+- company: Fondation Roi Baudouin
+  module: institutionnel
+  status: lead
+  score: 8
+  contact: Hélène De Coninck
+  email: hubliege@kbs-frb.be
+  sent: ''
+  followup: ''
+- company: PlayRight / PlayRight+
+  module: institutionnel
+  status: lead
+  score: 8
+  contact: ''
+  email: info@playright.be
+  sent: ''
+  followup: ''
+- company: Adam Hall
+  module: flightcases
+  status: lead
+  score: 7
+  contact: ''
+  email: info@adamhall.com
+  sent: ''
+  followup: ''
+- company: Penn Elcom
+  module: flightcases
+  status: lead
+  score: 7
+  contact: ''
+  email: shop.eu@penn-elcom.com
+  sent: ''
+  followup: ''
+- company: Red Bull
+  module: boissons
+  status: lead
+  score: 6
+  contact: Karel Voet
+  email: karel.voet@jetimport.be
+  sent: ''
+  followup: ''

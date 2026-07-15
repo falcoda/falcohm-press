@@ -1,0 +1,120 @@
+slug: tlhp
+company: TLHP SAS — Tout Le Haut-Parleur
+aka:
+- TLHP
+- Tout Le Haut Parleur
+- toutlehautparleur.com
+country: FR
+sector: audio
+persona: fournisseur-technique
+categories:
+- distributors
+- audio_components
+- amplification
+status: lead
+phase: 1
+tags: []
+score: 49
+website: https://www.toutlehautparleur.com
+knowledge: ''
+profile:
+  activity: 'Distributeur français de composants de haut-parleurs, entreprise familiale
+    basée à Bourgbarré près de Rennes. Se présente comme le premier vendeur de haut-parleurs
+    en Europe : plus de 14 000 références en stock, entrepôt de 1 500 m². Distributeur
+    officiel de PHL Audio et d''Oberton pour la zone France/Europe du Sud.'
+  products:
+  - Transducteurs pro de toutes les grandes marques (B&C, 18Sound, FaitalPRO, Beyma,
+    PHL, Oberton, Celestion, RCF, Monacor, LaVoce…)
+  - Amplificateurs et modules d'amplification
+  - Composants de filtre (Mundorf, condensateurs, bobines)
+  - Pièces de caisson, connectique, membranes et kits de reconing
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'TLHP est le distributeur francophone qui référence en un seul catalogue TOUTES
+  les marques que Falc''ohm doit arbitrer : B&C, 18Sound, FaitalPRO, Beyma, PHL, Oberton,
+  Celestion… Plutôt que de négocier six accords fabricants incertains, un seul accord
+  « tarif revendeur/pro » chez TLHP fait baisser la facture de l''intégralité de la
+  nomenclature — transducteurs, filtres, connectique, kits de recone — et ce de façon
+  récurrente sur les 5-10 ans du projet. C''est le levier le plus rentable du module.
+  Entreprise familiale depuis plus de 30 ans, francophone : le dossier arrive dans
+  la bonne langue, chez quelqu''un qui décide. Ils disposent en plus d''une procédure
+  de commande dédiée aux administrations et structures publiques, signe qu''ils savent
+  traiter des entités non commerciales comme une ASBL.'
+ask:
+  type:
+  - discount
+  - material
+  - consumables
+  detail: 'Ouverture d''un compte à tarif revendeur / professionnel sur l''ensemble
+    du catalogue (transducteurs, filtres, connectique, membranes), avec conditions
+    dégressives sur le volume nécessaire à l''équipement de la série complète de subs
+    horn et de tops. Idéalement complété par une dotation partielle en composants
+    pour le premier caisson. Contrepartie : marquage sur les façades, making-of documenté
+    du build et visibilité sur 10-15 événements et 27 000 abonnés.'
+  realistic_value_eur: 12000
+values:
+- entreprise familiale
+- made-in-France (distribution)
+- profondeur de catalogue
+- communauté du haut-parleur
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général / commercial
+  email: info@toutlehautparleur.com
+  email_status: generic
+  linkedin: ''
+  phone: +33 (0)8 92 70 76 57
+  source_url: https://www.phlaudio.com/distribution/index.html
+  retrieved_on: 2026-07-14
+  evidence: TLHP — Tout Le Haut-Parleur, 2 rue des Fermes Gauloises, 35230 Bourgbarré,
+    France — +33 (0)8 92 70 76 57 — info@toutlehautparleur.com
+inbound_channels:
+- type: form
+  url: https://www.toutlehautparleur.com/commande-administration
+- type: portal
+  url: https://en.toutlehautparleur.com/brands-page.html
+scoring:
+  business_fit: 9
+  partnership_probability: 6
+  impact_if_successful: 9
+  rationale: 'Un seul compte couvre toutes les marques que le projet doit arbitrer,
+    plus les consommables de maintenance : c''est le fit le plus large du module,
+    à égalité avec SoundImports. Probabilité correcte — PME familiale francophone,
+    décideur unique, et une remise leur coûte de la marge, pas de la trésorerie —
+    mais aucun antécédent de sponsoring trouvé, d''où 6 et non 7. Impact fort et surtout
+    récurrent : une remise permanente de 20-30 % sur toute la nomenclature vaut davantage
+    sur 5-10 ans qu''une dotation ponctuelle.'
+deadlines: []
+sources:
+- url: https://www.phlaudio.com/distribution/index.html
+  retrieved_on: 2026-07-14
+- url: https://www.oberton.com/en/where-to-buy.html
+  retrieved_on: 2026-07-14
+- url: https://en.toutlehautparleur.com/brands-page.html
+  retrieved_on: 2026-07-14
+documents:
+- output\TLHP-SAS-Tout-Le-Haut-Parleur\TLHP-SAS-Tout-Le-Haut-Parleur-Partnership-2026.pdf
+- output\TLHP-SAS-Tout-Le-Haut-Parleur\TLHP-SAS-Tout-Le-Haut-Parleur-OnePager-2026.pdf
+- output\TLHP-SAS-Tout-Le-Haut-Parleur\email.md
+interactions: []
+events: []
+next_action:
+  what: ''
+  due: ''
+notes: 'L''e-mail info@toutlehautparleur.com a été lu sur la page « distribution »
+  de PHL Audio (fabricant dont TLHP est le distributeur officiel), qui l''affiche
+  en clair — le site de TLHP lui-même bloque la lecture automatisée (HTTP 403). Une
+  adresse contact@toutlehautparleur.com circule aussi sur des annuaires mais N''A
+  PAS pu être lue sur une page : non reprise ici. Deux adresses TLHP apparaissent
+  selon les sources (Bourgbarré 35230 et Vern-sur-Seiche 35770) : celle retenue est
+  le siège tel qu''indiqué par PHL et par Oberton (2 rue des Fermes Gauloises, 35230
+  Bourgbarré). Oberton les désigne comme distributeur France/Monaco/Espagne/Italie
+  — aucun distributeur Benelux chez Oberton, donc TLHP est aussi la porte d''entrée
+  logique pour cette marque. À CREUSER : la page « commande administration » (procédure
+  pour structures publiques/associatives) confirme qu''ils savent facturer une entité
+  non commerciale — argument à utiliser dans l''approche.'
