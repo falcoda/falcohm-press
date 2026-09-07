@@ -8,7 +8,7 @@ sector: bois
 persona: fournisseur-technique
 categories:
 - wood
-status: lead
+status: sent
 phase: 1
 tags: []
 score: 25
@@ -74,7 +74,7 @@ scoring:
     plutôt que panneau technique : rien ne confirme une gamme bouleau BB/CP, d''où
     un fit à 7. Probabilité moyenne : PME familiale indépendante, donc décision courte,
     mais aucun contact nommé, aucun sponsoring connu, et l''entrée se fait par un
-    info@. Impact modéré — utile surtout comme source d''appoint et de chutes, pas
+    info@. Impact modéré, utile surtout comme source d''appoint et de chutes, pas
     comme fournisseur principal.'
 deadlines: []
 sources:
@@ -86,14 +86,24 @@ documents:
 - output\Vanhumbeeck-Freres\Vanhumbeeck-Freres-Partnership-2026.pdf
 - output\Vanhumbeeck-Freres\Vanhumbeeck-Freres-OnePager-2026.pdf
 - output\Vanhumbeeck-Freres\email.md
-interactions: []
+interactions:
+- date: '2026-08-23'
+  type: mail
+  resume: 'Dossier + one-pager envoyes a info@vanhum.be. Objet : « Demande de prix
+    / partenariat ASBL : Multiplex bouleau 12/18 mm & CNC ». Sans reponse au 2026-09-03.
+    Adresse GENERIQUE, aucun interlocuteur nomme.'
 events: []
 next_action:
-  what: ''
-  due: ''
+  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). PAS par e-mail : appeler le +32 2
+    216 31 32 pour obtenir le NOM du decideur. L''objectif de l''appel est un nom,
+    pas une vente. Le mail du 23/08 est parti sur une adresse generique avec l''objet
+    « Demande de prix / partenariat » : le bureau des devis l''a lu comme une demande
+    de prix, et il n''a pas mandat pour un partenariat. Reecrire a la meme adresse
+    ne changera rien. Relance par appel : l''adresse info@ est le bureau des devis.'
+  due: '2026-09-08'
 notes: 'Adresse : Avenue de Vilvorde 100, 1000 Bruxelles. Horaires : lun-jeu 7h-17h
   sans interruption, ven 7h-15h, fermé le samedi. Horaire d''été réduit du 22 juillet
-  au 7 août — éviter cette fenêtre pour prospecter. Aucun nom de contact publié sur
+  au 7 août, éviter cette fenêtre pour prospecter. Aucun nom de contact publié sur
   la page contact : ne rien extrapoler à partir du domaine vanhum.be. À qualifier
   par téléphone : vérifier s''ils tiennent réellement du multiplex bouleau en épaisseurs
   15/18/21 mm avant d''investir un dossier complet.'

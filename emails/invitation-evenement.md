@@ -1,4 +1,4 @@
-**Objet :** Invitation — {{EVENEMENT}}, le {{DATE_EVENT}}
+**Objet :** Invitation, {{EVENEMENT}}, le {{DATE_EVENT}}
 
 Bonjour {{CONTACT_NAME}},
 
@@ -9,4 +9,4 @@ Deux places vous sont réservées, accès backstage compris si vous souhaitez vo
 plus près.
 
 Bien à vous,
-{{SENDER}} — {{ORG}}
+{{SENDER}}, {{ORG}}

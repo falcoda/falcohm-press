@@ -34,7 +34,7 @@ profile:
   identifiers:
     vat: ''
     linkedin: https://be.linkedin.com/company/triplaco-nv
-why_us: 'Ils annoncent le multiplex bouleau en qualités BB et CP en stock — le coeur
+why_us: 'Ils annoncent le multiplex bouleau en qualités BB et CP en stock, le coeur
   du besoin. Au-delà du panneau brut, ils font la transformation (découpe, défonçage,
   perçage) : le potentiel dépasse la simple fourniture, ils peuvent livrer des pièces
   d''enceintes prêtes à assembler. L''enceinte de sound system est aussi une vitrine
@@ -49,7 +49,7 @@ ask:
   detail: 'Fourniture partenaire de multiplex bouleau BB/CP (15/18/21 mm) en récurrence,
     chutes et fins de série, et accès à leur atelier de transformation (découpe/défonçage)
     pour les flancs d''enceintes. Angle spécifique : leur expertise en panneaux acoustiques
-    est directement pertinente pour un fabricant d''enceintes — proposer un partenariat
+    est directement pertinente pour un fabricant d''enceintes, proposer un partenariat
     technique, pas seulement une remise.'
   realistic_value_eur: 4000
 values:
@@ -83,7 +83,7 @@ scoring:
     acoustique rare qui donne un angle technique crédible. Probabilité moyenne : aucun
     contact nominatif ni antécédent de sponsoring publié, l''entrée se fait par un
     info@ générique, et le positionnement est très industriel/B2B (mobilier, agencement).
-    Un premier envoi a déjà été fait sans interlocuteur nommé — il faut maintenant
+    Un premier envoi a déjà été fait sans interlocuteur nommé, il faut maintenant
     obtenir un nom avant de relancer.'
 deadlines: []
 sources:
@@ -104,16 +104,29 @@ interactions:
 - date: '2026-07-14'
   type: mail
   resume: Dossier + one-pager envoyés au directeur commercial
+- date: '2026-08-23'
+  type: mail
+  resume: 'Deuxieme envoi : dossier + one-pager a info@triplaco.be. Objet : « Demande
+    de prix / partenariat ASBL : Multiplex bouleau 12/18 mm & CNC ». Sans reponse
+    au 2026-09-03. Adresse GENERIQUE. C''est le 2e mail sans nom apres celui du 2026-07-14,
+    le telephone (056/226217) reste la seule voie.'
 events: []
 next_action:
-  what: Appeler le 056/226217 pour identifier un interlocuteur nommé avant relance
-  due: ''
-notes: 'Adresse : Generaal Deprezstraat 2, 8530 Harelbeke (Flandre occidentale) —
-  loin de Genappe, l''argument de proximité ne joue pas. ATTENTION : le site triplaco.be
+  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). PAS par e-mail : appeler le 056/226217
+    pour obtenir le NOM du decideur. L''objectif de l''appel est un nom, pas une vente.
+    Le mail du 23/08 est parti sur une adresse generique avec l''objet « Demande de
+    prix / partenariat » : le bureau des devis l''a lu comme une demande de prix,
+    et il n''a pas mandat pour un partenariat. Reecrire a la meme adresse ne changera
+    rien. TROISIEME contact. Deux mails sur info@ sont restes sans reponse (14/07
+    et 23/08) : ne pas en envoyer un troisieme, appeler. Apres cet appel sans resultat,
+    passer en `lost` et revoir dans 12 mois.'
+  due: '2026-09-08'
+notes: 'Adresse : Generaal Deprezstraat 2, 8530 Harelbeke (Flandre occidentale), loin
+  de Genappe, l''argument de proximité ne joue pas. ATTENTION : le site triplaco.be
   renvoie un HTTP 403 aux robots ; l''email info@triplaco.be et le téléphone 056/226217
   ont été lus sur la fiche officielle du registre FSC belge (ikzoekfsc.be), pas sur
   le site lui-même. Le n° de TVA n''a pas pu être confirmé sur une page réellement
-  ouverte — laissé vide volontairement. ÉTAT CRM : un dossier + one-pager ont déjà
+  ouverte, laissé vide volontairement. ÉTAT CRM : un dossier + one-pager ont déjà
   été envoyés le 2026-07-14 ''au directeur commercial'' alors qu''aucun nom n''est
-  identifié — l''envoi est donc parti sur une adresse générique. Priorité : appeler
+  identifié, l''envoi est donc parti sur une adresse générique. Priorité : appeler
   le 056/226217 pour obtenir le nom du responsable commercial avant toute relance.'

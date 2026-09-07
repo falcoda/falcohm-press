@@ -2,7 +2,7 @@
 # Fréquentation : 600 (chiffre donné par Corentin, 2026-07-14).
 slug: into-the-rave-iii
 name: Into The Rave III
-date: '2025-01-01 # TODO'
+date: '2025-05-17'   # confirmé par Corentin le 2026-09-04, croisé avec data/consumption.yaml
 venue: La Fabriek
 city: ''
 capacity: ~900

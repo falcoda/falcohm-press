@@ -30,7 +30,7 @@ profile:
     vat: 0415.575.516
     linkedin: ''
 why_us: 'Le voisin direct : Waterloo est à ~15 km de l''atelier de Genappe, même province.
-  PME de 14 personnes dirigée par Michel Marteau — c''est le profil décrit comme la
+  PME de 14 personnes dirigée par Michel Marteau, c''est le profil décrit comme la
   meilleure cible : le patron décide seul, sans comité, et l''ancrage local le motive.
   Ils vendent des panneaux ET font le travail à façon (découpe), donc ils couvrent
   la fourniture et le débit. Une visite d''atelier est trivialement organisable :
@@ -73,7 +73,7 @@ scoring:
   impact_if_successful: 7
   rationale: 'Ils vendent les panneaux et font la découpe à façon, donc le besoin
     technique est couvert, même si leur coeur de métier est plutôt la rénovation/parachèvement
-    que le panneau technique haut de gamme — d''où un fit de 8 et pas 10. La probabilité
+    que le panneau technique haut de gamme, d''où un fit de 8 et pas 10. La probabilité
     est parmi les meilleures du panel : PME de 14 personnes à ~15 km, un dirigeant
     identifié nommément (Michel Marteau), aucune couche hiérarchique. Impact correct
     : volumes plus modestes qu''un gros négociant, mais la proximité rend les enlèvements
@@ -97,6 +97,6 @@ notes: 'Adresse : Avenue des Pâquerettes 55, bte 31, 1410 Waterloo (zoning indu
   ancienne usine Fiat). Fax 02/354 54 48. Horaires : lun-ven 7-17h, sam 8-12h. Fondée
   en 1945 par Paul Lhoir, aujourd''hui menée par Michel Marteau. ATTENTION : la page
   ''about'' nomme Michel Marteau comme dirigeant de l''équipe mais n''imprime PAS
-  de titre officiel (gérant/CEO/administrateur) — le champ position est donc laissé
+  de titre officiel (gérant/CEO/administrateur), le champ position est donc laissé
   vide volontairement, et son email personnel n''est PAS publié : passer par info@lhoir-marteau.be
   ou par téléphone en le demandant nommément. Aucun sponsoring identifié.'

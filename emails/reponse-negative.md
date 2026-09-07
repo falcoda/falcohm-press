@@ -8,4 +8,4 @@ Si les choses évoluent de votre côté, ou si un autre service de {{COMPANY}} p
 je reste joignable. Je me permettrai de reprendre contact dans une douzaine de mois.
 
 Bien à vous,
-{{SENDER}} — {{ORG}}
+{{SENDER}}, {{ORG}}

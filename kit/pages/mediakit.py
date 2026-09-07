@@ -147,7 +147,7 @@ def events(c, ctx):
             c.rect(M - 6, y - 8, CW + 12, rh - 6, stroke=0, fill=1)
         # « TODO » / vide sont des marqueurs internes : à l'écran, un tiret propre.
         cap = str(e.get("capacity") or "").strip()
-        cap = "—" if cap in ("", "TODO", "-") else cap
+        cap = "-" if cap in ("", "TODO", "-") else cap
         venue = str(e.get("venue") or "").strip()
         venue = "à venir" if venue in ("", "TODO") else venue
         ls_text(c, M, y, str(e["year"]), "Inter-SB", 9, BLUE)

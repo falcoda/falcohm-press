@@ -1,4 +1,4 @@
-# Instagram / Facebook — annonce de partenariat
+# Instagram / Facebook, annonce de partenariat
 
 Nouveau partenaire : @{{COMPANY_HANDLE}} 🤝
 

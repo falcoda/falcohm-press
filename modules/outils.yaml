@@ -41,9 +41,9 @@ project:
   title: 'Notre parc,
 
     nos événements.'
-  intro: 'TODO — décrire précisément le besoin en outillage d''atelier. Un atelier qui tourne toute l''année
+  intro: 'TODO, décrire précisément le besoin en outillage d''atelier. Un atelier qui tourne toute l''année
     : découpe, assemblage, réparation.'
-  intro2: TODO — expliquer pourquoi ce poste est critique et pourquoi le besoin est récurrent.
+  intro2: TODO, expliquer pourquoi ce poste est critique et pourquoi le besoin est récurrent.
   images:
   - file: gz_1.jpg
     caption: Un événement Gazmatek
@@ -51,7 +51,7 @@ project:
     caption: Notre parc technique
   - file: rig.jpg
     caption: En prestation
-  caption: TODO — légende à écrire.
+  caption: TODO, légende à écrire.
 needs:
   title: CE QUE NOUS RECHERCHONS
   items:
@@ -69,7 +69,7 @@ timeline:
   overrides:
     '2026':
       title: Recherche d'un partenaire outillage
-      text: TODO — l'étape 2026 pour ce secteur.
+      text: TODO, l'étape 2026 pour ce secteur.
     2027+:
       title: Suite du parc
       text: Extension, maintenance et renouvellement.
@@ -119,5 +119,5 @@ packages:
     title: Partenariat complet
     text: Un partenariat annuel, avec une visibilité maximale.
 onepager:
-  pitch: TODO — pitch d'une phrase pour le one-pager.
-_status: squelette — À RÉÉCRIRE avant tout envoi (voir docs/PARTNER-MATRIX.md)
+  pitch: TODO, pitch d'une phrase pour le one-pager.
+_status: squelette, À RÉÉCRIRE avant tout envoi (voir docs/PARTNER-MATRIX.md)

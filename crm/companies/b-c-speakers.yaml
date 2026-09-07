@@ -8,10 +8,10 @@ sector: audio
 persona: fabricant-audio
 categories:
 - audio_components
-status: lead
+status: sent
 phase: 1
 tags: []
-score: 27
+score: 36
 website: https://www.bcspeakers.com
 knowledge: ''
 profile:
@@ -19,7 +19,7 @@ profile:
     Euronext Milan. Référence mondiale du haut-parleur de sonorisation ; possède depuis
     2017 les marques Eighteen Sound et Ciare.
   products:
-  - Woofers 10" à 21" (séries DS, SW, TBX — dont 21DS115, 21SW152)
+  - Woofers 10" à 21" (séries DS, SW, TBX, dont 21DS115, 21SW152)
   - Moteurs de compression 1" à 4" (DE, DCX, DCM)
   - Guides d'ondes et pavillons (ME, MMD)
   - Kits de reconing / membranes de rechange (RCK)
@@ -41,12 +41,16 @@ ask:
   - material
   - discount
   - consumables
-  detail: Ouverture d'un compte à conditions professionnelles / OEM sur les séries
-    DS et SW, fourniture ou prise en charge partielle des HP de grave des nouveaux
-    caissons horn, et mise à disposition d'un stock de kits de reconing pour la maintenance
-    du parc. À défaut d'un accord direct, orientation vers leur centre de distribution
-    européen (Sound & Vision) avec conditions négociées.
+  detail: 'Compte professionnel ou OEM sur les transducteurs. REFERENCES DESORMAIS
+    CONNUES (data/bom.yaml, premiere serie) : 12NDL88 x12, DCX464 x4, FB464 x4. C''est
+    un argument bien plus fort que la demande generique du 2026-09-04 : nous ne demandons
+    pas a decouvrir leur gamme, elle est deja dans nos plans. A ressortir a la relance
+    du 2026-09-14. Ajouter les kits de reconing pour la maintenance.'
   realistic_value_eur: 18000
+  public: "- des haut-parleurs de grave pour les nouveaux caissons à pavillon ;\n\
+    - des moteurs de compression et des pavillons pour les tops ;\n- des kits de reconing,\
+    \ pour la maintenance. Un système qui tourne chaque week-end s'entretient,\n \
+    \ il ne se remplace pas."
 values:
 - made-in-EU
 - made-in-Italy
@@ -81,15 +85,22 @@ inbound_channels:
   url: https://www.linkedin.com/company/b&c-speakers-spa
 scoring:
   business_fit: 9
-  partnership_probability: 3
+  partnership_probability: 4
   impact_if_successful: 10
   rationale: 'Fit maximal : leurs HP sont exactement ce que le projet exige, et le
     besoin est récurrent (reconing). Mais B&C est une société cotée, structurée autour
     d''un réseau de distributeurs et de gros comptes OEM, sans aucun programme de
-    mécénat identifié — une ASBL belge de 40 bénévoles n''est pas leur canal. Probabilité
+    mécénat identifié, une ASBL belge de 40 bénévoles n''est pas leur canal. Probabilité
     faible en direct : à jouer plutôt via un distributeur (TLHP, SoundImports) ou
     via 18Sound. Impact maximal si ça aboutit, car c''est le composant qui décide
-    du son du système entier.'
+    du son du système entier.
+
+
+    REVU LE 2026-09-07 : partnership_probability 3 -> 4. La nomenclature retient trois
+    references B&C (12NDL88, DCX464, FB464) pour la premiere serie : nous sommes deja
+    leur client final, ce qui change la nature de la demande. Cela reste un fabricant
+    italien cote en bourse qui vend par distributeurs, d''ou une probabilite qui reste
+    basse.'
 deadlines: []
 sources:
 - url: https://www.bcspeakers.com/en/contacts
@@ -102,11 +113,21 @@ documents:
 - output\B-C-Speakers-S-p-A\B-C-Speakers-S-p-A-Partnership-2026.pdf
 - output\B-C-Speakers-S-p-A\B-C-Speakers-S-p-A-OnePager-2026.pdf
 - output\B-C-Speakers-S-p-A\email.md
-interactions: []
+interactions:
+- date: '2026-09-04'
+  type: mail
+  resume: 'Envoye 09:26 a Patty Adeyemi (Distribution Sales Manager). Objet : « Material
+    support on transducers ». Demande en categories, sans citer les series DS/SW/RCK
+    : HP de grave, moteurs de compression et pavillons, kits de reconing. Question
+    de repli posee : quel distributeur belge. Dossier PDF joint.'
 events: []
 next_action:
-  what: ''
-  due: ''
+  what: 'BROUILLON GMAIL PRET dans contact@falcohmsystem.com (cree le 2026-09-03).
+    IL RESTE A JOINDRE LE PDF : output/B-C-Speakers-S-p-A/, le connecteur ne peut
+    pas porter un fichier de 2 Mo. Puis envoyer. EN, a Patty Adeyemi (nommee). CC
+    press@ retire : inutile pour une demande commerciale. Des l''envoi : python -m
+    kit --log b-c-speakers mail "..." --status sent --date <ISO>.'
+  due: '2026-09-04'
 notes: 'Aucun e-mail public lisible : le site ne propose qu''un formulaire et la page
   /en/contacts ne liste que des localisations (siège, usine, "Sound & Vision - EU
   Distribution Centre", B&C Speakers NA, B&C Dongguan, B&C Brazil) sans coordonnées

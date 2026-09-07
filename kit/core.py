@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Primitives graphiques — dossier de partenariat Falc'ohm System ASBL"""
+"""Primitives graphiques, dossier de partenariat Falc'ohm System ASBL"""
 import os
 from reportlab.lib.colors import Color, HexColor
 from reportlab.pdfbase import pdfmetrics
@@ -44,7 +44,7 @@ CW = W - 2 * M
 BLACK = HexColor("#0E0F12")
 INK = HexColor("#191B20")
 BODY = HexColor("#4B5058")
-# #8A9099 tombait à 3.2:1 sur blanc et 2.9:1 sur les cartes — sous le seuil WCAG AA (4.5:1).
+# #8A9099 tombait à 3.2:1 sur blanc et 2.9:1 sur les cartes, sous le seuil WCAG AA (4.5:1).
 # Les légendes et les libellés étaient à la limite du lisible, et illisibles une fois imprimés
 # en noir et blanc. #646B75 tient 5.4:1 sur blanc et 4.9:1 sur LIGHT, sans alourdir le gris.
 GREY = HexColor("#646B75")
@@ -213,7 +213,7 @@ def eyebrow(c, x, y, txt, color=INK):
 def footer(c, page, dark=False):
     # L'interlettrage était à 1.2 : un copier-coller rendait « F A L C ' O H M   S Y S T E M »
     # et collait les deux blocs. Le pied de page porte le nom légal de l'ASBL et le titre du
-    # document — c'est de l'information, pas de la décoration : elle doit rester extractible.
+    # document, c'est de l'information, pas de la décoration : elle doit rester extractible.
     # 0.4 garde l'air du dessin sans faire éclater le mot à l'extraction.
     col = GREY if not dark else HexColor("#8B929C")
     c.setStrokeColor(LINE if not dark else HexColor("#23262C"))

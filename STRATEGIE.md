@@ -3,7 +3,7 @@
 Trois phases. On ne mélange pas : un fournisseur technique et une marque grand public ne se
 convainquent pas avec le même dossier ni avec le même vocabulaire.
 
-## Phase 1 — Équiper Falc'ohm  *(persona : fournisseur technique / fabricant audio)*
+## Phase 1, Équiper Falc'ohm  *(persona : fournisseur technique / fabricant audio)*
 Objectif : obtenir du **matériel** ou des **conditions préférentielles**. Pas d'argent.
 
 | Cible | Module | Fichier |
@@ -16,7 +16,7 @@ Objectif : obtenir du **matériel** ou des **conditions préférentielles**. Pas
 Argument central : *le matériel est utilisé chaque week-end, il est visible, et le besoin est
 récurrent sur 5 à 10 ans.*
 
-## Phase 2 — Faire grandir Gazmatek  *(personas : marque grand public / institution)*
+## Phase 2, Faire grandir Gazmatek  *(personas : marque grand public / institution)*
 Objectif : **soutien financier**, activation de marque, subsides.
 
 | Cible | Module |
@@ -28,7 +28,7 @@ Objectif : **soutien financier**, activation de marque, subsides.
 Argument central : *+10 000 festivaliers par an, 27 000 abonnés, un public jeune, un projet
 non lucratif porté par 40 bénévoles.*
 
-## Phase 3 — Devenir un événement reconnu
+## Phase 3, Devenir un événement reconnu
 Media kit annuel : chiffres à jour, nouvelles photos, partenaires acquis, projets à venir.
 Techniquement, c'est un `dossiers/mediakit.yaml` avec sa propre liste de pages.
 

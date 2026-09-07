@@ -1,4 +1,4 @@
-# LinkedIn — annonce de partenariat
+# LinkedIn, annonce de partenariat
 
 Nous sommes heureux d'annoncer notre partenariat avec **{{COMPANY}}**.
 

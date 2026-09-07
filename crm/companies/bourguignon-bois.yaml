@@ -7,7 +7,7 @@ sector: bois
 persona: fournisseur-technique
 categories:
 - wood
-status: lead
+status: sent
 phase: 1
 tags: []
 score: 58
@@ -33,7 +33,7 @@ profile:
 why_us: 'La cible la plus évidente de la catégorie : ~18 km de l''atelier de Genappe,
   même province (Brabant wallon). Entreprise familiale (75 ans) où la décision se
   prend en interne, sans comité de sponsoring. Surtout : ils sponsorisent DÉJÀ un
-  club local (CTT Tourinnes) — la démarche ''soutenir une asbl du coin'' fait partie
+  club local (CTT Tourinnes), la démarche ''soutenir une asbl du coin'' fait partie
   de leur culture. Ils vendent exactement notre matière première n°1 (multiplex) et
   sont sur un site de scierie : les chutes et fins de série existent physiquement
   chez eux.'
@@ -78,7 +78,7 @@ scoring:
   rationale: 'Ils stockent le multiplex dont Falc''ohm a besoin en récurrence, et
     le site de scierie génère des chutes exploitables pour des pièces d''enceintes.
     La probabilité est la plus haute du panel : PME familiale du Brabant wallon, décision
-    courte, et sponsoring local déjà pratiqué (CTT Tourinnes) — le précédent existe,
+    courte, et sponsoring local déjà pratiqué (CTT Tourinnes), le précédent existe,
     il suffit de s''y greffer. Impact fort car la proximité (~18 km) permet des enlèvements
     réguliers sans coût logistique.'
 deadlines: []
@@ -93,12 +93,24 @@ documents:
 - output\Bourguignon-Bois\Bourguignon-Bois-Partnership-2026.pdf
 - output\Bourguignon-Bois\Bourguignon-Bois-OnePager-2026.pdf
 - output\Bourguignon-Bois\email.md
-interactions: []
+interactions:
+- date: '2026-08-23'
+  type: mail
+  resume: 'Dossier + one-pager envoyes a info@bourguignonbois.be. Objet : « Demande
+    de prix / partenariat ASBL : Multiplex bouleau 12/18 mm & CNC ». Sans reponse
+    au 2026-09-03. Adresse GENERIQUE, aucun nom de dirigeant n''est publie sur leur
+    site. Meilleur score du fichier (58) parti vers le bureau des devis.'
 events: []
 next_action:
-  what: ''
-  due: ''
-notes: 'Fermeture annuelle du 17 juillet au 01 août inclus — ne pas prospecter sur
+  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). PAS par e-mail : appeler le 010 65
+    55 66 pour obtenir le NOM du decideur. L''objectif de l''appel est un nom, pas
+    une vente. Le mail du 23/08 est parti sur une adresse generique avec l''objet
+    « Demande de prix / partenariat » : le bureau des devis l''a lu comme une demande
+    de prix, et il n''a pas mandat pour un partenariat. Reecrire a la meme adresse
+    ne changera rien. Meilleur score du fichier (58), a 18 km, sponsorise deja le
+    CTT Tourinnes. L''appel a passer EN PREMIER.'
+  due: '2026-09-08'
+notes: 'Fermeture annuelle du 17 juillet au 01 août inclus, ne pas prospecter sur
   cette fenêtre. Adresse : la page contact indique Chemin de la Scierie 18, la fiche
   du CTT Tourinnes indique ''CHEMIN DE LA SCIERIE 12-16'' (même site). Aucun nom de
   dirigeant n''est publié sur le site : passer par info@ ou par téléphone pour identifier

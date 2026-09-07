@@ -4,7 +4,7 @@ Le système commercial de **Gazmatek** et **Falc'ohm System ASBL** : la source u
 la chaîne qui en tire les documents.
 
 On ne duplique pas un PDF. On décrit une **entreprise**, et le système produit le dossier, le
-one-pager et l'e-mail adaptés — puis il s'en souvient.
+one-pager et l'e-mail adaptés, puis il s'en souvient.
 
 ```bash
 pip install -r requirements.txt
@@ -41,31 +41,31 @@ se propage partout.
 |---|---|---|
 | **Dossier de partenariat** ciblé | `--target <slug>` | 9-10 |
 | **One-pager** nominatif | idem (auto) | 1 |
-| **E-mail** personnalisé | idem (auto) | — |
+| **E-mail** personnalisé | idem (auto) |, |
 | **Media kit** de marque | `mediakit` | 11 |
-| **Proposition** chiffrée | `proposals/_TEMPLATE.md` | — |
-| **Communiqué / posts** | `press/` | — |
+| **Proposition** chiffrée | `proposals/_TEMPLATE.md` |, |
+| **Communiqué / posts** | `press/` |, |
 
 ## Le CRM
 
-Un fichier YAML par entreprise, versionné dans Git — lisible dans un diff, sans migration, pendant
+Un fichier YAML par entreprise, versionné dans Git, lisible dans un diff, sans migration, pendant
 dix ans. États, relances automatiques, historique daté, documents liés, événements liés.
 
 ```bash
 python -m kit --crm-rank         # le classement : à qui donner son mois
 python -m kit --crm-plan         # docs/PLAN-DE-CONTACT.md : qui contacter, dans quel ordre
-python -m kit --crm-deadlines    # les dates de dépôt des subsides — rater une date coûte un an
+python -m kit --crm-deadlines    # les dates de dépôt des subsides, rater une date coûte un an
 python -m kit --crm-brief cras   # le mémo d'attaque : qui, quoi, quel argument, quel document
 python -m kit --crm-validate     # refuse toute adresse e-mail non sourcée   (tourne en CI)
 python -m kit --crm-sync         # fiche CRM → targets/ + data/partners.yaml (vue générée)
 ```
 
 **Le score est calculé, pas saisi** : `business_fit × partnership_probability × impact_if_successful / 10`.
-On multiplie — un produit parfait qu'ils refuseront ne vaut rien, et un oui certain sans effet non
+On multiplie, un produit parfait qu'ils refuseront ne vaut rien, et un oui certain sans effet non
 plus. `crm-rank` pose la barre à 25 : au-dessus, ton mois ; en dessous, plus tard ou jamais.
 
 **Une adresse e-mail se prouve, ou elle ne s'écrit pas.** Tout `email` porte `source_url`,
-`retrieved_on` et `evidence` — la ligne recopiée telle quelle depuis la page. Sinon la validation
+`retrieved_on` et `evidence`, la ligne recopiée telle quelle depuis la page. Sinon la validation
 échoue et la CI est rouge. Il n'existe pas de statut « adresse devinée ». Voir `docs/CRM.md`.
 
 ## La documentation

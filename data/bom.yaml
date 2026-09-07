@@ -1,0 +1,133 @@
+# La nomenclature. Ce qu'on construit, avec quoi, en quelles quantités.
+#
+# POURQUOI CE FICHIER : le 2026-09-04, Audio Components (structure B2B de SoundImports) a
+# répondu favorablement et a posé six questions, toutes portant sur les quantités et les
+# références. Le dépôt ne pouvait répondre à aucune. Un distributeur n'accorde pas de conditions
+# sur un discours, il les accorde sur un volume, exactement comme une brasserie.
+#
+# RÈGLE : ce qui est arrêté est marqué `confirmed: true`. Ce qui dépend du budget ou d'un modèle
+# non sorti reste `confirmed: false` et se dit comme tel à un fournisseur. Un volume annoncé
+# détermine les conditions accordées : le gonfler se retourne à la première commande.
+#
+# RAPPEL : nous FABRIQUONS d'après les plans d'un concepteur. Ces modèles ne sont pas nos
+# créations et ne doivent jamais être présentés comme telles (CLAUDE.md).
+
+meta:
+  retrieved_on: '2026-09-04'
+  filled_by: Corentin Dallenogare
+  source: Communiqué par Corentin en réponse aux six questions d'Omar Sadek (Audio Components).
+  corrected_on: '2026-09-07'
+
+# Le concepteur dont nous suivons les plans. CLAUDE.md interdit de revendiquer la conception
+# des enceintes : voici de qui elle est.
+designer:
+  name: JW Sound LLC
+  url: https://www.jwsound.live/
+  note: >-
+    Auteur des modèles JMOD. Les fiches produit sont publiques et donnent les composants et les
+    cotes, ce qui autorise à les citer auprès d'un fournisseur. Vérifier la fiche du modèle avant
+    d'écrire quoi que ce soit de technique : c'est elle qui fait foi, pas notre mémoire.
+
+# ---------------------------------------------------------------------------
+# 1. PREMIÈRE SÉRIE : les composants arrêtés
+# ---------------------------------------------------------------------------
+first_series:
+  confirmed: true
+  components:
+    - brand: B&C Speakers
+      ref: 12NDL88
+      type: Haut-parleur médium 12 pouces
+      qty: 12
+    - brand: B&C Speakers
+      ref: DCX464
+      type: Moteur de compression coaxial
+      qty: 4
+    - brand: B&C Speakers
+      ref: FB464
+      type: >-
+        Réseau de filtrage passif pour le DCX464. CE N'EST PAS UN PAVILLON, l'erreur avait été
+        commise le 2026-09-07 et corrigée le jour même depuis la fiche JMOD-M de JW Sound, qui
+        mentionne « bi-amp with B&C FB464 passive crossover network ». Un distributeur de
+        composants repère ce genre de confusion immédiatement.
+      qty: 4
+    - brand: RCF
+      ref: 21LF-N451
+      type: Haut-parleur de grave 21 pouces
+      qty: 6
+  note: >-
+    Deux marques seulement, B&C et RCF, ce qui simplifie la négociation : un distributeur qui
+    référence les deux couvre toute la partie transducteurs.
+
+# ---------------------------------------------------------------------------
+# 2. LES MODÈLES DE CAISSONS
+# ---------------------------------------------------------------------------
+# Cinq modèles. C'est la réponse à « how many different cabinet models are you planning to build ».
+models:
+  - name: JMOD Solana
+    status: en cours de construction
+    confirmed: true
+  - name: MTH 4654
+    status: à construire, équipé en RCF
+    confirmed: true
+    qty_this_year: 6
+    qty_note: >-
+      Environ 6 unités de plus cette année, sous réserve du prix et du budget. Toujours l'écrire
+      avec un « environ » ou un « plus ou moins » : la quantité dépend du tarif obtenu, et un
+      chiffre net serait pris pour un engagement.
+  - name: JMOD 2.0
+    status: à construire
+    confirmed: true
+    qty_this_year: 4
+    qty_note: 2 paires cette année.
+  - name: JMOD-M Arrayed Multiple Entry Horn
+    display: JMOD-M
+    type: >-
+      Point source arrayable, multiple entry horn. CE N'EST PAS UN LINE ARRAY : la formulation
+      était fausse dans le premier brouillon du 2026-09-07. Directivité constante 110 x 55 degrés,
+      2 x 12 pouces ou 2 x 14 pouces de médium-grave plus un moteur de compression coaxial.
+    status: Under Development/Rework, selon la fiche publique de JW Sound
+    url: https://www.jwsound.live/designs/jmodm-medium-format-array
+    confirmed: false
+    qty_next_year: 6
+    qty_note: Environ 3 paires l'an prochain, à la sortie du modèle.
+    naming_rule: >-
+      LE NOMMER EST SANS RISQUE : le modèle est publiquement documenté par son concepteur, avec
+      ses cotes et ses composants. Ce qui reste incertain n'est pas le nom mais la DISPONIBILITÉ,
+      la fiche portant la mention « Under Development/Rework ». On peut donc le citer, à condition
+      de ne s'engager sur aucune date : le calendrier appartient à JW Sound, pas à nous.
+  - name: Kick bin
+    status: à définir
+    confirmed: false
+    qty_note: Modèle non arrêté. Aucune quantité annonçable.
+
+# ---------------------------------------------------------------------------
+# 3. AUTRES POSTES
+# ---------------------------------------------------------------------------
+other_needs:
+  - post: Mesure
+    have: Microphones de mesure, et versions gratuites des logiciels.
+    need: Un microphone de mesure de qualité professionnelle, et une licence Smaart.
+    note: >-
+      La licence Smaart est éditée par Rational Acoustics et se vend par revendeurs agréés.
+      Demander à Audio Components s'ils la distribuent ; sinon, c'est une cible à part entière,
+      et une licence logicielle est typiquement le genre de dotation qu'un éditeur accorde
+      volontiers à une association qui documente ses mesures publiquement.
+  - post: Câblage interne des caissons
+    need: Câble haut-parleur interne, connectique, bornes.
+    note: Traité avec Audio Components, Amptec (confection) et Beglec.
+  - post: Visserie et boulonnerie
+    need: Vis, boulons, quincaillerie de montage et de poignées.
+    note: Module visserie, cible Würth. Aucune quantité chiffrée à ce jour.
+  - post: Bois et panneaux
+    need: Multiplex bouleau pour les caissons.
+    note: Campagne bois du 2026-08-23. Aucun tonnage chiffré à ce jour, à faire.
+
+# ---------------------------------------------------------------------------
+# 4. CE QUI MANQUE ENCORE
+# ---------------------------------------------------------------------------
+todo:
+  - Quantité de multiplex par caisson, et donc par série. Le module bois en a besoin.
+  - Quantité de visserie et de boulonnerie par caisson.
+  - Longueurs de câble interne par caisson.
+  - Le modèle Kick bin, tant qu'il n'est pas arrêté, ne peut entrer dans aucune demande.
+  - Les composants de filtre passif ne sont pas listés : sont-ils déjà arrêtés ?

@@ -9,10 +9,10 @@ persona: fournisseur-technique
 categories:
 - distributors
 - amplification
-status: lead
+status: sent
 phase: 1
 tags: []
-score: 25
+score: 21
 website: https://www.amptec.be
 knowledge: ''
 profile:
@@ -34,7 +34,7 @@ profile:
     linkedin: https://be.linkedin.com/company/amptec
 why_us: 'Amptec est belge, à environ 1h30 de Genappe, et surtout : c''est la seule
   cible du module dont les DEUX dirigeants publient leur e-mail nominatif direct sur
-  le site. Bart Willems (CEO) et Charlotte Willems (co-CEO) — entreprise familiale,
+  le site. Bart Willems (CEO) et Charlotte Willems (co-CEO), entreprise familiale,
   décision prise par le patron, aucun comité de sponsoring à franchir. C''est structurellement
   la cible la plus « adressable » de toute la liste. Au-delà du sponsoring, ils couvrent
   trois besoins concrets et récurrents de Falc''ohm : l''amplification (via les marques
@@ -46,12 +46,25 @@ ask:
   - services
   - material
   - consumables
-  detail: 'Compte professionnel avec conditions ASBL sur les marques distribuées (amplification,
-    traitement), partenariat sur la confection du câblage des racks et des façades
-    (câbles HP, panels Speakon), et accès au service de réparation/pièces à conditions
-    préférentielles. Contrepartie : marquage sur les racks, visibilité sur 10-15 événements/an
-    et statut de partenaire technique belge affiché.'
+  detail: 'Un soutien materiel sur deux postes que leur metier couvre reellement :
+
+    (1) CABLAGE CONFECTIONNE SUR MESURE : cables HP, multipaires, panneaux Speakon
+    pour les racks et les facades. Ils produisent leur propre cablage, c''est leur
+    savoir-faire, pas une revente ;
+
+    (2) MAINTENANCE : acces au centre de reparation et aux pieces detachees a conditions
+    partenaire. Pour un systeme utilise chaque week-end, c''est le poste qui coute
+    le plus cher sur dix ans.
+
+    Ne pas demander d''amplification ni de processing : poste couvert par ADmark.
+    Contrepartie : marquage sur les racks, visibilite sur nos dates et aupres des
+    27 000 abonnes.'
   realistic_value_eur: 5000
+  public: "- du câblage confectionné sur mesure : câbles haut-parleurs, multipaires\
+    \ et panneaux Speakon\n  pour nos racks et nos façades, que vous produisez vous-mêmes\
+    \ ;\n- un accès à votre centre de réparation et aux pièces détachées à conditions\
+    \ partenaire. Sur\n  dix ans, c'est le poste qui pèse le plus lourd pour un système\
+    \ utilisé chaque week-end."
 values:
 - entreprise familiale belge
 - service et proximité
@@ -93,16 +106,23 @@ inbound_channels:
 - type: linkedin
   url: https://be.linkedin.com/company/amptec
 scoring:
-  business_fit: 6
+  business_fit: 5
   partnership_probability: 7
   impact_if_successful: 6
-  rationale: 'Fit moyen : Amptec n''est pas un spécialiste du transducteur brut —
-    son cœur est le broadcast/studio et la distribution de marques finies — donc il
-    ne répond qu''à une partie du besoin (amplification, câblage, réparation). Mais
-    c''est la probabilité la plus haute du module : entreprise familiale belge, deux
-    CEO joignables nominativement en un e-mail, aucune bureaucratie. Impact modéré
-    en euros mais un « oui » facile ici crédibilise le dossier auprès des cibles plus
-    dures et fournit un partenaire technique de proximité.'
+  rationale: 'Fit moyen : Amptec n''est pas un spécialiste du transducteur brut, son
+    cœur est le broadcast/studio et la distribution de marques finies, donc il ne
+    répond qu''à une partie du besoin (amplification, câblage, réparation). Mais c''est
+    la probabilité la plus haute du module : entreprise familiale belge, deux CEO
+    joignables nominativement en un e-mail, aucune bureaucratie. Impact modéré en
+    euros mais un « oui » facile ici crédibilise le dossier auprès des cibles plus
+    dures et fournit un partenaire technique de proximité.
+
+
+    REVU LE 2026-09-03 : business_fit ramene a 5. Le volet « conditions sur les marques
+    d''amplification distribuees » tombe : poste couvert par ADmark. Restent deux
+    besoins reels : la confection de cablage (Amptec produit ses propres cables et
+    panneaux) et l''acces au centre de reparation et aux pieces, qui compte pour un
+    systeme utilise chaque week-end. Moins ambitieux qu''avant, mais concret.'
 deadlines: []
 sources:
 - url: https://www.amptec.be/contact
@@ -115,15 +135,37 @@ documents:
 - output\Amptec-BV\Amptec-BV-Partnership-2026.pdf
 - output\Amptec-BV\Amptec-BV-OnePager-2026.pdf
 - output\Amptec-BV\email.md
-interactions: []
+- ..\..\..\AppData\Local\Temp\t_7255\Amptec-BV\Amptec-BV-Partnership-2026.pdf
+- ..\..\..\AppData\Local\Temp\t_7255\Amptec-BV\Amptec-BV-OnePager-2026.pdf
+- ..\..\..\AppData\Local\Temp\t_7255\Amptec-BV\email.md
+- ..\..\..\AppData\Local\Temp\t_7270\Amptec-BV\Amptec-BV-Partnership-2026.pdf
+- ..\..\..\AppData\Local\Temp\t_7270\Amptec-BV\Amptec-BV-OnePager-2026.pdf
+- ..\..\..\AppData\Local\Temp\t_7270\Amptec-BV\email.md
+- ..\..\..\AppData\Local\Temp\t_9655\Amptec-BV\Amptec-BV-Partnership-2026.pdf
+- ..\..\..\AppData\Local\Temp\t_9655\Amptec-BV\Amptec-BV-OnePager-2026.pdf
+- ..\..\..\AppData\Local\Temp\t_9655\Amptec-BV\email.md
+- ..\..\..\AppData\Local\Temp\t_9670\Amptec-BV\Amptec-BV-Partnership-2026.pdf
+- ..\..\..\AppData\Local\Temp\t_9670\Amptec-BV\Amptec-BV-OnePager-2026.pdf
+- ..\..\..\AppData\Local\Temp\t_9670\Amptec-BV\email.md
+interactions:
+- date: '2026-09-04'
+  type: mail
+  resume: 'Envoye 09:22 a Bart Willems (CEO), copie Charlotte Willems (co-CEO) et
+    sales@. Objet : « Material support: cable assembly and servicing ». Demande :
+    confection de cablage sur mesure et acces au centre de reparation et aux pieces.
+    Amplification exclue (ADmark). En anglais. Dossier PDF joint.'
 events: []
 next_action:
-  what: ''
-  due: ''
+  what: 'BROUILLON GMAIL PRET dans contact@falcohmsystem.com (cree le 2026-09-03).
+    IL RESTE A JOINDRE LE PDF : output/Amptec-BV/, le connecteur ne peut pas porter
+    un fichier de 2 Mo. Puis envoyer. NL, siege a Bilzen (Limbourg). A Bart Willems
+    (CEO), CC Charlotte Willems (co-CEO) et sales@. Des l''envoi : python -m kit --log
+    amptec mail "..." --status sent --date <ISO>.'
+  due: '2026-09-04'
 notes: 'Autres adresses de service lues sur la même page (toutes génériques) : production@amptec.be
   (production / câblage, +32 11 28 62 64), support@amptec.be (support technique +32
   11 28 62 62 ; réparation et pièces détachées +32 11 28 62 61), logistics@amptec.be,
   sales@amptec.nl (antenne NL). Siège : Bremakker 45, 3740 Bilzen (l''entreprise était
-  historiquement à Diepenbeek — les annuaires sont périmés). Horaires : lun-jeu 9h-12h30
-  / 13h-18h, ven 9h-12h30 / 13h-16h. Aucun antécédent de sponsoring culturel trouvé
-  — mais ce n''est pas bloquant vu l''accessibilité du décideur.'
+  historiquement à Diepenbeek, les annuaires sont périmés). Horaires : lun-jeu 9h-12h30
+  / 13h-18h, ven 9h-12h30 / 13h-16h. Aucun antécédent de sponsoring culturel trouvé,
+  mais ce n''est pas bloquant vu l''accessibilité du décideur.'

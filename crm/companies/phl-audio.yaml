@@ -31,12 +31,12 @@ profile:
     linkedin: ''
 why_us: 'PHL est le seul fabricant de transducteurs francophone et de taille vraiment
   humaine de la liste : le dossier arrive en français, sur le bureau de quelqu''un
-  qui décide. Leur positionnement — haut rendement, excursion contrôlée, fabrication
-  en France — correspond mot pour mot au cahier des charges de la page « matériel
-  » du dossier Falc''ohm. Et surtout : PHL a besoin de visibilité face aux marques
-  italiennes. Un sound system belge visible sur 10-15 événements et +10 000 festivaliers/an,
-  monté en PHL, est une vitrine qu''ils n''ont pas aujourd''hui. Le rapport de force
-  est ici le plus favorable de tout le module.'
+  qui décide. Leur positionnement, haut rendement, excursion contrôlée, fabrication
+  en France, correspond mot pour mot au cahier des charges de la page « matériel »
+  du dossier Falc''ohm. Et surtout : PHL a besoin de visibilité face aux marques italiennes.
+  Un sound system belge visible sur 10-15 événements et +10 000 festivaliers/an, monté
+  en PHL, est une vitrine qu''ils n''ont pas aujourd''hui. Le rapport de force est
+  ici le plus favorable de tout le module.'
 ask:
   type:
   - material
@@ -98,9 +98,9 @@ next_action:
   what: ''
   due: ''
 notes: 'PHL ne distribue pas en direct partout : sa page « distribution » ne liste
-  que deux distributeurs mondiaux, Audio Solvation (NL, Sittard — 1h de Genappe) et
+  que deux distributeurs mondiaux, Audio Solvation (NL, Sittard, 1h de Genappe) et
   TLHP (FR). Les deux sont fichés séparément dans ce CRM et constituent une voie d''accès
   parallèle (et un levier : un accord PHL peut se négocier via Audio Solvation). PHL
   revendique des clients OEM de premier plan dans la sono (L-Acoustics, Nexo, Martin
-  Audio, APG) — argument de crédibilité, mais non vérifié sur le site du fabricant
+  Audio, APG), argument de crédibilité, mais non vérifié sur le site du fabricant
   lui-même.'

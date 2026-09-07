@@ -82,8 +82,8 @@ class Ctx(object):
 def _render(page_ids, cfg, module, out, target=None, persona=None, subject=""):
     os.makedirs(os.path.dirname(out), exist_ok=True)
     c = canvas.Canvas(out, pagesize=(W, H))
-    c.setTitle("Dossier de partenariat — %s" % module.get("label", ""))
-    c.setAuthor("%s — %s" % (cfg["org"]["contact"]["name"], cfg["org"]["name"]))
+    c.setTitle("Dossier de partenariat : %s" % module.get("label", ""))
+    c.setAuthor("%s, %s" % (cfg["org"]["contact"]["name"], cfg["org"]["name"]))
     c.setSubject(subject or module.get("subject", ""))
     ctx = Ctx(c, cfg, module, target, persona)
     pages.load_all()
@@ -140,7 +140,7 @@ def build_target(target_name, outdir=OUTPUT, with_onepager=True, with_email=True
 
     out = os.path.join(folder, "%s-Partnership-%s.pdf" % (slug, year))
     made.append(_render(page_ids, cfg, module, out, tgt, persona,
-                        subject="Partenariat %s — %s" % (module.get("label", ""), company)))
+                        subject="Partenariat %s : %s" % (module.get("label", ""), company)))
 
     if with_onepager and "onepager" in pages.load_all():
         one = os.path.join(folder, "%s-OnePager-%s.pdf" % (slug, year))
@@ -171,6 +171,15 @@ def _crm_documents(company, made):
         pass
 
 
+def _crm_company(company):
+    """La fiche CRM d'une entreprise, ou None. Le CRM fait foi sur les contacts."""
+    try:
+        from . import crm
+        return next((x for x in crm.load() if x.get("company") == company), None)
+    except Exception:                                          # noqa: BLE001
+        return None
+
+
 def _recipient(company):
     """Le bandeau d'envoi : à QUI, à quelle adresse, et comment on le sait.
 
@@ -190,7 +199,7 @@ def _recipient(company):
     service = [c for c in cs if c.get("email_status") == "verified_public"]
     best = (named or service or cs)
 
-    L = ["<!-- ENVOI — généré depuis crm/companies/%s.yaml. Relire avant d'expédier. -->\n\n"
+    L = ["<!-- ENVOI : généré depuis crm/companies/%s.yaml. Relire avant d'expédier. -->\n\n"
          % d["_name"]]
 
     pr = d.get("prior_relationship")
@@ -201,7 +210,7 @@ def _recipient(company):
         L.append("> \n> Ouvre l'e-mail là-dessus. Ne te présente pas comme un inconnu.\n\n")
 
     if not best:
-        L.append("> ### ⚠ Aucune adresse publique — ne pas envoyer par e-mail\n")
+        L.append("> ### ⚠ Aucune adresse publique. Ne pas envoyer par e-mail\n")
         for ch in d.get("inbound_channels") or []:
             L.append("> **%s** : %s\n" % (ch.get("type", "canal"), ch.get("url")))
         if not d.get("inbound_channels"):
@@ -209,7 +218,7 @@ def _recipient(company):
     else:
         to = best[0]
         L.append("> **À :** `%s`\n" % to["email"])
-        who = " — ".join(x for x in (to.get("name"), to.get("role")) if str(x or "").strip())
+        who = ", ".join(x for x in (to.get("name"), to.get("role")) if str(x or "").strip())
         L.append("> **Personne :** %s\n" % (who or "*aucun nom identifié*"))
         L.append("> **Source de l'adresse :** %s (lue le %s)\n"
                  % (to.get("source_url") or "?", to.get("retrieved_on") or "?"))
@@ -222,7 +231,7 @@ def _recipient(company):
                      "qu'un dossier parfait envoyé dans le vide.\n")
 
     for x in sorted(d.get("deadlines") or [], key=lambda y: str(y.get("date"))):
-        L.append("> \n> **Échéance : %s** — %s\n"
+        L.append("> \n> **Échéance : %s** : %s\n"
                  % (x.get("date"), str(x.get("what") or "").split(".")[0]))
     L.append("\n---\n\n")
     return "".join(L)
@@ -233,7 +242,25 @@ def _write_email(tgt, persona, module, cfg, folder):
     tpl_path = os.path.join(EMAILS, "%s.md" % tpl_name)
     tpl = open(tpl_path, encoding="utf-8").read() if os.path.exists(tpl_path) else ""
     contact = tgt.get("contact") or {}
+    ask = ""
+    if not str(contact.get("name") or "").strip():
+        # targets/*.yaml naît avec un contact vide : la vérité est dans la fiche CRM.
+        # Sans ce repli, un dossier partait en « Madame, Monsieur » alors que le nom du
+        # décideur était connu, ce qui est exactement l'erreur que le dépôt interdit.
+        crm_d = _crm_company(tgt["company"])
+        if crm_d:
+            cs = [c for c in (crm_d.get("contacts") or []) if c.get("email")]
+            named = [c for c in cs if str(c.get("name") or "").strip()]
+            if named:
+                contact = named[0]
+            # `ask.public` UNIQUEMENT, jamais `ask.detail` : ce dernier porte les consignes
+            # internes (« ne pas demander d'amplification, poste couvert »). Les injecter
+            # enverrait nos notes de travail au destinataire.
+            ask = str((crm_d.get("ask") or {}).get("public") or "").strip()
+    if not ask:
+        ask = "nous recherchons un partenaire %s." % (module.get("label", "") or "technique")
     repl = {
+        "{{ASK}}": ask,
         "{{COMPANY}}": tgt["company"],
         "{{CONTACT_NAME}}": contact.get("name") or "Madame, Monsieur",
         "{{CONTACT_EMAIL}}": contact.get("email") or "",

@@ -9,7 +9,7 @@ sector: institutionnel
 persona: institution
 categories:
 - culture_funding
-status: lead
+status: sent
 phase: 2
 tags:
 - institution
@@ -25,9 +25,9 @@ profile:
     FWB. Elle n''octroie pas de subsides : elle outille ceux qui en demandent. Maison
     des Musiques, Rue Lebeau 39, 1000 Bruxelles.'
   products:
-  - 'Musiscope — outil d''information et de conseil au service des professionnel·les
+  - 'Musiscope, outil d''information et de conseil au service des professionnel·les
     du secteur musical : conseils individuels administratifs, juridiques, financiers'
-  - Sessions « Conseils subventions — Fédération Wallonie-Bruxelles & bourses diverses
+  - Sessions « Conseils subventions, Fédération Wallonie-Bruxelles & bourses diverses
     »
   - Programme d'accompagnement artistique 6X12 ; Fête de la Musique ; Semaine de la
     Musique Belge
@@ -38,14 +38,14 @@ profile:
   identifiers:
     vat: ''
     linkedin: https://be.linkedin.com/company/conseil-de-la-musique
-why_us: 'Ce n''est pas un financeur — et c''est précisément pour cela qu''il a sa
-  place ici. Le Conseil de la Musique est l''organisme qui, gratuitement, apprend
-  à monter les dossiers des autres. Il organise des sessions dédiées « Conseils subventions
-  — Fédération Wallonie-Bruxelles & bourses diverses » et propose, via Musiscope,
-  du conseil individuel administratif, juridique et financier aux professionnels du
-  secteur musical. Or le dossier le plus lourd et le plus rentable de tout ce portefeuille
-  — l''Aide aux structures de programmation de la FWB, minimum 5.000 €, avec ses seuils
-  éliminatoires et son vade-mecum — est exactement le type de dossier que ces sessions
+why_us: 'Ce n''est pas un financeur, et c''est précisément pour cela qu''il a sa place
+  ici. Le Conseil de la Musique est l''organisme qui, gratuitement, apprend à monter
+  les dossiers des autres. Il organise des sessions dédiées « Conseils subventions,
+  Fédération Wallonie-Bruxelles & bourses diverses » et propose, via Musiscope, du
+  conseil individuel administratif, juridique et financier aux professionnels du secteur
+  musical. Or le dossier le plus lourd et le plus rentable de tout ce portefeuille,
+  l''Aide aux structures de programmation de la FWB, minimum 5.000 €, avec ses seuils
+  éliminatoires et son vade-mecum, est exactement le type de dossier que ces sessions
   servent à préparer. Passer par eux avant de déposer, c''est convertir quelques heures
   gratuites en probabilité de succès sur un dossier à cinq chiffres.
 
@@ -53,7 +53,7 @@ why_us: 'Ce n''est pas un financeur — et c''est précisément pour cela qu''il
 ask:
   type:
   - services
-  detail: '(1) S''inscrire à la prochaine session « Conseils subventions — Fédération
+  detail: '(1) S''inscrire à la prochaine session « Conseils subventions, Fédération
     Wallonie-Bruxelles & bourses diverses » (une session était programmée le 31 août
     2026 selon l''agenda du site) AVANT de préparer le dossier FWB « Aide aux structures
     de programmation ». (2) Solliciter un conseil individuel Musiscope (administratif,
@@ -112,20 +112,23 @@ scoring:
   partnership_probability: 8
   impact_if_successful: 5
   rationale: 'Le fit est indirect mais réel : le Conseil de la Musique ne verse pas
-    un euro, il augmente la probabilité de tous les autres dossiers — et c''est exactement
+    un euro, il augmente la probabilité de tous les autres dossiers, et c''est exactement
     ce dont Falc''ohm a besoin, puisque son maillon faible n''est pas le projet mais
     le montage administratif. La probabilité est la plus haute du portefeuille (8)
-    : c''est un service gratuit, ouvert au secteur, dont l''ASBL relève de plein droit
-    — il suffit de s''inscrire. L''impact est moyen en apparence, mais il est en réalité
+    : c''est un service gratuit, ouvert au secteur, dont l''ASBL relève de plein droit,
+    il suffit de s''inscrire. L''impact est moyen en apparence, mais il est en réalité
     multiplicateur : quelques heures ici peuvent faire basculer le dossier FWB à 5.000
     €+ du refus à l''acceptation. À traiter en PREMIER dans l''ordre chronologique,
     avant tout dépôt.
 
     '
 deadlines:
-- what: 'Session « Conseils subventions — Fédération Wallonie-Bruxelles & bourses
-    diverses » : une session était annoncée à l''agenda du site pour le 31 août 2026.
-    Date à reconfirmer et inscription à faire en amont.'
+- what: 'DATE DEPASSEE (constate le 2026-09-03) : la session « Conseils subventions,
+    Federation Wallonie-Bruxelles & bourses diverses » etait annoncee pour le 31 aout
+    2026. Ce n''est PAS un depot de dossier mais une seance de conseil GRATUITE, la
+    rater ne coute rien d''autre qu''un delai. OBJET DU MAIL : demander la date de
+    la PROCHAINE session, et s''y inscrire. L''enjeu reel est le dossier FWB du 2027-02-05
+    : se faire relire par eux avant de deposer.'
   date: '2026-08-31'
   url: https://www.conseildelamusique.be/agenda/1870-conseils-subventions---federation-wallonie-bruxelles
 sources:
@@ -139,15 +142,24 @@ documents:
 - output\Conseil-de-la-Musique\Conseil-de-la-Musique-Partnership-2026.pdf
 - output\Conseil-de-la-Musique\Conseil-de-la-Musique-OnePager-2026.pdf
 - output\Conseil-de-la-Musique\email.md
-interactions: []
+interactions:
+- date: '2026-09-04'
+  type: mail
+  resume: 'Envoye 09:15 a Christophe Hars. Objet : « Inscription a la prochaine session
+    Conseils subventions ». AUCUNE demande d''argent : on demande la date de la prochaine
+    session (celle du 31/08 est passee) et une relecture Musiscope du dossier FWB
+    de fevrier 2027.'
 events: []
 next_action:
-  what: Écrire à Christophe Hars (Musiscope) pour demander un conseil individuel sur
-    le dossier FWB « Aide aux structures de programmation » et s'inscrire à la session
-    Conseils subventions
-  due: '2026-08-25'
-notes: 'CE N''EST PAS UN FINANCEUR. Ne rien lui demander d''autre que de l''expertise
-  — s''y tromper décrédibiliserait immédiatement l''ASBL auprès d''un acteur central
+  what: 'BROUILLON GMAIL PRET dans contact@falcohmsystem.com (cree le 2026-09-03).
+    IL RESTE A JOINDRE LE PDF : output/Conseil-de-la-Musique/, le connecteur ne peut
+    pas porter un fichier de 2 Mo. Puis envoyer. FR. AUCUNE demande d''argent, ils
+    ne financent pas. On demande la prochaine session « Conseils subventions » et
+    une relecture Musiscope du dossier FWB de fevrier 2027. Des l''envoi : python
+    -m kit --log conseil-de-la-musique mail "..." --status sent --date <ISO>.'
+  due: '2026-09-04'
+notes: 'CE N''EST PAS UN FINANCEUR. Ne rien lui demander d''autre que de l''expertise,
+  s''y tromper décrédibiliserait immédiatement l''ASBL auprès d''un acteur central
   du secteur.
 
   POURQUOI C''EST LE PREMIER APPEL À PASSER : le dossier FWB « Aide aux structures
@@ -162,12 +174,12 @@ notes: 'CE N''EST PAS UN FINANCEUR. Ne rien lui demander d''autre que de l''expe
   BÉNÉFICE SECONDAIRE : l''entrée dans le réseau sectoriel (Maison des Musiques, Larsen,
   IDLM, Fête de la Musique). Une ASBL invisible du secteur professionnel est une ASBL
   qui ne sera pas reconnue comme « professionnelle » par la Commission des Musiques
-  de la FWB — or c''est précisément le critère sur lequel Falc''ohm est le plus fragile.
+  de la FWB, or c''est précisément le critère sur lequel Falc''ohm est le plus fragile.
   Se rendre visible ici a donc un effet direct sur le dossier FWB.
 
   CONTACTS : le site publie les emails de l''équipe avec une obfuscation « [AT] ».
   Seul Christophe Hars (coordination Musiscope) est directement pertinent. La direction
-  (Claire Monville) est identifiée mais SANS email publié — ne pas en inventer un.
+  (Claire Monville) est identifiée mais SANS email publié, ne pas en inventer un.
 
   NON VÉRIFIÉ : l''adresse générique info@conseildelamusique.be et l''adresse musiscope@conseildelamusique.be
   ont été rapportées par des sources secondaires mais n''ont pas pu être confirmées
@@ -175,7 +187,7 @@ notes: 'CE N''EST PAS UN FINANCEUR. Ne rien lui demander d''autre que de l''expe
   vérification. Le téléphone général rapporté est le 02 550 13 20 (Maison des Musiques,
   Rue Lebeau 39, 1000 Bruxelles).
 
-  VOIR AUSSI : Court-Circuit — Fédération des Musiques Actuelles (www.court-circuit.be)
+  VOIR AUSSI : Court-Circuit, Fédération des Musiques Actuelles (www.court-circuit.be)
   maintient l''annuaire de référence des aides financières du secteur musical belge
   francophone. C''est la source à consulter en veille.
 

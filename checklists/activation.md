@@ -1,4 +1,4 @@
-# Checklist d'activation — à dérouler dès la signature
+# Checklist d'activation, à dérouler dès la signature
 
 ## Semaine 1
 - [ ] Logo du partenaire reçu (vectoriel, fond transparent) → `assets/partners/current/`

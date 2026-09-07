@@ -23,7 +23,7 @@ gazmatek:
 
 ecosystem:
   intro: >-
-    Gazmatek porte le projet culturel et la relation au public. Falc'ohm System assure la technique et la formation des bénévoles. Un soutien public permet à l'ensemble de fonctionner et de se pérenniser.
+    Gazmatek porte le projet culturel et la relation au public. Falc'ohm System assure la technique et la formation des bénévoles, à la sonorisation comme à la tenue d'un événement : accueil, entrées, bar, vestiaire, billetterie par jetons. Un soutien public permet à l'ensemble de fonctionner et de se pérenniser.
   band:
     title: "Un projet culturel à but non lucratif."
     text: >-
@@ -32,7 +32,7 @@ ecosystem:
 project:
   title: "Un projet culturel,\nporté par des bénévoles."
   intro: >-
-    Falc'ohm System est une ASBL fondée en 2020. Elle organise et sonorise des événements culturels, forme ses bénévoles à la technique du spectacle et construit son propre matériel pour rester indépendante.
+    Falc'ohm System est une ASBL fondée en 2020. Elle organise et sonorise des événements culturels, forme ses bénévoles à tous les métiers de l'événement, de la technique du spectacle à l'accueil, au bar, au vestiaire et à la billetterie, et construit son propre matériel pour rester indépendante.
   intro2: >-
     Nous sollicitons un soutien institutionnel pour poursuivre cette dynamique : équipement, formation et accessibilité de nos événements.
   images:
@@ -56,7 +56,7 @@ timeline:
     "2026":  { title: "Demande de soutien institutionnel", text: "Équipement, formation et accessibilité de nos événements." }
     "2027+": { title: "Pérennisation", text: "Structuration de l'ASBL, formation continue et nouveaux projets." }
   next:
-    - { icon: tools, title: "Formation des bénévoles", text: "Transmettre les métiers techniques du spectacle." }
+    - { icon: tools, title: "Formation des bénévoles", text: "Transmettre les métiers de l'événement : technique, accueil, bar, vestiaire, billetterie." }
     - { icon: speaker, title: "Équipement du parc", text: "Du matériel construit et entretenu en interne." }
     - { icon: heart, title: "Accessibilité", text: "Des événements accessibles et un soutien aux artistes émergents." }
   band:
@@ -82,9 +82,9 @@ packages:
     - { icon: target, title: "Appel à projets", text: "Un accompagnement dans le cadre d'un appel à projets culturel." }
     - { icon: door, title: "Mise à disposition de lieux", text: "Salles, espaces de stockage ou atelier." }
     - { icon: megaphone, title: "Relais de communication", text: "Une visibilité sur vos canaux institutionnels." }
-    - { icon: tools, title: "Soutien à la formation", text: "Un appui à la formation technique de nos bénévoles." }
+    - { icon: tools, title: "Soutien à la formation", text: "Un appui à la formation de nos bénévoles, technique et organisation." }
     - { icon: star, title: "Partenariat pluriannuel", text: "Un soutien inscrit dans la durée, avec rapport d'activité." }
 
 onepager:
   pitch: >-
-    Falc'ohm System est une ASBL fondée en 2020, portée par plus de 40 bénévoles. Elle organise des événements culturels (Gazmatek), forme ses bénévoles aux métiers techniques et construit son matériel. Nous sollicitons un soutien institutionnel.
+    Falc'ohm System est une ASBL fondée en 2020, portée par plus de 40 bénévoles. Elle organise des événements culturels sous le nom de Gazmatek, forme ses bénévoles à tous les métiers de l'événement, technique comme organisation, et construit son matériel sous le nom de Falc'ohm System. Nous sollicitons un soutien institutionnel.

@@ -1,5 +1,5 @@
 slug: tlhp
-company: TLHP SAS — Tout Le Haut-Parleur
+company: TLHP SAS, Tout Le Haut-Parleur
 aka:
 - TLHP
 - Tout Le Haut Parleur
@@ -38,7 +38,7 @@ why_us: 'TLHP est le distributeur francophone qui référence en un seul catalog
   les marques que Falc''ohm doit arbitrer : B&C, 18Sound, FaitalPRO, Beyma, PHL, Oberton,
   Celestion… Plutôt que de négocier six accords fabricants incertains, un seul accord
   « tarif revendeur/pro » chez TLHP fait baisser la facture de l''intégralité de la
-  nomenclature — transducteurs, filtres, connectique, kits de recone — et ce de façon
+  nomenclature, transducteurs, filtres, connectique, kits de recone, et ce de façon
   récurrente sur les 5-10 ans du projet. C''est le levier le plus rentable du module.
   Entreprise familiale depuis plus de 30 ans, francophone : le dossier arrive dans
   la bonne langue, chez quelqu''un qui décide. Ils disposent en plus d''une procédure
@@ -84,9 +84,9 @@ scoring:
   impact_if_successful: 9
   rationale: 'Un seul compte couvre toutes les marques que le projet doit arbitrer,
     plus les consommables de maintenance : c''est le fit le plus large du module,
-    à égalité avec SoundImports. Probabilité correcte — PME familiale francophone,
-    décideur unique, et une remise leur coûte de la marge, pas de la trésorerie —
-    mais aucun antécédent de sponsoring trouvé, d''où 6 et non 7. Impact fort et surtout
+    à égalité avec SoundImports. Probabilité correcte, PME familiale francophone,
+    décideur unique, et une remise leur coûte de la marge, pas de la trésorerie, mais
+    aucun antécédent de sponsoring trouvé, d''où 6 et non 7. Impact fort et surtout
     récurrent : une remise permanente de 20-30 % sur toute la nomenclature vaut davantage
     sur 5-10 ans qu''une dotation ponctuelle.'
 deadlines: []
@@ -108,13 +108,13 @@ next_action:
   due: ''
 notes: 'L''e-mail info@toutlehautparleur.com a été lu sur la page « distribution »
   de PHL Audio (fabricant dont TLHP est le distributeur officiel), qui l''affiche
-  en clair — le site de TLHP lui-même bloque la lecture automatisée (HTTP 403). Une
+  en clair, le site de TLHP lui-même bloque la lecture automatisée (HTTP 403). Une
   adresse contact@toutlehautparleur.com circule aussi sur des annuaires mais N''A
   PAS pu être lue sur une page : non reprise ici. Deux adresses TLHP apparaissent
   selon les sources (Bourgbarré 35230 et Vern-sur-Seiche 35770) : celle retenue est
   le siège tel qu''indiqué par PHL et par Oberton (2 rue des Fermes Gauloises, 35230
-  Bourgbarré). Oberton les désigne comme distributeur France/Monaco/Espagne/Italie
-  — aucun distributeur Benelux chez Oberton, donc TLHP est aussi la porte d''entrée
+  Bourgbarré). Oberton les désigne comme distributeur France/Monaco/Espagne/Italie,
+  aucun distributeur Benelux chez Oberton, donc TLHP est aussi la porte d''entrée
   logique pour cette marque. À CREUSER : la page « commande administration » (procédure
   pour structures publiques/associatives) confirme qu''ils savent facturer une entité
-  non commerciale — argument à utiliser dans l''approche.'
+  non commerciale, argument à utiliser dans l''approche.'

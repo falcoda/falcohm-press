@@ -1,4 +1,4 @@
-**Objet :** Merci — et voici ce que ça a donné
+**Objet :** Merci, et voici ce que ça a donné
 
 Bonjour {{CONTACT_NAME}},
 
@@ -8,4 +8,4 @@ Vous trouverez en pièce jointe quelques photos, libres d'usage pour votre commu
 les chiffres des publications qui vous mentionnaient.
 
 Au plaisir de continuer,
-{{SENDER}} — {{ORG}}
+{{SENDER}}, {{ORG}}

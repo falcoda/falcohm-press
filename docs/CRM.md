@@ -1,4 +1,4 @@
-# CRM — architecture
+# CRM, architecture
 
 Pas de base de données : **un fichier YAML par entreprise**, versionné dans Git. C'est le seul
 format qui tienne dix ans sans migration, qui se lise dans un diff et qui se relie aux documents.
@@ -18,12 +18,12 @@ output/<Entreprise>/          les documents envoyés
 | `qualified` | Bon secteur, bon moment, interlocuteur identifié | Nom + e-mail d'une personne |
 | `researched` | Fiche knowledge remplie, arguments choisis | Angle d'attaque écrit |
 | `sent` | Dossier + e-mail envoyés | Date d'envoi |
-| `followup_1` | Relance J+10 | — |
-| `followup_2` | Relance J+30 | — |
+| `followup_1` | Relance J+10 |, |
+| `followup_2` | Relance J+30 |, |
 | `replied` | Réponse reçue (positive ou non) | Qualifier la réponse |
 | `meeting` | Visio ou rendez-vous fixé | Compte-rendu |
 | `proposal` | Proposition chiffrée envoyée | `proposals/<slug>.md` |
-| `negotiation` | Discussion des contreparties | — |
+| `negotiation` | Discussion des contreparties |, |
 | `won` | Partenariat signé | Contrat + annonce publique |
 | `lost` | Refus ou silence après 3 contacts | Raison notée, à recontacter dans 12 mois |
 | `active` | Partenariat en cours | Activation, suivi |
@@ -49,7 +49,7 @@ masquerait exactement ce qu'on cherche à voir : le zéro sur un axe doit tuer l
 La cible qui mérite un mois de travail, elle, sort à `9 × 7 × 9 = 57`.
 
 `scoring.rationale` est **obligatoire**. Trois chiffres sans justification ne valent rien : dans six
-mois, personne — pas même celui qui les a écrits — ne saura sur quoi ils reposaient.
+mois, personne, pas même celui qui les a écrits, ne saura sur quoi ils reposaient.
 
 Tant qu'une fiche n'a pas ses trois notes, on retombe sur l'ancien score structurel. La migration se
 fait fiche par fiche ; rien ne casse en attendant.
@@ -67,14 +67,14 @@ Tout `email` doit porter `source_url` (l'URL exacte où on l'a lu), `retrieved_o
 avertissement, et la CI est rouge. Il n'existe pas de statut `pattern_guess` : une adresse
 extrapolée à partir d'un motif (`prenom.nom@societe.be`) n'entre pas dans cette base.
 
-Le validateur signale aussi les adresses dont le domaine diffère de celui du site — la signature
+Le validateur signale aussi les adresses dont le domaine diffère de celui du site, la signature
 d'une extrapolation. Ce sont des avertissements : ils demandent une vérification humaine, ils ne
 tranchent pas à ta place.
 
 Une adresse devinée qui rebondit grille l'entreprise pour de bon, et on ne le saura jamais.
 
 `crm/suppression.yaml` (RGPD, art. 21) : toute personne qui demande à ne plus être contactée y
-atterrit le jour même. On ne supprime pas sa fiche — on la marque. Supprimer, c'est risquer de la
+atterrit le jour même. On ne supprime pas sa fiche, on la marque. Supprimer, c'est risquer de la
 recontacter dans six mois en toute bonne foi.
 
 ## Tags

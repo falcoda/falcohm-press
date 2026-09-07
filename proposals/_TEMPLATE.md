@@ -1,4 +1,4 @@
-# Proposition de partenariat — {{ORG}} × {{COMPANY}}
+# Proposition de partenariat, {{ORG}} × {{COMPANY}}
 
 **Date :** {{DATE}} · **Interlocuteur :** {{CONTACT_NAME}}, {{CONTACT_ROLE}}
 **Durée proposée :** {{DUREE}} · **Module :** {{MODULE}}
@@ -13,7 +13,7 @@
 | | | **Total** |
 
 ## 3. Ce que vous obtenez
-*(Choisir dans `data/benefits-catalog.yaml` — uniquement des contreparties `realistic: true`.)*
+*(Choisir dans `data/benefits-catalog.yaml`, uniquement des contreparties `realistic: true`.)*
 
 | Famille | Contrepartie | Preuve fournie |
 |---|---|---|
@@ -21,7 +21,7 @@
 | Digital | Section partenaires, gazmatek.com + falcohmsystem.com | Capture + lien |
 | Contenu | Série making-of | Statistiques des publications |
 | Photo | Photos professionnelles cédées | Fichiers HD |
-| Hospitalité | Entrées + backstage | — |
+| Hospitalité | Entrées + backstage |, |
 
 ## 4. Calendrier
 | Quand | Quoi |
@@ -36,5 +36,5 @@ Chaque contrepartie livrée est **documentée et prouvée** : capture, photo, ch
 livrons pas, nous le disons.
 
 ---
-Corentin Dallenogare — Président, {{ORG}}
+Corentin Dallenogare, Président, {{ORG}}
 contact@falcohmsystem.com · www.gazmatek.com

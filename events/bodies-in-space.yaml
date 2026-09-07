@@ -1,12 +1,12 @@
 # TODO : date exacte, lieu, budget, lineup, stats.
 # Fréquentation : 450 (chiffre donné par Corentin, 2026-07-14).
-# L'événement a EU LIEU — la fiche le donnait encore « à venir ».
+# L'événement a EU LIEU, la fiche le donnait encore « à venir ».
 slug: bodies-in-space
 name: Bodies in Space
-date: '2026-01-01 # TODO'
-venue: '# TODO — l''événement a eu lieu'
+date: '2026-07-04'   # confirmé par Corentin le 2026-09-04, croisé avec data/consumption.yaml
+venue: '# TODO, l''événement a eu lieu'
 city: ''
-capacity: —
+capacity: null
 attendance: 450
 type: soiree
 lineup: []

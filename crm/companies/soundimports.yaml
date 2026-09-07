@@ -3,6 +3,8 @@ company: SoundImports B.V.
 aka:
 - SoundImports
 - SoundImports.eu
+- Audio Components
+- shop.audio-components.com
 country: NL
 sector: audio
 persona: fournisseur-technique
@@ -10,10 +12,10 @@ categories:
 - distributors
 - audio_components
 - amplification
-status: lead
+status: replied
 phase: 1
 tags: []
-score: 57
+score: 50
 website: https://www.soundimports.eu
 knowledge: ''
 profile:
@@ -40,7 +42,7 @@ why_us: 'C''est la cible la plus stratégique de tout le module audio. Un seul c
   fabricant italien ne peut offrir qu''une remise sur sa propre gamme, eux peuvent
   porter le prix de tout le projet. Ils sont aux Pays-Bas (livraison rapide, même
   fuseau, même TVA intracommunautaire), la structure est jeune (2015) et son fondateur
-  Martijn Ouwerkerk dirige toujours l''entreprise — pas de comité. Et ils ont déjà
+  Martijn Ouwerkerk dirige toujours l''entreprise, pas de comité. Et ils ont déjà
   le réflexe : ils organisent chaque année une DIY Competition, entretiennent une
   galerie de projets communautaires et soutiennent les créateurs de contenu en produits
   et en support technique. Une ASBL belge qui construit des subs à pavillon et documente
@@ -51,13 +53,28 @@ ask:
   - material
   - consumables
   - visibility
-  detail: 'Compte professionnel / revendeur avec remise permanente sur l''ensemble
-    de la nomenclature (transducteurs, modules d''ampli, DSP, composants de filtre,
-    connectique), plus une dotation partielle en composants pour la première série
-    de caissons. Contrepartie : documentation complète du build (photos, mesures,
-    making-of) exploitable par eux en contenu et en galerie DIY, marquage sur les
-    façades et visibilité sur 10-15 événements et 27 000 abonnés.'
+  detail: 'Un compte professionnel ou revendeur a conditions permanentes, et une dotation
+    partielle en composants pour la premiere serie, sur les postes qu''ils distribuent
+    :
+
+    (1) TRANSDUCTEURS : haut-parleurs de grave, moteurs de compression, mediums. Le
+    poste le plus lourd de la nomenclature, et un consommable puisqu''il se remplace
+    et se recone ;
+
+    (2) COMPOSANTS DE FILTRE PASSIF, cablage, connectique et bornes ;
+
+    (3) OUTILS DE MESURE, pour caler le systeme nous-memes plutot que de le sous-traiter.
+
+    Ne pas demander de modules d''ampli ni de DSP : poste couvert par ADmark. Contrepartie
+    : documentation complete du build (photos, mesures, making-of) exploitable par
+    eux en contenu et en galerie DIY, marquage sur les facades, visibilite sur 10-15
+    evenements.'
   realistic_value_eur: 15000
+  public: "- transducers first of all: LF drivers, compression drivers and mid-range\
+    \ units. They are the\n  heaviest item in the bill of materials, and a consumable,\
+    \ since they get replaced and reconed;\n- passive crossover components, wiring,\
+    \ connectors and terminals;\n- measurement tools, so that we can align the system\
+    \ ourselves rather than subcontract it."
 values:
 - communauté DIY
 - transmission du savoir-faire
@@ -75,6 +92,18 @@ sponsorship_history:
   url: https://www.soundimports.eu/en/service/about/
   retrieved_on: 2026-07-14
 contacts:
+- name: Omar Sadek
+  role: Audio Components, partenaire B2B de SoundImports, traite les commandes professionnelles
+  email: info@audio-components.com
+  email_status: verified_public
+  linkedin: ''
+  phone: +31 85-0711868
+  source_url: https://shop.audio-components.com/
+  retrieved_on: '2026-09-04'
+  evidence: 'Signature du courriel RECU le 2026-09-04 a 12:53 en reponse a notre envoi
+    du meme jour : « Yours sincerely, Omar Sadek / +31 85-0711868 / info@audio-components.com
+    / shop.audio-components.com ». Adresse prouvee par le fait qu''elle nous a ecrit,
+    pas extrapolee. Le site de la signature est repris en source_url.'
 - name: Martijn Ouwerkerk
   role: Fondateur & CEO
   email: ''
@@ -87,7 +116,7 @@ contacts:
     an internship in the United States, initially operating from a dorm room. Founded
     2015, 30 staff members.'
 - name: ''
-  role: Équipe commerciale — commandes professionnelles et partenariats de long terme
+  role: Équipe commerciale, commandes professionnelles et partenariats de long terme
   email: sales@soundimports.nl
   email_status: verified_public
   linkedin: ''
@@ -117,16 +146,21 @@ inbound_channels:
 - type: linkedin
   url: https://nl.linkedin.com/company/soundimports
 scoring:
-  business_fit: 9
+  business_fit: 8
   partnership_probability: 7
   impact_if_successful: 9
-  rationale: 'Un seul partenaire capable de couvrir toute la nomenclature du projet
-    — transducteurs, ampli/DSP, filtres, connectique — au lieu d''un composant. Probabilité
+  rationale: 'Un seul partenaire capable de couvrir toute la nomenclature du projet,
+    transducteurs, ampli/DSP, filtres, connectique, au lieu d''un composant. Probabilité
     la plus élevée du module : PME néerlandaise de 30 personnes, fondateur toujours
     aux commandes, à ~3h de route, et surtout un réflexe de soutien déjà prouvé (concours
     DIY annuel, dotation de composants, soutien aux créateurs de contenu). Impact
     fort et surtout RÉCURRENT : une remise revendeur permanente vaut plus sur 5-10
-    ans qu''une dotation unique.'
+    ans qu''une dotation unique.
+
+
+    REVU LE 2026-09-03 : business_fit ramene a 8. Le poste amplification et DSP est
+    couvert par ADmark, la demande a ete recentree sur les transducteurs, les filtres
+    et la connectique, qui restent le gros de la nomenclature.'
 deadlines: []
 sources:
 - url: https://www.soundimports.eu/en/service/
@@ -141,11 +175,38 @@ documents:
 - output\SoundImports-B-V\SoundImports-B-V-Partnership-2026.pdf
 - output\SoundImports-B-V\SoundImports-B-V-OnePager-2026.pdf
 - output\SoundImports-B-V\email.md
-interactions: []
+interactions:
+- date: '2026-09-04'
+  type: mail
+  resume: 'Envoye 09:23 a sales@soundimports.nl, copie info@soundimports.eu. Objet
+    : « Material support for a Belgian non-profit building its own PA ». Demande en
+    positif : transducteurs, composants de filtre, connectique, outils de mesure.
+    Amplification et DSP exclus (ADmark). Dossier PDF joint.'
+- date: '2026-09-04'
+  type: réponse
+  resume: 'REPONSE POSITIVE en 3h30. Omar Sadek, d''Audio Components, structure B2B
+    de SoundImports qui traite les commandes professionnelles. Verbatim : « I believe
+    this is certainly something we can support you with ». Il confirme que nos trois
+    categories correspondent a leur assortiment (transducteurs, composants de filtre,
+    cablage et connectique, outils de mesure) et propose des conditions B2B indexees
+    sur les volumes. Il retient explicitement la contrepartie documentation et visibilite
+    : « I will keep that in mind when reviewing the project internally ». IL POSE
+    SIX QUESTIONS, toutes techniques, et aucune n''a de reponse dans ce depot : (1)
+    quelles marques et quelles references de transducteurs ; (2) quantites de la premiere
+    serie ; (3) quantites annuelles ensuite ; (4) combien de MODELES de caissons ;
+    (5) quels composants de filtre, connectique, cablage et outils de mesure ; (6)
+    existe-t-il deja une nomenclature. BLOCAGE : le depot n''a aucune nomenclature.
+    Sans elle, pas de reponse possible.'
 events: []
 next_action:
-  what: ''
-  due: ''
+  what: 'REPONDRE A OMAR SADEK. C''est le dossier le mieux engage du fichier et il
+    attend depuis le 2026-09-04. Il faut la NOMENCLATURE, que Corentin seul detient
+    : elle vient des plans du concepteur des caissons. A rassembler : combien de modeles
+    de caissons, combien d''unites pour la premiere serie, les references de transducteurs
+    retenues, les composants de filtre, la connectique, et les quantites annuelles
+    attendues ensuite. NE RIEN INVENTER : un volume annonce a un distributeur B2B
+    engage les conditions qu''il accordera. Si un poste n''est pas arrete, le dire.'
+  due: '2026-09-09'
 notes: 'E-mails NON VÉRIFIABLES en l''état : les deux adresses publiées sur la page
   « Klantenservice / Customer support » (une générique + une pour l''équipe commerciale,
   explicitement dédiée aux « business orders and long-term partnerships ») sont masquées
@@ -153,7 +214,7 @@ notes: 'E-mails NON VÉRIFIABLES en l''état : les deux adresses publiées sur l
   Elles sont récupérables en 10 secondes en ouvrant la page dans un navigateur : À
   FAIRE MANUELLEMENT AVANT L''ENVOI. Le fondateur-CEO Martijn Ouwerkerk est nommé
   sur leur page About : c''est l''interlocuteur à viser (LinkedIn). Coordonnées lisibles
-  : Peizerweg 97a, 9727AJ Groningen — +3185-0711860 — KvK 78268753 — TVA NL861325254B01.
+  : Peizerweg 97a, 9727AJ Groningen, +3185-0711860, KvK 78268753, TVA NL861325254B01.
   ANGLE : leur page « About » indique explicitement une adresse dédiée aux commandes
   professionnelles et aux partenariats de long terme. C''est exactement le canal à
   utiliser.'

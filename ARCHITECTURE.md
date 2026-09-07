@@ -65,4 +65,4 @@ python -m kit --target neutrik
 
 Le moteur est agnostique du type de document : une page = un id, un document = une liste d'ids.
 Ajouter un dossier de presse, un communiqué ou une page « Partenaires » pour le site revient à
-écrire une page et une liste — les données ne bougent pas.
+écrire une page et une liste, les données ne bougent pas.

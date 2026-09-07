@@ -4,11 +4,11 @@
 partners:
 - company: Bourguignon Bois
   module: bois
-  status: lead
+  status: sent
   score: 58
   contact: ''
   email: info@bourguignonbois.be
-  sent: ''
+  sent: '2026-08-23'
   followup: ''
 - company: SoundImports B.V.
   module: audio
@@ -18,7 +18,7 @@ partners:
   email: sales@soundimports.nl
   sent: ''
   followup: ''
-- company: Fédération Wallonie-Bruxelles — Service des Musiques
+- company: Fédération Wallonie-Bruxelles, Service des Musiques
   module: institutionnel
   status: lead
   score: 54
@@ -28,11 +28,11 @@ partners:
   followup: ''
 - company: Biemar Bois
   module: bois
-  status: lead
+  status: sent
   score: 49
   contact: Serge Tilkin
   email: serge.tilkin@biemar.be
-  sent: ''
+  sent: '2026-08-23'
   followup: ''
 - company: Cras
   module: bois
@@ -42,7 +42,7 @@ partners:
   email: service@cras.be
   sent: ''
   followup: ''
-- company: TLHP SAS — Tout Le Haut-Parleur
+- company: TLHP SAS, Tout Le Haut-Parleur
   module: audio
   status: lead
   score: 49
@@ -52,11 +52,11 @@ partners:
   followup: ''
 - company: Diffusion Menuiserie
   module: bois
-  status: lead
+  status: sent
   score: 45
   contact: ''
   email: contact@diffusionmenuiserie.be
-  sent: ''
+  sent: '2026-08-23'
   followup: ''
 - company: Lhoir & Marteau
   module: bois
@@ -66,7 +66,7 @@ partners:
   email: info@lhoir-marteau.be
   sent: ''
   followup: ''
-- company: Province du Brabant wallon — Direction d'administration de la culture, du sport et du tourisme
+- company: Province du Brabant wallon, Direction d'administration de la culture, du sport et du tourisme
   module: institutionnel
   status: lead
   score: 44
@@ -74,7 +74,7 @@ partners:
   email: culture.loisirs.citoyennete@brabantwallon.be
   sent: ''
   followup: ''
-- company: APEX — GIVA Audiovisual Technologies BV
+- company: APEX, GIVA Audiovisual Technologies BV
   module: audio
   status: lead
   score: 43
@@ -84,10 +84,18 @@ partners:
   followup: ''
 - company: Wopaco
   module: bois
-  status: lead
+  status: sent
   score: 40
   contact: ''
   email: vanrobaeys@wopaco.be
+  sent: '2026-08-23'
+  followup: ''
+- company: Base
+  module: telecom
+  status: qualified
+  score: 39
+  contact: Sylvie Dewaele
+  email: sylvie.dewaele@tbwa.be
   sent: ''
   followup: ''
 - company: Acústica Beyma S.L.
@@ -124,15 +132,15 @@ partners:
   followup: ''
 - company: Lochten & Germeau
   module: bois
-  status: lead
+  status: sent
   score: 32
   contact: ''
   email: info@lochten.be
-  sent: ''
+  sent: '2026-08-23'
   followup: ''
 - company: Brasserie St-Feuillien
   module: boissons
-  status: lead
+  status: replied
   score: 29
   contact: Leylan Roland
   email: leylan.roland@st-feuillien.com
@@ -186,14 +194,6 @@ partners:
   email: info@audiosolvation.nl
   sent: ''
   followup: ''
-- company: Base
-  module: telecom
-  status: lead
-  score: 25
-  contact: Sylvie Dewaele
-  email: sylvie.dewaele@tbwa.be
-  sent: ''
-  followup: ''
 - company: Carlier Bois
   module: bois
   status: lead
@@ -204,13 +204,13 @@ partners:
   followup: ''
 - company: Vanhumbeeck Frères
   module: bois
-  status: lead
+  status: sent
   score: 25
   contact: ''
   email: info@vanhum.be
-  sent: ''
+  sent: '2026-08-23'
   followup: ''
-- company: Ville de Genappe — Administration communale
+- company: Ville de Genappe, Administration communale
   module: institutionnel
   status: lead
   score: 24
@@ -242,7 +242,7 @@ partners:
   email: support@ramaudio.com
   sent: ''
   followup: ''
-- company: Fédération Wallonie-Bruxelles — Service de la Jeunesse
+- company: Fédération Wallonie-Bruxelles, Service de la Jeunesse
   module: institutionnel
   status: lead
   score: 22
@@ -298,13 +298,21 @@ partners:
   email: service@wurth.be
   sent: ''
   followup: ''
-- company: Le Forem — Aides à la Promotion de l'Emploi (APE)
+- company: Le Forem, Aides à la Promotion de l'Emploi (APE)
   module: institutionnel
   status: lead
   score: 18
   contact: ''
   email: ape.contact@forem.be
   sent: ''
+  followup: ''
+- company: GEDE-BOIS
+  module: bois
+  status: sent
+  score: 18
+  contact: ''
+  email: info@gedebois.be
+  sent: '2026-08-23'
   followup: ''
 - company: AB InBev / Jupiler
   module: boissons
@@ -338,14 +346,6 @@ partners:
   email: david.kevin@beglec.com
   sent: ''
   followup: ''
-- company: Sabam For Culture
-  module: institutionnel
-  status: lead
-  score: 15
-  contact: Justine Cornet
-  email: justine.cornet@sabam.be
-  sent: ''
-  followup: ''
 - company: Bureau International Jeunesse (BIJ)
   module: institutionnel
   status: lead
@@ -354,7 +354,7 @@ partners:
   email: bij@cfwb.be
   sent: ''
   followup: ''
-- company: Fédération Wallonie-Bruxelles — Service de la Diffusion (Tournées Art et Vie)
+- company: Fédération Wallonie-Bruxelles, Service de la Diffusion (Tournées Art et Vie)
   module: institutionnel
   status: lead
   score: 14

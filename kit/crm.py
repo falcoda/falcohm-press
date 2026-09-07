@@ -127,7 +127,7 @@ def notes(d):
 
 
 def score(d):
-    """0-100. Ce qu'on peut ATTENDRE d'une entreprise — pas ce qu'on sait d'elle."""
+    """0-100. Ce qu'on peut ATTENDRE d'une entreprise, pas ce qu'on sait d'elle."""
     v = notes(d)
     if v is None:
         return _structural(d)
@@ -185,18 +185,32 @@ def due_date(d):
         return None
 
 
-def log(slug, kind, summary, status=None, document=None):
-    """Ajoute une interaction datée et fait avancer le pipeline."""
+def log(slug, kind, summary, status=None, document=None, date=None):
+    """Ajoute une interaction datée et fait avancer le pipeline.
+
+    `date` (ISO) sert à tracer un envoi PASSÉ. C'est le cas courant : Corentin envoie,
+    et le dépôt l'apprend une semaine plus tard. Dater du jour décalerait les relances
+    J+10 / J+30 d'autant, donc on saisit la date réelle, pas celle de la saisie.
+    """
+    when = datetime.date.today()
+    if date:
+        got = _as_date(date)
+        if not got:
+            raise SystemExit("--date attend une date ISO (2026-08-23), reçu : %s" % date)
+        if got > datetime.date.today():
+            raise SystemExit("--date est dans le futur : %s" % date)
+        when = got
     for d in load():
         if d.get("slug") == slug:
             d.setdefault("interactions", []).append({
-                "date": datetime.date.today().isoformat(),
+                "date": when.isoformat(),
                 "type": kind, "resume": summary})
+            d["interactions"].sort(key=lambda i: str(i.get("date") or ""))
             if document:
                 d.setdefault("documents", []).append(document)
             if status:
                 if status not in PIPELINE:
-                    raise SystemExit("État inconnu : %s — attendu : %s"
+                    raise SystemExit("État inconnu : %s, attendu : %s"
                                      % (status, " | ".join(PIPELINE)))
                 d["status"] = status
             d["score"] = score(d)
@@ -237,22 +251,22 @@ def check(d, cats, modules, personas, sup_mail, sup_name):
             e("champ obligatoire manquant : `%s`" % k)
 
     if d.get("status") not in PIPELINE:
-        e("`status: %s` inconnu — attendu : %s" % (d.get("status"), " | ".join(PIPELINE)))
+        e("`status: %s` inconnu, attendu : %s" % (d.get("status"), " | ".join(PIPELINE)))
     if (d.get("company") or "").strip().lower() in sup_name:
-        e("entreprise en liste d'opposition (crm/suppression.yaml) — ne plus la contacter")
+        e("entreprise en liste d'opposition (crm/suppression.yaml), ne plus la contacter")
 
     sector = d.get("sector")
     if not sector:
         w("pas de `sector` : cette fiche ne peut pas encore produire de PDF")
     elif sector not in modules:
-        e("`sector: %s` introuvable dans modules/ — %s" % (sector, ", ".join(sorted(modules))))
+        e("`sector: %s` introuvable dans modules/, %s" % (sector, ", ".join(sorted(modules))))
     if d.get("persona") and d["persona"] not in personas:
         e("`persona: %s` introuvable dans personas/" % d["persona"])
     for c in d.get("categories") or []:
         if c not in cats:
             e("catégorie inconnue : `%s` (voir crm/categories.yaml)" % c)
 
-    # Les trois notes. Facultatives — mais si elles sont là, elles sont complètes et justifiées.
+    # Les trois notes. Facultatives, mais si elles sont là, elles sont complètes et justifiées.
     s = d.get("scoring") or {}
     if s:
         for k in ("business_fit", "partnership_probability", "impact_if_successful"):
@@ -260,7 +274,7 @@ def check(d, cats, modules, personas, sup_mail, sup_name):
             if not isinstance(v, int) or not 0 <= v <= 10:
                 e("`scoring.%s` doit être un entier de 0 à 10 (reçu : %r)" % (k, v))
         if not str(s.get("rationale") or "").strip():
-            e("`scoring.rationale` est obligatoire — trois chiffres sans justification ne valent rien")
+            e("`scoring.rationale` est obligatoire, trois chiffres sans justification ne valent rien")
         if isinstance(s.get("business_fit"), int) and s["business_fit"] < 4:
             w("business_fit %d/10 : à écarter (`status: discarded`) plutôt qu'à travailler"
               % s["business_fit"])
@@ -270,7 +284,7 @@ def check(d, cats, modules, personas, sup_mail, sup_name):
     ask = d.get("ask") or {}
     for t in ask.get("type") or []:
         if t not in ASK_TYPES:
-            e("`ask.type: %s` inconnu — attendu : %s" % (t, " | ".join(ASK_TYPES)))
+            e("`ask.type: %s` inconnu, attendu : %s" % (t, " | ".join(ASK_TYPES)))
 
     if d.get("knowledge") and not os.path.exists(os.path.join(ROOT, str(d["knowledge"]))):
         w("`knowledge: %s` n'existe pas" % d["knowledge"])
@@ -287,7 +301,7 @@ def check(d, cats, modules, personas, sup_mail, sup_name):
         st = c.get("email_status")
 
         if st is not None and st not in EMAIL_STATUSES:
-            e("%s : `email_status: %r` — attendu : %s. Une adresse devinée ne rentre pas "
+            e("%s : `email_status: %r`, attendu : %s. Une adresse devinée ne rentre pas "
               "dans cette base." % (tag, st, " | ".join(EMAIL_STATUSES)))
         if mail:
             if not EMAIL_RE.match(mail):
@@ -308,7 +322,7 @@ def check(d, cats, modules, personas, sup_mail, sup_name):
             host = mail.split("@")[-1].lower()
             if site and host != site and not host.endswith("." + site) \
                     and not site.endswith("." + host):
-                w("%s : adresse en @%s alors que le site est %s. Vérifie — c'est la signature "
+                w("%s : adresse en @%s alors que le site est %s. Vérifie, c'est la signature "
                   "d'une adresse extrapolée." % (tag, host, site))
         elif st in ("verified_public", "generic"):
             e("%s : `email_status: %s` sans e-mail" % (tag, st))
@@ -317,7 +331,7 @@ def check(d, cats, modules, personas, sup_mail, sup_name):
         if c.get("retrieved_on") and not got:
             e("%s : `retrieved_on` doit être une date ISO (2026-07-14)" % tag)
         elif got and (datetime.date.today() - got).days > STALE_DAYS:
-            w("%s : information vieille de plus d'un an — revérifier avant d'écrire" % tag)
+            w("%s : information vieille de plus d'un an, revérifier avant d'écrire" % tag)
 
     if not cs and not d.get("inbound_channels"):
         e("ni contact, ni `inbound_channels` : on ne sait pas comment les joindre")
@@ -344,7 +358,7 @@ def validate():
         warns += b
 
     # Les doublons. Deux fiches pour une même entreprise, c'est deux e-mails au même
-    # interlocuteur — et le partenariat est mort avant d'avoir commencé.
+    # interlocuteur, et le partenariat est mort avant d'avoir commencé.
     seen = {}
     for d in rows:
         for n in [d.get("company")] + (d.get("aka") or []):
@@ -354,7 +368,7 @@ def validate():
             elif k:
                 seen[k] = d["_name"]
 
-    # Le nom peut varier (« FWB » vs « FWB — Service de la Musique ») ; le domaine, non.
+    # Le nom peut varier (« FWB » vs « FWB, Service de la Musique ») ; le domaine, non.
     by_host = {}
     for d in rows:
         host = _domain(d.get("website"))
@@ -363,7 +377,7 @@ def validate():
         by_host.setdefault(host, []).append(d["_name"])
     for host, names in by_host.items():
         if len(names) > 1:
-            warns.append("%s : même site (%s) — une seule entreprise, %d fiches. Fusionne, "
+            warns.append("%s : même site (%s), une seule entreprise, %d fiches. Fusionne, "
                          "ou distingue-les par `aka`." % (", ".join(names), host, len(names)))
 
     for m in warns:
@@ -415,7 +429,7 @@ def rank(top=25, tier=None):
 
     unrated = [d for _, d, _, _ in rows if notes(d) is None]
     if unrated:
-        print("\n%d fiche(s) sans les trois notes — score structurel de repli, à évaluer : %s"
+        print("\n%d fiche(s) sans les trois notes, score structurel de repli, à évaluer : %s"
               % (len(unrated), ", ".join(d["_name"] for d in unrated[:8])))
     return 0
 
@@ -455,7 +469,7 @@ def export_partners():
 
     Le repo avait deux vérités pour une même chose : data/partners.yaml (18 lignes, l'ancien
     format plat) et crm/companies/ (les fiches). Un contact mis à jour dans l'un ne l'était pas
-    dans l'autre. On garde le fichier — d'autres outils peuvent le lire — mais il DÉCOULE des
+    dans l'autre. On garde le fichier, d'autres outils peuvent le lire, mais il DÉCOULE des
     fiches, il ne les contredit plus.
     """
     rows = []
@@ -504,7 +518,7 @@ def deadlines(days=None):
     urgent = [r for r in rows if r[1] <= 60]
     print("\n%d échéance(s). %d dans les 60 jours." % (len(rows), len(urgent)))
     if urgent:
-        print("Prochaine : %s — %s (J-%d)"
+        print("Prochaine : %s, %s (J-%d)"
               % (urgent[0][0].isoformat(), urgent[0][2].get("company"), urgent[0][1]))
     return 0
 
@@ -553,7 +567,9 @@ def sync(force=False):
         # le nom coupé au tiret. Le nom légal complet reste dans `company`.
         short = d.get("display_name") or (d.get("aka") or [None])[0]
         if len(name) > 34:
-            tgt["display_name"] = short or name.split("—")[0].split("(")[0].strip()
+            # Les noms longs sont du type « Organisme, Service » depuis l'interdiction
+            # du tiret cadratin : on coupe donc sur la virgule, plus sur le tiret.
+            tgt["display_name"] = short or name.split(",")[0].split("(")[0].strip()
         with open(path, "w", encoding="utf-8") as f:
             yaml.safe_dump(tgt, f, allow_unicode=True, sort_keys=False, default_flow_style=False)
         created.append(slug)
@@ -571,7 +587,7 @@ def sync(force=False):
 
 def plan():
     """Le plan de contact : qui, dans quel ordre, à quelle adresse, avec quel argument.
-    Généré depuis les fiches — se régénère à chaque évolution du CRM."""
+    Généré depuis les fiches, se régénère à chaque évolution du CRM."""
     cats = categories()
     rows = [d for d in load() if d.get("status") not in ("discarded", "lost")]
     for d in rows:
@@ -585,19 +601,19 @@ def plan():
         c = named or service or (cs[0] if cs else None)
         if c:
             who = c.get("name") or "*(pas de nom)*"
-            tag = "" if str(c.get("name") or "").strip() else " ⚠ générique — trouver un nom"
+            tag = "" if str(c.get("name") or "").strip() else " ⚠ générique, trouver un nom"
             return "`%s`%s<br><sub>%s</sub>" % (c["email"], tag, who)
         ch = (d.get("inbound_channels") or [{}])[0]
-        return "*%s* : %s" % (ch.get("type", "aucun canal"), ch.get("url", "—")) if ch.get("url") \
-            else "**aucun contact — à chercher**"
+        return "*%s* : %s" % (ch.get("type", "aucun canal"), ch.get("url", "-")) if ch.get("url") \
+            else "**aucun contact, à chercher**"
 
-    L = ["# Plan de contact — qui, quand, comment\n\n",
+    L = ["# Plan de contact, qui, quand, comment\n\n",
          "> Généré par `python -m kit --crm-plan` depuis les fiches CRM. Ne pas éditer à la main.\n",
          "> Le score = adéquation × probabilité × impact ⁄ 10. La barre est à 25.\n\n"]
 
     urgent = deadlines_data(60)
     if urgent:
-        L.append("## ⏰ À ne pas rater — échéances sous 60 jours\n\n")
+        L.append("## ⏰ À ne pas rater, échéances sous 60 jours\n\n")
         L.append("| Date | J- | Organisme | Dépôt |\n|---|---|---|---|\n")
         for when, left, d, x in urgent:
             L.append("| **%s** | J-%d | %s | %.60s |\n"
@@ -607,16 +623,16 @@ def plan():
 
     prior = [d for d in rows if d.get("prior_relationship")]
     if prior:
-        L.append("## 🤝 On les connaît déjà — ouvrir là-dessus\n\n")
+        L.append("## 🤝 On les connaît déjà, ouvrir là-dessus\n\n")
         for d in prior:
             pr = d["prior_relationship"]
-            L.append("- **%s** — %s\n" % (d.get("display_name") or d.get("company"),
+            L.append("- **%s**, %s\n" % (d.get("display_name") or d.get("company"),
                                           str(pr.get("what") or "").strip()))
         L.append("\n")
 
-    for tier, label in (("A", "Tier A — le levier réel, on commence ici"),
-                        ("B", "Tier B — du potentiel, ensuite"),
-                        ("C", "Tier C — plus tard, ou jamais")):
+    for tier, label in (("A", "Tier A, le levier réel, on commence ici"),
+                        ("B", "Tier B, du potentiel, ensuite"),
+                        ("C", "Tier C, plus tard, ou jamais")):
         sub = [d for d in rows if cats.get((d.get("categories") or [""])[0], {}).get("tier") == tier]
         if not sub:
             continue
@@ -627,7 +643,7 @@ def plan():
             ask = d.get("ask") or {}
             angle = ""
             if d.get("sponsorship_history"):
-                angle = "Sponsorise déjà — partir de là"
+                angle = "Sponsorise déjà, partir de là"
             elif d.get("prior_relationship"):
                 angle = "Relation antérieure"
             elif ask.get("detail"):
@@ -635,7 +651,7 @@ def plan():
             L.append("| %d | **%d** | %s<br><sub>%s · %s</sub> | %s<br><sub>~%s €</sub> | %s | %.75s |\n"
                      % (i, d["_score"], d.get("display_name") or d.get("company"),
                         d.get("country") or "", (d.get("categories") or ["?"])[0],
-                        " + ".join(ask.get("type") or []) or "—",
+                        " + ".join(ask.get("type") or []) or "-",
                         ask.get("realistic_value_eur") or "?", contact_line(d), angle))
         L.append("\n")
 
@@ -668,12 +684,12 @@ def brief(slug, outdir=None):
     s, sc, ask = score(d), d.get("scoring") or {}, d.get("ask") or {}
     L = []
 
-    L.append("# %s — %s  (%d/100)\n\n" % (d.get("company"), "★" * stars(s), s))
+    L.append("# %s, %s  (%d/100)\n\n" % (d.get("company"), "★" * stars(s), s))
     L.append("%s · %s · %s\n" % (d.get("country") or "", ", ".join(d.get("categories") or []),
                                  d.get("website") or ""))
 
     L.append("\n## La demande\n\n")
-    L.append("**%s** — %s\n\n" % (" + ".join(ask.get("type") or []) or "à définir",
+    L.append("**%s**, %s\n\n" % (" + ".join(ask.get("type") or []) or "à définir",
                                   str(ask.get("detail") or "").strip()))
     if ask.get("realistic_value_eur"):
         L.append("Ordre de grandeur : **%s €/an**\n" % ask["realistic_value_eur"])
@@ -685,28 +701,28 @@ def brief(slug, outdir=None):
     if hist:
         L.append("Ils sponsorisent **déjà**. C'est l'accroche : on part de là.\n\n")
         for h in hist:
-            L.append("- %s — %s\n" % (h.get("what"), h.get("url") or ""))
+            L.append("- %s, %s\n" % (h.get("what"), h.get("url") or ""))
     else:
         L.append("Aucun sponsoring connu. L'angle se construit sur leurs valeurs : %s\n"
-                 % (", ".join(d.get("values") or []) or "— à chercher —"))
+                 % (", ".join(d.get("values") or []) or ", à chercher -"))
     if d.get("values"):
         L.append("\nLeurs mots, à réemployer tels quels : *%s*\n" % ", ".join(d["values"]))
 
     L.append("\n## À qui écrire\n\n")
     for c in d.get("contacts") or []:
-        L.append("- **%s** — %s  \n  %s  \n  <sub>source : %s (%s)</sub>\n"
+        L.append("- **%s**, %s  \n  %s  \n  <sub>source : %s (%s)</sub>\n"
                  % (c.get("name") or "?", c.get("role") or c.get("position") or "?",
                     c.get("email") or c.get("linkedin") or "pas d'adresse publique",
-                    c.get("source_url") or c.get("source") or "—", c.get("retrieved_on") or "—"))
+                    c.get("source_url") or c.get("source") or "-", c.get("retrieved_on") or "-"))
     for ch in d.get("inbound_channels") or []:
         L.append("- %s : %s\n" % (ch.get("type"), ch.get("url")))
     if reachability(d) in ("générique", "AUCUN"):
         L.append("\n> Pas de contact nommé. Cherches-en un avant d'envoyer : `info@` ne répond jamais.\n")
 
     L.append("\n## Quoi envoyer\n\n| | |\n|---|---|\n")
-    L.append("| Persona | `%s` — %s |\n" % (d.get("persona"), per.get("objective", "")))
+    L.append("| Persona | `%s`, %s |\n" % (d.get("persona"), per.get("objective", "")))
     L.append("| Ton | %s |\n" % per.get("tone", ""))
-    L.append("| Module | `%s` — %s |\n" % (d.get("sector"), mod.get("label", "")))
+    L.append("| Module | `%s`, %s |\n" % (d.get("sector"), mod.get("label", "")))
     L.append("| Pages | %s |\n" % ", ".join(per.get("pages") or []))
     L.append("| E-mail | `emails/%s.md` |\n" % per.get("email", "technique"))
     L.append("\n```bash\npython -m kit --target %s\n```\n" % slug)
@@ -714,7 +730,7 @@ def brief(slug, outdir=None):
     if d.get("deadlines"):
         L.append("\n## Échéances\n\n")
         for x in sorted(d["deadlines"], key=lambda y: str(y.get("date"))):
-            L.append("- **%s** — %s — %s\n" % (x.get("date"), x.get("what"), x.get("url") or ""))
+            L.append("- **%s**, %s, %s\n" % (x.get("date"), x.get("what"), x.get("url") or ""))
 
     if notes(d):
         fit, prob, imp = notes(d)
@@ -727,11 +743,11 @@ def brief(slug, outdir=None):
     if d.get("interactions"):
         L.append("\n## Historique\n\n")
         for i in d["interactions"]:
-            L.append("- %s — %s — %s\n" % (i.get("date"), i.get("type"), i.get("resume")))
+            L.append("- %s, %s, %s\n" % (i.get("date"), i.get("type"), i.get("resume")))
     if d.get("notes"):
         L.append("\n## Notes\n\n%s\n" % str(d["notes"]).strip())
     L.append("\n---\n<sub>Sources : %s</sub>\n"
-             % (" · ".join(str(x.get("url", "")) for x in (d.get("sources") or [])) or "—"))
+             % (" · ".join(str(x.get("url", "")) for x in (d.get("sources") or [])) or "-"))
 
     folder = outdir or os.path.join(ROOT, "output", slug)
     os.makedirs(folder, exist_ok=True)

@@ -1,4 +1,4 @@
-**Objet :** Convention de partenariat — {{COMPANY}}
+**Objet :** Convention de partenariat, {{COMPANY}}
 
 Bonjour {{CONTACT_NAME}},
 
@@ -8,4 +8,4 @@ de chacun. Rien de complexe : une page, pour que les choses soient claires des d
 Dès signature, nous lançons l'activation : {{PREMIERE_ACTION}}.
 
 Bien à vous,
-{{SENDER}} — {{ORG}}
+{{SENDER}}, {{ORG}}

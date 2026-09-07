@@ -8,7 +8,7 @@ sector: bois
 persona: fournisseur-technique
 categories:
 - wood
-status: lead
+status: sent
 phase: 1
 tags:
 - technique
@@ -18,10 +18,11 @@ score: 49
 website: https://biemar.be
 knowledge: knowledge/Biemar.md
 profile:
-  activity: 'Négociant wallon en bois et matériaux depuis 1925 (famille Biemar), implanté à Soumagne et
-    Malmedy. Distribue tous types de bois, panneaux et dérivés, quincaillerie et outillage, avec plus
-    de 35 000 références en stock et 55 000 m² de stockage. Dispose d''un atelier de transformation :
-    découpe de panneaux, commande numérique, rabotage, collage de stratifié, placage de chants.'
+  activity: 'Négociant wallon en bois et matériaux depuis 1925 (famille Biemar), implanté
+    à Soumagne et Malmedy. Distribue tous types de bois, panneaux et dérivés, quincaillerie
+    et outillage, avec plus de 35 000 références en stock et 55 000 m² de stockage.
+    Dispose d''un atelier de transformation : découpe de panneaux, commande numérique,
+    rabotage, collage de stratifié, placage de chants.'
   products:
   - Panneaux et dérivés du bois
   - Multiplex / contreplaqué
@@ -34,20 +35,22 @@ profile:
   identifiers:
     vat: BE 0454.861.704
     linkedin: https://be.linkedin.com/company/biemar-bois
-why_us: 'C''est le dossier le mieux armé de la catégorie côté contacts : Biemar publie nominativement
-  son Responsable panneaux (Serge Tilkin) ET son Responsable bois / acheteur bois (Grégory Hochstenbach),
-  avec emails directs. On attaque donc le décideur produit, pas un info@. Ils ont un atelier de découpe
-  numérique : ils peuvent fournir les panneaux ET débiter les flancs d''enceintes. Négociant familial
-  wallon (100 ans en 2025), sensible à l''ancrage régional.'
+why_us: 'C''est le dossier le mieux armé de la catégorie côté contacts : Biemar publie
+  nominativement son Responsable panneaux (Serge Tilkin) ET son Responsable bois /
+  acheteur bois (Grégory Hochstenbach), avec emails directs. On attaque donc le décideur
+  produit, pas un info@. Ils ont un atelier de découpe numérique : ils peuvent fournir
+  les panneaux ET débiter les flancs d''enceintes. Négociant familial wallon (100
+  ans en 2025), sensible à l''ancrage régional.'
 ask:
   type:
   - material
   - discount
   - services
-  detail: 'Compte pro avec remise sur le multiplex bouleau (15/18/21 mm) récurrent, mise à disposition
-    des chutes et fins de série de panneaux, et prestation de découpe CNC des flancs d''enceintes à tarif
-    partenaire ou offerte. Contrepartie : visibilité sur le sound system et sur les 10-15 événements Gazmatek/an
-    (+10 000 festivaliers, 27 000 abonnés).'
+  detail: 'Compte pro avec remise sur le multiplex bouleau (15/18/21 mm) récurrent,
+    mise à disposition des chutes et fins de série de panneaux, et prestation de découpe
+    CNC des flancs d''enceintes à tarif partenaire ou offerte. Contrepartie : visibilité
+    sur le sound system et sur les 10-15 événements Gazmatek/an (+10 000 festivaliers,
+    27 000 abonnés).'
   realistic_value_eur: 5000
 values:
 - Entreprise familiale wallonne (depuis 1925)
@@ -64,7 +67,8 @@ contacts:
   phone: +32 04 220 60 24
   source_url: https://biemar.be/contact-biemar-bois/
   retrieved_on: 2026-07-14
-  evidence: Serge Tilkin | Responsable panneaux | serge.tilkin@biemar.be | +32 04 220 60 24
+  evidence: Serge Tilkin | Responsable panneaux | serge.tilkin@biemar.be | +32 04
+    220 60 24
 - name: Grégory Hochstenbach
   role: Responsable bois, construction en ossature bois, achat bois
   email: gregory@biemar.be
@@ -73,8 +77,8 @@ contacts:
   phone: +32 04 345 73 70
   source_url: https://biemar.be/contact-biemar-bois/
   retrieved_on: 2026-07-14
-  evidence: Grégory Hochstenbach | Responsable bois, construction en ossature bois, achat bois | gregory@biemar.be
-    | +32 04 345 73 70
+  evidence: Grégory Hochstenbach | Responsable bois, construction en ossature bois,
+    achat bois | gregory@biemar.be | +32 04 345 73 70
 - name: Saïd El Karouni
   role: Service commercial - panneaux
   email: said@biemar.be
@@ -83,7 +87,8 @@ contacts:
   phone: +32 04 377 95 68
   source_url: https://biemar.be/contact-biemar-bois/
   retrieved_on: 2026-07-14
-  evidence: Saïd El Karouni | Service commercial - panneaux | said@biemar.be | +32 04 377 95 68
+  evidence: Saïd El Karouni | Service commercial - panneaux | said@biemar.be | +32
+    04 377 95 68
 - name: Jérémy Dans
   role: Service commercial - panneaux
   email: jeremy.dans@biemar.be
@@ -92,7 +97,8 @@ contacts:
   phone: +32 4 377 95 62
   source_url: https://biemar.be/contact-biemar-bois/
   retrieved_on: 2026-07-14
-  evidence: Jérémy Dans | Service commercial - panneaux | jeremy.dans@biemar.be | +32 4 377 95 62
+  evidence: Jérémy Dans | Service commercial - panneaux | jeremy.dans@biemar.be |
+    +32 4 377 95 62
 - name: Pierre Thissen
   role: Directeur commercial
   email: ''
@@ -101,8 +107,8 @@ contacts:
   phone: ''
   source_url: https://biemar.be/contact-biemar-bois/
   retrieved_on: 2026-07-14
-  evidence: Pierre Thissen | Directeur commercial — nommé sur la page contact, AUCUN email ni téléphone
-    direct publié
+  evidence: Pierre Thissen | Directeur commercial — nommé sur la page contact, AUCUN
+    email ni téléphone direct publié
 - name: Yvan Biemar
   role: Administrateur Délégué
   email: ''
@@ -111,8 +117,8 @@ contacts:
   phone: ''
   source_url: https://biemar.be/contact-biemar-bois/
   retrieved_on: 2026-07-14
-  evidence: Yvan Biemar | Administrateur Délégué — nommé sur la page contact, AUCUN email ni téléphone
-    direct publié
+  evidence: Yvan Biemar | Administrateur Délégué — nommé sur la page contact, AUCUN
+    email ni téléphone direct publié
 inbound_channels:
 - type: form
   url: https://biemar.be/contact-biemar-bois/
@@ -122,12 +128,13 @@ scoring:
   business_fit: 9
   partnership_probability: 6
   impact_if_successful: 9
-  rationale: 'Business fit très élevé : ils vendent les panneaux ET les débitent en CNC, ce qui couvre
-    deux besoins d''un coup, avec 35 000 références et un vrai stock. La probabilité est bonne sans être
-    maximale : entreprise familiale accessible et contacts nominatifs directs (rare dans ce panel), mais
-    aucun antécédent de sponsoring trouvé et Soumagne est en province de Liège (~110 km de Genappe), donc
-    l''argument de proximité ne joue pas. Impact élevé si ça passe : gros volumes possibles et découpe
-    incluse.'
+  rationale: 'Business fit très élevé : ils vendent les panneaux ET les débitent en
+    CNC, ce qui couvre deux besoins d''un coup, avec 35 000 références et un vrai
+    stock. La probabilité est bonne sans être maximale : entreprise familiale accessible
+    et contacts nominatifs directs (rare dans ce panel), mais aucun antécédent de
+    sponsoring trouvé et Soumagne est en province de Liège (~110 km de Genappe), donc
+    l''argument de proximité ne joue pas. Impact élevé si ça passe : gros volumes
+    possibles et découpe incluse.'
 deadlines: []
 sources:
 - url: https://biemar.be/contact-biemar-bois/
@@ -144,17 +151,36 @@ documents:
 - output/Biemar/Biemar-Partnership-2026.pdf
 - output/Biemar/Biemar-OnePager-2026.pdf
 - output/Biemar/email.md
-interactions: []
+interactions:
+- date: '2026-08-23'
+  type: mail
+  resume: 'Dossier + one-pager envoyes a TROIS contacts nommes le meme jour, en envois
+    separes : serge.tilkin@biemar.be (Responsable panneaux), said@biemar.be et jeremy.dans@biemar.be
+    (tous deux Service commercial - panneaux). Objet : « Demande de prix / partenariat
+    ASBL : Multiplex bouleau 12/18 mm & CNC ». Gregory Hochstenbach (Responsable ACHAT
+    bois) N''A PAS ete contacte, c''est lui qui sait ou sont les fins de serie, et
+    c''est donc l''angle neuf pour la relance. ATTENTION : trois collegues du meme
+    service ont recu le meme mail separement ; en cas de reprise de contact, l''assumer
+    plutot que de le repeter une quatrieme fois. Sans reponse au 2026-09-03.'
 events: []
 next_action:
-  what: Contacter Serge Tilkin (Responsable panneaux, serge.tilkin@biemar.be) — interlocuteur nommé désormais
-    identifié
-  due: ''
-notes: 'Sites : Rue de la Clé 57, 4630 Soumagne (siège, +32 (0)4 377 94 94) et Route de Waimes 90, 4960
-  Malmedy (+32 (0)80 79 97 97). Email général : info@biemar.be. Email marketing@biemar.be également publié
-  — utile pour l''angle visibilité/sponsoring. STRATÉGIE : attaquer Serge Tilkin (panneaux) en premier
-  ; Grégory Hochstenbach en second car il gère l''ACHAT bois, c''est lui qui sait où sont les fins de
-  série. Pierre Thissen (dir. commercial) et Yvan Biemar (admin. délégué) sont nommés sur la page mais
-  SANS email direct : ne pas deviner leur adresse. Aucun sponsoring sportif/culturel identifié : ce serait
-  une première pour eux, donc argumenter par le produit (visibilité technique, vitrine de leur multiplex)
-  plutôt que par le mécénat.'
+  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). SEUL dossier bois relancable par
+    e-mail : trois contacts NOMMES ont recu le dossier. Mais ils l''ont recu SEPAREMENT
+    le meme jour, tous les trois du meme service « panneaux », chacun a pu supposer
+    qu''un collegue s''en occupait. C''est la cause la plus probable du silence, pas
+    un refus. A FAIRE : repondre dans le fil a SERGE TILKIN SEUL (Responsable panneaux,
+    le bon interlocuteur), en assumant l''envoi multiple et en le designant explicitement
+    comme l''interlocuteur unique. Lui demander au passage si Gregory Hochstenbach
+    (gregory@biemar.be, Responsable ACHAT bois, JAMAIS contacte) est la bonne personne
+    pour les fins de serie. Ne PAS ecrire aux trois une deuxieme fois. Texte pret
+    : emails/relance-bois-j10.md, variante A.'
+  due: '2026-09-08'
+notes: 'Sites : Rue de la Clé 57, 4630 Soumagne (siège, +32 (0)4 377 94 94) et Route
+  de Waimes 90, 4960 Malmedy (+32 (0)80 79 97 97). Email général : info@biemar.be.
+  Email marketing@biemar.be également publié, utile pour l''angle visibilité/sponsoring.
+  STRATÉGIE : attaquer Serge Tilkin (panneaux) en premier ; Grégory Hochstenbach en
+  second car il gère l''ACHAT bois, c''est lui qui sait où sont les fins de série.
+  Pierre Thissen (dir. commercial) et Yvan Biemar (admin. délégué) sont nommés sur
+  la page mais SANS email direct : ne pas deviner leur adresse. Aucun sponsoring sportif/culturel
+  identifié : ce serait une première pour eux, donc argumenter par le produit (visibilité
+  technique, vitrine de leur multiplex) plutôt que par le mécénat.'

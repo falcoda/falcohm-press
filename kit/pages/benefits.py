@@ -10,7 +10,7 @@ def _mockups(c, ctx, y):
     mh, mw = 122, (CW - 2 * 12) / 3
     myy = y - mh
     mx = M
-    # 1 — sites internet
+    # 1, sites internet
     rrect(c, mx, myy, mw, mh, 6, fill=LIGHT, stroke=LINE)
     c.setFillColor(HexColor("#E4E6EA"))
     c.roundRect(mx + 1, myy + mh - 16, mw - 2, 15, 4, stroke=0, fill=1)
@@ -34,7 +34,7 @@ def _mockups(c, ctx, y):
                 rrect(c, bxx, byy, bwid, 16, 2, fill=WHITE, stroke=LINE)
     ls_text(c, mx + 14, myy + 12, "Sites Gazmatek & Falc'ohm", "Inter-M", 6.8, GREY, 0.4)
 
-    # 2 — post réseaux
+    # 2, post réseaux
     mx2 = mx + mw + 12
     rrect(c, mx2, myy, mw, mh, 6, fill=LIGHT, stroke=LINE)
     img_cover(c, P(cfg["images"]["mockup_post"]), mx2 + 1, myy + mh - 52, mw - 2, 51)
@@ -53,7 +53,7 @@ def _mockups(c, ctx, y):
     ls_text(c, mx2 + 14, myy + 12, "Réseaux, %s abonnés" % cfg["followers"], "Inter-M", 6.8,
             GREY, 0.4)
 
-    # 3 — marquage matériel
+    # 3, marquage matériel
     mx3 = mx2 + mw + 12
     rrect(c, mx3, myy, mw, mh, 6, fill=LIGHT, stroke=LINE)
     ex = mx3 + (mw - 58) / 2

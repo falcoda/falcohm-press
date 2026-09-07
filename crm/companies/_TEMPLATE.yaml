@@ -1,4 +1,4 @@
-# crm/companies/<slug>.yaml — une entreprise.
+# crm/companies/<slug>.yaml, une entreprise.
 #
 # La règle qui compte plus que toutes les autres :
 #   un e-mail sans `source_url`, `retrieved_on` et `evidence` fait ÉCHOUER la validation.
@@ -37,11 +37,15 @@ ask:
   detail: >
     Ce qu'on demande, en une phrase qu'on pourrait dire au téléphone.
     « Un tarif partenaire sur le multiplex bouleau, et les chutes de découpe. »
+  public: |                       # LA SEULE PARTIE ENVOYEE. Liste a puces, ton du destinataire.
+    - ce qu'on demande, poste par poste, en positif ;
+    - jamais « nous ne cherchons pas X » : on ouvre sur ce qu'on veut, pas sur ce qu'on refuse ;
+    - vérifier data/existing-suppliers.yaml pour ne pas demander un poste déjà couvert.
   realistic_value_eur: 2000       # ordre de grandeur annuel. Sert à trier, pas à facturer.
 
 values: []                        # ce qu'ILS affichent, pas ce qu'on aimerait qu'ils affichent
 
-sponsorship_history: []           # ce qu'ils sponsorisent DÉJÀ — le meilleur prédicteur d'un oui
+sponsorship_history: []           # ce qu'ils sponsorisent DÉJÀ, le meilleur prédicteur d'un oui
   # - { what: "Club de basket de Nivelles", url: "https://...", retrieved_on: 2026-07-14 }
 
 contacts:                         # sponsoring > marketing > commercial > communication > général
@@ -64,7 +68,7 @@ scoring:                          # 0-10 chacun. Le score global est calculé, p
   impact_if_successful: 0         # et si oui, qu'est-ce que ça change ?
   rationale: >
     Deux phrases qui justifient les trois chiffres. Sans elles, les notes ne valent rien,
-    et personne — toi compris, dans six mois — ne saura sur quoi elles reposaient.
+    et personne, toi compris, dans six mois, ne saura sur quoi elles reposaient.
 
 deadlines: []                     # pour les subsides : { what, date, url }. Rater une date coûte un an.
 sources: []                       # - { url: "https://...", retrieved_on: 2026-07-14 }

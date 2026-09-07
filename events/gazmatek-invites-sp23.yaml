@@ -3,7 +3,7 @@
 # ⚠ 900 personnes pour une jauge annoncée à ~700 : à réconcilier avant de citer le chiffre.
 slug: gazmatek-invites-sp23
 name: Gazmatek invites SP23
-date: '2025-01-01 # TODO'
+date: '2025-07-04'   # confirmé par Corentin le 2026-09-04, croisé avec data/consumption.yaml
 venue: Bruxelles
 city: ''
 capacity: ~700

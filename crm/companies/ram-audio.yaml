@@ -8,10 +8,10 @@ sector: audio
 persona: fabricant-audio
 categories:
 - amplification
-status: lead
+status: discarded
 phase: 1
 tags: []
-score: 24
+score: 7
 website: https://ramaudio.com
 knowledge: ''
 profile:
@@ -30,8 +30,8 @@ profile:
     linkedin: ''
 why_us: 'RAM Audio est l''ampli historique du sound system européen : robuste, puissant,
   réputé pour son rapport watts/euro, et conçu pour tourner des nuits entières à fort
-  niveau — exactement le régime d''usage décrit dans le dossier Falc''ohm. C''est
-  une PME familiale espagnole indépendante (pas un groupe coté), donc un interlocuteur
+  niveau, exactement le régime d''usage décrit dans le dossier Falc''ohm. C''est une
+  PME familiale espagnole indépendante (pas un groupe coté), donc un interlocuteur
   où la décision se prend vite. Pour équiper un parc de subs horn et de tops sans
   exploser le budget, c''est l''alternative crédible à Powersoft.'
 ask:
@@ -39,11 +39,8 @@ ask:
   - material
   - discount
   - loan
-  detail: 'Conditions constructeur / prix quantité sur 2 à 4 amplis de puissance pour
-    les nouveaux caissons, ou dotation/prêt longue durée d''un rack en échange de
-    visibilité. Contrepartie : marquage « Powered by RAM Audio » sur les racks, visibilité
-    sur 10-15 événements/an et sur les prestations techniques de Falc''ohm partout
-    en Belgique.'
+  detail: 'AUCUNE DEMANDE. Poste couvert par ADmark depuis le 2026-09-03 (data/existing-suppliers.yaml)
+    : l''amplification et le DSP ne sont PLUS a demander, le DSP etant integre a l''ampli. '
   realistic_value_eur: 8000
 values:
 - made-in-Spain
@@ -67,7 +64,7 @@ inbound_channels:
 - type: form
   url: https://ramaudio.com/contact/
 scoring:
-  business_fit: 7
+  business_fit: 2
   partnership_probability: 5
   impact_if_successful: 7
   rationale: 'Fit solide : l''amplification est un besoin non substituable et RAM
@@ -75,7 +72,11 @@ scoring:
     « premium » que Powersoft ou APEX côté DSP. Probabilité moyenne : PME indépendante
     donc décideur accessible, mais aucun e-mail exploitable, aucun antécédent de sponsoring
     trouvé, et une organisation tournée vers ses distributeurs et les salons. Impact
-    réel mais borné à la partie amplification.'
+    réel mais borné à la partie amplification.
+
+
+    REVU LE 2026-09-03 : business_fit ramene a 2. Fabricant d''amplification uniquement,
+    poste couvert par ADmark. Rien a demander.'
 deadlines: []
 sources:
 - url: https://ramaudio.com/contact/
@@ -89,10 +90,14 @@ documents:
 interactions: []
 events: []
 next_action:
-  what: ''
+  what: Aucune. Poste couvert.
   due: ''
-notes: 'E-mail NON VÉRIFIABLE : sur la page contact, l''adresse est publiée sous forme
-  d''IMAGE (anti-spam), donc illisible en texte. Coordonnées lues et fiables : "P.I.
-  La Figuera, c/ Rosa Luxemburgo 34, 46970 Alaquás, Valencia, SPAIN", tél. "+34 96
-  127 30 54". Raison sociale : « RAM Audio and RAM logo are registered trademarks
-  of C.E. Studio-2 sl ». Premier contact : téléphone ou formulaire.'
+notes: 'ECARTEE LE 2026-09-03 : fabricant d''amplification uniquement, poste couvert
+  par ADmark. Aucun contact nomme par ailleurs.
+
+
+  E-mail NON VÉRIFIABLE : sur la page contact, l''adresse est publiée sous forme d''IMAGE
+  (anti-spam), donc illisible en texte. Coordonnées lues et fiables : "P.I. La Figuera,
+  c/ Rosa Luxemburgo 34, 46970 Alaquás, Valencia, SPAIN", tél. "+34 96 127 30 54".
+  Raison sociale : « RAM Audio and RAM logo are registered trademarks of C.E. Studio-2
+  sl ». Premier contact : téléphone ou formulaire.'

@@ -1,17 +1,42 @@
-label: "Bois"
+label: 'Bois'
 subject: "Recherche d'un partenaire bois : fabrication d'enceintes acoustiques"
 targets: [Triplaco, Biemar, Cras, Wopaco]
 
-pages: [cover, about, gazmatek, ecosystem, project, material, timeline, benefits, packages, contact]
+# L'adresse de contact du dossier bois : la boîte relevée pour ce module.
+# Elle remplace org.contact.email partout (page contact, one-pager, signature des e-mails).
+overrides:
+  org:
+    contact:
+      email: 'contact@falcohmsystem.com'
+
+pages:
+  [
+    cover,
+    about,
+    gazmatek,
+    ecosystem,
+    project,
+    material,
+    timeline,
+    benefits,
+    packages,
+    contact,
+  ]
 
 cover:
   kicker: "Recherche d'un partenaire bois"
   subtitle: "Construction d'enceintes acoustiques professionnelles en Belgique"
 
 partner:
-  role: "Le partenaire technique"
+  role: 'Le partenaire technique'
   icon: wood
-  items: ["Multiplex bouleau", "Découpe CNC", "Expertise panneaux", "Partenaire long terme"]
+  items:
+    [
+      'Multiplex bouleau',
+      'Découpe CNC',
+      'Expertise panneaux',
+      'Partenaire long terme',
+    ]
 
 gazmatek:
   intro: >-
@@ -30,7 +55,7 @@ ecosystem:
     Gazmatek fait vivre les événements. Falc'ohm System construit et exploite le matériel qui les
     rend possibles. Votre entreprise fournit la matière première qui se trouve au cœur du système.
   band:
-    title: "Votre bois sera joué, pas stocké."
+    title: 'Votre bois sera joué, pas stocké.'
     text: >-
       Chaque caisson que nous construisons part en prestation : sur les événements Gazmatek
       d'abord, puis sur les dates techniques assurées par Falc'ohm System partout en Belgique.
@@ -46,48 +71,98 @@ project:
     le temps et le rendu acoustique final. Nous recherchons donc un partenaire bois capable de nous
     accompagner sur la durée.
   images:
-    - { file: constr.jpg, caption: "Fabrication, multiplex bouleau" }
-    - { file: fusion.jpg, caption: "Plans 3D du caisson", fit: true }
-    - { file: cab.jpg,    caption: "Maintenance du parc" }
+    - { file: constr.jpg, caption: 'Fabrication, multiplex bouleau' }
+    - { file: fusion.jpg, caption: 'Plans 3D du caisson', fit: true }
+    - { file: cab.jpg, caption: 'Maintenance du parc' }
   caption: >-
     Nos caissons : découpés, assemblés et entretenus par l'ASBL d'après les plans de notre
     concepteur, puis joués sur le terrain.
 
 needs:
-  title: "CE QUE NOUS RECHERCHONS EN BOIS"
+  title: 'CE QUE NOUS RECHERCHONS EN BOIS'
   items:
-    - { icon: wood,   title: "Multiplex bouleau",   text: "L'essence de référence : rigidité, densité homogène et excellente tenue dans le grave." }
-    - { icon: layers, title: "Panneaux techniques", text: "Contreplaqués et panneaux dérivés pour gabarits, renforts internes et prototypes." }
-    - { icon: cnc,    title: "Découpe CNC",         text: "Selon vos capacités : découpe de précision des façades, évents et renforts." }
+    - {
+        icon: wood,
+        title: 'Multiplex bouleau',
+        text: "L'essence de référence : rigidité, densité homogène et excellente tenue dans le grave.",
+      }
+    - {
+        icon: layers,
+        title: 'Panneaux techniques',
+        text: 'Contreplaqués et panneaux dérivés pour gabarits, renforts internes et prototypes.',
+      }
+    - {
+        icon: cnc,
+        title: 'Découpe CNC',
+        text: 'Selon vos capacités : découpe de précision des façades, évents et renforts.',
+      }
 
 material:
-  kicker: "La matière"
+  kicker: 'La matière'
   title: "Pourquoi le bouleau\nde Finlande ?"
   intro: >-
     Notre choix n'est pas une question de budget mais de performance. Le multiplex de bouleau de
     Finlande, en 18 mm, est le standard de l'ébénisterie acoustique professionnelle : c'est ce que
     nous voulons mettre dans nos caissons.
   props:
-    - { title: "Rigidité structurelle",    text: "Un caisson qui ne vibre pas restitue le grave sans coloration." }
-    - { title: "Faible résonance",         text: "Densité homogène, sans vide interne : le panneau ne chante pas." }
-    - { title: "Tenue mécanique",          text: "Nos enceintes voyagent, se chargent et se déchargent chaque week-end." }
-    - { title: "Excellente tenue des vis", text: "Indispensable pour des caissons démontables et réparables." }
-    - { title: "Longévité",                text: "Un matériel conçu pour tenir plus de vingt ans de tournée." }
-    - { title: "Origine européenne",       text: "Une filière traçable et une fabrication locale, en Belgique." }
+    - {
+        title: 'Rigidité structurelle',
+        text: 'Un caisson qui ne vibre pas restitue le grave sans coloration.',
+      }
+    - {
+        title: 'Faible résonance',
+        text: 'Densité homogène, sans vide interne : le panneau ne chante pas.',
+      }
+    - {
+        title: 'Tenue mécanique',
+        text: 'Nos enceintes voyagent, se chargent et se déchargent chaque week-end.',
+      }
+    - {
+        title: 'Excellente tenue des vis',
+        text: 'Indispensable pour des caissons démontables et réparables.',
+      }
+    - {
+        title: 'Longévité',
+        text: 'Un matériel conçu pour tenir plus de vingt ans de tournée.',
+      }
+    - {
+        title: 'Origine européenne',
+        text: 'Une filière traçable et une fabrication locale, en Belgique.',
+      }
 
 timeline:
   intro: >-
     Notre parc de matériel se construit année après année. Le besoin en bois n'est pas ponctuel :
     il accompagne la croissance du projet.
   overrides:
-    "2026":  { title: "Recherche d'un partenaire bois", text: "Nouvelle série de subs horn et de tops multi horn entry." }
-    "2027+": { title: "Suite du parc",                  text: "Retours de scène, extension, maintenance et renouvellement." }
+    '2026':
+      {
+        title: "Recherche d'un partenaire bois",
+        text: 'Nouvelle série de subs horn et de tops multi horn entry.',
+      }
+    '2027+':
+      {
+        title: 'Suite du parc',
+        text: 'Retours de scène, extension, maintenance et renouvellement.',
+      }
   next:
-    - { icon: speaker, title: "Subs horn et tops multi horn entry", text: "Extension de la série : caissons de basse à pavillon et tops multi horn entry." }
-    - { icon: layers,  title: "Retours de scène",                   text: "Fabrication de retours pour nos plateaux d'artistes." }
-    - { icon: tools,   title: "Maintenance du parc",                text: "Réparation, renforcement et renouvellement des caissons existants." }
+    - {
+        icon: speaker,
+        title: 'Subs horn et tops multi horn entry',
+        text: 'Extension de la série : caissons de basse à pavillon et tops multi horn entry.',
+      }
+    - {
+        icon: layers,
+        title: 'Retours de scène',
+        text: "Fabrication de retours pour nos plateaux d'artistes.",
+      }
+    - {
+        icon: tools,
+        title: 'Maintenance du parc',
+        text: 'Réparation, renforcement et renouvellement des caissons existants.',
+      }
   band:
-    title: "Un besoin récurrent, pas un achat unique."
+    title: 'Un besoin récurrent, pas un achat unique.'
     text: >-
       Le partenaire qui nous rejoint aujourd'hui s'inscrit dans les cinq à dix prochaines années
       de construction et de maintenance de notre parc.
@@ -99,8 +174,8 @@ benefits:
   band_text: >-
     Site, réseaux sociaux, salons professionnels : un caisson marqué et utilisé chaque week-end
     prouve à vos clients que vos panneaux tiennent dans un usage exigeant.
-  post_text: "Making-of : nos nouveaux caissons en bouleau fourni par notre partenaire."
-  marking_text: "BUILT WITH FINNISH BIRCH"
+  post_text: 'Making-of : nos nouveaux caissons en bouleau fourni par notre partenaire.'
+  marking_text: 'BUILT WITH FINNISH BIRCH'
   marking_label: "À l'arrière de nos enceintes"
 
 packages:
@@ -109,14 +184,43 @@ packages:
     possibles, des conditions tarifaires à la fourniture complète, et chacune a un impact direct
     sur la réalisation du projet.
   items:
-    - { icon: tag,   title: "Conditions préférentielles", text: "Des conditions adaptées à une ASBL culturelle." }
-    - { icon: euro,  title: "Partenariat tarifaire",      text: "L'accès aux conditions réservées aux professionnels." }
-    - { icon: boxes, title: "Prix quantité",              text: "Une tarification dégressive sur un volume défini." }
-    - { icon: wood,  title: "Fourniture de panneaux",     text: "La mise à disposition de multiplex bouleau ou de panneaux techniques." }
-    - { icon: cnc,   title: "Découpe CNC",                text: "L'usinage de nos façades, évents et renforts sur vos machines." }
-    - { icon: link,  title: "Partenariat partiel",        text: "Une prise en charge d'une partie du matériel, en échange de visibilité." }
-    - { icon: star,  title: "Partenariat complet",        text: "La fourniture du bois nécessaire au projet, avec une visibilité maximale." }
+    - {
+        icon: tag,
+        title: 'Conditions préférentielles',
+        text: 'Des conditions adaptées à une ASBL culturelle.',
+      }
+    - {
+        icon: euro,
+        title: 'Partenariat tarifaire',
+        text: "L'accès aux conditions réservées aux professionnels.",
+      }
+    - {
+        icon: boxes,
+        title: 'Prix quantité',
+        text: 'Une tarification dégressive sur un volume défini.',
+      }
+    - {
+        icon: wood,
+        title: 'Fourniture de panneaux',
+        text: 'La mise à disposition de multiplex bouleau ou de panneaux techniques.',
+      }
+    - {
+        icon: cnc,
+        title: 'Découpe CNC',
+        text: "L'usinage de nos façades, évents et renforts sur vos machines.",
+      }
+    - {
+        icon: link,
+        title: 'Partenariat partiel',
+        text: "Une prise en charge d'une partie du matériel, en échange de visibilité.",
+      }
+    - {
+        icon: star,
+        title: 'Partenariat complet',
+        text: 'La fourniture du bois nécessaire au projet, avec une visibilité maximale.',
+      }
 
 onepager:
   pitch: >-
     Falc'ohm System est une ASBL belge qui organise des événements musicaux (Gazmatek) et fabrique ses propres enceintes acoustiques. Nous lançons une nouvelle série de caissons et recherchons un partenaire bois pour le multiplex bouleau, sur plusieurs années de construction et de maintenance.
+

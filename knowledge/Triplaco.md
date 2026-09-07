@@ -4,7 +4,7 @@
 |---|---|
 | **Secteur / module** | `bois` |
 | **Persona** | `fournisseur-technique` |
-| **Phase** | 1 — équiper Falc'ohm |
+| **Phase** | 1, équiper Falc'ohm |
 | **Score CRM** | 30 (montera à 50+ dès qu'un interlocuteur est nommé) |
 | **Site** | https://www.triplaco.be |
 | **Fiche CRM** | `crm/companies/triplaco.yaml` |
@@ -28,7 +28,7 @@ dimension ou du CNC.
 ## 4. Qui décide
 | Nom | Fonction | E-mail | Téléphone | Source | Notes |
 |---|---|---|---|---|---|
-| | Directeur commercial | | | | **À identifier — priorité n°1** |
+| | Directeur commercial | | | | **À identifier, priorité n°1** |
 
 Pour une remise ou une fourniture, c'est le **directeur commercial** ou le **responsable d'agence**,
 pas le service marketing.
@@ -39,7 +39,7 @@ pas le service marketing.
 ## 6. Arguments qui fonctionnent (hypothèses à valider)
 1. **Usage réel, visible** : leurs panneaux montés en caisson, joués chaque week-end, marqués à
    leur nom.
-2. **Récurrence** : ce n'est pas une commande unique — 5 à 10 ans de construction et de maintenance.
+2. **Récurrence** : ce n'est pas une commande unique, 5 à 10 ans de construction et de maintenance.
 3. **Preuve produit** : un caisson qui encaisse des centaines de montages est un argument
    commercial pour eux, auprès de leurs propres clients.
 
@@ -56,7 +56,7 @@ pas le service marketing.
 ## 9. Historique
 | Date | Action | Canal | Résultat |
 |---|---|---|---|
-| 2026-07-14 | Dossier + one-pager générés | — | En attente d'un interlocuteur nommé |
+| 2026-07-14 | Dossier + one-pager générés |, | En attente d'un interlocuteur nommé |
 
 ## 10. Prochaine action
 - [ ] **Identifier le directeur commercial** (LinkedIn, appel à l'accueil). Sans nom, ne pas envoyer.

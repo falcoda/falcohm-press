@@ -1,0 +1,182 @@
+# Consommation boissons, la base chiffrée du dossier brasserie.
+#
+# POURQUOI CE FICHIER : une brasserie n'accorde pas de conditions partenaire sur un discours,
+# elle les accorde sur un VOLUME. Un volume inventé se retourne au premier bon de commande.
+#
+# RÈGLE : aucun chiffre ici sans source. Une seule case reste vide, celle du 31/10/2025, et
+# elle reste vide tant que le chiffre réel n'est pas retrouvé. Ne pas l'estimer.
+#
+# Chiffres communiqués par Corentin Dallenogare le 2026-09-04.
+# Unité : TOUS les fûts sont des 30 L. Un fût = 30 litres, sans exception dans ce fichier.
+
+meta:
+  retrieved_on: '2026-09-04'
+  filled_by: Corentin Dallenogare
+  source: Relevé communiqué de mémoire par Corentin. Pas de facture à l'appui à ce jour.
+  confirmed: false
+  unit_note: Fût standard 30 L. Les lignes sans détail produit sont de la pils.
+
+# ---------------------------------------------------------------------------
+# 1. QUI TIENT LE BAR
+# ---------------------------------------------------------------------------
+bar_control:
+  default: falcohm
+  confirmed: true
+  confirmed_on: '2026-09-04'
+  note: >-
+    CONFIRMÉ PAR CORENTIN le 2026-09-04 : nous tenons le bar sur l'ensemble de ces dates.
+    Le décompte est donc entièrement servable par un partenaire brasseur, aucune ligne
+    n'est à retirer. C'est ce qui rend le volume négociable.
+
+# ---------------------------------------------------------------------------
+# 2. VOLUMES PAR DATE
+# ---------------------------------------------------------------------------
+# `event_slug` : correspondance PROBABLE avec events/*.yaml, à confirmer. Les fiches événements
+# ont toutes une date en TODO ; ces dates pourraient les remplir. Ne pas les y écrire avant
+# confirmation de Corentin.
+events:
+  - date: '2025-03-13'
+    label: 13/14-03-2025, sur deux jours
+    attendance: 400
+    kegs: { pils: 10, ipa: 3 }
+    kegs_total: 13
+    litres: 390
+    event_slug: ''            # TODO
+
+  - date: '2025-05-17'
+    label: 17-05-2025
+    attendance: 600
+    kegs: { pils: 15 }
+    kegs_total: 15
+    litres: 450
+    event_slug: into-the-rave-iii        # confirmé par Corentin le 2026-09-04
+
+  - date: '2025-07-04'
+    label: 04-07-2025
+    attendance: 900
+    kegs: { pils: 20 }
+    kegs_total: 20
+    litres: 600
+    event_slug: gazmatek-invites-sp23    # confirmé par Corentin le 2026-09-04
+
+  - date: '2025-10-31'
+    label: 31-10-2025
+    attendance: 2500
+    kegs: null                # TODO, CHIFFRE MANQUANT
+    kegs_total: null          # TODO
+    litres: null              # TODO
+    event_slug: shadow-3-stages          # confirmé par Corentin le 2026-09-04
+    note: >-
+      LA PLUS GROSSE DATE DU RELEVÉ, et la seule sans chiffre. C'est celle qui pèserait le plus
+      dans le dossier brasserie. NE PAS L'ESTIMER : la retrouver. Sur le ratio observé ailleurs
+      (0,86 L par personne), elle représenterait un volume important, mais un ordre de grandeur
+      n'est pas un chiffre et ne s'envoie pas à un fournisseur.
+
+  - date: '2025-12-06'
+    label: 06-12-2025
+    attendance: 300
+    kegs: { pils: 8 }
+    kegs_total: 8
+    litres: 240
+    event_slug: ''            # TODO
+
+  - date: '2026-05-02'
+    label: 02-05-2026
+    attendance: 1700
+    kegs: { pils: 60 }
+    kegs_total: 60
+    litres: 1800
+    event_slug: free-tekno               # confirmé par Corentin le 2026-09-04
+
+  - date: '2026-05-16'
+    label: 16-05-2026, session de jour
+    attendance: 1800
+    kegs: { pils: 45 }
+    kegs_total: 45
+    litres: 1350
+    event_slug: ''            # TODO
+
+  - date: '2026-05-16'
+    label: 16-05-2026, session de nuit
+    attendance: 600
+    kegs: { pils: 15 }
+    kegs_total: 15
+    litres: 450
+    event_slug: ''            # TODO, même date que la session de jour
+
+  - date: '2026-06-27'
+    label: 27-06-2026
+    attendance: 340
+    kegs: { pils: 9, ipa: 2, triple: 2 }
+    kegs_total: 13
+    litres: 390
+    event_slug: ''            # TODO
+
+  - date: '2026-07-04'
+    label: 04-07-2026
+    attendance: 450
+    kegs: { pils: 12, triple: 2 }
+    kegs_total: 14
+    litres: 420
+    event_slug: bodies-in-space          # confirmé par Corentin le 2026-09-04
+
+# ---------------------------------------------------------------------------
+# 3. SYNTHÈSE, ce qui part chez la brasserie
+# ---------------------------------------------------------------------------
+totals:
+  kegs_known: 203
+  litres_known: 6090
+  attendance_covered: 7090
+  litres_per_person: 0.86          # calculé, pas saisi. Fourchette observée : 0,67 à 1,15.
+  note: >-
+    Le ratio est remarquablement stable d'une date à l'autre, ce qui rend le relevé crédible
+    auprès d'un brasseur : ce n'est pas une estimation lissée, ce sont des achats réels.
+
+by_year:
+  '2025':
+    dates: 5
+    dates_with_figures: 4
+    kegs: 56
+    litres: 1680
+    note: INCOMPLET. Le 31/10/2025 (2500 personnes) manque, et c'est la plus grosse date.
+  '2026':
+    dates: 4
+    sessions: 5
+    kegs: 147
+    litres: 4410
+    note: >-
+      Année complète à ce jour. 4 410 L sur cinq sessions. C'est le chiffre à mettre en avant :
+      il est entier, il est récent, et il ne dépend d'aucune donnée manquante.
+
+products:
+  pils: { kegs: 194, litres: 5820, share_pct: 96 }
+  ipa: { kegs: 5, litres: 150, share_pct: 2 }
+  triple: { kegs: 4, litres: 120, share_pct: 2 }
+  note: >-
+    La pils fait 96 % du volume. C'est le produit sur lequel se négocient les conditions.
+    L'IPA et la triple sont apparues en 2026 seulement : une gamme d'abbaye a donc sa place.
+
+# ---------------------------------------------------------------------------
+# 4. L'EXISTANT, ce qu'un brasseur demande toujours en deuxième question
+# ---------------------------------------------------------------------------
+current_supply:
+  supplier: ''                # non consigné ici, mais DÉJÀ COMMUNIQUÉ à St-Feuillien par Corentin
+  supplier_note: >-
+    Corentin a déjà dit à la brasserie chez qui Falc'ohm achète habituellement (2026-09-04).
+    Ne pas reposer la question dans un e-mail : elle est traitée. Le nom n'est simplement pas
+    consigné dans ce dépôt, ce qui n'a pas d'incidence sur le dossier en cours.
+  contract_lock: ''           # TODO, un contrat brasserie nous lie-t-il déjà ? jusqu'à quand ?
+  formats: [fût 30 L]
+  purchase_price_note: ''     # TODO, prix d'achat actuel par fût
+  source: ''
+
+# ---------------------------------------------------------------------------
+# 5. LOGISTIQUE
+# ---------------------------------------------------------------------------
+logistics:
+  has_taps: null              # TODO, tireuse : combien de becs
+  has_cooling: null           # TODO
+  has_co2: null               # TODO
+  storage: ''                 # TODO
+  delivery_point: ''          # TODO
+  can_return_empties: null    # TODO, reprise des fûts vides

@@ -2,18 +2,18 @@
 
 | # | Étape | Ce qu'on fait | Document produit | Sortie / critère | KPI | Automatisable |
 |---|---|---|---|---|---|---|
-| 1 | **Lead** | Repérer une entreprise (salon, concurrent d'un partenaire, fournisseur qu'on utilise déjà) | `crm/companies/<slug>.yaml` | Fiche créée | Nb de leads / mois | Oui — script d'import |
-| 2 | **Qualification** | Le module existe-t-il ? Le moment est-il bon ? La taille est-elle adaptée ? | Score CRM | Score ≥ 40 | % de leads qualifiés | Oui — `crm.score()` |
-| 3 | **Recherche** | Qui décide ? Que sponsorisent-ils déjà ? Quelles valeurs ? | `knowledge/<Entreprise>.md` | Interlocuteur **nommé** | % de fiches avec nom + e-mail | Partiellement — recherche web |
+| 1 | **Lead** | Repérer une entreprise (salon, concurrent d'un partenaire, fournisseur qu'on utilise déjà) | `crm/companies/<slug>.yaml` | Fiche créée | Nb de leads / mois | Oui, script d'import |
+| 2 | **Qualification** | Le module existe-t-il ? Le moment est-il bon ? La taille est-elle adaptée ? | Score CRM | Score ≥ 40 | % de leads qualifiés | Oui, `crm.score()` |
+| 3 | **Recherche** | Qui décide ? Que sponsorisent-ils déjà ? Quelles valeurs ? | `knowledge/<Entreprise>.md` | Interlocuteur **nommé** | % de fiches avec nom + e-mail | Partiellement, recherche web |
 | 4 | **Documents** | Générer le dossier ciblé | `python -m kit --target <slug>` | PDF + one-pager + e-mail | Temps de production (< 1 min) | **Oui, entièrement** |
-| 5 | **Premier contact** | Envoyer, à une personne, jamais à `info@` | `output/<E>/email.md` | E-mail envoyé | Taux d'ouverture / réponse | Semi — l'envoi reste manuel |
-| 6 | **Relance J+10** | Court, une seule question | `emails/relance-j10.md` | — | Taux de réponse après relance | Oui — alerte CRM |
-| 7 | **Relance J+30** | Dernière tentative, on laisse la porte ouverte | `emails/relance-j30.md` | — | — | Oui — alerte CRM |
+| 5 | **Premier contact** | Envoyer, à une personne, jamais à `info@` | `output/<E>/email.md` | E-mail envoyé | Taux d'ouverture / réponse | Semi, l'envoi reste manuel |
+| 6 | **Relance J+10** | Court, une seule question | `emails/relance-j10.md` |, | Taux de réponse après relance | Oui, alerte CRM |
+| 7 | **Relance J+30** | Dernière tentative, on laisse la porte ouverte | `emails/relance-j30.md` |, |, | Oui, alerte CRM |
 | 8 | **Visio** | 20 min, comprendre leur intérêt, pas vendre | Compte-rendu dans `interactions` | Besoin identifié | Nb de visios / mois | Non |
 | 9 | **Proposition** | Contreparties chiffrées, adaptées à ce qu'ils ont dit | `proposals/<slug>.md` | Proposition envoyée | Taux de passage visio → proposition | Semi |
-| 10 | **Négociation** | Ajuster le périmètre, pas brader la marque | — | Accord de principe | Durée moyenne | Non |
+| 10 | **Négociation** | Ajuster le périmètre, pas brader la marque |, | Accord de principe | Durée moyenne | Non |
 | 11 | **Signature** | Convention écrite, même courte | `proposals/<slug>-convention.md` | Contrat signé | Taux de closing | Non |
-| 12 | **Activation** | Livrer ce qu'on a promis : logo, post, marquage, photos | Checklist d'activation | Contreparties livrées | % de contreparties livrées | Oui — checklist |
+| 12 | **Activation** | Livrer ce qu'on a promis : logo, post, marquage, photos | Checklist d'activation | Contreparties livrées | % de contreparties livrées | Oui, checklist |
 | 13 | **Suivi** | Envoyer les preuves : photos, stats du post, matériel en usage | Rapport d'activation | Partenaire content | Nb de preuves envoyées | Semi |
 | 14 | **Renouvellement** | Bilan chiffré + proposition de reconduction | `proposals/<slug>-bilan.md` | Reconduction | Taux de renouvellement | Semi |
 

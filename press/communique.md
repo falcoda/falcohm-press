@@ -1,4 +1,4 @@
-# Communiqué de presse — modèle
+# Communiqué de presse, modèle
 
 **{{VILLE}}, le {{DATE}}**
 
@@ -15,13 +15,13 @@ technique avec Falc'ohm System. Plus de quarante bénévoles y participent.
 **Ce que cela permet.** {{IMPACT}}
 
 > « {{CITATION_PRESIDENT}} »
-> — Corentin Dallenogare, président de {{ORG}}
+>, Corentin Dallenogare, président de {{ORG}}
 
 > « {{CITATION_PARTENAIRE}} »
-> — {{CONTACT_NAME}}, {{CONTACT_ROLE}}, {{COMPANY}}
+>, {{CONTACT_NAME}}, {{CONTACT_ROLE}}, {{COMPANY}}
 
 **Contact presse**
-Corentin Dallenogare — contact@falcohmsystem.com
+Corentin Dallenogare, contact@falcohmsystem.com
 www.gazmatek.com · www.falcohmsystem.com
 
 *Visuels haute définition disponibles sur demande.*

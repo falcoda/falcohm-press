@@ -10,10 +10,10 @@ persona: fournisseur-technique
 categories:
 - amplification
 - distributors
-status: lead
+status: sent
 phase: 1
 tags: []
-score: 15
+score: 34
 website: https://www.beglec.com
 knowledge: ''
 profile:
@@ -21,10 +21,10 @@ profile:
     basé à Groot-Bijgaarden (Grand-Bruxelles). Propriétaire d'un portefeuille de marques
     maison couvrant l'amplification, l'éclairage, le câblage et les flightcases.
   products:
-  - Synq — amplification et audio professionnel
-  - JB Systems — son et lumière
-  - Hilec — câbles et accessoires
-  - JV Case — flightcases et accessoires
+  - Synq, amplification et audio professionnel
+  - JB Systems, son et lumière
+  - Hilec, câbles et accessoires
+  - JV Case, flightcases et accessoires
   - Audiophony / Audiophony PA, Briteq, Contest, Contestage
   size:
     employees: ''
@@ -32,8 +32,8 @@ profile:
   identifiers:
     vat: BE 0403.103.393
     linkedin: ''
-why_us: 'Beglec est à 30 minutes de Genappe — c''est la cible géographiquement la
-  plus proche du module. Et son portefeuille de marques maison couvre plusieurs besoins
+why_us: 'Beglec est à 30 minutes de Genappe, c''est la cible géographiquement la plus
+  proche du module. Et son portefeuille de marques maison couvre plusieurs besoins
   d''un coup : Synq pour l''amplification, Hilec pour le câblage des façades et des
   racks, JV Case pour les flightcases. Une entreprise qui possède ses propres marques
   a une marge de manœuvre bien plus grande qu''un simple revendeur pour faire un geste
@@ -43,13 +43,26 @@ why_us: 'Beglec est à 30 minutes de Genappe — c''est la cible géographiqueme
 ask:
   type:
   - material
-  - discount
   - loan
-  detail: 'Dotation ou prêt longue durée d''amplification Synq pour les nouveaux caissons,
-    fourniture de câblage Hilec (câbles HP, connectique) et éventuellement de flightcases
-    JV Case pour le transport du système. Contrepartie : marquage sur les racks, visibilité
-    sur 10-15 événements/an et matériel en usage réel exploitable en communication.'
+  - consumables
+  - discount
+  detail: 'Un soutien materiel sur trois postes, ENONCES EN CATEGORIES et jamais en
+    marques : (1) ECLAIRAGE, le poste le moins couvert du parc et le seul que presque
+    personne du fichier ne vend ; (2) CABLAGE ET CONNECTIQUE : cables HP, multipaires,
+    connecteurs, panneaux ; (3) RACKS D''AMPLIS ET FLIGHTCASES uniquement, pas d''autres
+    racks. En dotation, pret longue duree ou conditions preferentielles. NE PAS citer
+    leurs marques maison dans l''e-mail : on sait qu''ils les possedent, c''est ce
+    qui rend la demande realiste, mais leur reciter leur catalogue donne l''impression
+    de choisir a leur place. NE PAS demander d''amplification : poste couvert par
+    ADmark. Contrepartie : marquage sur les cases, les racks et les structures, visibilite
+    sur 10-15 evenements et aupres des 27 000 abonnes.'
   realistic_value_eur: 4500
+  public: "- de l'éclairage : c'est aujourd'hui le poste le moins équipé de notre\
+    \ parc ;\n- du câblage et de la connectique : câbles haut-parleurs, multipaires,\
+    \ connecteurs et panneaux\n  pour les racks et les façades. Nous en reprenons\
+    \ à chaque série et à chaque réparation ;\n- des racks d'amplis et des flightcases.\
+    \ Un système qui se déplace dix à quinze fois par an\n  s'abîme dans le camion,\
+    \ pas sur scène."
 values:
 - entreprise belge
 - marques propres
@@ -83,15 +96,34 @@ inbound_channels:
 - type: portal
   url: https://www.beglec.com/departments-representatives
 scoring:
-  business_fit: 5
+  business_fit: 8
   partnership_probability: 6
-  impact_if_successful: 5
+  impact_if_successful: 7
   rationale: 'Fit le plus faible du module : Beglec ne fabrique pas de transducteurs
     et ses marques (Synq, Audiophony) sont positionnées prosumer, en dessous du niveau
-    visé pour un système de sonorisation de festival — ce n''est pas le partenaire
+    visé pour un système de sonorisation de festival, ce n''est pas le partenaire
     du cœur du projet. Mais la proximité (30 min) et le fait qu''ils possèdent leurs
     marques rendent un geste matériel peu coûteux pour eux et donc plausible. Impact
-    modéré : de l''ampli d''appoint, du câblage, des flightcases — utile, pas décisif.'
+    modéré : de l''ampli d''appoint, du câblage, des flightcases, utile, pas décisif.
+
+
+    REVU LE 2026-09-03 : business_fit ramene a 5. Le volet amplification Synq tombe
+    : le poste est couvert par ADmark. Restent deux besoins reels et non couverts,
+    qui suffisent a justifier la demarche : le cablage Hilec (cables HP, connectique,
+    panneaux Speakon) et les flightcases JV Case pour le transport. Kevin David couvre
+    la Wallonie et Bruxelles, c''est-a-dire le territoire ou le materiel tourne.
+
+
+    REVU LE 2026-09-04 : business_fit remonte de 5 a 8. La demande a ete reformulee
+    en positif et elle revele ce que la formulation negative masquait : Beglec possede
+    Briteq, JB Systems, Contest et Contestage, donc L''ECLAIRAGE. C''est le poste
+    le moins couvert du parc et aucune autre cible du fichier ne le vend. Avec Hilec
+    pour le cable et JV Case pour les racks, ils couvrent trois besoins reels a eux
+    seuls. S''y ajoute qu''ils possedent leurs marques : le cout d''une dotation est
+    leur prix de revient, pas le prix catalogue. impact_if_successful remonte de 5
+    a 7 dans la foulee : un partenaire qui couvre l''eclairage, le cablage ET les
+    flightcases remplace trois demarches par une, et il debloque le seul poste du
+    parc que personne d''autre ne peut fournir.'
 deadlines: []
 sources:
 - url: https://www.beglec.com/
@@ -106,17 +138,27 @@ documents:
 - output\Beglec-NV\Beglec-NV-Partnership-2026.pdf
 - output\Beglec-NV\Beglec-NV-OnePager-2026.pdf
 - output\Beglec-NV\email.md
-interactions: []
+interactions:
+- date: '2026-09-04'
+  type: mail
+  resume: 'Envoye 09:24 a Kevin David (Commercial Wallonie/Bruxelles), copie ventes@.
+    Objet : « Soutien materiel : eclairage, cablage et flightcases ». Demande en categories
+    sans citer leurs marques maison : eclairage, cablage et connectique, racks d''amplis
+    et flightcases. Amplification exclue (ADmark). Dossier PDF joint.'
 events: []
 next_action:
-  what: ''
-  due: ''
+  what: 'BROUILLON GMAIL PRET dans contact@falcohmsystem.com (cree le 2026-09-03).
+    IL RESTE A JOINDRE LE PDF : output/Beglec-NV/, le connecteur ne peut pas porter
+    un fichier de 2 Mo. Puis envoyer. FR, Kevin David couvre Wallonie/Bruxelles, c''est
+    l''argument d''ouverture. Des l''envoi : python -m kit --log beglec mail "..."
+    --status sent --date <ISO>.'
+  due: '2026-09-04'
 notes: 'Aucun e-mail public : la page « general contact » ne propose qu''un formulaire.
-  Coordonnées lues : "Beglec NV", "''t Hofveld 2C, B-1702 Groot-Bijgaarden – Belgium"
+  Coordonnées lues : "Beglec NV", "''t Hofveld 2C, B-1702 Groot-Bijgaarden, Belgium"
   (Industriezone ''Gosset''), tél. "+32(0)2/481.70.70", "BTW: BE 0403.103.393". Le
   site expose une section « Departments & Representatives » qui n''a pas pu être ouverte
-  (404 sur l''URL devinée) : À OUVRIR MANUELLEMENT depuis le menu du site — c''est
+  (404 sur l''URL devinée) : À OUVRIR MANUELLEMENT depuis le menu du site, c''est
   là que devraient se trouver les interlocuteurs nommés. NB : Beglec possède aussi
-  JV Case (flightcases) et Hilec (câbles) — cette fiche recoupe donc partiellement
+  JV Case (flightcases) et Hilec (câbles), cette fiche recoupe donc partiellement
   les modules flightcases et connectique. À signaler aux autres pistes pour ne pas
   les démarcher deux fois.'

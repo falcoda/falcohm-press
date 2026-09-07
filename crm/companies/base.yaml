@@ -8,11 +8,11 @@ sector: telecom
 persona: marque-grand-public
 categories:
 - telecom
-status: lead
+status: meeting
 phase: 2
 tags:
 - marque
-score: 25
+score: 34
 website: https://www.base.be
 knowledge: knowledge/Base.md
 profile:
@@ -36,7 +36,7 @@ why_us: 'Falc''ohm a DÉJÀ fourni du matériel de sonorisation pour une campagn
   prédicteur d''un oui. Surtout, l''opportunité est ACTIVE et DATÉE : la cabine d''enregistrement
   mobile Base tourne dans les festivals belges cet été 2026 pour collecter des voix
   avant la sortie du titre en septembre. Gazmatek (10-15 événements/an, +10 000 festivaliers,
-  27 000 abonnés) est exactement le public que Base cherche à capter — maintenant.'
+  27 000 abonnés) est exactement le public que Base cherche à capter, maintenant.'
 ask:
   type:
   - visibility
@@ -53,20 +53,21 @@ values:
 - musique et co-création
 - soutien aux talents belges
 prior_relationship:
-  what: Location de matériel de sonorisation Falc'ohm pour la campagne publicitaire
-    Base « Génération Débrouille feat. Camille Yembe »
+  what: 'Prestation commerciale facturee : Falc''ohm a fourni le materiel et realise
+    une publicite pour Base (campagne « Generation Debrouille feat. Camille Yembe
+    »), avec une prestation renouvelee le 2026-09-06. Relation de FOURNISSEUR, pas
+    de partenaire.'
   when: ''
-  proof: public
+  proof: photos
   source_url: https://www.youtube.com/watch?v=IKsPTZR0VB4
-  note: 'Vidéo « TBWA X BASE: Génération Débrouille (FR) », chaîne TBWA\Belgium, publiée
-    le 2025-11-06 (40 s). Le matériel Falc''ohm est, selon Corentin Dallenogare (président),
-    visible à l''image dans la campagne ; le TIMECODE EXACT et l''identification à
-    l''image restent à confirmer par Corentin. NB : cette vidéo est le spot « chapeau
-    » Génération Débrouille (TBWA, nov. 2025) ; l''activation musicale Camille Yembe
-    est la phase 2026 (Wave/VML) — vérifier avec Corentin dans quelle vidéo précise
-    apparaît le matériel. Collaboration NON créditée publiquement sur la page promo.
-    À utiliser en direct auprès de Base, qui le sait ; ne pas la présenter comme un
-    fait public établi dans un document diffusé.'
+  note: 'Trois photos du tournage du 2026-09-06 (assets/partners/base-2026/) montrent
+    le logo Base sur le materiel Falc''ohm. ATTENTION A LEUR USAGE : le marquage releve
+    de l''habillage de tournage, pas d''un accord de visibilite. Les diffuser hors
+    de Base laisserait croire a un partenariat qui n''existe pas, et utiliserait leur
+    marque sans autorisation. Usage interne uniquement, sauf accord ecrit de Base.
+    En revanche, l''argument reste excellent EN DIRECT AUPRES DE BASE : ils connaissent
+    notre materiel, ils l''ont paye, ils l''ont filme. Le passage du statut de fournisseur
+    a celui de partenaire est une demande NOUVELLE, qu''ils n''ont pas encore examinee.'
 sponsorship_history:
 - what: 'Campagne co-créative « Génération Débrouille feat. Camille Yembe » : Base
     finance un dispositif musical (studio, cabine mobile en festivals, clip, sortie
@@ -74,13 +75,13 @@ sponsorship_history:
     VML, média Wavemaker.'
   url: https://pub.be/fr/wave-et-base-donnent-une-voix-a-la-generation-debrouille-avec-camille-yembe/
   retrieved_on: 2026-07-14
-- what: « Génération Débrouille » — plateforme de marque primée (Effie 2024), campagne
+- what: « Génération Débrouille », plateforme de marque primée (Effie 2024), campagne
     TBWA multi-supports (OOH, radio, cinéma, social).
   url: https://tbwa.be/work/base-generation-debrouille/
   retrieved_on: 2026-07-14
 contacts:
 - name: Sylvie Dewaele
-  role: Partnerships — TBWA\Belgium (agence créative du spot Base)
+  role: Partnerships, TBWA\Belgium (agence créative du spot Base)
   email: sylvie.dewaele@tbwa.be
   email_status: verified_public
   linkedin: ''
@@ -90,7 +91,7 @@ contacts:
   evidence: Partnerships — sylvie.dewaele@tbwa.be (TBWA Belgium, Excelsiorlaan 75/77,
     1930 Zaventem, +32 2 679 75 00)
 - name: Nicolas De Bauw / Max Fauconnier
-  role: Business / New business — TBWA\Belgium
+  role: Business / New business, TBWA\Belgium
   email: nicolas.de.bauw@tbwa.be
   email_status: verified_public
   linkedin: ''
@@ -99,7 +100,7 @@ contacts:
   retrieved_on: 2026-07-14
   evidence: Business — nicolas.de.bauw@tbwa.be / max.fauconnier@tbwa.be
 - name: Kurt Tuypens
-  role: CEO & Founder — Wave (agence du volet musical Camille Yembe)
+  role: CEO & Founder, Wave (agence du volet musical Camille Yembe)
   email: hello@wave-agency.com
   email_status: verified_public
   linkedin: ''
@@ -109,7 +110,7 @@ contacts:
   evidence: Wave — hello@wave-agency.com — Kurt Tuypens, CEO & Founder (Alfred Nichelsstraat
     14, 9300 Aalst, BE 0563.764.592)
 - name: Stefan Coenjaerts
-  role: Porte-parole / presse — Telenet group (Base)
+  role: Porte-parole / presse, Telenet group (Base)
   email: stefan.coenjaerts@telenetgroup.be
   email_status: verified_public
   linkedin: ''
@@ -119,7 +120,7 @@ contacts:
   evidence: Stefan Coenjaerts — Telenet group — stefan.coenjaerts@telenetgroup.be
     — +32 (0)15 33 55 44
 - name: Elise Verlinden
-  role: Social Impact SPOC (sponsoring) — Telenet
+  role: Social Impact SPOC (sponsoring), Telenet
   email: elise.verlinden@telenetgroup.be
   email_status: verified_public
   linkedin: ''
@@ -134,21 +135,34 @@ inbound_channels:
 - type: portal
   url: https://press.telenet.be/en
 scoring:
-  business_fit: 6
-  partnership_probability: 6
+  business_fit: 7
+  partnership_probability: 7
   impact_if_successful: 7
-  rationale: 'Probabilité la plus haute des six fiches, et de loin : (1) antécédent
-    commercial PROUVABLE — Base peut vérifier sur sa propre campagne que Falc''ohm
-    a déjà fourni du matériel ; (2) besoin ACTIF et DATÉ — la cabine mobile tourne
-    en festivals cet été 2026, le titre sort en septembre, la fenêtre est ouverte
-    maintenant ; (3) adéquation d''audience — le public Gazmatek est exactement la
-    « Génération Débrouille » que Base cherche à capter. Contact chaud via les agences
-    (TBWA/Wave) qui ont loué le matériel : témoins ET prescripteurs auprès du client.
-    Non retenu plus haut car le décideur budget côté Base/Telenet reste à confirmer
-    et la fenêtre est courte.'
+  rationale: 'REVU LE 2026-09-07, APRES CORRECTION DE CORENTIN. La relation avec Base
+    est COMMERCIALE : Falc''ohm leur facture des prestations, dont une publicite tournee
+    le 2026-09-06. Il n''y a ni collaboration ni sponsoring a ce jour, et le logo
+    vu sur le materiel releve du decor de tournage. business_fit 7 : ce n''est pas
+    de la visibilite recherchee, c''est un client qui paie, donc un revenu recurrent,
+    ce qui vaut mieux qu''une faveur. partnership_probability 7, ramene de 8 : ils
+    nous connaissent, nous paient et ont vu le materiel a l''oeuvre, ce qui est le
+    meilleur predicteur possible ; mais passer de fournisseur a partenaire est une
+    demande NEUVE qu''ils n''ont jamais examinee, et le decideur budget reste inconnu.
+    Ne pas confondre une relation qui marche avec un oui acquis. impact_if_successful
+    7 : ordre de grandeur 5 000 EUR, et surtout une reference telecom nationale qui
+    credibilise tout le reste du fichier.'
 deadlines:
-- what: 'Fenêtre d''activation : accueillir la cabine Base avant la sortie du titre
-    Camille Yembe. Après, l''activation n''a plus d''objet.'
+- what: 'SURVEILLER LA SORTIE DU CLIP Camille Yembe. C''est le DECLENCHEUR de la demande
+    de partenariat, pas une echeance a respecter : tant qu''il n''est pas sorti, le
+    materiel Falc''ohm n''est visible nulle part publiquement et la demande repose
+    sur du privé. Une fois sorti, il devient une reference citable dans une campagne
+    nationale, et reprendre contact a un pretexte naturel. Verifier la page promo
+    et les reseaux Base chaque semaine.'
+  date: '2026-09-30'
+  url: https://www.base.be/fr/promo/camille.html
+- what: 'Fenetre de la CABINE D''ENREGISTREMENT, a ne pas confondre avec la demande
+    de partenariat. Accueillir la cabine mobile sur une date Gazmatek n''a de sens
+    QU''AVANT la sortie du titre. PREALABLE : Gazmatek a-t-il seulement une date programmee
+    d''ici la ? Si non, cette demande est caduque et il n''y a rien a regretter.'
   date: '2026-09-30'
   url: https://www.base.be/fr/promo/camille.html
 sources:
@@ -173,21 +187,56 @@ documents:
 - output\Base\Base-Partnership-2026.pdf
 - output\Base\Base-OnePager-2026.pdf
 - output\Base\email.md
-interactions: []
+- assets/partners/base-2026/base-marquage-facade-2026-09-06.jpg
+- assets/partners/base-2026/base-marquage-mur-de-subs-2026-09-06.jpg
+- assets/partners/base-2026/base-marquage-stack-top-2026-09-06.jpg
+interactions:
+- date: '2026-09-03'
+  type: note
+  resume: 'Corentin annonce que Falc''ohm retravaille pour la campagne Camille Yembe
+    le 2026-09-06 (rapporte oralement ; nature exacte de la prestation a preciser).
+    La fenetre d''activation Base se ferme le 30/09 : il reste une seule occasion
+    de faire la demande en personne, et c''est le 06/09. Scoring revu 25 -> 39.'
+- date: '2026-09-06'
+  type: contact
+  resume: 'PRESTATION DU 2026-09-06 : bien passee. NATURE EXACTE, precisee par Corentin
+    le 2026-09-07 : Falc''ohm a REALISE UNE PUBLICITE POUR BASE. C''est une prestation
+    commerciale facturee, PAS une collaboration ni un sponsoring. Aucun accord de
+    partenariat n''existe a ce jour. Le logo Base appose sur le materiel (facade d''un
+    top, flanc d''un caisson, deux subs du mur de 21 pouces) fait partie du DECOR
+    DU TOURNAGE : c''est un habillage de production, pas un marquage partenaire. Trois
+    photos dans assets/partners/base-2026/. NE PAS presenter ces images comme la preuve
+    d''un partenariat, ni a Base, ni a une autre cible : ce serait suggerer une caution
+    que Base n''a jamais donnee. CE QU''ELLES PROUVENT REELLEMENT, et c''est deja
+    beaucoup : une marque telecom nationale a choisi ce materiel pour tourner sa campagne,
+    et il tient a l''image. A CONFIRMER : le nom du decideur budget cote Base ou Telenet
+    a-t-il ete obtenu ?'
 events: []
 next_action:
-  what: Contacter TBWA (Partnerships) et Base pour accueillir la cabine Camille Yembe
-    sur un événement, AVANT septembre 2026
-  due: '2026-09-30'
+  what: 'STRATEGIE ARRETEE LE 2026-09-07 : attendre la sortie du clip pour demander
+    le partenariat, mais NE PAS attendre pour securiser ce qui se perd. (1) CETTE
+    SEMAINE, obtenir le NOM et l''adresse du decideur budget sponsoring chez Base
+    ou Telenet. Demander un nom n''est pas demander une faveur : ca n''engage rien,
+    ca ne peut pas etre refuse, et ca preserve l''option. Le tournage est frais dans
+    les tetes, et les equipes d''agence se dispersent apres un lancement. C''est la
+    seule chose qui se perd si l''on attend. (2) VERIFIER si Gazmatek a une date programmee
+    avant le 30/09. Si oui, la cabine d''enregistrement peut encore etre proposee
+    ; si non, cette piste tombe d''elle-meme et on n''y pense plus. (3) A LA SORTIE
+    DU CLIP : ecrire au nom obtenu en (1). Ouverture naturelle, felicitations sur
+    la campagne, puis la demande de partenariat pour 2027. (4) NE RIEN PUBLIER des
+    photos du 06/09 avant la sortie officielle : diffuser des images d''un tournage
+    non sorti, c''est griller le lancement de son propre client. C''est le genre d''erreur
+    qui coute la relation commerciale, pas seulement le partenariat.'
+  due: '2026-09-12'
 notes: 'Campagne 2026 : agence créative TBWA\Belgium (signataire du spot, info@tbwa.be,
   +32 2 679 75 00, Zaventem), volet musical Wave (Aalst), contenu/documentaire VML,
   média Wavemaker (agence média de Telenet). Ces agences ont opérationnellement loué/déployé
   le matériel : contacts chauds et témoins de la collaboration. Côté Base/Telenet
-  : presse via Stefan Coenjaerts ; sponsoring « social impact » via Elise Verlinden
-  — MAIS ce canal vise le fossé numérique (charity), fit faible pour un festival musical,
+  : presse via Stefan Coenjaerts ; sponsoring « social impact » via Elise Verlinden,
+  MAIS ce canal vise le fossé numérique (charity), fit faible pour un festival musical,
   à manier comme porte secondaire. Leads sponsoring/marketing repérés en annuaire
   (RocketReach), e-mails NON vérifiés donc non inscrits : Jeroen Leen (Manager Marketing
-  Sponsoring) et Tom Guetens (Head of Retail Marketing, Brand Activation & Sponsoring)
-  — à approcher via LinkedIn, ne pas deviner d''adresse. Entité : Telenet, Liersesteenweg
+  Sponsoring) et Tom Guetens (Head of Retail Marketing, Brand Activation & Sponsoring),
+  à approcher via LinkedIn, ne pas deviner d''adresse. Entité : Telenet, Liersesteenweg
   4, 2800 Mechelen, BTW BE 0473.416.418. La cabine mobile (« phone booth » studio)
   tourne dans des festivals belges l''été 2026 ; titre attendu septembre 2026.'

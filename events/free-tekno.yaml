@@ -2,7 +2,7 @@
 # TODO : date exacte, lieu précis, lineup, budget, stats. Événement Falc'ohm System.
 slug: free-tekno
 name: Free Tekno
-date: '2026-01-01 # TODO'
+date: '2026-05-02'   # confirmé par Corentin le 2026-09-04, croisé avec data/consumption.yaml
 venue: Bruxelles
 city: ''
 capacity: '# TODO'

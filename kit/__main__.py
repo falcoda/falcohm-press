@@ -19,6 +19,7 @@ if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 from . import crm as crm_mod  # noqa: E402
+from . import consumption as consumption_mod
 from . import events as events_mod
 from .build import (build, build_target, list_dossiers, list_modules, list_personas,
                     list_targets, load_data, OUTPUT)
@@ -42,15 +43,20 @@ def main():
     ap.add_argument("--crm-sync", action="store_true",
                     help="crée les targets/ manquants depuis les fiches CRM")
     ap.add_argument("--crm-deadlines", action="store_true",
-                    help="les dates de dépôt des subsides, triées — rater une date coûte un an")
+                    help="les dates de dépôt des subsides, triées, rater une date coûte un an")
     ap.add_argument("--crm-plan", action="store_true",
                     help="génère docs/PLAN-DE-CONTACT.md : qui contacter, dans quel ordre")
     ap.add_argument("--tier", metavar="A|B|C", help="restreint --crm-rank à un tier")
     ap.add_argument("--top", type=int, default=25, help="la barre du --crm-rank (défaut : 25)")
     ap.add_argument("--events", action="store_true")
+    ap.add_argument("--consumption", action="store_true",
+                    help="le releve de consommation boissons en CSV, pour la brasserie")
     ap.add_argument("--log", nargs=3, metavar=("SLUG", "TYPE", "RESUME"),
                     help="trace une interaction : --log triplaco mail \"dossier envoyé\"")
     ap.add_argument("--status", metavar="ETAT", help="nouvel état du pipeline (avec --log)")
+    ap.add_argument("--date", metavar="ISO",
+                    help="date réelle de l'interaction (avec --log) : 2026-08-23. "
+                         "Sans elle, la date du jour, ce qui décale les relances J+10/J+30.")
     ap.add_argument("--list", action="store_true")
     ap.add_argument("-o", "--outdir", default=OUTPUT)
     a = ap.parse_args()
@@ -74,9 +80,11 @@ def main():
     if a.crm_brief:
         return crm_mod.brief(a.crm_brief)
     if a.log:
-        d = crm_mod.log(a.log[0], a.log[1], a.log[2], status=a.status)
+        d = crm_mod.log(a.log[0], a.log[1], a.log[2], status=a.status, date=a.date)
         print("✓ %s : %s (score %d)" % (d["company"], d["status"], d["score"]))
         return 0
+    if a.consumption:
+        return consumption_mod.report()
     if a.events:
         events_mod.report()
         return 0

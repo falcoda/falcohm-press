@@ -1,4 +1,4 @@
-**Objet :** Re: Partenariat {{MODULE}} — {{ORG}}
+**Objet :** Re: Partenariat {{MODULE}}, {{ORG}}
 
 Bonjour {{CONTACT_NAME}},
 
@@ -8,4 +8,4 @@ Une question simple : est-ce le genre de projet que {{COMPANY}} peut accompagner
 je m'adresse à quelqu'un d'autre chez vous ?
 
 Bien à vous,
-{{SENDER}} — {{ORG}}
+{{SENDER}}, {{ORG}}

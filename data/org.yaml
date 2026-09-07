@@ -1,5 +1,25 @@
-# Identité, contacts, liens. Source unique — ne jamais réécrire ailleurs.
+# Identité, contacts, liens. Source unique, ne jamais réécrire ailleurs.
 year: 2026
+
+# ---------------------------------------------------------------------------
+# DEUX MARQUES, PAS UNE. C'est une erreur de présentation, pas un détail.
+# ---------------------------------------------------------------------------
+# Une seule ASBL, deux noms de marque complémentaires. Les documents ont longtemps écrit
+# « projet Gazmatek », ce qui reléguait Gazmatek au rang de sous-produit. C'est faux :
+# les deux marques se citent ensemble, et chacune a son périmètre.
+brands:
+  - name: Gazmatek
+    scope: Les événements. C'est sous ce nom qu'on programme, qu'on communique et que le public nous connaît.
+    site: https://www.gazmatek.com
+  - name: Falc'ohm System
+    scope: >-
+      Le matériel. C'est sous ce nom qu'on construit et qu'on exploite le sound system, et c'est
+      aussi la raison sociale de l'ASBL. Nous FABRIQUONS les enceintes d'après les plans d'un
+      concepteur, nous ne les concevons pas : ne jamais l'écrire autrement.
+    site: https://falcohmsystem.com
+  # Formule de référence, reprise dans modules/ et dans emails/ :
+  #   « Gazmatek fait vivre les événements. Falc'ohm System construit et exploite le matériel
+  #     qui les rend possibles. »
 
 org:
   name: "Falc'ohm System ASBL"
@@ -14,9 +34,9 @@ org:
     name: "Corentin Dallenogare"
     role: "Président"
     email: "contact@falcohmsystem.com"
+  # La ligne « E-mail » est construite depuis org.contact.email : une seule adresse à corriger,
+  # et un module peut la surcharger (modules/<module>.yaml, clé overrides).
   contact_rows:
-    - label: "E-mail"
-      parts: [{ text: "contact@falcohmsystem.com", url: "mailto:contact@falcohmsystem.com" }]
     - label: "Sites web"
       parts:
         - { text: "www.gazmatek.com",      url: "https://www.gazmatek.com" }

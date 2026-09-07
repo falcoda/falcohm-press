@@ -1,0 +1,120 @@
+slug: gedebois
+company: GEDE-BOIS
+aka:
+- Gede-Bois
+- Gédé-Bois
+- Gede-Bois 610
+country: BE
+sector: bois
+persona: fournisseur-technique
+categories:
+- wood
+status: sent
+phase: 1
+tags:
+- belge
+- bruxelles
+score: 18
+website: https://gedebois.be
+knowledge: ''
+profile:
+  activity: 'Négociant en bois et dérivés installé au centre d''Etterbeek (Bruxelles),
+    chaussée de Wavre, « entre la Chasse et la place Jourdan ». Magasin de négoce
+    ouvert aux professionnels comme aux particuliers : bois, panneaux, portes, parquets,
+    moulures, lambris, plâtre et cloisons, colles et silicones, Velux, accessoires.'
+  products:
+  - Multiplex / contreplaqué
+  - Panneaux dérivés (MDF, OSB)
+  - Portes, parquets, moulures, lambris
+  - Colles, silicones, accessoires
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE 0413.839.117
+    linkedin: ''
+why_us: 'Seul négociant bois BRUXELLOIS du fichier, et le plus proche des salles où
+  Gazmatek joue réellement (Buda, Citygate, Chinastraat sont à Bruxelles ; l''atelier
+  est à Genappe). Ils référencent le multiplex. Commerce de quartier à taille humaine,
+  le patron décide seul, pas de comité. À CONFIRMER : rien n''est encore établi sur
+  leur pratique du sponsoring, et aucun nom de décideur n''est publié.'
+ask:
+  type:
+  - material
+  - discount
+  - consumables
+  detail: 'Compte professionnel avec conditions préférentielles sur le multiplex bouleau
+    (12/18 mm), accès aux chutes et fins de série de panneaux, et fourniture de colles
+    et silicones. Contrepartie : marquage sur les caissons, visibilité sur nos deux
+    sites et nos réseaux.'
+values: []
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Contact général, magasin / bureau des devis
+  email: info@gedebois.be
+  email_status: generic
+  linkedin: ''
+  phone: 02/647.42.52
+  source_url: https://gedebois.be/gedebois-contact/
+  retrieved_on: '2026-09-03'
+  evidence: Chaussée de Wavre, 610 1040 Bruxelles — 02/647.42.52 — info@gedebois.be
+    — TVA BE0413 839 117 — Du Lundi au Vendredi de 7h00 à 17h00, le Samedi de 9h00
+    à 13h00
+inbound_channels:
+- type: form
+  url: https://gedebois.be/gedebois-contact/
+- type: portal
+  url: https://www.facebook.com/gedebois/
+scoring:
+  business_fit: 7
+  partnership_probability: 5
+  impact_if_successful: 5
+  rationale: 'Fit correct sans être remarquable : ils vendent bien du multiplex, mais
+    c''est un magasin de négoce urbain, assortiment large, pas de site de production,
+    donc pas le gisement de chutes et de fins de série qu''offre une scierie comme
+    Bourguignon. Probabilité moyenne et provisoire : structure courte et patron accessible
+    (bon signe), mais AUCUN sponsoring identifié à ce jour et aucun nom de décideur
+    publié (mauvais signe), la note est à réviser dès que la fiche knowledge existe.
+    Impact modéré : utile en dépannage bruxellois et en consommables, insuffisant
+    pour porter une série complète de caissons.'
+deadlines: []
+sources:
+- url: https://gedebois.be/gedebois-contact/
+  retrieved_on: '2026-09-03'
+- url: https://gedebois.be/
+  retrieved_on: '2026-09-03'
+documents:
+- output\GEDE-BOIS\GEDE-BOIS-Partnership-2026.pdf
+- output\GEDE-BOIS\GEDE-BOIS-OnePager-2026.pdf
+- output\GEDE-BOIS\email.md
+interactions:
+- date: '2026-08-23'
+  type: mail
+  resume: 'Dossier de partenariat envoyé à info@gedebois.be. Objet : « Demande de
+    prix / partenariat ASBL : Multiplex bouleau 12/18 mm & CNC ». Adresse GÉNÉRIQUE,
+    aucun interlocuteur nommé. Sans réponse au 2026-09-03. Envoi effectué AVANT que
+    l''entreprise n''existe dans le CRM : fiche créée rétroactivement le 2026-09-03
+    depuis la capture de la boîte d''envoi.'
+events: []
+next_action:
+  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). PAS par e-mail : appeler le 02/647.42.52
+    pour obtenir le NOM du decideur. L''objectif de l''appel est un nom, pas une vente.
+    Le mail du 23/08 est parti sur une adresse generique avec l''objet « Demande de
+    prix / partenariat » : le bureau des devis l''a lu comme une demande de prix,
+    et il n''a pas mandat pour un partenariat. Reecrire a la meme adresse ne changera
+    rien. Appeler, et creer knowledge/GEDE-BOIS.md : l''envoi est parti sans qualification.
+    Ouvert le samedi 9h-13h, passer en personne vaut mieux qu''un mail.'
+  due: '2026-09-08'
+notes: 'FICHE CRÉÉE RÉTROACTIVEMENT (2026-09-03) : l''envoi du 23/08 est parti vers
+  une entreprise qui n''était pas au fichier. Le dossier a donc été envoyé sans qualification,
+  sans fiche knowledge et sans interlocuteur, les trois étapes que la procédure place
+  AVANT l''envoi. --- Adresse : Chaussée de Wavre 610, 1040 Bruxelles (Etterbeek),
+  02/647.42.52, TVA BE0413.839.117. Horaires : lun-ven 7h-17h, sam 9h-13h. Ouvert
+  le samedi matin : créneau utile pour passer en personne, ce qui vaut mieux qu''un
+  mail sur info@. --- Aucun nom de personne n''est publié, ni sur le site ni sur la
+  page contact. Ne pas extrapoler d''adresse nominative. Un WhatsApp est proposé sur
+  la page contact : canal informel à considérer pour un commerce de cette taille.
+  --- L''adresse est en @gedebois.be alors que le site répond sur gedebois.be sans
+  www : le validateur peut le signaler, ce n''est pas une extrapolation, elle est
+  recopiée de leur page contact.'

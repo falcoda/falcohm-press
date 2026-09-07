@@ -12,7 +12,7 @@ categories:
 status: lead
 phase: 1
 tags: []
-score: 17
+score: 29
 website: https://www.rcf.it
 knowledge: ''
 profile:
@@ -34,7 +34,7 @@ why_us: 'RCF est la seule cible de la catégorie dont la culture de sponsoring �
   est prouvée à grande échelle : ils ont acheté les droits de dénomination de la RCF
   Arena de Reggio Emilia (10 000 à 100 000 spectateurs, plus grande salle de concert
   en plein air d''Europe) et en sont le main sponsor. Une entreprise qui met son nom
-  sur un lieu de musique comprend immédiatement ce que Falc''ohm propose — pas besoin
+  sur un lieu de musique comprend immédiatement ce que Falc''ohm propose, pas besoin
   de leur expliquer la valeur d''une visibilité sur 10-15 événements et +10 000 festivaliers.
   C''est un interlocuteur qui parle déjà la langue du partenariat culturel, pas seulement
   celle du bon de commande.'
@@ -44,12 +44,15 @@ ask:
   - financial
   - visibility
   - discount
-  detail: 'Partenariat de visibilité : dotation de transducteurs OEM et/ou d''amplification
-    pour la nouvelle série de caissons, ou soutien financier au projet d''équipement,
-    en échange d''un marquage « Powered by RCF » sur les façades et les racks et d''une
-    visibilité sur l''ensemble des événements Gazmatek. Angle à privilégier : le sponsoring
-    culturel, pas l''achat de composants.'
+  detail: 'Conditions OEM ou professionnelles sur les TRANSDUCTEURS uniquement, et
+    en premier lieu le 21LF-N451 deja retenu dans nos plans (6 unites pour la premiere
+    serie). NE PAS demander d''amplification ni de DSP : poste couvert par ADmark.
+    NE JAMAIS ecrire a privacy@rcf.it, c''est le delegue a la protection des donnees.
+    PREALABLE : trouver un interlocuteur nomme, cote OEM ou distribution Benelux.'
   realistic_value_eur: 10000
+  public: "- des haut-parleurs de grave 21 pouces, deja retenus dans les plans de\
+    \ nos\n  prochains caissons ;\n- l'acces aux pieces de rechange et aux membranes\
+    \ pour la maintenance du parc."
 values:
 - made-in-Italy
 - musique live
@@ -58,7 +61,7 @@ values:
 sponsorship_history:
 - what: Main sponsor et détenteur des droits de dénomination de la RCF Arena Reggio
     Emilia (Campovolo), plus grande salle de concert en plein air d'Europe, 10 000
-    à 100 000 spectateurs — « acquisendo i diritti di denominazione, è diventata main
+    à 100 000 spectateurs, « acquisendo i diritti di denominazione, è diventata main
     sponsor dando così il nome alla struttura ».
   url: https://it.wikipedia.org/wiki/RCF_Arena
   retrieved_on: 2026-07-14
@@ -87,16 +90,25 @@ inbound_channels:
 - type: form
   url: https://www.rcf.it/en/headquarters
 scoring:
-  business_fit: 6
+  business_fit: 9
   partnership_probability: 4
-  impact_if_successful: 7
+  impact_if_successful: 8
   rationale: 'Fit moyen sur le produit : RCF vend surtout des systèmes finis, et ses
-    transducteurs bruts sont réservés à un canal OEM peu ouvert aux petits volumes
-    — ce n''est pas le fournisseur naturel d''un constructeur de caissons DIY. Mais
+    transducteurs bruts sont réservés à un canal OEM peu ouvert aux petits volumes,
+    ce n''est pas le fournisseur naturel d''un constructeur de caissons DIY. Mais
     c''est le meilleur profil « sponsor » de toute la catégorie, avec un antécédent
     spectaculaire (RCF Arena). D''où une probabilité honorable malgré la taille du
     groupe, à condition d''attaquer par la porte marketing/sponsoring et non par la
-    porte commerciale.'
+    porte commerciale.
+
+
+    REVU LE 2026-09-07 : business_fit 6 -> 9. Ce n''est plus une hypothese. La nomenclature
+    de la premiere serie retient le RCF 21LF-N451, six unites (data/bom.yaml). Nous
+    sommes donc deja leur client sur le poste le plus lourd du caisson, le 21 pouces.
+    L''amplification RCF ne nous interesse pas, ADmark couvre le poste, mais leurs
+    transducteurs OEM sont dans nos plans. impact 7 -> 8 : un 21 pouces est cher et
+    il se remplace. La probabilite reste a 4, faute de tout contact humain : leur
+    seule adresse publique est celle du DPO, a laquelle il ne faut surtout pas ecrire.'
 deadlines: []
 sources:
 - url: https://www.rcf.it/en/headquarters
@@ -112,10 +124,13 @@ documents:
 interactions: []
 events: []
 next_action:
-  what: ''
-  due: ''
+  what: 'Trouver un interlocuteur nomme chez RCF, cote OEM ou distribution Benelux,
+    AVANT tout envoi : la fiche n''a que le DPO et un info@. Argument d''ouverture
+    desormais solide : leur 21LF-N451 est deja dans notre nomenclature, nous ne demandons
+    pas a essayer leur produit, nous l''achetons deja.'
+  due: '2026-09-20'
 notes: 'Aucun e-mail public : le site n''expose qu''un formulaire et un helpdesk.
   Coordonnées lues : "Via Raffaello Sanzio, 13 42124 Reggio Emilia (RE) Italy", tél.
   "+39 0522 274 411", VAT "04081310965". À noter : RCF et Eighteen Sound sont tous
-  deux à Reggio Emilia — un déplacement unique peut couvrir les deux. La RCF Arena
+  deux à Reggio Emilia, un déplacement unique peut couvrir les deux. La RCF Arena
   est gérée par le consortium C.Volo dont RCF fait partie.'

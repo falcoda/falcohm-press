@@ -27,10 +27,10 @@ profile:
     de l'éducation non formelle) ainsi que le volet Sport et le Corps européen de
     solidarité. 18 rue du Commerce, 1000 Bruxelles.
   products:
-  - Erasmus+ Action clé 1 — Échanges de jeunes
-  - Erasmus+ Action clé 1 — Mobilité des animateurs et responsables de jeunesse
-  - Erasmus+ Action clé 1 — Activités de participation des jeunes
-  - Erasmus+ Action clé 2 — Partenariats de coopération et partenariats simplifiés
+  - Erasmus+ Action clé 1, Échanges de jeunes
+  - Erasmus+ Action clé 1, Mobilité des animateurs et responsables de jeunesse
+  - Erasmus+ Action clé 1, Activités de participation des jeunes
+  - Erasmus+ Action clé 2, Partenariats de coopération et partenariats simplifiés
   - Accréditations Action clé 1 ; DiscoverEU Inclusion
   size:
     employees: ''
@@ -38,15 +38,15 @@ profile:
   identifiers:
     vat: ''
     linkedin: https://be.linkedin.com/company/bureau-international-jeunesse
-why_us: 'C''est la porte européenne réellement praticable à notre échelle — contrairement
+why_us: 'C''est la porte européenne réellement praticable à notre échelle, contrairement
   à Europe Créative. Erasmus+ Jeunesse finance l''éducation NON FORMELLE, hors cadre
   scolaire, portée par et pour les jeunes : c''est exactement ce que fait le pôle
   technique de Falc''ohm System quand des bénévoles de moins de 30 ans apprennent
   à concevoir, fabriquer et exploiter un sound system et se transmettent ce savoir-faire.
   Un « échange de jeunes » construit avec un ou deux collectifs sound system étrangers
-  (Pays-Bas, France, Allemagne, Espagne — la scène DIY y est dense et structurée)
-  autour de la construction d''enceintes et de la culture des musiques électroniques
-  coche toutes les cases du programme : mobilité, apprentissage non formel, coopération
+  (Pays-Bas, France, Allemagne, Espagne, la scène DIY y est dense et structurée) autour
+  de la construction d''enceintes et de la culture des musiques électroniques coche
+  toutes les cases du programme : mobilité, apprentissage non formel, coopération
   transnationale, participation des jeunes. Les budgets Erasmus+ sont par ailleurs
   sans commune mesure avec les subsides locaux.
 
@@ -54,7 +54,7 @@ why_us: 'C''est la porte européenne réellement praticable à notre échelle �
 ask:
   type:
   - financial
-  detail: 'Erasmus+ Action clé 1 — « Échange de jeunes » : monter un projet de rencontre
+  detail: 'Erasmus+ Action clé 1, « Échange de jeunes » : monter un projet de rencontre
     entre les jeunes bénévoles de Falc''ohm et un ou plusieurs collectifs partenaires
     européens, autour de la construction DIY de sound systems et des musiques électroniques
     (ateliers techniques, transmission, restitution publique). Le programme couvre
@@ -79,7 +79,7 @@ sponsorship_history:
   retrieved_on: 2026-07-14
 contacts:
 - name: ''
-  role: Bureau International Jeunesse — contact général (Info Mobilité)
+  role: Bureau International Jeunesse, contact général (Info Mobilité)
   email: bij@cfwb.be
   email_status: generic
   linkedin: ''
@@ -99,7 +99,7 @@ scoring:
   impact_if_successful: 7
   rationale: 'Le fit est réel mais exige une reformulation : Erasmus+ ne financera
     jamais un festival, il finance un projet d''éducation non formelle porté par des
-    jeunes — il faut donc isoler le volet « transmission technique et échange européen
+    jeunes, il faut donc isoler le volet « transmission technique et échange européen
     » et le monter comme un projet autonome, avec des partenaires étrangers réels.
     La probabilité est basse-moyenne : le dossier est lourd (partenariat transnational,
     calendrier long, reporting européen) et l''ASBL n''a probablement pas d''expérience
@@ -110,15 +110,15 @@ scoring:
     '
 deadlines:
 - what: Erasmus+ Action clé 1 (échanges de jeunes, mobilité des animateurs, activités
-    de participation) — date limite 1er OCTOBRE 2026 à 12h (heure de Bruxelles), pour
+    de participation), date limite 1er OCTOBRE 2026 à 12h (heure de Bruxelles), pour
     des projets débutant entre le 1er janvier et le 31 mai 2027
   date: '2026-10-01'
   url: https://www.lebij.be/dates-de-depot-des-dossiers-erasmus/
-- what: 'Erasmus+ — demandes d''ACCRÉDITATION Action clé 1 : 29 septembre 2026 à 12h
+- what: 'Erasmus+, demandes d''ACCRÉDITATION Action clé 1 : 29 septembre 2026 à 12h
     (heure de Bruxelles)'
   date: '2026-09-29'
   url: https://www.lebij.be/dates-de-depot-des-dossiers-erasmus/
-- what: 'Erasmus+ Action clé 2 — partenariats de coopération et partenariats simplifiés
+- what: 'Erasmus+ Action clé 2, partenariats de coopération et partenariats simplifiés
     (la date 2027 n''était pas publiée au 14/07/2026 ; en 2026 : 5 mars à 12h)'
   date: '2027-03-05'
   url: https://www.lebij.be/dates-de-depot-des-dossiers-erasmus/
@@ -134,7 +134,7 @@ documents:
 interactions: []
 events: []
 next_action:
-  what: Décider avant fin août si on vise la deadline du 1er octobre 2026 — cela suppose
+  what: Décider avant fin août si on vise la deadline du 1er octobre 2026, cela suppose
     d'avoir DÉJÀ un partenaire européen identifié. Sinon, viser la session suivante
     et utiliser l'automne pour trouver le partenaire.
   due: '2026-08-31'
@@ -146,8 +146,8 @@ notes: "ÉCHÉANCES 2026 CONFIRMÉES (heures de Bruxelles, 12h00) : • Action c
   \ et simplifiés) : 5 mars 2026 [passée]. • Accréditation Action clé 1 : 29 septembre\
   \ 2026.\nPRÉREQUIS BLOQUANT : un échange de jeunes Erasmus+ suppose au minimum UN\
   \ PARTENAIRE ÉTRANGER conventionné. Sans partenaire identifié, le dossier du 1er\
-  \ octobre est hors de portée. C'est le vrai goulot d'étranglement — s'y atteler\
-  \ dès maintenant (réseaux sound system européens, festivals partenaires, plateforme\
+  \ octobre est hors de portée. C'est le vrai goulot d'étranglement, s'y atteler dès\
+  \ maintenant (réseaux sound system européens, festivals partenaires, plateforme\
   \ de recherche de partenaires Erasmus+).\nANGLE GAGNANT : ne pas présenter Gazmatek.\
   \ Présenter « un groupe de jeunes de moins de 30 ans qui conçoivent et fabriquent\
   \ leur propre système de sonorisation, et qui veulent confronter et transmettre\

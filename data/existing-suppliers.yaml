@@ -1,0 +1,66 @@
+# Ce qui est DEJA couvert. A lire AVANT de qualifier une cible.
+#
+# POURQUOI CE FICHIER : le 2026-09-03, sept brouillons ont ete prepares dont un demandait
+# des amplificateurs et un DSP a APEX, alors que le systeme tourne deja en ADmark. Le dossier
+# promettait un marquage « Powered by APEX » sur des racks portant une autre marque, c'est-a-dire
+# une contrepartie non livrable, ce que CLAUDE.md interdit explicitement.
+# L'erreur ne venait pas du raisonnement mais d'une donnee absente du depot. Elle est ici.
+#
+# REGLE : avant d'ecrire `ask.detail` sur une fiche CRM, verifier que le poste demande n'est pas
+# deja couvert ci-dessous. Si il l'est, soit on retire le poste de la demande, soit on ecarte
+# la cible.
+
+covered:
+  - post: Amplification de puissance
+    supplier: ADmark
+    website: https://www.admarksound.com
+    since: ''                    # TODO, depuis quand
+    nature: ''                   # TODO, achat ? partenariat ? conditions negociees ?
+    source: Corentin Dallenogare, 2026-09-03 (rapporte oralement)
+    note: >-
+      Fabricant de modules d'amplification Class-D. Le DSP est INTEGRE a l'ampli, il n'y a donc
+      pas de processeur separe a sourcer. Consequence directe : ne plus demander ni ampli ni DSP
+      a personne, et ne jamais proposer de marquage « Powered by X » sur les racks.
+
+  - post: Processeur DSP
+    supplier: ADmark (integre a l'amplificateur)
+    website: https://www.admarksound.com
+    since: ''
+    nature: ''
+    source: Corentin Dallenogare, 2026-09-03 (rapporte oralement)
+    note: >-
+      Pas un poste distinct. Toute cible dont l'offre se limite au DSP est sans objet.
+
+# ---------------------------------------------------------------------------
+# CE QUI RESTE OUVERT : les postes ou un partenaire a encore une place
+# ---------------------------------------------------------------------------
+open:
+  - post: Transducteurs (haut-parleurs de grave, moteurs de compression, mediums)
+    note: Le poste le plus lourd de la nomenclature. B&C, SoundImports, Beyma, 18Sound, BMS.
+  - post: Bois et panneaux (multiplex bouleau)
+    note: Campagne en cours, voir le module bois.
+  - post: Composants de filtre passif, cablage, connectique
+    note: Cables HP, panneaux Speakon, bornes. SoundImports, Amptec (confection), Beglec (Hilec).
+  - post: Eclairage
+    note: >-
+      LE POSTE LE MOINS COUVERT DU PARC, et le seul que presque personne du fichier ne vend.
+      Beglec est la seule cible identifiee a ce jour : Briteq, JB Systems, Contest, Contestage.
+      Le module modules/eclairage.yaml existe et n'a jamais eu de cible.
+  - post: Racks et flightcases
+    note: JV Case (Beglec), Penn Elcom, Adam Hall. Un systeme se casse dans le camion, pas sur scene.
+  - post: Visserie et quincaillerie
+    note: Wurth.
+  - post: Outils de mesure et de calage
+    note: Non couvert, non prospecte.
+  - post: Maintenance et pieces detachees
+    note: Reconing des haut-parleurs, service de reparation. Amptec dispose d'un centre.
+
+# ---------------------------------------------------------------------------
+# A COMPLETER : les autres fournisseurs actuels de Falc'ohm ne sont pas connus du depot.
+# Sans cette liste, on redemandera un jour quelque chose qui est deja couvert.
+# ---------------------------------------------------------------------------
+todo:
+  - Qui fournit aujourd'hui les transducteurs ?
+  - Qui fournit le bois, avant la campagne du 23/08 ?
+  - Le cablage et la connectique sont-ils achetes, ou confectionnes en interne ?
+  - Existe-t-il d'autres partenariats en cours, formels ou informels ?

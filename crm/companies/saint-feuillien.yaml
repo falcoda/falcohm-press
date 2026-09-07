@@ -36,11 +36,11 @@ profile:
 why_us: 'Brasserie wallonne, familiale et de taille humaine (Hainaut, même région
   que Gazmatek) : le genre de partenaire boissons où l''on parle à une personne, pas
   à un service marketing centralisé. Surtout, ils sponsorisent DÉJÀ de la culture
-  et de la musique — les 900 ans de l''abbaye en 2025, des concerts à la brasserie,
-  le Faolan Irish Fest — donc le réflexe de soutenir un événement existe. Et nous
-  avons un contact direct : Roland Leylan, le maître-brasseur. Une bière-partenaire
-  sur un festival, c''est un bar qui tourne, une visibilité de marque, et un produit
-  belge sur un public jeune.'
+  et de la musique, les 900 ans de l''abbaye en 2025, des concerts à la brasserie,
+  le Faolan Irish Fest, donc le réflexe de soutenir un événement existe. Et nous avons
+  un contact direct : Roland Leylan, le maître-brasseur. Une bière-partenaire sur
+  un festival, c''est un bar qui tourne, une visibilité de marque, et un produit belge
+  sur un public jeune.'
 ask:
   type:
   - material
@@ -58,7 +58,7 @@ values:
 - Savoir-faire brassicole et tradition
 - Soutien à la culture et à la musique locales
 sponsorship_history:
-- what: 900 ans de l'abbaye de Saint-Feuillien (2025) — programme d'événements culturels
+- what: 900 ans de l'abbaye de Saint-Feuillien (2025), programme d'événements culturels
     et bière commémorative, porté avec la Ville du Rœulx et ses partenaires.
   url: https://st-feuillien.com/en/900-years-of-the-abbey-saint-feuillien/
   retrieved_on: 2026-07-14
@@ -101,11 +101,11 @@ scoring:
   partnership_probability: 7
   impact_if_successful: 6
   rationale: 'Fit correct pour un partenaire boissons de festival (bar, produit belge,
-    marque connue), sans être le besoin technique cœur de Falc''ohm — d''où 7 et pas
+    marque connue), sans être le besoin technique cœur de Falc''ohm, d''où 7 et pas
     plus. Probabilité élevée : brasserie familiale régionale qui sponsorise déjà de
     la culture ET un contact direct nommé (le maître-brasseur), fourni par Corentin.
     Impact moyen mais réel : le bar est un centre de revenu, et une marque de bière
-    belge sur nos dates a de la valeur — sans débloquer la construction du sound system.'
+    belge sur nos dates a de la valeur, sans débloquer la construction du sound system.'
 deadlines: []
 sources:
 - url: https://st-feuillien.com/en/the-brewery/
@@ -126,22 +126,45 @@ interactions:
 - date: '2026-07-15'
   type: contact
   resume: 'Contact direct etabli par Corentin : discussion en personne et par SMS
-    avec Leylan Roland (maitre-brasseur). Accueil positif — il doit transmettre la
+    avec Leylan Roland (maitre-brasseur). Accueil positif, il doit transmettre la
     demande a l''equipe marketing de la brasserie.'
+- date: '2026-09-03'
+  type: contact
+  resume: 'La brasserie avance : elle demande notre LISTE DE CONSOMMATION (volumes
+    de boissons consommes sur nos evenements). C''est la question qu''une brasserie
+    pose avant d''accorder des conditions partenaire, elle chiffre le compte. Rapporte
+    par Corentin ; canal et interlocuteur exact a preciser (Leylan ou le marketing
+    ?). BLOCAGE : aucun chiffre de consommation n''existe dans le depot. data/consumption.yaml
+    a ete cree ce jour pour les accueillir, il est vide. Rien a envoyer tant qu''il
+    l''est.'
+- date: '2026-09-04'
+  type: note
+  resume: 'Corentin communique le releve de consommation : 203 futs de 30 L sur 9
+    sessions, soit 6 090 L pour 7 090 personnes. 2026 seul, annee complete : 147 futs
+    = 4 410 L sur 5 sessions. Repartition 194 pils / 5 IPA / 4 triples, la pils faisant
+    96 pc du volume. Ratio stable de 0,86 L par personne (fourchette 0,67 a 1,15),
+    ce qui rend le releve credible. UNE DATE MANQUE : le 31-10-2025, 2500 personnes,
+    la plus grosse du releve, sans chiffre. Ne pas l''estimer. Chiffres donnes de
+    memoire, sans facture a l''appui. data/consumption.yaml rempli.'
 events: []
 next_action:
-  what: >-
-    Contact établi (Corentin ↔ Leylan, en personne + SMS, positif). Leylan transmet au marketing.
-    À faire : (1) envoyer le dossier PDF à Leylan pour qu'il le relaie au marketing ; (2) obtenir de
-    lui le NOM et l'adresse du contact marketing — c'est là que se prend la décision ; (3) relancer
-    en douceur sous ~1-2 semaines si pas de retour du marketing.
-  due: '2026-07-29'
-notes: >-
-  ÉTAT : contact déjà établi. Corentin a parlé à Leylan Roland (maître-brasseur) en personne ET par
-  SMS ; accueil positif ; Leylan doit porter la demande à l'équipe marketing de la brasserie. La balle
-  est donc dans leur camp — la décision de sponsoring relève du marketing, pas du brasseur. Prochain
-  jalon réel : le contact marketing (nom + e-mail à récupérer via Leylan, actuellement inconnu → TODO).
-  ---
-  Brasserie fondée en 1873 (famille Friart), bière d'abbaye dont l'abbaye remonte à 1125. Présente au
-  Belgian Beer Weekend (Grand-Place de Bruxelles). Le Rœulx est à ~55 km de Genappe (même Région,
-  Hainaut vs Brabant wallon). Ne pas promettre de contrepartie non livrable (data/benefits-catalog.yaml).
+  what: 'LA BRASSERIE ATTEND NOTRE LISTE DE CONSOMMATION, c''est le seul point bloquant.
+    (1) Remplir data/consumption.yaml : sur combien de dates/an tenons-nous NOUS-MÊMES
+    le bar (dans une salle louée, l''exploitant impose souvent son fournisseur, sur
+    ces dates il n''y a rien à vendre pour St-Feuillien), volumes réels par date,
+    produits, formats de fûts, fournisseur actuel, matériel (tireuse, froid, CO2).
+    (2) Un seul chiffre suffit à ouvrir : le total annuel en litres, avec le nombre
+    de dates où nous maîtrisons le bar. (3) Ne rien envoyer d''estimé sans le dire
+    : un volume gonflé se retourne au premier bon de commande. (4) En même temps,
+    obtenir de Leylan le NOM et l''adresse du contact marketing, toujours inconnu,
+    et c''est là que la décision se prend.'
+  due: '2026-09-10'
+notes: 'ÉTAT : contact déjà établi. Corentin a parlé à Leylan Roland (maître-brasseur)
+  en personne ET par SMS ; accueil positif ; Leylan doit porter la demande à l''équipe
+  marketing de la brasserie. La balle est donc dans leur camp, la décision de sponsoring
+  relève du marketing, pas du brasseur. Prochain jalon réel : le contact marketing
+  (nom + e-mail à récupérer via Leylan, actuellement inconnu → TODO). --- Brasserie
+  fondée en 1873 (famille Friart), bière d''abbaye dont l''abbaye remonte à 1125.
+  Présente au Belgian Beer Weekend (Grand-Place de Bruxelles). Le Rœulx est à ~55
+  km de Genappe (même Région, Hainaut vs Brabant wallon). Ne pas promettre de contrepartie
+  non livrable (data/benefits-catalog.yaml).'

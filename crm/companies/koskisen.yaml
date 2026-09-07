@@ -34,8 +34,8 @@ why_us: 'Contrairement aux autres fabricants nordiques, Koskisen publie nominati
   aux demandes contreplaqué (Mirkka Aarrekorpi). On peut donc parler à un humain identifié,
   pas à un formulaire. André Wolff couvre le contreplaqué fin pour l''Allemagne/Autriche/Suisse/France
   et Maxime Pelikh la France : la Belgique est à la charnière de leurs zones, et un
-  francophone (Maxime Pelikh) est joignable directement — ce qui lève la barrière
-  de la langue et rend l''approche crédible.'
+  francophone (Maxime Pelikh) est joignable directement, ce qui lève la barrière de
+  la langue et rend l''approche crédible.'
 ask:
   type:
   - material
@@ -89,9 +89,9 @@ scoring:
   partnership_probability: 3
   impact_if_successful: 7
   rationale: 'Fit très élevé : fabricant intégré de contreplaqué bouleau, exactement
-    l''amont du besoin. La probabilité reste faible — un industriel finlandais n''a
-    aucune raison structurelle de sponsoriser une asbl belge et vend par volumes industriels
-    — mais elle est supérieure à celle des autres fabricants (3 et non 2) parce qu''un
+    l''amont du besoin. La probabilité reste faible, un industriel finlandais n''a
+    aucune raison structurelle de sponsoriser une asbl belge et vend par volumes industriels,
+    mais elle est supérieure à celle des autres fabricants (3 et non 2) parce qu''un
     Area Manager FRANCOPHONE (Maxime Pelikh) et un contact dédié contreplaqué sont
     joignables en direct par email : la barrière d''entrée est bien plus basse. Impact
     bon si ça aboutit, ne serait-ce qu''en tarif direct ou en orientation vers le
@@ -111,10 +111,10 @@ events: []
 next_action:
   what: ''
   due: ''
-notes: 'Siège : Tehdastie 2, 16600 Järvelä, Finlande — +358 20 553 41 — info@koskisen.com.
+notes: 'Siège : Tehdastie 2, 16600 Järvelä, Finlande, +358 20 553 41, info@koskisen.com.
   Usine contreplaqué fin/placages : Otavantie 395, 52550 Hirvensalmi. ATTENTION :
-  koskisen.com redirige vers koskisen.fi/en/ — les emails ont été lus sur https://koskisen.fi/en//contact/.
+  koskisen.com redirige vers koskisen.fi/en/, les emails ont été lus sur https://koskisen.fi/en//contact/.
   AUCUN Area Manager Benelux/Belgique n''est publié : la Belgique n''apparaît dans
-  le périmètre explicite d''aucun commercial — ne pas inventer d''affectation. STRATÉGIE
+  le périmètre explicite d''aucun commercial, ne pas inventer d''affectation. STRATÉGIE
   : écrire à Maxime Pelikh (francophone) en copie de mirkka.aarrekorpi@koskisen.com.
   Aucun sponsoring identifié.'

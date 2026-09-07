@@ -45,7 +45,10 @@ def render(c, ctx):
     y -= 17
     ls_text(c, M, y, "%s, %s" % (org["contact"]["role"], org["name"]), "Inter-L", 10, GREY)
     y -= 30
-    for row in org["contact_rows"]:
+    email = org["contact"]["email"]
+    rows = [{"label": "E-mail",
+             "parts": [{"text": email, "url": "mailto:%s" % email}]}] + org["contact_rows"]
+    for row in rows:
         ls_text(c, M, y, row["label"].upper(), "Inter-M", 7.4, HexColor("#6A7280"), 1.2)
         px = M + 100
         for j, part in enumerate(row["parts"]):
@@ -77,7 +80,7 @@ def render(c, ctx):
     c.setStrokeColor(HexColor("#23262C"))
     c.setLineWidth(0.6)
     c.line(M, 76, W - M, 76)
-    ls_text(c, M, 58, "FALC'OHM SYSTEM ASBL — DOSSIER DE PARTENARIAT", "Inter-M", 7,
+    ls_text(c, M, 58, "FALC'OHM SYSTEM ASBL, DOSSIER DE PARTENARIAT", "Inter-M", 7,
             HexColor("#5C6470"), 1.2)
     ls_text(c, W - M, 58, "%02d" % ctx.page, "Inter-B", 7, BLUE, 1.2, align="r")
     ctx.no_footer = True

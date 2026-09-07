@@ -2,14 +2,14 @@ slug: sabam-for-culture
 company: Sabam For Culture
 aka:
 - Sabam
-- Société d'Auteurs Belge — Belgische Auteurs Maatschappij
+- Société d'Auteurs Belge / Belgische Auteurs Maatschappij
 - Fonds culturel de la Sabam
 country: BE
 sector: institutionnel
 persona: institution
 categories:
 - culture_funding
-status: lead
+status: discarded
 phase: 2
 tags:
 - institution
@@ -24,9 +24,9 @@ profile:
     il soutient la création, la diffusion et l'internationalisation des auteurs. Rue
     des Deux Églises 41-43, 1000 Bruxelles.
   products:
-  - Bourses (par discipline — musique, audiovisuel, littérature, théâtre & danse,
-    arts visuels)
-  - Partenariats — soutien à des projets et événements culturels
+  - Bourses (par discipline, musique, audiovisuel, littérature, théâtre & danse, arts
+    visuels)
+  - Partenariats, soutien à des projets et événements culturels
   - Formation et conseil
   size:
     employees: ''
@@ -37,7 +37,7 @@ profile:
 why_us: 'La Sabam finance déjà des projets musicaux à hauteur de plus de 100.000 €
   par session de commission (28 projets musicaux soutenus pour 115.000 € lors d''une
   session récente) : le budget existe et sa raison d''être est d''être distribué au
-  secteur musical. Gazmatek diffuse des auteurs dont la Sabam perçoit les droits —
+  secteur musical. Gazmatek diffuse des auteurs dont la Sabam perçoit les droits,
   l''ASBL est donc du bon côté de l''écosystème. L''angle le plus solide n''est cependant
   pas le festival en tant que tel : ce sont les bourses liées à l''organisation de
   concerts live et au budget artistique, qui financent les cachets d''un organisateur
@@ -47,13 +47,13 @@ why_us: 'La Sabam finance déjà des projets musicaux à hauteur de plus de 100.
 ask:
   type:
   - financial
-  detail: 'Deux portes distinctes, à ne pas confondre. (1) BOURSES (grants@sabam.be)
-    — le catalogue « musique » comprend des bourses accessibles à un ORGANISATEUR
-    et non seulement à un auteur, notamment une bourse liée au budget artistique d''un
+  detail: 'Deux portes distinctes, à ne pas confondre. (1) BOURSES (grants@sabam.be),
+    le catalogue « musique » comprend des bourses accessibles à un ORGANISATEUR et
+    non seulement à un auteur, notamment une bourse liée au budget artistique d''un
     concert live / livestream, et une bourse destinée aux établissements et maisons
     de jeunes qui organisent un concert live. C''est la voie la plus réaliste : elle
-    finance des cachets. (2) PARTENARIATS (sabamforculture@sabam.be / justine.cornet@sabam.be)
-    — mais l''appel 2027 est orienté INTERNATIONAL (vitrines à l''export, résidences
+    finance des cachets. (2) PARTENARIATS (sabamforculture@sabam.be / justine.cornet@sabam.be),
+    mais l''appel 2027 est orienté INTERNATIONAL (vitrines à l''export, résidences
     croisées, professionnalisation à l''export), ce qui ne correspond pas à un festival
     local : n''y aller que si Gazmatek développe un volet international réel.
 
@@ -75,7 +75,7 @@ sponsorship_history:
   retrieved_on: 2026-07-14
 contacts:
 - name: ''
-  role: Sabam For Culture — Bourses (grants)
+  role: Sabam For Culture, Bourses (grants)
   email: grants@sabam.be
   email_status: generic
   linkedin: ''
@@ -84,7 +84,7 @@ contacts:
   retrieved_on: 2026-07-14
   evidence: 'Pour les Bourses : grants@sabam.be'
 - name: ''
-  role: Sabam For Culture — Projets et événements (partenariats)
+  role: Sabam For Culture, Projets et événements (partenariats)
   email: sabamforculture@sabam.be
   email_status: generic
   linkedin: ''
@@ -93,7 +93,7 @@ contacts:
   retrieved_on: 2026-07-14
   evidence: 'Pour les Projets ou Événements : sabamforculture@sabam.be'
 - name: Justine Cornet
-  role: Sabam For Culture — contact de l'appel à partenariats 2027
+  role: Sabam For Culture, contact de l'appel à partenariats 2027
   email: justine.cornet@sabam.be
   email_status: verified_public
   linkedin: ''
@@ -102,7 +102,7 @@ contacts:
   retrieved_on: 2026-07-14
   evidence: 'Contact / Email : justine.cornet@sabam.be'
 - name: ''
-  role: Sabam — contact membres (général)
+  role: Sabam, contact membres (général)
   email: member@sabam.be
   email_status: generic
   linkedin: ''
@@ -122,17 +122,17 @@ scoring:
   impact_if_successful: 5
   rationale: 'Le fit est moyen et il faut être lucide sur pourquoi : la majorité des
     bourses Sabam s''adressent à des AUTEURS MEMBRES (compositeurs, éditeurs), pas
-    à un organisateur de festival — Falc''ohm n''est pas dans la cible naturelle.
-    Deux bourses seulement (budget artistique d''un concert live ; organisation d''un
-    concert live par une structure) ouvrent une porte réelle, et l''appel à partenariats
-    2027 est explicitement tourné vers l''export international, ce qui exclut de fait
-    un festival local. La probabilité est donc moyenne et l''impact limité à quelques
+    à un organisateur de festival, Falc''ohm n''est pas dans la cible naturelle. Deux
+    bourses seulement (budget artistique d''un concert live ; organisation d''un concert
+    live par une structure) ouvrent une porte réelle, et l''appel à partenariats 2027
+    est explicitement tourné vers l''export international, ce qui exclut de fait un
+    festival local. La probabilité est donc moyenne et l''impact limité à quelques
     milliers d''euros, mais le fonds distribue plus de 100.000 € par session musique
     : le budget est là, il faut juste frapper à la bonne porte, et une seule.
 
     '
 deadlines:
-- what: 'Appel à partenariats Sabam For Culture — événements se déroulant entre le
+- what: 'Appel à partenariats Sabam For Culture, événements se déroulant entre le
     1er mai et le 31 août 2027. Le formulaire était annoncé « à publier prochainement
     » au 14/07/2026 : surveiller la page.'
   date: '2026-12-01'
@@ -153,23 +153,31 @@ documents:
 interactions: []
 events: []
 next_action:
-  what: Écrire à grants@sabam.be pour demander le règlement exact et le montant de
-    la bourse « budget artistique concert live » et de la bourse « organisation d'un
-    concert live » — et vérifier si une ASBL organisatrice non-membre y est éligible
-  due: '2026-09-30'
-notes: 'POINT DE VIGILANCE N°1 — la plupart des dispositifs Sabam For Culture supposent
+  what: 'AUCUNE. Fiche ecartee le 2026-09-03 sur decision de Corentin : Falc''ohm
+    ne veut pas travailler avec la Sabam, quelles que soient les conditions. Ne pas
+    la reproposer, ne pas la ressortir au prochain classement, ne pas relancer dans
+    douze mois. Le brouillon Gmail correspondant doit etre supprime a la main (le
+    connecteur n''a pas le droit de le mettre a la corbeille).'
+  due: ''
+notes: 'ECARTEE LE 2026-09-03, DECISION DE CORENTIN. Refus de principe de travailler
+  avec la Sabam. Ce n''est pas une question de score, de montant ni de calendrier
+  : c''est un choix de l''ASBL, et il ne se rediscute pas. La fiche est conservee,
+  et non supprimee, precisement pour qu''on ne la requalifie pas de bonne foi dans
+  six mois. Tout ce qui suit est l''ancienne analyse, gardee pour memoire uniquement.
+
+  POINT DE VIGILANCE N°1 : la plupart des dispositifs Sabam For Culture supposent
   d''être MEMBRE de la Sabam (auteur, compositeur, éditeur). Falc''ohm System est
   un organisateur, pas un ayant droit. AVANT de monter un dossier, poser la question
   frontalement à grants@sabam.be : « une ASBL organisatrice, non membre, est-elle
   éligible à la bourse budget artistique concert live ? ». La réponse conditionne
   tout le reste.
 
-  POINT DE VIGILANCE N°2 — l''appel à PARTENARIATS 2027 porte exclusivement sur des
+  POINT DE VIGILANCE N°2, l''appel à PARTENARIATS 2027 porte exclusivement sur des
   dispositifs à portée INTERNATIONALE : vitrines de créateurs à l''étranger, sessions
   de pitching, résidences croisées Belgique ↔ International, professionnalisation
   à l''export. Un festival local n''y entre pas. Ne pas y perdre de temps sauf si
   Gazmatek monte un volet international (échange avec un sound system étranger, par
-  exemple) — auquel cas l''angle devient soudain excellent.
+  exemple), auquel cas l''angle devient soudain excellent.
 
   BOURSES REPÉRÉES dans l''annuaire sectoriel de Court-Circuit et pertinentes pour
   un organisateur : « Bourse pour les établissements horeca et les maisons de jeunes

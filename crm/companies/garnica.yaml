@@ -29,11 +29,11 @@ profile:
     linkedin: ''
 why_us: 'Seul fabricant du panel disposant d''implantations industrielles en France
   (Samazan, Troyes), donc d''une logistique déjà tournée vers l''Europe de l''Ouest
-  et d''interlocuteurs francophones — bien plus abordable qu''un producteur balte
-  ou finlandais. Leur spécialité, le contreplaqué léger, est un argument technique
-  réel pour un sound system : une enceinte plus légère à masse rigide équivalente,
-  c''est du portage et du transport économisés sur 10-15 événements par an. À explorer
-  sérieusement comme alternative ou complément au bouleau intégral.'
+  et d''interlocuteurs francophones, bien plus abordable qu''un producteur balte ou
+  finlandais. Leur spécialité, le contreplaqué léger, est un argument technique réel
+  pour un sound system : une enceinte plus légère à masse rigide équivalente, c''est
+  du portage et du transport économisés sur 10-15 événements par an. À explorer sérieusement
+  comme alternative ou complément au bouleau intégral.'
 ask:
   type:
   - material
@@ -68,7 +68,7 @@ scoring:
   partnership_probability: 3
   impact_if_successful: 6
   rationale: 'Fit moyen et assumé : Garnica est un spécialiste du contreplaqué à ÂME
-    PEUPLIER, le bouleau n''étant qu''un parement — ce n''est donc pas le multiplex
+    PEUPLIER, le bouleau n''étant qu''un parement, ce n''est donc pas le multiplex
     bouleau intégral que Falc''ohm utilise aujourd''hui, et un changement de matériau
     impacterait la rigidité et l''acoustique des caissons. Probabilité faible : industriel
     de taille internationale, aucun email ni contact nommé publié, aucun historique
@@ -92,11 +92,11 @@ events: []
 next_action:
   what: ''
   due: ''
-notes: 'AUCUN EMAIL PUBLIC ni contact nommé sur la page contact — contacts: [] volontairement,
+notes: 'AUCUN EMAIL PUBLIC ni contact nommé sur la page contact, contacts: [] volontairement,
   entrée exclusivement par le formulaire. Siège : Parque San Miguel, 10 bajos, 26007
   Logroño, La Rioja (Espagne), +34 941 51 23 53. Implantations FRANÇAISES à privilégier
-  (francophones, logistique proche) : Garnica Samazan — 19 impasse Galilée, 47250
-  Samazan, +33 5 53 94 88 90 ; Garnica Troyes — 1 rue de Varsovie, 10300 Sainte-Savine,
-  +33 3 25 79 03 02. RÉSERVE : la fabrication de contreplaqué bouleau INTÉGRAL n''est
-  pas confirmée — leur positionnement documenté est le contreplaqué à âme peuplier.
+  (francophones, logistique proche) : Garnica Samazan, 19 impasse Galilée, 47250 Samazan,
+  +33 5 53 94 88 90 ; Garnica Troyes, 1 rue de Varsovie, 10300 Sainte-Savine, +33
+  3 25 79 03 02. RÉSERVE : la fabrication de contreplaqué bouleau INTÉGRAL n''est
+  pas confirmée, leur positionnement documenté est le contreplaqué à âme peuplier.
   À qualifier techniquement avant tout dossier de partenariat.'
