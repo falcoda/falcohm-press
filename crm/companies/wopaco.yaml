@@ -10,7 +10,7 @@ sector: bois
 persona: fournisseur-technique
 categories:
 - wood
-status: sent
+status: paused
 phase: 1
 tags: []
 score: 40
@@ -99,17 +99,20 @@ interactions:
     la seule adresse sourcee dans cette fiche). Objet : « Demande de prix / partenariat
     ASBL : Multiplex bouleau 12/18 mm & CNC ». Sans reponse au 2026-09-03. Adresse
     GENERIQUE, aucun interlocuteur nomme.'
+- date: '2026-09-09'
+  type: note
+  resume: 'MIS DE CÔTÉ par Corentin le 2026-09-09, avec tout le lot bois du 23/08
+    : ni appel, ni relance pour le moment. Le J+30 du 22/09 passera sans contact.
+    À la reprise, le mail du 23/08 sera périmé : la démarche repart comme un premier
+    contact, avec un nom obtenu par téléphone (emails/relance-bois-j10.md, variante
+    B), un seul destinataire, objet « Partenariat matière, ASBL culturelle belge ».'
 events: []
 next_action:
-  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). PAS par e-mail : appeler le +32 (0)51
-    33 58 68 pour obtenir le NOM du decideur. L''objectif de l''appel est un nom,
-    pas une vente. Le mail du 23/08 est parti sur une adresse generique avec l''objet
-    « Demande de prix / partenariat » : le bureau des devis l''a lu comme une demande
-    de prix, et il n''a pas mandat pour un partenariat. Reecrire a la meme adresse
-    ne changera rien. Relance par appel. NOTE : l''envoi du 23/08 est parti sur info@wopaco.be,
-    adresse NON sourcee dans cette fiche (la seule sourcee est vanrobaeys@wopaco.be),
-    verifier laquelle a recu.'
-  due: '2026-09-08'
+  what: 'EN PAUSE (décision de Corentin, 2026-09-09), avec tout le lot bois. Reprise
+    à sa demande : lui redemander vers le 2026-11-02. Le jour où on reprend : Appeler
+    le +32 (0)51 33 58 68 pour un nom. Vérifier d''abord quelle adresse a reçu le
+    23/08 : info@wopaco.be, alors que la seule adresse sourcée est vanrobaeys@wopaco.be.'
+  due: '2026-11-02'
 notes: 'Adresses Vanrobaeys : showroom Ambachtenstraat 23, 8870 Izegem ; entrepôt
   Ambachtenstraat 100, 8870 Izegem. Deux autres enseignes du groupe ont leur propre
   page contact : Gesibois, Sint-Pieters-Leeuw (la plus proche de Genappe, à privilégier

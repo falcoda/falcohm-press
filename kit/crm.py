@@ -33,7 +33,11 @@ PERSONAS = os.path.join(ROOT, "personas")
 
 PIPELINE = ["lead", "qualified", "researched", "sent", "followup_1", "followup_2",
             "replied", "meeting", "proposal", "negotiation", "won", "active", "renewal",
-            "lost", "discarded"]
+            "paused", "lost", "discarded"]
+
+# `paused` : mis de côté sur décision de Corentin, ni perdu ni écarté. Pas de relance
+# calculée, absent du classement et du plan de contact, mais l'historique reste et la
+# fiche se reprend telle quelle. La raison et la date de reprise vont dans `next_action`.
 
 # jours avant relance, par état
 DUE = {"sent": 10, "followup_1": 20, "followup_2": 30, "replied": 3, "meeting": 5,
@@ -399,7 +403,7 @@ def rank(top=25, tier=None):
     cats = categories()
     rows = []
     for d in load():
-        if d.get("status") in ("discarded", "lost"):
+        if d.get("status") in ("discarded", "lost", "paused"):
             continue
         cs = d.get("categories") or ([d["sector"]] if d.get("sector") else [])
         if tier and not any(cats.get(c, {}).get("tier") == tier for c in cs):
@@ -537,7 +541,7 @@ def sync(force=False):
     created, skipped = [], []
     for d in load():
         name, slug = str(d.get("company") or "").strip(), d["_name"]
-        if d.get("status") in ("discarded", "lost") or not d.get("sector") or not d.get("persona"):
+        if d.get("status") in ("discarded", "lost", "paused") or not d.get("sector") or not d.get("persona"):
             skipped.append(slug)
             continue
         if name.lower() in seen:
@@ -589,7 +593,7 @@ def plan():
     """Le plan de contact : qui, dans quel ordre, à quelle adresse, avec quel argument.
     Généré depuis les fiches, se régénère à chaque évolution du CRM."""
     cats = categories()
-    rows = [d for d in load() if d.get("status") not in ("discarded", "lost")]
+    rows = [d for d in load() if d.get("status") not in ("discarded", "lost", "paused")]
     for d in rows:
         d["_score"] = score(d)
     rows.sort(key=lambda d: (-d["_score"], -((d.get("ask") or {}).get("realistic_value_eur") or 0)))

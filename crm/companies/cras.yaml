@@ -9,7 +9,7 @@ sector: bois
 persona: fournisseur-technique
 categories:
 - wood
-status: lead
+status: paused
 phase: 1
 tags: []
 score: 49
@@ -101,17 +101,19 @@ documents:
 - output\Cras\Cras-Partnership-2026.pdf
 - output\Cras\Cras-OnePager-2026.pdf
 - output\Cras\email.md
-interactions: []
+interactions:
+- date: '2026-09-09'
+  type: note
+  resume: 'MIS DE CÔTÉ par Corentin le 2026-09-09, avec tout le lot bois : jamais
+    contacté, et on n''appelle pas pour le moment. À la reprise, l''ordre reste :
+    un appel pour un nom, puis emails/bois.md à la personne nommée, un seul destinataire.'
 events: []
 next_action:
-  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). PAS par e-mail : appeler le +32 56
-    60 34 44 pour obtenir le NOM du decideur. L''objectif de l''appel est un nom,
-    pas une vente. Le mail du 23/08 est parti sur une adresse generique avec l''objet
-    « Demande de prix / partenariat » : le bureau des devis l''a lu comme une demande
-    de prix, et il n''a pas mandat pour un partenariat. Reecrire a la meme adresse
-    ne changera rien. PAS ENCORE CONTACTE malgre un score de 49 : appeler avant d''ecrire,
-    pour partir avec un nom.'
-  due: '2026-09-08'
+  what: 'EN PAUSE (décision de Corentin, 2026-09-09), avec tout le lot bois. Reprise
+    à sa demande : lui redemander vers le 2026-11-02. Le jour où on reprend : Appeler
+    le siège +32 56 60 34 44 ou Rebecq +32 2 395 66 72 pour le nom du décideur partenariats
+    (Frédéric Cras est cité dans la presse sur le sponsoring Zulte Waregem).'
+  due: '2026-11-02'
 notes: 'Succursales wallonnes / proches de Genappe : Rebecq, Rue du Radoux 47, 1430
   Rebecq, +32 2 395 66 72 (la plus proche, ~25 km) ; Trazegnies, Rue de la Marche
   28, 6183 Trazegnies, +32 71 36 01 05 ; Villers-le-Bouillet, Rue de Waremme 114,

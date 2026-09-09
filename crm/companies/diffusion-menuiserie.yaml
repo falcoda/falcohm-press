@@ -6,7 +6,7 @@ sector: bois
 persona: fournisseur-technique
 categories:
 - wood
-status: sent
+status: paused
 phase: 1
 tags: []
 score: 45
@@ -91,15 +91,20 @@ interactions:
   resume: 'Dossier + one-pager envoyes a contact@diffusionmenuiserie.be. Objet : «
     Demande de prix / partenariat ASBL : Multiplex bouleau 12/18 mm & CNC ». Adresse
     GENERIQUE, aucun interlocuteur nomme. Sans reponse au 2026-09-03.'
+- date: '2026-09-09'
+  type: note
+  resume: 'MIS DE CÔTÉ par Corentin le 2026-09-09, avec tout le lot bois du 23/08
+    : ni appel, ni relance pour le moment. Le J+30 du 22/09 passera sans contact.
+    À la reprise, le mail du 23/08 sera périmé : la démarche repart comme un premier
+    contact, avec un nom obtenu par téléphone (emails/relance-bois-j10.md, variante
+    B), un seul destinataire, objet « Partenariat matière, ASBL culturelle belge ».'
 events: []
 next_action:
-  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). PAS par e-mail : appeler le +32 71
-    25 70 80 pour obtenir le NOM du decideur. L''objectif de l''appel est un nom,
-    pas une vente. Le mail du 23/08 est parti sur une adresse generique avec l''objet
-    « Demande de prix / partenariat » : le bureau des devis l''a lu comme une demande
-    de prix, et il n''a pas mandat pour un partenariat. Reecrire a la meme adresse
-    ne changera rien. Relance par appel : l''adresse contact@ est le bureau des devis.'
-  due: '2026-09-08'
+  what: 'EN PAUSE (décision de Corentin, 2026-09-09), avec tout le lot bois. Reprise
+    à sa demande : lui redemander vers le 2026-11-02. Le jour où on reprend : Passer
+    au dépôt de Court-Saint-Étienne (10 km) ou appeler le +32 71 25 70 80 pour un
+    nom.'
+  due: '2026-11-02'
 notes: 'Dépôts et showrooms : Gosselies (Avenue des Etats-Unis 110, 6041), Court-Saint-Étienne
   (Avenue des Métallurgistes 5a, 1490, LE PLUS PROCHE de Genappe), Cuesmes (Rue de
   la Poire d''Or 10, 7033), Philippeville (showroom, Zoning des Quatre Bras 6, 5600),

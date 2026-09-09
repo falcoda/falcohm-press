@@ -26,6 +26,7 @@ output/<Entreprise>/          les documents envoyés
 | `negotiation` | Discussion des contreparties |, |
 | `won` | Partenariat signé | Contrat + annonce publique |
 | `lost` | Refus ou silence après 3 contacts | Raison notée, à recontacter dans 12 mois |
+| `paused` | Mis de côté sur décision de Corentin, ni perdu ni écarté | Raison et date de reprise dans `next_action` ; pas de relance calculée, hors classement et hors plan |
 | `active` | Partenariat en cours | Activation, suivi |
 | `renewal` | Fin de cycle, à renouveler | Bilan chiffré |
 

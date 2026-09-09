@@ -8,7 +8,7 @@ sector: bois
 persona: fournisseur-technique
 categories:
 - wood
-status: sent
+status: paused
 phase: 1
 tags:
 - technique
@@ -162,19 +162,22 @@ interactions:
     c''est donc l''angle neuf pour la relance. ATTENTION : trois collegues du meme
     service ont recu le meme mail separement ; en cas de reprise de contact, l''assumer
     plutot que de le repeter une quatrieme fois. Sans reponse au 2026-09-03.'
+- date: '2026-09-09'
+  type: note
+  resume: 'MIS DE CÔTÉ par Corentin le 2026-09-09, avec tout le lot bois du 23/08
+    : ni appel, ni relance pour le moment. Le J+30 du 22/09 passera sans contact.
+    À la reprise, le mail du 23/08 sera périmé : la démarche repart comme un premier
+    contact, avec un nom obtenu par téléphone (emails/relance-bois-j10.md, variante
+    B), un seul destinataire, objet « Partenariat matière, ASBL culturelle belge ».'
 events: []
 next_action:
-  what: 'RELANCE J+10 DUE (envoi du 2026-08-23). SEUL dossier bois relancable par
-    e-mail : trois contacts NOMMES ont recu le dossier. Mais ils l''ont recu SEPAREMENT
-    le meme jour, tous les trois du meme service « panneaux », chacun a pu supposer
-    qu''un collegue s''en occupait. C''est la cause la plus probable du silence, pas
-    un refus. A FAIRE : repondre dans le fil a SERGE TILKIN SEUL (Responsable panneaux,
-    le bon interlocuteur), en assumant l''envoi multiple et en le designant explicitement
-    comme l''interlocuteur unique. Lui demander au passage si Gregory Hochstenbach
-    (gregory@biemar.be, Responsable ACHAT bois, JAMAIS contacte) est la bonne personne
-    pour les fins de serie. Ne PAS ecrire aux trois une deuxieme fois. Texte pret
-    : emails/relance-bois-j10.md, variante A.'
-  due: '2026-09-08'
+  what: 'EN PAUSE (décision de Corentin, 2026-09-09), avec tout le lot bois. Reprise
+    à sa demande : lui redemander vers le 2026-11-02. Le jour où on reprend : Écrire
+    à Serge Tilkin SEUL, en assumant l''envoi triple du 23/08, et lui demander si
+    Grégory Hochstenbach (achat bois) est le bon interlocuteur pour les fins de série.
+    Texte prêt dans output/Biemar/relance-j10.md, à réécrire en premier contact si
+    le fil est trop ancien.'
+  due: '2026-11-02'
 notes: 'Sites : Rue de la Clé 57, 4630 Soumagne (siège, +32 (0)4 377 94 94) et Route
   de Waimes 90, 4960 Malmedy (+32 (0)80 79 97 97). Email général : info@biemar.be.
   Email marketing@biemar.be également publié, utile pour l''angle visibilité/sponsoring.

@@ -8,7 +8,7 @@ sector: telecom
 persona: marque-grand-public
 categories:
 - telecom
-status: meeting
+status: paused
 phase: 2
 tags:
 - marque
@@ -212,18 +212,22 @@ interactions:
     beaucoup : une marque telecom nationale a choisi ce materiel pour tourner sa campagne,
     et il tient a l''image. A CONFIRMER : le nom du decideur budget cote Base ou Telenet
     a-t-il ete obtenu ?'
+- date: '2026-09-09'
+  type: note
+  resume: 'Rapporté par Corentin le 2026-09-09 : la responsable rencontrée sur le
+    tournage du 06/09 (nom à consigner) a dit qu''ils le recontacteraient si d''autres
+    projets se présentent. DÉCISION DE CORENTIN : on ne cherche plus le décideur budget
+    sponsoring, on laisse venir. La relation reste celle d''un fournisseur payé, et
+    c''est elle qui rapporte.'
 events: []
 next_action:
-  what: 'UNE SEULE CHOSE A FAIRE, ET ELLE EST URGENTE : obtenir le NOM et l''adresse
-    du decideur budget sponsoring chez Base ou Telenet, aupres des equipes croisees
-    le 06/09. Demander un nom n''engage rien et ne se refuse pas. C''est la seule
-    chose qui se perd en attendant : une equipe d''agence se disperse apres un lancement.
-    ENSUITE, ATTENDRE la sortie du clip Camille Yembe. C''est le declencheur de la
-    demande de partenariat, decide avec Corentin le 2026-09-07 : tant que le clip
-    n''est pas sorti, le materiel Falc''ohm n''est visible nulle part publiquement.
-    La piste cabine est abandonnee, faute de date avant le 30/09. NE RIEN PUBLIER
-    des photos du 06/09 avant la sortie officielle.'
-  due: '2026-09-11'
+  what: EN PAUSE (décision de Corentin, 2026-09-09). Rien à envoyer, rien à demander.
+    Deux choses seulement. (1) Consigner dans contacts le nom de la responsable du
+    06/09, sans adresse si on n'en a pas de prouvée. (2) Le jour où Base ou l'agence
+    rappelle pour un projet, la question du partenariat se pose en personne, sur place,
+    pas par mail. La sortie du clip Camille Yembe reste à surveiller pour la référence
+    ; ne rien publier des photos du 06/09 avant.
+  due: '2026-11-02'
 notes: 'Campagne 2026 : agence créative TBWA\Belgium (signataire du spot, info@tbwa.be,
   +32 2 679 75 00, Zaventem), volet musical Wave (Aalst), contenu/documentaire VML,
   média Wavemaker (agence média de Telenet). Ces agences ont opérationnellement loué/déployé

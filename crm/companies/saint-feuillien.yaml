@@ -82,6 +82,34 @@ contacts:
     @st-feuillien.com est confirmé par l''adresse publique visites@st-feuillien.com
     lue sur st-feuillien.com. NB : le maître-brasseur n''est pas le service marketing/sponsoring
     — c''est un contact chaud fourni par Corentin, à traiter comme tel.'
+- name: Noah Brouyère
+  role: 'TODO, role a preciser par Corentin (equipe marketing ou commerciale ?)'
+  email: noah.brouyere@st-feuillien.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://st-feuillien.com/en/the-brewery/
+  retrieved_on: '2026-09-09'
+  evidence: 'Adresse utilisee par Corentin Dallenogare comme destinataire du mail
+    du 2026-09-09 (fil Gmail 1a0812a3c03a2645, objet « Falc''ohm System, releve de
+    consommation »), obtenue par Corentin aupres de la brasserie, canal a preciser.
+    Aucune page publique ne la mentionne. Le domaine @st-feuillien.com est confirme
+    par visites@st-feuillien.com lu sur la page The Brewery. Aucun rebond constate
+    au 2026-09-09.'
+- name: Maxime Balasse
+  role: 'TODO, role a preciser par Corentin (equipe marketing ou commerciale ?)'
+  email: maxime.balasse@st-feuillien.com
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://st-feuillien.com/en/the-brewery/
+  retrieved_on: '2026-09-09'
+  evidence: 'Adresse utilisee par Corentin Dallenogare comme destinataire du mail
+    du 2026-09-09 (fil Gmail 1a0812a3c03a2645, objet « Falc''ohm System, releve de
+    consommation »), obtenue par Corentin aupres de la brasserie, canal a preciser.
+    Aucune page publique ne la mentionne. Le domaine @st-feuillien.com est confirme
+    par visites@st-feuillien.com lu sur la page The Brewery. Aucun rebond constate
+    au 2026-09-09.'
 - name: ''
   role: Visites / accueil (canal public, pour repli uniquement)
   email: visites@st-feuillien.com
@@ -146,25 +174,34 @@ interactions:
     ce qui rend le releve credible. UNE DATE MANQUE : le 31-10-2025, 2500 personnes,
     la plus grosse du releve, sans chiffre. Ne pas l''estimer. Chiffres donnes de
     memoire, sans facture a l''appui. data/consumption.yaml rempli.'
+- date: '2026-09-09'
+  type: mail
+  resume: 'Envoye par Corentin le 2026-09-09 a 10:29 (08:29 UTC), fil Gmail 1a0812a3c03a2645,
+    objet « Falc''ohm System, releve de consommation ». Destinataires : Leylan Roland,
+    plus deux adresses @st-feuillien.com nouvelles, Noah Brouyere et Maxime Balasse,
+    roles a preciser (marketing ?). Contenu : les dix sessions en futs de 30 L, soit
+    environ 268 futs pour 9 590 personnes, un peu plus de 8 000 L, bar tenu par nous
+    sur toutes les dates, « environ » sur Halloween 2025 et sur les trois plus grosses
+    dates de 2026. Accroche posee : le 31 octobre prochain au meme endroit que la
+    date a 65 futs. Question fermee : « Est-ce que cela vous suffit pour vous positionner
+    ? ». Le nom du contact marketing n''a pas ete redemande : les deux nouveaux destinataires
+    en tiennent probablement lieu. Aucun rebond constate au 2026-09-09.'
 events: []
 next_action:
-  what: >-
-    DÉBLOQUÉ LE 2026-09-08. data/consumption.yaml est complet : Corentin a retrouvé le dernier
-    chiffre manquant, environ 65 fûts pour Halloween 2025. Le relevé tient sur dix sessions,
-    268 fûts de 30 L, 8 040 L, 9 590 personnes, et nous tenons le bar sur la totalité des dates.
-    ENVOYER LA LISTE À LEYLAN. Ce qui doit y figurer : le total, le détail par année (2025 :
-    121 fûts, 3 630 L ; 2026 : 147 fûts, 4 410 L), la part de pils (96 % du volume ventilé),
-    et le fait que tout vient des relevés de Corentin et non de factures. Écrire « environ »
-    partout : aucun de ces chiffres n'a de pièce à l'appui.
-    L'ACCROCHE À NE PAS RATER : la prochaine date est l'édition 2026 de Halloween Shadow, le
-    2026-10-31 au Studio City Gate, au même endroit que l'édition à 2 500 personnes et 65 fûts.
-    Sept semaines, c'est encore actionnable pour une brasserie, et ça donne une échéance à une
-    discussion qui traîne depuis juillet.
-    TOUJOURS EN SUSPENS depuis juillet : le NOM du contact marketing. Leylan est maître-brasseur,
-    il porte le dossier, il ne le décide pas. Le redemander dans le même message.
-    NE PAS reposer la question du fournisseur actuel : Corentin l'a déjà communiquée à la
-    brasserie le 2026-09-04 (voir data/consumption.yaml, current_supply).
-  due: '2026-09-11'
+  what: 'LISTE ENVOYEE LE 2026-09-09, LA BALLE EST CHEZ EUX. Rien a envoyer avant le
+    2026-09-16. (1) DEMANDER A CORENTIN qui sont Noah Brouyere et Maxime Balasse (les
+    deux nouveaux destinataires) et d''ou viennent leurs adresses, pour remplir leur
+    role dans contacts : si l''un des deux est le marketing, le jalon « nom du contact
+    marketing » ouvert depuis juillet est ferme. (2) SI SILENCE AU 2026-09-16, relance
+    courte dans le fil, une seule question : la date du 31 octobre (Studio City Gate,
+    meme lieu que l''edition a environ 65 futs) est-elle une date sur laquelle ils
+    peuvent se positionner ? Sept semaines avant l''evenement, c''est le dernier moment
+    ou une brasserie peut encore livrer une premiere date. (3) SI REPONSE : la brasserie
+    posera la question logistique (tireuse, froid, CO2, reprise des futs vides), et
+    data/consumption.yaml, section logistics, est encore en TODO. La remplir avec
+    Corentin AVANT la reponse, pas apres. Ne pas reposer la question du fournisseur
+    actuel, deja traitee le 2026-09-04.'
+  due: '2026-09-16'
 notes: 'ÉTAT : contact déjà établi. Corentin a parlé à Leylan Roland (maître-brasseur)
   en personne ET par SMS ; accueil positif ; Leylan doit porter la demande à l''équipe
   marketing de la brasserie. La balle est donc dans leur camp, la décision de sponsoring

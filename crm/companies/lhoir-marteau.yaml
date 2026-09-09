@@ -7,7 +7,7 @@ sector: bois
 persona: fournisseur-technique
 categories:
 - wood
-status: lead
+status: paused
 phase: 1
 tags: []
 score: 45
@@ -88,11 +88,19 @@ documents:
 - output\Lhoir-Marteau\Lhoir-Marteau-Partnership-2026.pdf
 - output\Lhoir-Marteau\Lhoir-Marteau-OnePager-2026.pdf
 - output\Lhoir-Marteau\email.md
-interactions: []
+interactions:
+- date: '2026-09-09'
+  type: note
+  resume: 'MIS DE CÔTÉ par Corentin le 2026-09-09, avec tout le lot bois : jamais
+    contacté, et on n''appelle pas pour le moment. À la reprise, l''ordre reste :
+    un appel pour un nom, puis emails/bois.md à la personne nommée, un seul destinataire.'
 events: []
 next_action:
-  what: ''
-  due: ''
+  what: 'EN PAUSE (décision de Corentin, 2026-09-09), avec tout le lot bois. Reprise
+    à sa demande : lui redemander vers le 2026-11-02. Le jour où on reprend : Michel
+    Marteau dirige, à 15 km. Appeler le 02/354 78 92 pour son adresse directe : info@
+    est générique, on n''y écrit pas.'
+  due: '2026-11-02'
 notes: 'Adresse : Avenue des Pâquerettes 55, bte 31, 1410 Waterloo (zoning industriel,
   ancienne usine Fiat). Fax 02/354 54 48. Horaires : lun-ven 7-17h, sam 8-12h. Fondée
   en 1945 par Paul Lhoir, aujourd''hui menée par Michel Marteau. ATTENTION : la page
