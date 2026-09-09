@@ -2,6 +2,14 @@ label: "Media Kit"
 subject: "Media kit Gazmatek, collectif, sound system et événements en Belgique"
 targets: ["Médias", "Sponsors", "Institutions", "Artistes", "Salles"]
 
+overrides:
+  doc:
+    # Le media kit se signait « DOSSIER DE PARTENARIAT » en pied de chaque page, alors que
+    # sa spécification dit qu'il ne demande jamais rien. Et il affichait deux sections
+    # « 01 », les numéros étant écrits en dur page par page.
+    label: "Media kit"
+    autonumber: true
+
 # Le media kit réutilise les pages communes : elles ont besoin de ces clés.
 cover:
   kicker: "Media kit"

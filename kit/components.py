@@ -90,7 +90,17 @@ def checklist(c, y, items, cols=2, rh=60):
 
 
 def stats_strip(c, y, stats, h=92):
-    """Bandeau de chiffres clés."""
+    """Bandeau de chiffres clés.
+
+    Les entrées encore marquées TODO ne sont jamais imprimées. Le media kit affichait
+    « 62 % · Hommes (TODO : à confirmer) » en toutes lettres : un marqueur de travail dans
+    un document envoyé jette le doute sur tous les autres chiffres de la page. Un chiffre
+    non confirmé se retire, il ne s'annote pas.
+    """
+    stats = [s for s in stats
+             if "TODO" not in "%s %s" % (s.get("value", ""), s.get("label", ""))]
+    if not stats:
+        return y
     rrect(c, M, y - h, CW, h, 8, fill=LIGHT)
     cwid = CW / len(stats)
     for i, s in enumerate(stats):

@@ -80,7 +80,7 @@ def render(c, ctx):
     c.setStrokeColor(HexColor("#23262C"))
     c.setLineWidth(0.6)
     c.line(M, 76, W - M, 76)
-    ls_text(c, M, 58, "FALC'OHM SYSTEM ASBL, DOSSIER DE PARTENARIAT", "Inter-M", 7,
+    ls_text(c, M, 58, "FALC'OHM SYSTEM ASBL, %s" % doc_label(cfg), "Inter-M", 7,
             HexColor("#5C6470"), 1.2)
     ls_text(c, W - M, 58, "%02d" % ctx.page, "Inter-B", 7, BLUE, 1.2, align="r")
     ctx.no_footer = True

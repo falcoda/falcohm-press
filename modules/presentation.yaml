@@ -1,0 +1,120 @@
+label: "Présentation"
+subject: "Gazmatek et Falc'ohm System, une ASBL belge d'événements et de son"
+targets: ["Lieux", "Salles", "Associations", "Collectifs", "Artistes", "Écoles"]
+
+# Ce document ne demande rien. Il n'a ni page « contreparties », ni page « ce que nous
+# recherchons », ni niveaux d'engagement, ni emplacement pour le logo du lecteur. Il dit
+# qui nous sommes et ce que nous savons faire, et il s'arrête là.
+#
+# À qui il s'adresse : un lieu, une salle, une autre association, une école. Des gens qui
+# n'ont ni matériel à fournir ni budget de sponsoring, et à qui la chaîne habituelle du
+# dépôt n'a rien à dire sans les vexer.
+
+pages: [mk_cover, mk_manifesto, about, gazmatek, mk_events, ecosystem, pr_capabilities,
+        mk_audience, contact]
+
+cover:
+  kicker: "Présentation"
+  subtitle: "Une ASBL belge d'événements et de son"
+
+partner:
+  name: "Votre projet"
+  role: "Le lieu et le propos"
+  icon: door
+  items: ["Un lieu", "Un public à faire venir", "Un propos à porter", "Une équipe en face"]
+
+gazmatek:
+  intro: >-
+    Gazmatek programme, produit et sonorise ses propres événements. Le collectif fabrique son
+    matériel avec Falc'ohm System, le pôle technique de l'ASBL : c'est ce qui garantit la qualité
+    sonore et l'indépendance du projet.
+  band:
+    title: "Un projet qui vit toute l'année."
+    text: >-
+      Des soirées, des festivals, des plateaux d'artistes, et un parc technique construit et
+      entretenu en interne.
+
+ecosystem:
+  intro: >-
+    Gazmatek fait vivre les événements et la communauté. Falc'ohm System construit et exploite le
+    matériel qui les rend possibles. Les deux marques se déplacent ensemble : ce qui arrive dans
+    un lieu, c'est une équipe, du matériel et une programmation.
+  band:
+    title: "Deux marques, une seule ASBL."
+    text: >-
+      Une association sans but lucratif fondée en 2020, sans structure commerciale et sans
+      actionnaire.
+
+overrides:
+  doc:
+    label: "Présentation"
+    autonumber: true
+
+  # Le manifeste du media kit vend une soirée. Ici, on présente une association.
+  content:
+    # Les deux marques dès la couverture, avec leur périmètre : c'est une règle du dépôt,
+    # et c'est la première chose qu'un lecteur doit comprendre.
+    baseline: "Gazmatek et Falc'ohm System, une ASBL belge depuis 2020."
+    cover_note: "Les événements, et le son qui les rend possibles"
+    manifesto:
+      - "Le son d'abord."
+      - "Le reste suit."
+    manifesto_text: >-
+      Gazmatek est né d'une conviction simple : une soirée se juge à ce qu'on entend, pas à ce
+      qu'on dépense. Nous programmons des artistes, nous construisons nos propres systèmes audio
+      et nous faisons vivre une scène indépendante en Belgique. Sans structure commerciale, sans
+      actionnaire, avec 80 bénévoles.
+    events_intro: >-
+      Depuis 2020, Gazmatek a construit une scène : des soirées en warehouse, des plateaux
+      d'artistes internationaux, des festivals. Chaque date est sonorisée par notre propre
+      matériel, monté et démonté par nos bénévoles.
+    events_band:
+      title: "Une scène, pas une série de soirées."
+      text: >-
+        Le public revient d'une date à l'autre, et l'équipe qui monte le son est la même depuis
+        des années.
+
+  # La page « public » du media kit demande à une marque à qui elle parle. Reformulée, elle
+  # répond à la seule question qu'un lieu se pose : qui va franchir ma porte.
+  audience:
+    kicker: "Notre public"
+    title: "Qui vient,\nquand nous ouvrons."
+    intro: >-
+      Notre public est jeune, urbain et très actif en ligne. Il vient pour la musique et il
+      revient : c'est une communauté, pas une audience de passage. C'est aussi un public que
+      peu de lieux touchent seuls.
+    band:
+      title: "Une communauté, pas une audience."
+      text: >-
+        27 000 abonnés cumulés, un public qui revient d'une date à l'autre et relaie nos annonces.
+
+  capabilities:
+    kicker: "Nos métiers"
+    title: "Ce que nous savons faire."
+    intro: >-
+      L'ASBL forme ses bénévoles à tous les métiers de l'événement. Ce sont des compétences que
+      nous mettons au service de nos propres dates, et que nous pouvons apporter ailleurs.
+    items:
+      - { icon: speaker, title: "Son et régie",          text: "Sonorisation complète, du petit format à la scène de festival, avec notre propre parc." }
+      - { icon: star,    title: "Lumière et scénographie", text: "Éclairage, implantation et habillage d'un espace, y compris dans un lieu brut." }
+      - { icon: tools,   title: "Fabrication et atelier", text: "Nous construisons nos enceintes d'après les plans d'un concepteur, et nous entretenons le parc." }
+      - { icon: heart,   title: "Formation des bénévoles", text: "80 bénévoles inscrits, 45 actifs, formés au son, à la lumière et à la tenue d'un événement." }
+      - { icon: door,    title: "Tenue d'un événement",   text: "Accueil, entrées, bar, vestiaire, billetterie par jetons, merchandising imprimé sur place." }
+      - { icon: video,   title: "Captation et images",    text: "Photos et aftermovies de nos dates, diffusés sur nos réseaux." }
+    with_us_label: "CE QUE ÇA DONNE SUR PLACE"
+    with_us:
+      - { title: "Une équipe qui monte et qui démonte", text: "Nous arrivons avec nos bénévoles et nous rendons le lieu comme nous l'avons trouvé." }
+      - { title: "Du matériel qui nous appartient",     text: "Pas de location de dernière minute : le parc est à nous et nous l'entretenons." }
+      - { title: "Un public qui se déplace",            text: "Nos annonces touchent 27 000 abonnés, sans achat média." }
+      - { title: "Une ASBL, pas un organisateur privé", text: "Sans but lucratif : ce qui rentre repart dans le matériel, les bénévoles et les artistes." }
+    band:
+      title: "Nous savons faire vivre un lieu."
+      text: >-
+        C'est le métier de l'association depuis 2020 : de la salle brute au festival, avec ses
+        propres moyens.
+
+  # Le media kit finit sur « construire un partenariat ». Une présentation finit sur une porte
+  # ouverte, sans rien demander.
+  thanks_text: >-
+    Voilà qui nous sommes. Si ce que nous faisons rencontre ce que vous faites, la conversation
+    peut commencer quand vous le voulez.

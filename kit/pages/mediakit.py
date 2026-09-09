@@ -18,8 +18,8 @@ def cover(c, ctx):
     veil(c, 0, H * 0.82, W, H * 0.18, BLACK, top=0.7, bottom=0.0)
 
     c.drawImage(P("gaz_white.png"), M, H - 118, 52, 58.7, mask='auto')
-    ls_text(c, W - M, H - 86, "MEDIA KIT · %s" % cfg["year"], "Inter-B", 8.4, WHITE, 2.4,
-            align="r")
+    ls_text(c, W - M, H - 86, "%s · %s" % (doc_label(cfg, "MEDIA KIT"), cfg["year"]),
+            "Inter-B", 8.4, WHITE, 2.4, align="r")
 
     by = 200
     c.setStrokeColor(BLUE)
@@ -36,8 +36,8 @@ def cover(c, ctx):
     ls_text(c, M, 92, cfg["org"]["sites"][0]["label"], "Inter-M", 9.2, WHITE, 0.6)
     link(c, M, 92, tw(c, cfg["org"]["sites"][0]["label"], "Inter-M", 9.2, 0.6), 11,
          cfg["org"]["sites"][0]["url"])
-    ls_text(c, W - M, 92, "Un projet de %s" % cfg["org"]["name"], "Inter-L", 8.6,
-            HexColor("#A9AEB6"), 0.4, align="r")
+    ls_text(c, W - M, 92, cfg["content"].get("cover_note", "Un projet de %s" % cfg["org"]["name"]),
+            "Inter-L", 8.6, HexColor("#A9AEB6"), 0.4, align="r")
     ctx.no_footer = True
 
 
@@ -69,7 +69,8 @@ def audience(c, ctx):
     a = cfg["audience"]
     c.setFillColor(WHITE)
     c.rect(0, 0, W, H, stroke=0, fill=1)
-    y = ctx.head("01", "Notre public", "À qui parlez-vous\nquand vous parlez avec nous ?") - 30
+    y = ctx.head("01", a.get("kicker", "Notre public"),
+                 a.get("title", "À qui parlez-vous\nquand vous parlez avec nous ?")) - 30
     y = para(c, M, y, a["intro"], "Inter-L", 11.2, 17.4, CW - 40, BODY) - 26
 
     gw, gh = (CW - 2 * 10) / 3, 132
@@ -91,7 +92,8 @@ def reach(c, ctx):
     r = cfg["reach"]
     c.setFillColor(LIGHT)
     c.rect(0, 0, W, H, stroke=0, fill=1)
-    y = ctx.head("02", "Portée", "Ce que votre marque\ntouche avec nous.") - 30
+    y = ctx.head("02", r.get("kicker", "Portée"),
+                 r.get("title", "Ce que votre marque\ntouche avec nous.")) - 30
     y = para(c, M, y, r["intro"], "Inter-L", 11.2, 17.4, CW - 40, BODY) - 26
     y = stats_strip(c, y, r["items"]) - 30
 

@@ -8,7 +8,7 @@ import re
 import yaml
 from reportlab.pdfgen import canvas
 
-from .core import W, H, M, footer, kicker, title
+from .core import W, H, M, doc_label, footer, kicker, title
 from . import pages
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -72,8 +72,16 @@ class Ctx(object):
         self.persona = persona or {}
         self.page = 1
         self.no_footer = False
+        self.section = 0
 
     def head(self, num, label, ttl, size=28):
+        # Les numéros de section sont écrits en dur dans chaque page, ce qui convient tant
+        # qu'un document les prend toutes dans l'ordre prévu. Dès qu'on recompose (le media
+        # kit affiche deux « 01 »), il faut compter à la volée. `doc.autonumber` le fait,
+        # sans rien changer aux dossiers qui ne le demandent pas.
+        if (self.cfg.get("doc") or {}).get("autonumber"):
+            self.section += 1
+            num = "%02d" % self.section
         y = H - 86
         kicker(self.c, M, y, num, label)
         return title(self.c, M, y - 34, ttl, size)
@@ -82,7 +90,8 @@ class Ctx(object):
 def _render(page_ids, cfg, module, out, target=None, persona=None, subject=""):
     os.makedirs(os.path.dirname(out), exist_ok=True)
     c = canvas.Canvas(out, pagesize=(W, H))
-    c.setTitle("Dossier de partenariat : %s" % module.get("label", ""))
+    label = doc_label(cfg)
+    c.setTitle("%s : %s" % (label.capitalize(), module.get("label", "")))
     c.setAuthor("%s, %s" % (cfg["org"]["contact"]["name"], cfg["org"]["name"]))
     c.setSubject(subject or module.get("subject", ""))
     ctx = Ctx(c, cfg, module, target, persona)
@@ -93,7 +102,7 @@ def _render(page_ids, cfg, module, out, target=None, persona=None, subject=""):
         ctx.no_footer = False
         pages.get(pid)(c, ctx)
         if not ctx.no_footer:
-            footer(c, ctx.page)
+            footer(c, ctx.page, label=label)
         c.showPage()
         ctx.page += 1
     c.save()

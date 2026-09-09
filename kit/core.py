@@ -121,9 +121,27 @@ def ellipsize(c, txt, font, size, width, space=0):
     return (txt + ell) if txt else ell
 
 
+# Ponctuations qui, en français, sont précédées d'une espace. Elles ne doivent jamais
+# tomber seules en début de ligne : « il revient \n : c'est une communauté » se lisait
+# ainsi dans le media kit. On les rattache au mot précédent pour le calcul du retour à la
+# ligne, en gardant une espace ordinaire à l'affichage (pas d'insécable : rien ne garantit
+# le glyphe dans la fonte embarquée).
+_GLUE = (":", ";", "!", "?", "»", "%")
+
+
+def _tokens(txt):
+    out = []
+    for w in txt.split():
+        if out and w in _GLUE:
+            out[-1] += " " + w
+        else:
+            out.append(w)
+    return out
+
+
 def wrap(c, txt, font, size, width):
     lines, cur = [], ""
-    for word in txt.split():
+    for word in _tokens(txt):
         t = (cur + " " + word).strip()
         if c.stringWidth(t, font, size) <= width:
             cur = t
@@ -210,7 +228,19 @@ def eyebrow(c, x, y, txt, color=INK):
     ls_text(c, x, y, txt.upper(), "Inter-B", 8.6, color, 1.4)
 
 
-def footer(c, page, dark=False):
+# Le libellé imprimé en pied de page et en tête de couverture. Il était écrit en dur à
+# quatre endroits, si bien que le media kit, dont la spécification dit noir sur blanc qu'il
+# ne demande rien, se signait « dossier de partenariat » à chaque page. Un document qui se
+# présente ne se signe pas comme un document qui demande.
+DOC_LABEL = "DOSSIER DE PARTENARIAT"
+
+
+def doc_label(cfg, default=DOC_LABEL):
+    """Le libellé du document courant (`doc.label`), en majuscules."""
+    return str((cfg.get("doc") or {}).get("label") or default).upper()
+
+
+def footer(c, page, dark=False, label=DOC_LABEL):
     # L'interlettrage était à 1.2 : un copier-coller rendait « F A L C ' O H M   S Y S T E M »
     # et collait les deux blocs. Le pied de page porte le nom légal de l'ASBL et le titre du
     # document, c'est de l'information, pas de la décoration : elle doit rester extractible.
@@ -220,7 +250,7 @@ def footer(c, page, dark=False):
     c.setLineWidth(0.6)
     c.line(M, 56, W - M, 56)
     ls_text(c, M, 42, "FALC'OHM SYSTEM ASBL", "Inter-M", 7, col, 0.4)
-    ls_text(c, W / 2, 42, "DOSSIER DE PARTENARIAT", "Inter-L", 7, col, 0.4, align="c")
+    ls_text(c, W / 2, 42, label, "Inter-L", 7, col, 0.4, align="c")
     ls_text(c, W - M, 42, "%02d" % page, "Inter-B", 7, BLUE, 0.4, align="r")
 
 

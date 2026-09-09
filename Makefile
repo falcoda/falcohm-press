@@ -1,4 +1,4 @@
-.PHONY: install all targets target mediakit print crm crm-rank crm-validate crm-brief events log clean
+.PHONY: install all targets target mediakit presentation print crm crm-rank crm-validate crm-brief events log clean
 
 install:
 	pip install -r requirements.txt
@@ -16,6 +16,9 @@ target:         ## make target T=triplaco
 mediakit:
 	python -m kit mediakit
 
+presentation:   ## le document qui présente sans rien demander (lieux, asbl, écoles)
+	python -m kit presentation
+
 print:          ## qualité impression (300 dpi)
 	PRESS_DPI=300 PRESS_JPEG_QUALITY=92 python -m kit --all
 
@@ -28,7 +31,7 @@ crm-rank:       ## le classement : à qui donner son mois
 crm-validate:   ## refuse toute adresse e-mail non sourcée
 	python -m kit --crm-validate
 
-crm-deadlines:  ## les dates de dépôt des subsides — rater une date coûte un an
+crm-deadlines:  ## les dates de dépôt des subsides : rater une date coûte un an
 	python -m kit --crm-deadlines
 
 crm-brief:      ## make crm-brief T=triplaco

@@ -21,7 +21,7 @@ def render(c, ctx):
     veil(c, 0, H - hh, W, hh * 0.8, BLACK, top=0.0, bottom=0.85)
     c.drawImage(P("eagle_white.png"), M, H - 62, 34, 29.8, mask='auto')
     c.drawImage(P("gaz_white.png"), M + 44, H - 64, 28, 31.6, mask='auto')
-    ls_text(c, W - M, H - 46, "DOSSIER DE PARTENARIAT · %s" % cfg["year"], "Inter-M", 7.4,
+    ls_text(c, W - M, H - 46, "%s · %s" % (doc_label(cfg), cfg["year"]), "Inter-M", 7.4,
             HexColor("#C9CDD4"), 1.6, align="r")
     ls_text(c, M, H - hh + 58, m["cover"]["kicker"].upper(), "Inter-B", 8.4, WHITE, 2.0)
     title_w = tw(c, "Falc'ohm System ASBL", "Inter-B", 22, -0.6)

@@ -18,7 +18,10 @@ def render(c, ctx):
     blocks = [
         ("Gazmatek", "Le projet culturel", cfg["org_blocks"]["gazmatek"], "dark"),
         ("Falc'ohm System", "Le pôle technique", cfg["org_blocks"]["falcohm"], "white"),
-        ("Votre entreprise", m["partner"]["role"], m["partner"]["items"], "blue"),
+        # « Votre entreprise » était en dur : un lieu, une salle ou une association ne se
+        # reconnaît pas dans ce mot, et le document se met à parler comme un commercial.
+        (m["partner"].get("name", "Votre entreprise"), m["partner"]["role"],
+         m["partner"]["items"], "blue"),
     ]
     for i, (nm, sub, items, style) in enumerate(blocks):
         bx = M + i * (bw + 34)

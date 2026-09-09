@@ -4,6 +4,25 @@ Le media kit **ne demande jamais d'argent**. Il explique pourquoi Gazmatek est u
 laquelle il est intéressant de s'associer. C'est le document que l'on envoie *avant* toute demande,
 et celui qu'un journaliste, un booker ou un directeur marketing peut lire seul.
 
+## Trois documents, trois lecteurs
+
+| Document | `make` | Ce qu'il dit | Pour qui |
+|---|---|---|---|
+| Dossier de partenariat | `make all` | Ce dont nous avons besoin | Fournisseur, marque, institution |
+| Media kit | `make mediakit` | À quel public vous vous associez | Journaliste, booker, annonceur |
+| **Présentation** | `make presentation` | Qui nous sommes et ce que nous savons faire | Lieu, salle, association, école |
+
+La présentation (`dossiers/presentation.yaml`) est née d'un cas que les deux autres ne couvrent
+pas : une ASBL qui occupe un lieu, une salle, un collectif. Ces gens n'ont ni matériel à fournir ni
+budget de sponsoring. Un dossier de partenariat les prend pour ce qu'ils ne sont pas, et le media
+kit leur parle de « votre marque ». La présentation n'a donc **ni page contreparties, ni page
+« ce que nous recherchons », ni niveaux d'engagement, ni emplacement pour le logo du lecteur**.
+Elle ajoute la seule page qui manquait au dépôt : `pr_capabilities`, ce que nous savons faire pour
+quelqu'un d'autre.
+
+Le libellé imprimé en pied de page vient de `doc.label` (défaut : `DOSSIER DE PARTENARIAT`), et
+`doc.autonumber` renumérote les sections dans l'ordre réel de la composition.
+
 Durée de vie : plusieurs années. Seules les données changent (`data/`), jamais la structure.
 
 | # | Page (`id`) | But | Données | Photos | KPI affichés | CTA |

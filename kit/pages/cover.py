@@ -18,7 +18,7 @@ def render(c, ctx):
 
     c.drawImage(P("eagle_white.png"), M, H - 106, 48, 42.1, mask='auto')
     c.drawImage(P("gaz_white.png"), M + 64, H - 108, 42, 47.4, mask='auto')
-    ls_text(c, W - M, H - 82, "DOSSIER DE PARTENARIAT · %s" % cfg["year"], "Inter-M", 8,
+    ls_text(c, W - M, H - 82, "%s · %s" % (doc_label(cfg), cfg["year"]), "Inter-M", 8,
             WHITE, 1.8, align="r")
 
     by = 214
