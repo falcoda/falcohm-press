@@ -1,0 +1,57 @@
+# Créé le 2026-09-07. Prochaine date de Gazmatek, et pivot du dossier FWB « projets jeunes ».
+slug: halloween-shadow-2026
+name: Halloween Shadow 2026
+date: '2026-10-31'
+venue: Studio City Gate
+city: ''                     # TODO, commune exacte
+capacity: null               # TODO
+attendance: null             # TODO, à remplir après l'événement
+type: soiree
+
+lineup: []
+sponsors: []
+partners: []
+
+production:
+  montage: '2026-10-29'      # ou le 30, à confirmer
+  demontage: '2026-11-01'    # ou le 2, à confirmer
+  note: >-
+    Montage les 29 ou 30 octobre, démontage les 1er ou 2 novembre. Dates communiquées par
+    Corentin le 2026-09-07, à figer dès que le planning est arrêté : le dossier FWB les cite.
+
+budget:
+  total: null
+  technique: null
+  artistes: null
+  communication: null
+
+technique:
+  system: Falc'ohm System
+  stages: 1
+  notes: ''
+
+medias:
+  poster: ''
+  photos: []
+  aftermovie: ''
+
+stats:
+  reach_instagram: null
+  reach_facebook: null
+  tickets_sold: null
+
+retombees: ''
+
+notes: >-
+  ÉDITION 2026 DE SHADOW. L'édition précédente s'est tenue au même endroit le 2025-10-31 et a
+  réuni 2 500 personnes (events/shadow-3-stages.yaml), ce qui en fait la plus grosse date connue
+  de l'association.
+  ---
+  ENJEU PARTICULIER : cette date est la première mise à l'épreuve du projet déposé auprès de la
+  Fédération Wallonie-Bruxelles, action 2 « Expressions jeunes ». Les jeunes du groupe y tiennent
+  les postes, du montage au démontage. Voir proposals/fwb-projets-jeunes-2026/dossier.md.
+  ---
+  À FAIRE APRÈS L'ÉVÉNEMENT, et sans attendre : fréquentation réelle, portée des publications,
+  photos, et surtout le nombre de fûts consommés, pour data/consumption.yaml. L'édition 2025 est
+  précisément la seule ligne du relevé brasserie dont le volume manque, et St-Feuillien l'attend.
+  Ne pas refaire l'erreur deux ans de suite.

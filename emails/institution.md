@@ -6,10 +6,11 @@ Madame, Monsieur,
 {{ORG}} est une association sans but lucratif fondée en 2020, basée à Genappe. Elle porte deux
 marques complémentaires : Gazmatek, sous laquelle elle organise ses événements culturels, et
 Falc'ohm System, sous laquelle elle construit et exploite le matériel qui les sonorise. Elle forme
-aussi ses bénévoles à tous les métiers de l'événement : la technique du spectacle, mais également
-l'accueil et les entrées, le bar, le vestiaire et la billetterie par jetons.
+aussi ses 80 bénévoles à tous les métiers de l'événement : la sonorisation et la lumière, mais
+aussi l'accueil et les entrées, le bar, le vestiaire, la billetterie par jetons, le merchandising
+qu'ils impriment eux-mêmes, et l'atelier, où l'on répare les câbles et où l'on entretient le parc.
 
-L'association réunit plus de 40 membres et bénévoles et touche plus de 10 000 festivaliers par an,
+L'association réunit 80 bénévoles, dont 45 actifs sur les événements, et touche plus de 10 000 festivaliers par an,
 sans structure commerciale.
 
 Nous sollicitons votre soutien. Ce que nous recherchons, précisément : {{OBJECTIVE}}

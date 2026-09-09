@@ -26,7 +26,7 @@ partner:
   - Partenaire long terme
 gazmatek:
   intro: Chaque événement Gazmatek repose sur une chaîne technique et logistique complète. Une ASBL de
-    40 bénévoles, un public jeune, un ancrage local fort.
+    80 bénévoles, un public jeune, un ancrage local fort.
   band:
     title: Un projet qui vit toute l'année.
     text: Ce que vous nous fournissez sert sur l'ensemble des événements Gazmatek et sur les prestations
@@ -36,12 +36,12 @@ ecosystem:
     entreprise apporte sponsoring et mécénat.
   band:
     title: Un usage réel, toute l'année.
-    text: Une ASBL de 40 bénévoles, un public jeune, un ancrage local fort.
+    text: Une ASBL de 80 bénévoles, un public jeune, un ancrage local fort.
 project:
   title: 'Notre parc,
 
     nos événements.'
-  intro: TODO, décrire précisément le besoin en sponsoring et mécénat. Une ASBL de 40 bénévoles, un public
+  intro: TODO, décrire précisément le besoin en sponsoring et mécénat. Une ASBL de 80 bénévoles, un public
     jeune, un ancrage local fort.
   intro2: TODO, expliquer pourquoi ce poste est critique et pourquoi le besoin est récurrent.
   images:

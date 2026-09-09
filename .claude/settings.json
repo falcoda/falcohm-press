@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(PYTHONIOENCODING=utf-8 grep -rniE \"audio.?comp\" crm/companies/ targets/ modules/ knowledge/)"
+    ]
+  }
+}

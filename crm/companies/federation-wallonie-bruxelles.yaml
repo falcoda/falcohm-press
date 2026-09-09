@@ -53,15 +53,26 @@ why_us: 'C''est LE dispositif public taillé pour ce que fait Gazmatek : l''« A
 ask:
   type:
   - financial
-  detail: '« Aide aux structures de programmation », volet FESTIVAL en musiques actuelles,
-    aide ponctuelle portant sur une édition. Subvention de MINIMUM 5.000 € (versée
-    en 1 fois si < 6.000 €, en 2 fois au-delà, le solde après justificatifs). Seuils
-    éliminatoires pour un festival de musiques actuelles : au minimum 7 concerts dont
-    au moins 1/3 d''artistes/groupes de la FWB, budget global ≥ 20.000 €, cachets
-    artistiques totaux ≥ 10.000 €. Dossier via formulaire en ligne + budget prévisionnel
-    (.xls) + grille de programmation (.docx) + comptes et bilan de la dernière édition.
+  detail: 'DEUX VOIES DISTINCTES, verifiees sur la page officielle le 2026-09-07.
+    Ne pas les confondre, les seuils n''ont rien a voir.
 
-    '
+    (A) FESTIVAL, musiques actuelles, aide ponctuelle sur UNE EDITION : au minimum
+    7 concerts DANS L''EDITION, dont au moins 1/3 d''artistes de la FWB, budget global
+    >= 20 000 EUR, cachets artistiques >= 10 000 EUR.
+
+    (B) LIEU DE DIFFUSION ET ORGANISATEUR DE CONCERTS, musiques actuelles, sur UNE
+    ANNEE ou SAISON : au minimum 18 artistes ou groupes programmes, dont au moins
+    1/3 de la FWB, budget global >= 20 000 EUR, cachets artistiques >= 10 000 EUR.
+
+    ATTENTION : « 7 concerts par an » ne correspond a AUCUNE des deux voies. La voie
+    A compte les concerts d''une seule edition, la voie B compte 18 artistes sur l''annee.
+    Avec 10 a 15 dates par an, la voie B est probablement la plus accessible, et un
+    evenement a trois scenes comme Shadow satisfait sans doute la voie A a lui seul.
+    A COMPTER.
+
+    Subvention de minimum 5 000 EUR, versee en une fois sous 6 000 EUR. Pieces : formulaire
+    en ligne, budget previsionnel .xls, grille de programmation .docx, comptes et
+    bilan de la derniere edition.'
   realistic_value_eur: 6000
 values:
 - Diffusion des artistes de la Fédération Wallonie-Bruxelles
@@ -167,13 +178,50 @@ documents:
 - output\Federation-Wallonie-Bruxelles-Service-des-Musiques\Federation-Wallonie-Bruxelles-Service-des-Musiques-Partnership-2026.pdf
 - output\Federation-Wallonie-Bruxelles-Service-des-Musiques\Federation-Wallonie-Bruxelles-Service-des-Musiques-OnePager-2026.pdf
 - output\Federation-Wallonie-Bruxelles-Service-des-Musiques\email.md
-interactions: []
+interactions:
+- date: '2026-09-07'
+  type: note
+  resume: 'SEUIL LE PLUS DUR FRANCHI. Corentin confirme des cachets artistiques de
+    20 000 a 30 000 EUR sur la derniere edition, la ou le seuil eliminatoire est de
+    10 000 EUR. Le budget global de 20 000 EUR est donc egalement depasse de fait.
+    Le dossier passe du statut d''hypothese a celui de cible reelle. Verifie le meme
+    jour sur la page officielle : la notion d''« artiste de la FWB » n''exige AUCUNE
+    inscription a un organisme. Le texte dit « promouvoir et diffuser des artistes/groupes/ensembles
+    de la Federation Wallonie-Bruxelles visant a developper une carriere professionnelle
+    ». Un artiste independant wallon ou bruxellois, paye pour jouer, satisfait le
+    critere. L''inquietude de Corentin sur ce point n''a pas lieu d''etre.'
+- date: '2026-09-07'
+  type: note
+  resume: 'POINT DE VIGILANCE MAJEUR souleve par Corentin : les artistes residents
+    sont payes en « contrats benevoles ». Deux problemes distincts, a ne pas melanger.
+    (1) POUR LE DOSSIER : le dispositif exige des CACHETS ARTISTIQUES remunerant des
+    artistes « visant une carriere professionnelle ». Un defraiement de volontaire
+    n''est pas un cachet artistique, et il apparait dans les comptes comme frais de
+    benevolat. Les montants ainsi verses risquent de ne PAS compter dans le seuil
+    des 10 000 EUR, ce qui reduirait d''autant les 20 a 30 000 EUR annonces. (2) SUR
+    LE FOND, hors subside : la loi belge sur le volontariat couvre du benevolat defraye,
+    pas la remuneration d''une prestation artistique reguliere. Un DJ resident paye
+    ainsi de facon repetee expose l''ASBL a un risque de requalification. Ce depot
+    n''est pas un avis juridique et ne doit pas etre lu comme tel. A FAIRE VERIFIER
+    par une source competente AVANT le depot : c''est exactement l''objet du conseil
+    individuel Musiscope, gratuit, administratif juridique et financier, demande au
+    Conseil de la Musique le 2026-09-04.'
 events: []
 next_action:
-  what: Appeler Diane Dernouchamps (musiques électroniques) pour cadrer le dossier
-    « Aide aux structures de programmation » AVANT le dépôt de février, et vérifier
-    dans les comptes Gazmatek que les cachets atteignent 10.000 €
-  due: '2026-09-15'
+  what: 'DOSSIER LE PLUS RENTABLE DU FICHIER, depot le 2027-02-05. Deux questions
+    decident de sa recevabilite, et aucune ne porte sur l''argent. (1) LE TIERS D''ARTISTES
+    FWB. Il faut au moins 7 concerts dont un tiers d''artistes de la Federation. Or
+    la programmation connue de Gazmatek fait la part belle aux collectifs francais
+    (SP23, Heretik, Teknoise). RECOMPTER la derniere edition artiste par artiste :
+    combien sont domicilies en Wallonie ou a Bruxelles ? C''est le seuil qui risque
+    reellement de bloquer, pas les cachets. (2) LA TRACABILITE COMPTABLE. Le dossier
+    exige « les comptes et bilan de la derniere edition ». Les 20 a 30 000 EUR de
+    cachets doivent donc APPARAITRE dans les comptes, avec contrats, factures, SMart
+    ou declarations. Un cachet paye sans trace ne se prouve pas, et un seuil eliminatoire
+    qui ne se prouve pas est un seuil non atteint. (3) La relecture par le Conseil
+    de la Musique, demandee le 2026-09-04, sert exactement a valider ces deux points
+    avant de deposer.'
+  due: '2026-10-15'
 notes: 'ÉLIGIBILITÉ, conditions cumulatives (fiche officielle mise à jour le 27 avril
   2026) : (1) personne morale établie en FWB [OK, Genappe] ; (2) AUCUN contrat-programme
   ni contrat de création/service/diffusion en cours [OK] ; (3) développer des activités

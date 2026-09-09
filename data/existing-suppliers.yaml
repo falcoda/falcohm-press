@@ -51,7 +51,10 @@ open:
   - post: Visserie et quincaillerie
     note: Wurth.
   - post: Outils de mesure et de calage
-    note: Non couvert, non prospecte.
+    note: >-
+      MICROPHONE : SoundImports / Audio Components le distribue et le recommande (miniDSP UMIK-2,
+      2026-09-08). LOGICIEL : Smaart n'est pas dans leur assortiment, la licence passe par un
+      revendeur agree de Rational Acoustics, cible a creer.
   - post: Maintenance et pieces detachees
     note: Reconing des haut-parleurs, service de reparation. Amptec dispose d'un centre.
 

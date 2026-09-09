@@ -1,0 +1,100 @@
+# L'équipe et ce qu'elle sait faire. Sert aux dossiers de subside, qui exigent tous de nommer
+# l'encadrement et de dire ce qu'il apporte.
+#
+# PROTECTION DES DONNÉES : ce fichier ne contient AUCUNE coordonnée de bénévole. La base
+# nominative des 80 bénévoles, avec adresses et téléphones, reste dans l'outil de Falc'ohm et
+# n'entre pas dans ce dépôt, qui est un outil de prospection. Y recopier 80 adresses privées
+# créerait un fichier de données personnelles sans base légale et sans finalité.
+# Seuls figurent ici les encadrants, parce qu'un dossier de subside exige de les nommer.
+
+volunteers:
+  registered: 80
+  active_on_events: 45
+  leads: 2
+  rating: { average: 4.9, out_of: 5, ratings_count: 19 }
+  retrieved_on: '2026-09-07'
+  note: >-
+    Deux doublons repérés dans la liste (une même personne inscrite deux fois avec deux adresses).
+    Le total réel est donc de 78 personnes distinctes environ. Écrire « 80 bénévoles inscrits »
+    reste exact au sens de la base, mais ne pas descendre dans le détail nominatif d'un dossier
+    sans avoir dédoublonné.
+
+# ---------------------------------------------------------------------------
+# CE QUE LES BÉNÉVOLES FONT RÉELLEMENT
+# ---------------------------------------------------------------------------
+# Correction du 2026-09-07. Les documents parlaient de « métiers techniques du spectacle » et de
+# construction d'enceintes. C'est faux par omission : la construction est une activité de
+# l'association, pas l'activité des bénévoles. Ce qu'ils font, c'est faire tourner un événement.
+activities:
+  - domain: Son
+    detail: Prestation de sonorisation sur les événements, montage, exploitation, démontage.
+  - domain: Lumière
+    detail: Prestation lumière, montage et exploitation.
+  - domain: Organisation de l'événement
+    detail: Accueil et entrées, bar, vestiaire, billetterie par jetons, merchandising.
+  - domain: Création visuelle
+    detail: >-
+      Production du merchandising à la presse à transfert. C'est un atelier de création
+      graphique et d'impression, mené par les bénévoles.
+  - domain: Atelier et maintenance
+    detail: >-
+      Réparation de câbles, peinture des caissons, rangement et gestion de l'entrepôt. C'est le
+      travail invisible qui fait qu'un parc tient dans le temps.
+  - domain: Construction
+    detail: >-
+      Fabrication des enceintes d'après les plans de JW Sound. Activité de l'association, à
+      laquelle les bénévoles participent, mais qui n'est pas le cœur de leur engagement.
+
+# ---------------------------------------------------------------------------
+# ENCADREMENT SPÉCIALISÉ
+# ---------------------------------------------------------------------------
+# L'action 2 de la circulaire « Soutiens aux projets jeunes » rend l'encadrement spécialisé
+# OBLIGATOIRE, et son absence est un motif de refus automatique. Ces quatre noms y répondent.
+#
+# STATUT : les encadrants sont les ADMINISTRATEURS de l'ASBL, et ils interviennent BÉNÉVOLEMENT.
+# Personne n'est rémunéré. Conséquence budgétaire majeure, voir proposals/fwb-projets-jeunes-2026 :
+# le poste « frais d'animation » ne peut pas être valorisé au coût horaire d'un salarié. La
+# circulaire admet toutefois explicitement les « volontaires » parmi les frais d'animation, ce qui
+# ouvre la voie d'une indemnité forfaitaire de volontariat, plafonnée et indexée chaque année par
+# la loi belge. C'est une DÉCISION de l'ASBL, pas une évidence : à trancher par Corentin.
+supervisors:
+  - name: Alexandre Tozar
+    role: Spécialiste lumière
+    internal: true
+    hours: null                 # TODO, nombre d'heures d'intervention sur le projet
+    hourly_cost: null           # TODO, obligatoire : sans mode de calcul, le poste est non éligible
+  - name: Ludovic Floeh
+    role: Spécialiste lumière
+    internal: null              # TODO, interne ou externe ?
+    hours: null                 # TODO
+    hourly_cost: null           # TODO
+  - name: Corentin Dallenogare
+    role: Spécialiste son, président de l'ASBL
+    internal: true
+    hours: null                 # TODO
+    hourly_cost: null           # TODO
+  - name: Thomas Gozes
+    role: Artiste, création musicale
+    internal: null              # TODO, interne ou externe ?
+    hours: null                 # TODO
+    hourly_cost: null           # TODO
+
+supervisors_note: >-
+  La circulaire exige aussi que le promoteur garantisse que chaque animateur encadrant des
+  jeunes présente les garanties de bonne vie et mœurs.
+
+# ---------------------------------------------------------------------------
+# ASSURANCE
+# ---------------------------------------------------------------------------
+insurance:
+  covers_volunteers_simultaneous: 20
+  covers_administrators: 5
+  retrieved_on: '2026-09-07'
+  source: Corentin Dallenogare
+  note: >-
+    20 bénévoles en simultané, PLUS 5 administrateurs comptés à part. Les encadrants étant les
+    administrateurs de l'ASBL, ils ne s'imputent pas sur le quota bénévoles : un groupe de jeunes
+    peut donc aller jusqu'à 20 participants, et non 12 à 15 comme estimé à tort le 2026-09-07.
+  todo:
+    - Vérifier que la police couvre bien les participants NON MEMBRES, cas d'un projet ouvert.
+    - Vérifier la couverture des trajets, exigée par la grille de dépôt.

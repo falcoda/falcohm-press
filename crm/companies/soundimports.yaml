@@ -197,16 +197,107 @@ interactions:
     (5) quels composants de filtre, connectique, cablage et outils de mesure ; (6)
     existe-t-il deja une nomenclature. BLOCAGE : le depot n''a aucune nomenclature.
     Sans elle, pas de reponse possible.'
+- date: '2026-09-07'
+  type: mail
+  resume: 'Envoye 10:30 a Omar Sadek. Reponse aux six questions, depuis data/bom.yaml
+    : les quatre references de la premiere serie (B&C 12NDL88, DCX464, FB464, RCF
+    21LF-N451), les cinq modeles de caissons, les quantites annuelles avec un « environ
+    » sur tout ce qui depend du prix. Question posee en retour : distribuent-ils les
+    licences Smaart ?'
+- date: '2026-09-07'
+  type: réponse
+  resume: 'PAS DE REFUS DU PROJET, MAIS UN DECALAGE DE CATALOGUE. Verbatim : « the
+    cabinets you are currently building mainly use B&C and RCF components, and unfortunately
+    neither brand is part of our current assortment ». Nos deux seules marques de
+    transducteurs sont hors de leur gamme, donc le poste le plus lourd de la nomenclature
+    est mort chez eux, pour l''instant. DEUX PORTES LAISSEES OUVERTES, explicitement.
+    (1) PASSIVE : « We are currently in the process of adding B&C to our range »,
+    sans calendrier fiable, et il propose de nous recontacter quand ce sera fait.
+    Une promesse sans date meurt seule si personne ne la tient en vie. (2) ACTIVE,
+    et c''est celle a prendre : « I would still recommend having another look through
+    our assortment. If you see any components that could be relevant, please let me
+    know and I would be happy to check how we can support you ». C''est une invitation
+    ecrite a commander autre chose. CE QU''ILS PEUVENT ENCORE COUVRIR (data/bom.yaml,
+    other_needs) : cablage interne des caissons, connectique et bornes, et le microphone
+    de mesure de qualite professionnelle. Ce n''est pas un lot de consolation : cela
+    ouvre le compte B2B MAINTENANT, donc nous serons deja clients le jour ou B&C arrive
+    chez eux. LA QUESTION SMAART EST RESTEE SANS REPONSE. A reposer. CONSEQUENCE SUR
+    TOUT LE MODULE AUDIO : voir next_action.'
+- date: '2026-09-07'
+  type: mail
+  resume: 'ENVOYE A 16:00 (heure NL), le meme jour que le mail de 10:30, apres sa
+    reponse sur le decalage de catalogue. Recupere dans Gmail le 2026-09-09, fil 1a06bb13398e4761
+    : l''entree manquait au depot. Trois questions, exactement celles du next_action
+    : lui rendre son offre (« is there anything in your assortment you would point
+    me to ? »), en precisant que le seul poste connu est un microphone de mesure de
+    qualite professionnelle ; etre prevenu quand B&C entre dans sa gamme, sans reclamer
+    de date ; et la question Smaart, reposee.'
+- date: '2026-09-08'
+  type: réponse
+  resume: 'RECU LE 2026-09-08 A 09:44 UTC, 11:44 heure locale. IL REPOND AUX TROIS
+    QUESTIONS ET IL EN POSE UNE, QUI EST LA VRAIE. (1) MESURE, la seule ligne qui
+    pesait chez eux : il recommande le miniDSP UMIK-2, « the strongest professional
+    measurement microphone we currently have in our assortment », calibre individuellement,
+    32 bits / 192 kHz, utilisable avec Smaart. Poste couvert. (2) SMAART : « We do
+    not currently offer Smaart licences in our assortment », a prendre chez un revendeur
+    agree. Question fermee, il faut donc une cible Rational Acoustics a part entiere.
+    (3) COMPOSANTS DE CAISSON : il propose de lui-meme le cablage interne, la connectique,
+    les bornes, les joints d''etancheite et l''amortissant, et il reclame DEUX FOIS
+    une liste de produits, « If you send me the products that look relevant, I can
+    check what we can supply for each cabinet ». C''est exactement le poste que l''arbitrage
+    du 2026-09-07 avait ecarte comme trop petit. (4) B&C : « I will certainly keep
+    you in mind once the brand becomes available in our assortment ». Toujours sans
+    date, mais c''est lui qui entretient la promesse, plus nous. (5) SA QUESTION,
+    ET C''EST ELLE QUI COMPTE : « Would you be open to considering alternatives to
+    the B&C and RCF drivers currently specified in the designs ? ». Il propose d''etudier
+    les modeles et de chercher des equivalences dans sa gamme, et il vise explicitement
+    le futur kick bin et tout modele dont le choix de transducteur n''est pas arrete.
+    Marques PA recemment ajoutees chez eux : Beyma, FaitalPRO, SICA, REDCATT, Radian
+    Audio, SB Audience. LECTURE : il retourne la situation du 2026-09-07. Le decalage
+    de catalogue avait tue le poste transducteurs ; plutot que de changer de fournisseur,
+    il propose de changer de transducteur. DEUX CONSEQUENCES. La reponse ne nous appartient
+    pas, elle appartient aux plans de JW Sound, et nous ne concevons pas les enceintes
+    (CLAUDE.md). Et un oui trop large fragiliserait la demarche directe en cours chez
+    B&C (statut sent) et celle prevue chez RCF : le seul poste vraiment ouvert est
+    le kick bin, dont aucun composant n''est arrete. ARBITRAGE DE CORENTIN LE 2026-09-09
+    : NON SUR LES DEUX. Changer de transducteur n''est pas faisable, et le kick bin
+    partira tres probablement sur la meme marque que le reste du parc, donc il n''y
+    a meme pas la l''ouverture qu''on croyait. Ce qui reste vendable chez eux est
+    le microphone de mesure et la quincaillerie de caisson, et la vraie echeance est
+    l''arrivee de B&C dans leur gamme.'
+- date: '2026-09-09'
+  type: mail
+  resume: 'ENVOYE PAR CORENTIN LE 2026-09-09 A 10:14 (08:14 UTC), verifie dans Gmail,
+    fil 1a06bb13398e4761. Reponse au mail du 2026-09-08. NON SUR LES TRANSDUCTEURS,
+    avec la raison technique : le pavillon et le volume de charge sont dimensionnes
+    autour du haut-parleur dans les plans, changer le transducteur revient a changer
+    de caisson. Le kick bin est dit honnetement, il partira sur la meme marque, donc
+    il n''est pas offert comme terrain ouvert. DEMANDE : le microphone UMIK-2, et
+    la finition et quincaillerie de caisson en categories (Speakon et panneaux, cablage
+    et bornes, joints et amortissant, peinture de protection, coins, poignees, visserie
+    de montage), a lui de dire ce qu''il porte. Smaart : nous irons chez Rational
+    Acoustics. Question fermee : ouvrir le compte B2B maintenant, pour etre deja client
+    le jour ou B&C entre dans leur gamme.'
 events: []
 next_action:
-  what: 'REPONDRE A OMAR SADEK. C''est le dossier le mieux engage du fichier et il
-    attend depuis le 2026-09-04. Il faut la NOMENCLATURE, que Corentin seul detient
-    : elle vient des plans du concepteur des caissons. A rassembler : combien de modeles
-    de caissons, combien d''unites pour la premiere serie, les references de transducteurs
-    retenues, les composants de filtre, la connectique, et les quantites annuelles
-    attendues ensuite. NE RIEN INVENTER : un volume annonce a un distributeur B2B
-    engage les conditions qu''il accordera. Si un poste n''est pas arrete, le dire.'
-  due: '2026-09-09'
+  what: >-
+    ENVOYE LE 2026-09-09, LA BALLE EST CHEZ EUX. Trois choses a faire pendant qu'on attend, et
+    aucune ne depend de sa reponse.
+    (1) RELANCE AU 2026-09-12 S'IL NE REPOND PAS, et sur une seule chose : le compte B2B. C'est le
+    J+3 que le depot applique a un statut `replied`, et c'est le bon rythme ici, il a repondu en
+    trois heures les 4 et 8 septembre. Une relance courte, jamais un rappel de tout le fil.
+    (2) LES QUANTITES PAR CAISSON MANQUENT. On lui a demande une quincaillerie de caisson sans
+    savoir combien de Speakon, de coins, de poignees et de metres de cable il faut par caisson
+    (data/bom.yaml, todo). Il repondra par une liste de produits et il faudra des quantites en
+    face, sinon on perd les conditions qu'on vient d'ouvrir. C'est la seule chose qui peut nous
+    faire perdre du temps ici.
+    (3) CIBLE RATIONAL ACOUSTICS a creer : il ne distribue pas Smaart et l'a ecrit noir sur blanc.
+    Une licence logicielle est typiquement ce qu'un editeur accorde a une association qui publie
+    ses mesures.
+    L'ECHEANCE QUI COMPTE N'EST PAS LA NOTRE : le jour ou B&C entre dans leur gamme, tout le poste
+    transducteurs revient sur la table. C'est lui qui a promis le signal, ne pas le reclamer, et
+    reverifier de nous-memes vers la fin de l'annee si rien n'est venu.
+  due: '2026-09-12'
 notes: 'E-mails NON VÉRIFIABLES en l''état : les deux adresses publiées sur la page
   « Klantenservice / Customer support » (une générique + une pour l''équipe commerciale,
   explicitement dédiée aux « business orders and long-term partnerships ») sont masquées

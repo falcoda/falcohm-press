@@ -159,10 +159,11 @@ deadlines:
     et les reseaux Base chaque semaine.'
   date: '2026-09-30'
   url: https://www.base.be/fr/promo/camille.html
-- what: 'Fenetre de la CABINE D''ENREGISTREMENT, a ne pas confondre avec la demande
-    de partenariat. Accueillir la cabine mobile sur une date Gazmatek n''a de sens
-    QU''AVANT la sortie du titre. PREALABLE : Gazmatek a-t-il seulement une date programmee
-    d''ici la ? Si non, cette demande est caduque et il n''y a rien a regretter.'
+- what: 'PISTE CABINE D''ENREGISTREMENT : ABANDONNEE le 2026-09-07. Corentin confirme
+    qu''aucune date Gazmatek n''est programmee avant le 30/09. Accueillir la cabine
+    supposait un evenement pendant la fenetre, il n''y en a pas. Ne plus y revenir
+    : ce n''est pas un refus, c''est une impossibilite de calendrier. Conserve ici
+    pour que personne ne repose la question dans trois mois.'
   date: '2026-09-30'
   url: https://www.base.be/fr/promo/camille.html
 sources:
@@ -213,21 +214,16 @@ interactions:
     a-t-il ete obtenu ?'
 events: []
 next_action:
-  what: 'STRATEGIE ARRETEE LE 2026-09-07 : attendre la sortie du clip pour demander
-    le partenariat, mais NE PAS attendre pour securiser ce qui se perd. (1) CETTE
-    SEMAINE, obtenir le NOM et l''adresse du decideur budget sponsoring chez Base
-    ou Telenet. Demander un nom n''est pas demander une faveur : ca n''engage rien,
-    ca ne peut pas etre refuse, et ca preserve l''option. Le tournage est frais dans
-    les tetes, et les equipes d''agence se dispersent apres un lancement. C''est la
-    seule chose qui se perd si l''on attend. (2) VERIFIER si Gazmatek a une date programmee
-    avant le 30/09. Si oui, la cabine d''enregistrement peut encore etre proposee
-    ; si non, cette piste tombe d''elle-meme et on n''y pense plus. (3) A LA SORTIE
-    DU CLIP : ecrire au nom obtenu en (1). Ouverture naturelle, felicitations sur
-    la campagne, puis la demande de partenariat pour 2027. (4) NE RIEN PUBLIER des
-    photos du 06/09 avant la sortie officielle : diffuser des images d''un tournage
-    non sorti, c''est griller le lancement de son propre client. C''est le genre d''erreur
-    qui coute la relation commerciale, pas seulement le partenariat.'
-  due: '2026-09-12'
+  what: 'UNE SEULE CHOSE A FAIRE, ET ELLE EST URGENTE : obtenir le NOM et l''adresse
+    du decideur budget sponsoring chez Base ou Telenet, aupres des equipes croisees
+    le 06/09. Demander un nom n''engage rien et ne se refuse pas. C''est la seule
+    chose qui se perd en attendant : une equipe d''agence se disperse apres un lancement.
+    ENSUITE, ATTENDRE la sortie du clip Camille Yembe. C''est le declencheur de la
+    demande de partenariat, decide avec Corentin le 2026-09-07 : tant que le clip
+    n''est pas sorti, le materiel Falc''ohm n''est visible nulle part publiquement.
+    La piste cabine est abandonnee, faute de date avant le 30/09. NE RIEN PUBLIER
+    des photos du 06/09 avant la sortie officielle.'
+  due: '2026-09-11'
 notes: 'Campagne 2026 : agence créative TBWA\Belgium (signataire du spot, info@tbwa.be,
   +32 2 679 75 00, Zaventem), volet musical Wave (Aalst), contenu/documentaire VML,
   média Wavemaker (agence média de Telenet). Ces agences ont opérationnellement loué/déployé

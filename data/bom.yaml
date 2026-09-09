@@ -20,13 +20,39 @@ meta:
 
 # Le concepteur dont nous suivons les plans. CLAUDE.md interdit de revendiquer la conception
 # des enceintes : voici de qui elle est.
-designer:
-  name: JW Sound LLC
-  url: https://www.jwsound.live/
+designers:
+  - name: JW Sound LLC
+    url: https://www.jwsound.live/
+    note: >-
+      Auteur des modèles JMOD. Les fiches produit sont publiques et donnent les composants et les
+      cotes, ce qui autorise à les citer auprès d'un fournisseur. Vérifier la fiche du modèle avant
+      d'écrire quoi que ce soit de technique : c'est elle qui fait foi, pas notre mémoire.
+  - name: Marc.o
+    url: ''
+    note: >-
+      SECOND CONCEPTEUR, ajouté le 2026-09-09. Corentin l'a écrit à Audio Components le 2026-09-07,
+      « we build from JW Sound designs, and Marc.o », et le dépôt l'ignorait. Quel modèle vient de
+      qui n'est pas établi ici : ne rien attribuer tant que ce n'est pas vérifié, un fournisseur
+      qui reçoit une attribution fausse cesse de croire le reste.
+
+# ---------------------------------------------------------------------------
+# LA RÈGLE QUI FERME LA QUESTION DES ÉQUIVALENCES
+# ---------------------------------------------------------------------------
+# Arbitrage de Corentin, 2026-09-09, après la proposition d'Audio Components de remplacer les
+# transducteurs B&C et RCF par des équivalents de leur catalogue.
+driver_substitution:
+  possible: false
   note: >-
-    Auteur des modèles JMOD. Les fiches produit sont publiques et donnent les composants et les
-    cotes, ce qui autorise à les citer auprès d'un fournisseur. Vérifier la fiche du modèle avant
-    d'écrire quoi que ce soit de technique : c'est elle qui fait foi, pas notre mémoire.
+    LE TRANSDUCTEUR NE SE CHANGE PAS. Ce n'est pas un attachement de marque : le pavillon et le
+    volume de charge sont dimensionnés autour du haut-parleur dans les plans, donc changer le
+    transducteur revient à changer de caisson, pas de fournisseur. Toute proposition
+    d'équivalence, quelle que soit la marque, se refuse sur cette base, et la raison se donne, un
+    distributeur de composants la comprend immédiatement.
+    ET PAS D'EXCEPTION SUR LE KICK BIN, contrairement à ce qui a été écrit ici le matin même du
+    2026-09-09. Le modèle n'est pas arrêté, mais Corentin partira très probablement sur la même
+    marque de transducteur que le reste du parc : un parc qui mélange les marques se maintient
+    deux fois, et le stock de pièces de rechange double. Le kick bin n'est donc pas un terrain
+    ouvert à offrir à un fournisseur, et le présenter comme tel se retournerait à la commande.
 
 # ---------------------------------------------------------------------------
 # 1. PREMIÈRE SÉRIE : les composants arrêtés
@@ -99,6 +125,11 @@ models:
     status: à définir
     confirmed: false
     qty_note: Modèle non arrêté. Aucune quantité annonçable.
+    driver_note: >-
+      2026-09-09 : le modèle n'est pas choisi, mais le transducteur le sera très probablement dans
+      la même marque que le reste du parc. Ne plus le présenter à un fournisseur comme un poste
+      ouvert à sa gamme, l'erreur a été commise dans un brouillon le 2026-09-09 et corrigée avant
+      envoi.
 
 # ---------------------------------------------------------------------------
 # 3. AUTRES POSTES
@@ -108,13 +139,37 @@ other_needs:
     have: Microphones de mesure, et versions gratuites des logiciels.
     need: Un microphone de mesure de qualité professionnelle, et une licence Smaart.
     note: >-
-      La licence Smaart est éditée par Rational Acoustics et se vend par revendeurs agréés.
-      Demander à Audio Components s'ils la distribuent ; sinon, c'est une cible à part entière,
-      et une licence logicielle est typiquement le genre de dotation qu'un éditeur accorde
-      volontiers à une association qui documente ses mesures publiquement.
+      RÉPONSE D'AUDIO COMPONENTS LE 2026-09-08 : les deux moitiés du poste sont tranchées.
+      MICROPHONE, c'est chez eux : ils recommandent le miniDSP UMIK-2, calibré individuellement,
+      32 bits / 192 kHz, « the strongest professional measurement microphone we currently have in
+      our assortment ». C'est la seule ligne de notre nomenclature que leur catalogue couvre
+      pleinement aujourd'hui, donc celle qui ouvre le compte.
+      SMAART, ce n'est pas chez eux : « We do not currently offer Smaart licences in our
+      assortment ». La licence est éditée par Rational Acoustics et se vend par revendeurs agréés,
+      c'est donc une cible à part entière, à créer. Une licence logicielle est typiquement la
+      dotation qu'un éditeur accorde volontiers à une association qui publie ses mesures.
   - post: Câblage interne des caissons
     need: Câble haut-parleur interne, connectique, bornes.
     note: Traité avec Audio Components, Amptec (confection) et Beglec.
+  - post: Finition et quincaillerie de caisson
+    need: >-
+      Connectique Speakon et les panneaux qui la reçoivent, peinture ou revêtement de protection
+      des caisses, coins, poignées, visserie de montage.
+    note: >-
+      Poste dit par Corentin le 2026-09-09, le dépôt ne le connaissait pas. Il se répète sur CHAQUE
+      caisson, donc il se multiplie par seize caissons sur deux ans : c'est ce qui en fait autre
+      chose qu'une petite commande. Demandé à Audio Components en catégories, à eux de dire ce
+      qu'ils portent. Les coins, poignées et visserie se vendent aussi chez Penn Elcom et Adam Hall.
+    todo: Quantités par caisson, aucune n'est établie.
+
+  - post: Flightcases et roulage
+    need: Caisses de transport pour le parc.
+    note: >-
+      Poste dit par Corentin le 2026-09-09. PAS chez un distributeur de composants de haut-parleurs.
+      Cibles existantes : Penn Elcom, Adam Hall, JV Case chez Beglec. Un système se casse dans le
+      camion, pas sur scène (data/existing-suppliers.yaml).
+    todo: Combien de caisses, pour quels caissons.
+
   - post: Visserie et boulonnerie
     need: Vis, boulons, quincaillerie de montage et de poignées.
     note: Module visserie, cible Würth. Aucune quantité chiffrée à ce jour.
@@ -131,3 +186,9 @@ todo:
   - Longueurs de câble interne par caisson.
   - Le modèle Kick bin, tant qu'il n'est pas arrêté, ne peut entrer dans aucune demande.
   - Les composants de filtre passif ne sont pas listés : sont-ils déjà arrêtés ?
+  - >-
+    Le kick bin est devenu le seul poste où un fournisseur peut encore choisir le transducteur.
+    Audio Components attend ce modèle depuis le 2026-09-08 pour proposer sa gamme.
+  - >-
+    Quel modèle vient de quel concepteur, JW Sound ou Marc.o ? Tant que ce n'est pas écrit ici,
+    aucune attribution ne doit sortir du dépôt.

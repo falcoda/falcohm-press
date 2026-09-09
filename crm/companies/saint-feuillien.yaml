@@ -148,17 +148,23 @@ interactions:
     memoire, sans facture a l''appui. data/consumption.yaml rempli.'
 events: []
 next_action:
-  what: 'LA BRASSERIE ATTEND NOTRE LISTE DE CONSOMMATION, c''est le seul point bloquant.
-    (1) Remplir data/consumption.yaml : sur combien de dates/an tenons-nous NOUS-MÊMES
-    le bar (dans une salle louée, l''exploitant impose souvent son fournisseur, sur
-    ces dates il n''y a rien à vendre pour St-Feuillien), volumes réels par date,
-    produits, formats de fûts, fournisseur actuel, matériel (tireuse, froid, CO2).
-    (2) Un seul chiffre suffit à ouvrir : le total annuel en litres, avec le nombre
-    de dates où nous maîtrisons le bar. (3) Ne rien envoyer d''estimé sans le dire
-    : un volume gonflé se retourne au premier bon de commande. (4) En même temps,
-    obtenir de Leylan le NOM et l''adresse du contact marketing, toujours inconnu,
-    et c''est là que la décision se prend.'
-  due: '2026-09-10'
+  what: >-
+    DÉBLOQUÉ LE 2026-09-08. data/consumption.yaml est complet : Corentin a retrouvé le dernier
+    chiffre manquant, environ 65 fûts pour Halloween 2025. Le relevé tient sur dix sessions,
+    268 fûts de 30 L, 8 040 L, 9 590 personnes, et nous tenons le bar sur la totalité des dates.
+    ENVOYER LA LISTE À LEYLAN. Ce qui doit y figurer : le total, le détail par année (2025 :
+    121 fûts, 3 630 L ; 2026 : 147 fûts, 4 410 L), la part de pils (96 % du volume ventilé),
+    et le fait que tout vient des relevés de Corentin et non de factures. Écrire « environ »
+    partout : aucun de ces chiffres n'a de pièce à l'appui.
+    L'ACCROCHE À NE PAS RATER : la prochaine date est l'édition 2026 de Halloween Shadow, le
+    2026-10-31 au Studio City Gate, au même endroit que l'édition à 2 500 personnes et 65 fûts.
+    Sept semaines, c'est encore actionnable pour une brasserie, et ça donne une échéance à une
+    discussion qui traîne depuis juillet.
+    TOUJOURS EN SUSPENS depuis juillet : le NOM du contact marketing. Leylan est maître-brasseur,
+    il porte le dossier, il ne le décide pas. Le redemander dans le même message.
+    NE PAS reposer la question du fournisseur actuel : Corentin l'a déjà communiquée à la
+    brasserie le 2026-09-04 (voir data/consumption.yaml, current_supply).
+  due: '2026-09-11'
 notes: 'ÉTAT : contact déjà établi. Corentin a parlé à Leylan Roland (maître-brasseur)
   en personne ET par SMS ; accueil positif ; Leylan doit porter la demande à l''équipe
   marketing de la brasserie. La balle est donc dans leur camp, la décision de sponsoring

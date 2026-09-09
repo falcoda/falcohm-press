@@ -57,7 +57,7 @@ timeline:
     "2027+": { title: "Suite du projet", text: "Montée en charge : plus de dates, plus de public, plus de flux." }
   next:
     - { icon: globe, title: "Connectivité événementielle", text: "Une solution fiable pour la billetterie et les paiements." }
-    - { icon: megaphone, title: "Coordination des équipes", text: "Radios et téléphonie pour plus de 40 bénévoles." }
+    - { icon: megaphone, title: "Coordination des équipes", text: "Radios et téléphonie pour 80 bénévoles." }
     - { icon: social, title: "Communication en direct", text: "Diffusion et contenus live depuis nos événements." }
   band:
     title: "Un besoin sur chaque date, toute l'année."

@@ -60,17 +60,23 @@ events:
     event_slug: gazmatek-invites-sp23    # confirmé par Corentin le 2026-09-04
 
   - date: '2025-10-31'
-    label: 31-10-2025
+    label: 31-10-2025, Halloween
     attendance: 2500
-    kegs: null                # TODO, CHIFFRE MANQUANT
-    kegs_total: null          # TODO
-    litres: null              # TODO
+    kegs: {}                  # répartition par produit non communiquée, voir note
+    kegs_total: 65
+    litres: 1950
+    approximate: true
     event_slug: shadow-3-stages          # confirmé par Corentin le 2026-09-04
+    source: Corentin Dallenogare, 2026-09-08, « environ 65 fûts pour Halloween 2025 ».
     note: >-
-      LA PLUS GROSSE DATE DU RELEVÉ, et la seule sans chiffre. C'est celle qui pèserait le plus
-      dans le dossier brasserie. NE PAS L'ESTIMER : la retrouver. Sur le ratio observé ailleurs
-      (0,86 L par personne), elle représenterait un volume important, mais un ordre de grandeur
-      n'est pas un chiffre et ne s'envoie pas à un fournisseur.
+      LA PLUS GROSSE DATE DU RELEVÉ, et la dernière à avoir été retrouvée. Le chiffre est donné
+      avec un « environ » : il s'écrit avec un « environ » partout où il est repris, y compris
+      dans un e-mail à la brasserie.
+      CONTRÔLE DE COHÉRENCE : 1 950 L pour 2 500 personnes font 0,78 L par personne, quand les
+      quatre autres dates de 2025 se tiennent entre 0,67 et 0,98. Le chiffre tombe dans la
+      fourchette observée, ce qui le rend crédible sans le prouver.
+      MANQUE ENCORE : la répartition par produit. Les 65 fûts sont comptés hors des totaux par
+      produit tant qu'elle n'est pas connue.
 
   - date: '2025-12-06'
     label: 06-12-2025
@@ -124,37 +130,53 @@ events:
 # 3. SYNTHÈSE, ce qui part chez la brasserie
 # ---------------------------------------------------------------------------
 totals:
-  kegs_known: 203
-  litres_known: 6090
-  attendance_covered: 7090
-  litres_per_person: 0.86          # calculé, pas saisi. Fourchette observée : 0,67 à 1,15.
+  kegs_known: 268
+  litres_known: 8040
+  attendance_covered: 9590
+  litres_per_person: 0.84          # calculé, pas saisi. Fourchette observée : 0,67 à 1,15.
+  complete: true
+  completed_on: '2026-09-08'
   note: >-
-    Le ratio est remarquablement stable d'une date à l'autre, ce qui rend le relevé crédible
-    auprès d'un brasseur : ce n'est pas une estimation lissée, ce sont des achats réels.
+    RELEVÉ COMPLET depuis le 2026-09-08 : les dix sessions ont leur volume. Environ 8 000 L sur
+    dix-huit mois, servis par nous sur l'ensemble des dates.
+    Le ratio est stable d'une date à l'autre, ce qui rend le relevé crédible auprès d'un
+    brasseur : ce n'est pas une estimation lissée, ce sont des achats réels.
+    Tout est communiqué de mémoire par Corentin, sans facture à l'appui, et se dit comme tel.
 
 by_year:
   '2025':
     dates: 5
-    dates_with_figures: 4
-    kegs: 56
-    litres: 1680
-    note: INCOMPLET. Le 31/10/2025 (2500 personnes) manque, et c'est la plus grosse date.
+    dates_with_figures: 5
+    kegs: 121
+    litres: 3630
+    attendance: 4700
+    litres_per_person: 0.77
+    note: >-
+      Année complète depuis le 2026-09-08, avec le chiffre d'Halloween. Le 31/10 pèse à lui seul
+      54 % du volume de l'année.
   '2026':
     dates: 4
     sessions: 5
     kegs: 147
     litres: 4410
+    attendance: 4890
+    litres_per_person: 0.90
     note: >-
-      Année complète à ce jour. 4 410 L sur cinq sessions. C'est le chiffre à mettre en avant :
-      il est entier, il est récent, et il ne dépend d'aucune donnée manquante.
+      Année en cours, cinq sessions. 4 410 L, et le volume par personne monte de 0,77 à 0,90
+      d'une année sur l'autre. C'est le chiffre le plus fort du dossier : il ne repose sur aucune
+      donnée manquante, et il montre une progression plutôt qu'un plateau.
 
 products:
-  pils: { kegs: 194, litres: 5820, share_pct: 96 }
-  ipa: { kegs: 5, litres: 150, share_pct: 2 }
-  triple: { kegs: 4, litres: 120, share_pct: 2 }
+  # Répartition connue sur 203 des 268 fûts. Les 65 fûts d'Halloween 2025 ne sont pas ventilés.
+  pils: { kegs: 194, litres: 5820, share_of_known_pct: 96 }
+  ipa: { kegs: 5, litres: 150, share_of_known_pct: 2 }
+  triple: { kegs: 4, litres: 120, share_of_known_pct: 2 }
+  unspecified: { kegs: 65, litres: 1950, note: Halloween 2025, répartition non communiquée }
   note: >-
-    La pils fait 96 % du volume. C'est le produit sur lequel se négocient les conditions.
-    L'IPA et la triple sont apparues en 2026 seulement : une gamme d'abbaye a donc sa place.
+    La pils fait 96 % du volume ventilé. C'est le produit sur lequel se négocient les conditions.
+    L'IPA apparaît dès mars 2025 et la triple en juin 2026 : une gamme d'abbaye a donc sa place
+    à côté de la pils, mais elle reste marginale en volume.
+    NE PAS écrire « 96 % du volume total » : c'est 96 % des 203 fûts ventilés, pas des 268.
 
 # ---------------------------------------------------------------------------
 # 4. L'EXISTANT, ce qu'un brasseur demande toujours en deuxième question
