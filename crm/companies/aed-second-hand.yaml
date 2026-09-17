@@ -1,0 +1,156 @@
+slug: aed-second-hand
+company: AED Second Hand (AED group)
+aka:
+- AED group
+- AED Rent
+- AED Secondhand
+country: BE
+sector: eclairage
+persona: fournisseur-technique
+categories:
+- lighting
+status: sent
+phase: 1
+tags:
+- occasion
+- belge
+score: 14
+website: https://secondhand.aedgroup.com
+knowledge: ''
+profile:
+  activity: Branche d'occasion certifiée du groupe AED, loueur à sec de matériel son,
+    lumière, rigging et vidéo, siège en Belgique, environ 300 personnes, filiales
+    NL, DE, FR, UK. Achète et revend du matériel standardisé, dont de l'éclairage.
+  products:
+  - Éclairage d'occasion certifié (catégorie « light » de la boutique en ligne)
+  - Son, rigging, vidéo d'occasion
+  size:
+    employees: '300'
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'L''éclairage est le poste le moins couvert du parc et n''a plus aucune cible
+  depuis le refus de Beglec (2026-09-10). Un loueur qui revend son parc cherche un
+  acheteur : l''objection de Beglec, la concurrence faite à ses clients loueurs, ne
+  joue pas ici. Belge, et son stock d''occasion est certifié.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Acheter de l''éclairage d''occasion dans le cadre d''un partenariat, conditions
+    préférentielles contre visibilité sur 10 à 15 dates par an. Première étape : obtenir
+    le nom et l''adresse de la bonne personne (mail d''orientation du 2026-09-13).'
+  public: '- de l''éclairage d''occasion certifié, dans le cadre d''un partenariat.'
+  realistic_value_eur: 0
+values: []
+sponsorship_history: []
+contacts:
+- name: Karl Faes
+  role: Store Coordinator, Second Hand (AED Rent)
+  email: Karl.Faes@aedgroup.com
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 3 860 76 58
+  source_url: https://secondhand.aedgroup.com/contact
+  retrieved_on: '2026-09-14'
+  evidence: 'Signature du courriel RECU le 2026-09-14 a 09:17 en reponse a notre mail
+    d''orientation : « Karl Faes / Store Coordinator / Second Hand / Karl.Faes@aedgroup.com
+    ». Adresse prouvee par le fait qu''il nous a ecrit. La page d''equipe le nomme
+    « Second Hand Coordinator ».'
+- name: ''
+  role: Adresse générale d'AED Second Hand, Belgique
+  email: info.secondhand@aedgroup.com
+  email_status: generic
+  linkedin: ''
+  phone: +32 3 860 76 58
+  source_url: https://secondhand.aedgroup.com/contact
+  retrieved_on: '2026-09-13'
+  evidence: 'Page contact : « info.secondhand@aedgroup.com », « +32 3 860 76 58 »,
+    « Bedrijvenpark De Veert 6, 2830 Willebroek, Belgium ».'
+- name: Patrick Lorriper
+  role: Second Hand Sales Manager
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://aedgroup.com/en/team-aed-hq
+  retrieved_on: '2026-09-13'
+  evidence: 'Page « Team AED HQ Belgium » : « Patrick Lorriper », « Second Hand Sales
+    Manager ». Aucune adresse publiée.'
+- name: Kubilay Kozelo
+  role: Sales Manager Second Hand
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://aedgroup.com/en/team-aed-hq
+  retrieved_on: '2026-09-13'
+  evidence: 'Page « Team AED HQ Belgium » : « Kubilay Kozelo », « Sales Manager Second
+    Hand ». Aucune adresse publiée.'
+- name: Frederic Gobin
+  role: Account Manager BELUX
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://aedgroup.com/en/team-aed-hq
+  retrieved_on: '2026-09-13'
+  evidence: 'Page « Team AED HQ Belgium » : « Frederic Gobin », « Account Manager
+    BELUX ». Aucune adresse publiée.'
+inbound_channels:
+- type: form
+  url: https://secondhand.aedgroup.com/contact
+scoring:
+  business_fit: 8
+  partnership_probability: 3
+  impact_if_successful: 6
+  rationale: 'Fit fort : de l''éclairage pro d''occasion, sur le poste le plus vide
+    du parc. Probabilité basse : groupe de 300 personnes, dont l''occasion est une
+    activité commerciale ; un prix est plausible, un partenariat beaucoup moins. Impact
+    moyen : un lot d''éclairage, pas un flux récurrent.'
+deadlines: []
+sources:
+- url: https://secondhand.aedgroup.com/home
+  retrieved_on: '2026-09-13'
+- url: https://aedgroup.com/en/team-aed-hq
+  retrieved_on: '2026-09-13'
+- url: https://secondhand.aedgroup.com/contact
+  retrieved_on: '2026-09-13'
+documents:
+- emails/aed-second-hand-orientation.md
+interactions:
+- date: '2026-09-13'
+  type: mail
+  resume: 'MAIL D''ORIENTATION ENVOYE PAR CORENTIN LE 2026-09-13 A 18:31 a info.secondhand@aedgroup.com,
+    en anglais, verifie dans Gmail. Objet : « Buying second-hand lighting: who should
+    I talk to? ». Trois lignes : les deux marques, l''envie d''un partenariat sur
+    l''eclairage avec visibilite sur 10 a 15 dates par an en retour, et une seule
+    question : a qui parler, et son adresse. Aucun nom cite, aucun dossier.'
+- date: '2026-09-14'
+  type: réponse
+  resume: 'RECU LE 2026-09-14 A 09:17 de Karl Faes, « Store Coordinator, Second Hand
+    », depuis Karl.Faes@aedgroup.com. Il ne nomme personne : il donne l''adresse du
+    magasin de Willebroek, les heures (lundi a vendredi, 9 a 17 h) et « Always welcome!
+    ». Lecture : pour eux, l''occasion se traite au magasin. Premiere adresse nominative
+    du dossier.'
+- date: '2026-09-14'
+  type: mail
+  resume: 'PROPOSITION DE PARTENARIAT ENVOYEE PAR CORENTIN LE 2026-09-14 A 10:12 a
+    Karl Faes, dans un fil separe (le brouillon avait perdu son rattachement), texte
+    reecrit par Corentin : « Our request is a bit different from a shop visit: we
+    would like to discuss a partnership with AED ». Eclairage d''occasion, un seul
+    partenaire, conditions preferentielles contre le nom d''AED sur notre materiel
+    et dans notre communication ; materiel qui sort 10 a 15 fois par an, 27 000 abonnes.
+    Question : « Is this something you can decide on, or could you put me in touch
+    with the person who handles partnerships or sponsoring at AED? »'
+events: []
+next_action:
+  what: 'PROPOSITION ENVOYEE A KARL FAES LE 2026-09-14. Attendre sa reponse : qui
+    traite les partenariats. AVANT LA VISITE A WILLEBROEK : une liste d''eclairage
+    (types, quantites), que le depot n''a pas (data/bom.yaml, todo). Sans reponse
+    au 2026-09-24 : passer au magasin, c''est l''invitation qu''il a faite.'
+  due: '2026-09-24'
+notes: 'Aucune adresse nominative publiée : les noms de l''équipe d''occasion viennent
+  de la page d''équipe, sans adresse. NE JAMAIS en déduire une adresse d''un format.
+  Langue : anglais (entreprise flamande, CLAUDE.md).'

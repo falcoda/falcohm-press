@@ -8,7 +8,7 @@ sector: audio
 persona: fabricant-audio
 categories:
 - audio_components
-status: lead
+status: paused
 phase: 1
 tags: []
 score: 32
@@ -92,10 +92,21 @@ documents:
 - output\Eighteen-Sound-S-r-l\Eighteen-Sound-S-r-l-Partnership-2026.pdf
 - output\Eighteen-Sound-S-r-l\Eighteen-Sound-S-r-l-OnePager-2026.pdf
 - output\Eighteen-Sound-S-r-l\email.md
-interactions: []
+interactions:
+- date: '2026-09-11'
+  type: note
+  resume: 'MIS EN PAUSE sur decision de Corentin le 2026-09-11. Leur seule demande
+    portait sur leurs propres haut-parleurs, or nos transducteurs sont arretes par
+    les plans : B&C et RCF, sans substitution possible (data/bom.yaml, driver_substitution,
+    arbitrage du 2026-09-09). Aucun contact n''avait ete pris.'
 events: []
 next_action:
-  what: ''
+  what: >-
+    EN PAUSE, decision de Corentin du 2026-09-11. Leur seule demande portait sur leurs propres
+    haut-parleurs, et nos transducteurs sont arretes par les plans : B&C et RCF, sans substitution
+    possible (data/bom.yaml, driver_substitution). Le kick bin partira tres probablement sur la meme
+    marque que le reste du parc. REPRISE : uniquement si un futur modele est dessine autour de leurs
+    transducteurs. Aucune date, a revoir au choix du kick bin.
   due: ''
 notes: 'Horaires lus sur la page contact : "Monday - Friday 08.30-12.30 / 13.30-17.30
   (GMT +1)". Un "OEM Sales Director" nommé Matteo Bianchini apparaît sur des agrégateurs

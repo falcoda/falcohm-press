@@ -8,7 +8,7 @@ sector: audio
 persona: fabricant-audio
 categories:
 - audio_components
-status: sent
+status: lost
 phase: 1
 tags: []
 score: 36
@@ -120,14 +120,35 @@ interactions:
     support on transducers ». Demande en categories, sans citer les series DS/SW/RCK
     : HP de grave, moteurs de compression et pavillons, kits de reconing. Question
     de repli posee : quel distributeur belge. Dossier PDF joint.'
+- date: '2026-09-14'
+  type: relance
+  resume: RELANCE ENVOYEE PAR CORENTIN LE 2026-09-14 A 09:48 a Patty Adeyemi, dans
+    le fil. Elle nomme nos trois references B&C (12NDL88, DCX464, FB464) et accepte
+    d'avance un renvoi vers un distributeur.
+- date: '2026-09-14'
+  type: réponse
+  resume: 'REPONSE DE PATRICIA ADEYEMI LE 2026-09-14 A 11:57, deux heures apres la
+    relance. Verbatim : « the best option here would be to reach out our distributor,
+    we have many, and you can easily get below models for whichever European distributor
+    you prefer (check the list on our website) ». Et : « Our company policy doesn''t
+    manage sponsorships, but if we will, in future, we''ll consider your offer ».
+    PAS DE PARTENARIAT DIRECT : politique de l''entreprise. Voie commerciale : un
+    distributeur europeen au choix. TLHP est leur distributeur France et a deja recu
+    notre proposition de partenariat le 2026-09-13.'
+- date: '2026-09-14'
+  type: mail
+  resume: 'REMERCIEMENT ENVOYE PAR CORENTIN LE 2026-09-14 A 16:21 a Patricia Adeyemi
+    : on passera par leur distributeur en France, TLHP, et on garde B&C en tete si
+    leur politique change.'
 events: []
 next_action:
-  what: 'BROUILLON GMAIL PRET dans contact@falcohmsystem.com (cree le 2026-09-03).
-    IL RESTE A JOINDRE LE PDF : output/B-C-Speakers-S-p-A/, le connecteur ne peut
-    pas porter un fichier de 2 Mo. Puis envoyer. EN, a Patty Adeyemi (nommee). CC
-    press@ retire : inutile pour une demande commerciale. Des l''envoi : python -m
-    kit --log b-c-speakers mail "..." --status sent --date <ISO>.'
-  due: '2026-09-04'
+  what: 'PERDU POUR LE PARTENARIAT le 2026-09-14 : politique de l''entreprise, B&C
+    ne fait pas de sponsoring. Voie commerciale : un distributeur europeen au choix
+    ; TLHP, leur distributeur France, a deja recu notre proposition le 2026-09-13.
+    Remerciement de deux lignes en brouillon Gmail r-1349649408982874854 (il nomme
+    TLHP). REPRISE : Patricia Adeyemi a ecrit « if we will, in future, we''ll consider
+    your offer » ; revoir en septembre 2027.'
+  due: '2027-09-01'
 notes: 'Aucun e-mail public lisible : le site ne propose qu''un formulaire et la page
   /en/contacts ne liste que des localisations (siège, usine, "Sound & Vision - EU
   Distribution Centre", B&C Speakers NA, B&C Dongguan, B&C Brazil) sans coordonnées

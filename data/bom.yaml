@@ -30,10 +30,9 @@ designers:
   - name: Marc.o
     url: ''
     note: >-
-      SECOND CONCEPTEUR, ajouté le 2026-09-09. Corentin l'a écrit à Audio Components le 2026-09-07,
-      « we build from JW Sound designs, and Marc.o », et le dépôt l'ignorait. Quel modèle vient de
-      qui n'est pas établi ici : ne rien attribuer tant que ce n'est pas vérifié, un fournisseur
-      qui reçoit une attribution fausse cesse de croire le reste.
+      Auteur du MTH 4654, et de lui seul (Corentin, 2026-09-11). Tous les JMOD sont de JW Sound.
+      Ajouté le 2026-09-09 : Corentin l'avait écrit à Audio Components le 2026-09-07, « we build
+      from JW Sound designs, and Marc.o », et le dépôt l'ignorait.
 
 # ---------------------------------------------------------------------------
 # LA RÈGLE QUI FERME LA QUESTION DES ÉQUIVALENCES
@@ -58,7 +57,14 @@ driver_substitution:
 # 1. PREMIÈRE SÉRIE : les composants arrêtés
 # ---------------------------------------------------------------------------
 first_series:
-  confirmed: true
+  confirmed: true          # les RÉFÉRENCES sont arrêtées
+  qty_confirmed: false     # les QUANTITÉS ne le sont pas, elles suivent le prix obtenu
+  qty_rule: >-
+    CE QUI EST PARTI CHEZ AUDIO COMPONENTS LE 2026-09-07, mot pour mot : « The references are
+    fixed, they come from the plans we build from. The quantities move with the price we land on,
+    so read them as approximate ». Les `qty` ci-dessous sont donc des APPROXIMATIONS et se
+    réécrivent toujours avec un « environ » ou un « +/- » vers un fournisseur. Les annoncer nues
+    reviendrait à s'engager sur un volume qu'on ne tiendra pas si le tarif ne suit pas.
   components:
     - brand: B&C Speakers
       ref: 12NDL88
@@ -83,6 +89,16 @@ first_series:
   note: >-
     Deux marques seulement, B&C et RCF, ce qui simplifie la négociation : un distributeur qui
     référence les deux couvre toute la partie transducteurs.
+  crossover_note: >-
+    LA PARTIE FILTRE EST COUVERTE, ET SEULEMENT CELLE-LÀ. Envoyé à Audio Components le
+    2026-09-07 : « On the crossover side, the FB464 above covers the coaxial section ». Autrement
+    dit le seul composant de filtrage passif de la nomenclature est le FB464, et il ne concerne que
+    la section coaxiale du DCX464.
+    LES AUTRES MODÈLES N'ONT AUCUN FILTRE PASSIF (Corentin, 2026-09-11) : ils ne sont pas filtrés,
+    ou ils le sont en actif par l'amplificateur externe ADmark, qui embarque le DSP.
+    CONSÉQUENCE, et elle vaut pour toutes les cibles : « composants de filtre passif » N'EST PAS
+    UN POSTE. On ne le demande à personne. Le FB464 est un accessoire B&C qui se commande avec le
+    DCX464, chez le même fournisseur, pas une ligne de condensateurs et de selfs.
 
 # ---------------------------------------------------------------------------
 # 2. LES MODÈLES DE CAISSONS
@@ -90,9 +106,17 @@ first_series:
 # Cinq modèles. C'est la réponse à « how many different cabinet models are you planning to build ».
 models:
   - name: JMOD Solana
+    designer: JW Sound LLC
     status: en cours de construction
     confirmed: true
+    qty_this_year: 4
+    parts_bought: true
+    qty_note: >-
+      4 caissons, et TOUT EST DÉJÀ ACHETÉ (Corentin, 2026-09-11). Ils n'entrent donc dans aucun
+      volume annoncé à un fournisseur : ce serait promettre une commande qui a déjà eu lieu
+      ailleurs.
   - name: MTH 4654
+    designer: Marc.o
     status: à construire, équipé en RCF
     confirmed: true
     qty_this_year: 6
@@ -101,12 +125,19 @@ models:
       avec un « environ » ou un « plus ou moins » : la quantité dépend du tarif obtenu, et un
       chiffre net serait pris pour un engagement.
   - name: JMOD 2.0
+    designer: JW Sound LLC
     status: à construire
     confirmed: true
     qty_this_year: 4
-    qty_note: 2 paires cette année.
+    qty_firm: true
+    qty_note: >-
+      2 paires cette année, soit 4 caissons. LE SEUL VOLUME FERME DE TOUT LE DOSSIER : envoyé à
+      Audio Components le 2026-09-07 sous « Firm for this year », par opposition aux MTH 4654 qui
+      sont conditionnés au prix. C'est donc le seul chiffre qu'on peut poser nu devant un
+      fournisseur.
   - name: JMOD-M Arrayed Multiple Entry Horn
     display: JMOD-M
+    designer: JW Sound LLC
     type: >-
       Point source arrayable, multiple entry horn. CE N'EST PAS UN LINE ARRAY : la formulation
       était fausse dans le premier brouillon du 2026-09-07. Directivité constante 110 x 55 degrés,
@@ -122,7 +153,8 @@ models:
       la fiche portant la mention « Under Development/Rework ». On peut donc le citer, à condition
       de ne s'engager sur aucune date : le calendrier appartient à JW Sound, pas à nous.
   - name: Kick bin
-    status: à définir
+    designer: ''
+    status: reporté, « pas pour tout de suite » (Corentin, 2026-09-11), aucune date
     confirmed: false
     qty_note: Modèle non arrêté. Aucune quantité annonçable.
     driver_note: >-
@@ -132,12 +164,92 @@ models:
       envoi.
 
 # ---------------------------------------------------------------------------
+# 2 BIS. CE QUE CONSOMME UN CAISSON
+# ---------------------------------------------------------------------------
+# Donné par Corentin le 2026-09-11. C'est ce qu'un fournisseur de quincaillerie, de bois ou de
+# visserie demande en premier, et c'est ce qui manquait pour répondre à Audio Components.
+per_cabinet:
+  source: Corentin Dallenogare, 2026-09-11
+  scope: >-
+    MOYENNE PAR CAISSON, TOUS MODÈLES CONFONDUS. Un MTH 4654 et un JMOD 2.0 n'ont pas la même
+    taille : le bois et la peinture varient d'un modèle à l'autre, la quincaillerie beaucoup
+    moins. Les postes marqués `approx` s'écrivent avec un « environ » vers un fournisseur ; les
+    autres sont fixés par le plan (un caisson a huit coins, pas « environ huit »).
+  items:
+    - { item: Coins, qty: 8 }
+    - { item: Connecteurs Speakon, qty: 2, type: châssis femelle 4 pôles }
+    - { item: Poignées, qty: 4 }
+    - { item: Bornier, qty: 1 }
+    - { item: Câble haut-parleur interne, qty: 3, unit: m, approx: true }
+    - { item: Vis, qty: 200, approx: true }
+    - { item: Peinture Warnex, qty: 2, unit: L, approx: true }
+    - { item: Contreplaqué bouleau, qty: '1 à 2', unit: planches, approx: true }
+  no_gaskets: >-
+    PAS DE JOINTS NI D'AMORTISSANT (Corentin, 2026-09-11). Ils figuraient dans la liste envoyée à
+    Audio Components le 2026-09-09 : les retirer de toute demande.
+  paint_note: >-
+    WARNEX, confirmé par Corentin le 2026-09-11 : c'est le produit, pas une préférence. Dans une
+    liste de catégories de premier contact, on écrit « peinture de protection » (CLAUDE.md) ; dès
+    qu'un fournisseur demande la référence ou propose autre chose, la réponse est Warnex.
+  plywood_note: >-
+    Le format et l'épaisseur des planches ne sont pas renseignés. Sans eux, un marchand de bois ne
+    peut pas chiffrer : « une ou deux planches » n'est pas une quantité pour lui.
+
+# Articles proposés par Audio Components (SoundImports) le 2026-09-15, en réponse aux quantités par
+# caisson. Prix publics promotionnels lus sur soundimports.eu le même jour, pas les conditions B2B : ils
+# servent à mesurer l'enjeu, pas à négocier. Tous affichés « Pre-order », à confirmer avec Omar.
+supplier_articles:
+  supplier: SoundImports B.V. (Audio Components, Omar Sadek)
+  proposed_on: '2026-09-15'
+  items:
+    - { item: Connecteur Speakon châssis 4 pôles, ref: '1649', price_eur: 2.47, per_cabinet: 2, status: accepté }
+    - { item: Bornier, ref: 260-110, name: 'Blank Terminal Cup 132 x 183 mm', price_eur: 5.17, per_cabinet: 1, status: accepté }
+    - { item: Coins, ref: MZF-8508, name: 'Monacor MZF-8508 Metal Corner, Large', price_eur: 0.74, per_cabinet: 8, status: 'dimensions demandées' }
+    - { item: Poignées, ref: 262-821, name: 'Steel Bar Speaker Cabinet Handle 162 x 220 x 60', price_eur: 9.46, per_cabinet: 4, status: accepté }
+    - { item: Câble interne, ref: SI-WIRE-4.0mm2, name: 'câble 2 x 4,0 mm² OFC, au mètre', price_eur: 3.30, per_cabinet: 3, status: 'accepté, à vérifier contre les plans' }
+    - { item: Vis, ref: 081-1100, name: 'Coarse Thread Cabinet Screw 3,3 x 25,4 mm', price_eur: 0.15, per_cabinet: 200, status: 'tailles à relever sur les plans' }
+  per_cabinet_eur: 'environ 94, au prix public promotionnel'
+  note: >-
+    Environ 94 EUR de quincaillerie par caisson au prix public, donc environ 375 EUR sur les 4 caissons fermes et
+    environ 1 500 EUR sur une quinzaine en deux ans. La visserie en fait près d'un tiers : c'est le poste à vérifier
+    en premier, une seule taille de 25 mm ne suffit sans doute pas à assembler des panneaux de contreplaqué.
+
+# Les volumes qui en découlent. DÉRIVÉS de per_cabinet et de models : à recalculer si l'un change.
+# Deux colonnes, parce qu'il n'y a qu'un seul volume ferme dans le dossier.
+totals:
+  computed_on: '2026-09-11'
+  cabinets:
+    firm: 4            # 4 JMOD 2.0, « Firm for this year »
+    two_years: 16      # les 4 fermes + environ 6 MTH 4654 (selon le prix) + environ 6 JMOD-M
+    excluded: >-
+      JMOD Solana (4 caissons, tout est déjà acheté) et kick bin (reporté).
+    history: >-
+      Le volume ferme est passé à 8 dans la matinée du 2026-09-11 en comptant les Solana, puis est
+      revenu à 4 le même jour, quand Corentin a précisé que leur quincaillerie était déjà achetée.
+      C'est le chiffre envoyé à Audio Components le 2026-09-07 : rien à corriger chez eux.
+  items:
+    - { item: Coins, firm: '32', two_years: 'environ 128' }
+    - { item: Poignées, firm: '16', two_years: 'environ 64' }
+    - { item: Connecteurs Speakon, firm: '8', two_years: 'environ 32' }
+    - { item: Borniers, firm: '4', two_years: 'environ 16' }
+    - { item: Câble haut-parleur interne, firm: 'environ 12 m', two_years: 'environ 48 m' }
+    - { item: Vis, firm: 'environ 800', two_years: 'environ 3 200' }
+    - { item: Peinture Warnex, firm: 'environ 8 L', two_years: 'environ 32 L' }
+    - { item: Contreplaqué bouleau, firm: '4 à 8 planches', two_years: 'environ 16 à 32 planches' }
+  rule: >-
+    Vers un fournisseur, la colonne `firm` peut se poser telle quelle, la colonne `two_years` ne
+    s'écrit JAMAIS sans son « environ » : elle dépend du prix obtenu sur les MTH 4654 et de la
+    sortie du JMOD-M, qui appartient à JW Sound.
+
+# ---------------------------------------------------------------------------
 # 3. AUTRES POSTES
 # ---------------------------------------------------------------------------
 other_needs:
   - post: Mesure
     have: Microphones de mesure, et versions gratuites des logiciels.
-    need: Un microphone de mesure de qualité professionnelle, et une licence Smaart.
+    need: >-
+      Des microphones de mesure de qualité professionnelle, deux ou trois au maximum (Corentin,
+      2026-09-11), et une licence Smaart.
     note: >-
       RÉPONSE D'AUDIO COMPONENTS LE 2026-09-08 : les deux moitiés du poste sont tranchées.
       MICROPHONE, c'est chez eux : ils recommandent le miniDSP UMIK-2, calibré individuellement,
@@ -157,38 +269,59 @@ other_needs:
       des caisses, coins, poignées, visserie de montage.
     note: >-
       Poste dit par Corentin le 2026-09-09, le dépôt ne le connaissait pas. Il se répète sur CHAQUE
-      caisson, donc il se multiplie par seize caissons sur deux ans : c'est ce qui en fait autre
-      chose qu'une petite commande. Demandé à Audio Components en catégories, à eux de dire ce
+      caisson, donc il se multiplie par une quinzaine de caissons sur deux ans : c'est ce qui en
+      fait autre chose qu'une petite commande. Demandé à Audio Components en catégories, à eux de dire ce
       qu'ils portent. Les coins, poignées et visserie se vendent aussi chez Penn Elcom et Adam Hall.
-    todo: Quantités par caisson, aucune n'est établie.
+    qty: Voir per_cabinet et totals, renseignés le 2026-09-11.
 
-  - post: Flightcases et roulage
-    need: Caisses de transport pour le parc.
+  - post: Flightcases et racks
+    need: >-
+      3 grosses malles de transport, et 3 racks 19 pouces de 2 U pour les amplificateurs ADmark
+      (Corentin, 2026-09-11). Achat ponctuel, pas un consommable.
     note: >-
-      Poste dit par Corentin le 2026-09-09. PAS chez un distributeur de composants de haut-parleurs.
-      Cibles existantes : Penn Elcom, Adam Hall, JV Case chez Beglec. Un système se casse dans le
-      camion, pas sur scène (data/existing-suppliers.yaml).
-    todo: Combien de caisses, pour quels caissons.
+      PAS chez un distributeur de composants de haut-parleurs. Cibles existantes : Penn Elcom, Adam
+      Hall, JV Case chez Beglec. Un système se casse dans le camion, pas sur scène
+      (data/existing-suppliers.yaml).
+    note_beglec: >-
+      Beglec, qui portait JV Case, a refusé le 2026-09-10 : il protège ses clients loueurs. Penn
+      Elcom et Adam Hall vendent eux aussi à des loueurs, la même objection est à anticiper.
 
   - post: Visserie et boulonnerie
     need: Vis, boulons, quincaillerie de montage et de poignées.
-    note: Module visserie, cible Würth. Aucune quantité chiffrée à ce jour.
+    note: >-
+      Module visserie, cible Würth. Environ 200 vis par caisson, soit environ 800 sur le volume
+      ferme et environ 3 200 sur deux ans (totals).
   - post: Bois et panneaux
     need: Multiplex bouleau pour les caissons.
-    note: Campagne bois du 2026-08-23. Aucun tonnage chiffré à ce jour, à faire.
+    note: >-
+      Campagne bois du 2026-08-23. Une à deux planches par caisson, soit 4 à 8 planches sur le
+      volume ferme et environ 16 à 32 sur deux ans (totals). Format et épaisseur manquent encore.
+
+# ---------------------------------------------------------------------------
+# 5. ÉCLAIRAGE : ce qu'on cherche (Corentin, 2026-09-16)
+# ---------------------------------------------------------------------------
+# Catégories données par Corentin, SANS quantités à ce jour. Premier destinataire : LG-Concept, qui a
+# accepté une remise partenaire contre visibilité le 2026-09-16.
+lighting_needs:
+  source: Corentin Dallenogare, 2026-09-16
+  items:
+    - { item: Machine à fumée, note: "une Look Unique 2 déjà au parc (data/equipment.yaml) : besoin en complément, à préciser" }
+    - { item: PAR LED }
+    - { item: Lyres }
+    - { item: Petites wash }
+    - { item: "Projecteurs de type Showtec Sabre, ou équivalent" }
+    - { item: "Univers Art-Net (nodes)" }
+    - { item: Truss, note: "seulement si le prix est avantageux" }
+  todo: Quantités par catégorie. Sans elles, aucun revendeur ne chiffre la remise.
 
 # ---------------------------------------------------------------------------
 # 4. CE QUI MANQUE ENCORE
 # ---------------------------------------------------------------------------
 todo:
-  - Quantité de multiplex par caisson, et donc par série. Le module bois en a besoin.
-  - Quantité de visserie et de boulonnerie par caisson.
-  - Longueurs de câble interne par caisson.
-  - Le modèle Kick bin, tant qu'il n'est pas arrêté, ne peut entrer dans aucune demande.
-  - Les composants de filtre passif ne sont pas listés : sont-ils déjà arrêtés ?
+  - Quantités d'éclairage par catégorie (voir lighting_needs).
   - >-
-    Le kick bin est devenu le seul poste où un fournisseur peut encore choisir le transducteur.
-    Audio Components attend ce modèle depuis le 2026-09-08 pour proposer sa gamme.
+    Format et épaisseur des planches de contreplaqué. C'est la seule donnée qui manque pour chiffrer
+    le bois, et la campagne bois en a besoin.
   - >-
-    Quel modèle vient de quel concepteur, JW Sound ou Marc.o ? Tant que ce n'est pas écrit ici,
-    aucune attribution ne doit sortir du dépôt.
+    Les quantités varient-elles par modèle ? La moyenne suffit pour la quincaillerie, pas pour le
+    bois ni la peinture : un MTH 4654 n'est pas un JMOD 2.0.

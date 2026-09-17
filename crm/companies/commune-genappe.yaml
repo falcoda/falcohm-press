@@ -10,7 +10,7 @@ persona: institution
 categories:
 - public_funding
 - local_government
-status: sent
+status: followup_1
 phase: 2
 tags: []
 score: 24
@@ -179,18 +179,19 @@ interactions:
     le fond, mais cela prouve que le dossier est entre dans le circuit administratif
     et qu''il est trace. Le contact utile reste Michael Rouffiange, qui n''a pas encore
     repondu personnellement. Ne pas relancer avant le J+10 du 2026-09-14.'
+- date: '2026-09-14'
+  type: relance
+  resume: 'RELANCE ENVOYEE PAR CORENTIN LE 2026-09-14 A 09:47 a Michael Rouffiange
+    seul, dans le fil (avis contraire du jour : attendre le 21 ; Corentin a choisi
+    d''envoyer). Accroche : accuse de reception du 7 septembre ; argument : Place
+    aux jeunes, 1 EUR commune = 1 EUR Province, engagement a preparer avant le budget
+    ; question : ou en est l''examen.'
 events: []
 next_action:
-  what: 'NE PAS repondre a l''accuse de reception du 2026-09-07 : il vient du secretariat,
-    sur une adresse generique, et une reponse n''apporterait rien. RELANCE LE 2026-09-14,
-    a Michael Rouffiange seul, sans les copies. L''accuse de reception donne l''accroche
-    : le secretariat a confirme par ecrit, le 7 septembre a 08h14, que le dossier
-    a ete « transmis au service concerne pour bonne suite ». On ne demande donc pas
-    s''ils ont recu, on demande ou en est l''examen, ce qui est une question a laquelle
-    une commune repond. Rappeler l''echeance reelle : « Place aux jeunes » double
-    chaque euro communal, et un engagement se vote au budget, donc il se prepare en
-    amont.'
-  due: '2026-09-14'
+  what: 'RELANCE ENVOYEE LE 2026-09-14 a Michael Rouffiange. Attendre. Point de controle
+    budget communal le 2026-09-30 : sans reponse a cette date, passer par le telephone
+    de l''echevinat plutot qu''un troisieme mail.'
+  due: '2026-09-30'
 notes: 'ORDRE D''ATTAQUE : viser Michaël Rouffiange EN PREMIER (Festivités + Jeunesse
   = le périmètre exact de Gazmatek), puis Christophe Balestrie (Culture) en second
   appui, et n''aller vers le Bourgmestre Gérard Couronné (Finances et budget) qu''une

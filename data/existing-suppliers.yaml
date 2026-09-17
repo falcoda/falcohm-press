@@ -39,8 +39,12 @@ open:
     note: Le poste le plus lourd de la nomenclature. B&C, SoundImports, Beyma, 18Sound, BMS.
   - post: Bois et panneaux (multiplex bouleau)
     note: Campagne en cours, voir le module bois.
-  - post: Composants de filtre passif, cablage, connectique
-    note: Cables HP, panneaux Speakon, bornes. SoundImports, Amptec (confection), Beglec (Hilec).
+  - post: Cablage, connectique, quincaillerie de caisson
+    note: >-
+      Cables HP, panneaux Speakon, bornes, coins, poignees. SoundImports, TLHP, Amptec
+      (confection), Beglec (Hilec). Quantites par caisson dans data/bom.yaml (per_cabinet).
+      LE FILTRE PASSIF N'EST PAS UN POSTE (2026-09-11) : aucun modele n'en utilise hors le FB464,
+      accessoire B&C commande avec le DCX464. Le filtrage se fait en actif, dans l'ampli ADmark.
   - post: Eclairage
     note: >-
       LE POSTE LE MOINS COUVERT DU PARC, et le seul que presque personne du fichier ne vend.

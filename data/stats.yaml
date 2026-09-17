@@ -7,6 +7,17 @@
 # publié dans les documents faute d'un échantillon suffisant.
 followers: "27 000"
 
+# 2026-09-09 : précision de Corentin. En ORGANISATION pure (dates Gazmatek), on est entre 6 et 10
+# par an. Le « 10-15 » du bloc ci-dessous compte aussi les prestations et locations du sound system
+# Falc'ohm. Les deux chiffres sont vrais, mais pas pour le même lecteur : un partenaire matériel
+# (logo sur les caissons) voit le matériel sortir 10 à 15 fois par an ; une institution qui finance
+# des concerts (FWB, Province, Court-Circuit) compte les dates organisées, donc 6 à 10, et c'est
+# ce chiffre-là qu'on écrit dans ces dossiers et ces mails. Le libellé « Événements par an » du
+# bloc reste à trancher par Corentin : le renommer (« Dates par an, événements et prestations »)
+# impose de regénérer tous les documents (make all && make targets).
+events_organised_per_year: "6-10"     # dates organisées sous le nom Gazmatek, source Corentin 2026-09-09
+deployments_per_year: "10-15"         # événements + prestations et locations Falc'ohm, même source
+
 stats:
   title: "NOTRE COMMUNAUTÉ (GAZMATEK + FALC'OHM SYSTEM)"
   items:

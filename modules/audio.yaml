@@ -1,5 +1,8 @@
 label: "Audio"
-subject: "Recherche d'un partenaire audio : transducteurs et amplification"
+# 2026-09-13 : amplification et DSP retirés de toute demande, postes couverts par ADmark
+# (data/existing-suppliers.yaml). Marquage « Built with » sur les caissons, jamais « Powered by » sur
+# les racks, qui portent ADmark.
+subject: "Recherche d'un partenaire audio : transducteurs et maintenance"
 targets: ["B&C Speakers", "Faital Pro", "18Sound", "Powersoft", "RCF"]
 
 pages: [cover, about, gazmatek, ecosystem, project, material, timeline, benefits, packages, contact]
@@ -11,7 +14,7 @@ cover:
 partner:
   role: "Le partenaire audio"
   icon: speaker
-  items: ["Transducteurs", "Amplification", "Traitement DSP", "Support technique"]
+  items: ["Transducteurs", "Connectique et quincaillerie", "Kits de reconing", "Support technique"]
 
 gazmatek:
   intro: >-
@@ -32,7 +35,7 @@ ecosystem:
 project:
   title: "Équiper nos enceintes,\ndu transducteur à la scène."
   intro: >-
-    Nous fabriquons une nouvelle série d'enceintes acoustiques professionnelles : caissons de basse à pavillon (horn) et tops multi horn entry. Les caissons sortent de notre atelier ; il nous manque les composants qui les font sonner.
+    Nous agrandissons notre parc avec une nouvelle série d'enceintes acoustiques professionnelles : caissons de basse à pavillon (horn) et tops multi horn entry. Les caissons sortent de notre atelier ; il nous manque les composants qui les font sonner.
   intro2: >-
     Le transducteur conditionne le rendement, la tenue en puissance et la fiabilité du système. Nous recherchons un partenaire audio capable de nous accompagner sur la durée.
   images:
@@ -40,14 +43,14 @@ project:
     - { file: fusion.jpg, caption: "Plans 3D du caisson", fit: true }
     - { file: cab.jpg, caption: "Transducteurs en maintenance" }
   caption: >-
-    Nos caissons sont prêts : ce sont les transducteurs et l'amplification qui décident du résultat final.
+    Nos caissons sont prêts : ce sont les transducteurs qui décident du résultat final.
 
 needs:
   title: "CE QUE NOUS RECHERCHONS EN AUDIO"
   items:
     - { icon: speaker, title: "Transducteurs", text: "Haut-parleurs de grave, médium et moteurs de compression pour nos caissons." }
-    - { icon: boxes, title: "Amplification", text: "Amplis de puissance et racks pour nos systèmes de sonorisation." }
-    - { icon: cnc, title: "Traitement et DSP", text: "Processeurs, cartes DSP et outils de calage système." }
+    - { icon: boxes, title: "Connectique et quincaillerie", text: "Connecteurs, câblage interne, coins, poignées et visserie de montage, sur chaque caisson." }
+    - { icon: tools, title: "Maintenance", text: "Kits de reconing et pièces de rechange pour faire durer le parc." }
 
 material:
   kicker: "Le composant"
@@ -83,8 +86,8 @@ benefits:
   band_text: >-
     Site, réseaux sociaux, salons professionnels : un système utilisé chaque week-end à fort niveau prouve à vos clients que vos composants tiennent en usage réel.
   post_text: "Making-of : nos nouveaux caissons équipés par notre partenaire audio."
-  marking_text: "POWERED BY"
-  marking_label: "Sur nos façades et nos racks"
+  marking_text: "BUILT WITH"
+  marking_label: "Sur nos caissons"
 
 packages:
   intro: >-
@@ -93,11 +96,11 @@ packages:
     - { icon: tag, title: "Conditions préférentielles", text: "Des conditions adaptées à une ASBL culturelle." }
     - { icon: euro, title: "Tarif revendeur ou pro", text: "L'accès aux conditions réservées aux professionnels du secteur." }
     - { icon: boxes, title: "Prix quantité", text: "Une tarification dégressive sur un volume de transducteurs." }
-    - { icon: speaker, title: "Fourniture de composants", text: "La mise à disposition de HP, moteurs ou amplis." }
+    - { icon: speaker, title: "Fourniture de composants", text: "La mise à disposition de haut-parleurs et de moteurs." }
     - { icon: tools, title: "Kits de reconing", text: "Un stock de pièces de rechange pour la maintenance." }
     - { icon: link, title: "Partenariat partiel", text: "Une prise en charge d'une partie du matériel, en échange de visibilité." }
     - { icon: star, title: "Partenariat complet", text: "L'équipement complet du système, avec une visibilité maximale." }
 
 onepager:
   pitch: >-
-    Falc'ohm System est une ASBL belge qui organise des événements musicaux (Gazmatek) et fabrique ses propres enceintes. Les caissons sortent de notre atelier : nous recherchons un partenaire audio pour les transducteurs, l'amplification et le traitement.
+    Falc'ohm System est une ASBL belge : sous le nom de Gazmatek, elle organise des événements musicaux, et sous celui de Falc'ohm System, elle construit et exploite le matériel qui les sonorise. Nous agrandissons notre parc avec une nouvelle série de caissons, fabriqués dans notre atelier d'après les plans de concepteurs : nous recherchons un partenaire audio pour les transducteurs, la connectique et la maintenance.

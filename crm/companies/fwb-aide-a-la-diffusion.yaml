@@ -1,11 +1,13 @@
 slug: fwb-aide-a-la-diffusion
-company: Fédération Wallonie-Bruxelles, Service de la Diffusion (Tournées Art et Vie)
-display_name: FWB, Aide à la diffusion
+company: Fédération Wallonie-Bruxelles, Direction de la Diffusion (Diffusion tout
+  public, ex Art et Vie)
+display_name: FWB, Diffusion tout public (ex Art et Vie)
 aka:
 - Art et Vie
 - Art&Vie
 - Tournées Art et Vie
 - Aides à la diffusion
+- Subvention à la diffusion artistique tout public
 - Direction de la Diffusion
 - Plateforme TARA
 country: BE
@@ -14,64 +16,63 @@ persona: institution
 categories:
 - culture_funding
 - public_funding
-status: lead
+status: sent
 phase: 2
 tags:
 - institution
 - musique
-- a-verifier
+- procedure
 score: 14
 website: https://tara.cfwb.be/
-knowledge: ''
+knowledge: knowledge/FWB Diffusion tout public.md
 profile:
-  activity: Service de l'Administration générale de la Culture de la FWB qui octroie
-    une subvention PAR REPRÉSENTATION afin de favoriser la programmation de spectacles
-    vivants de qualité dans les lieux de diffusion culturelle de Wallonie et de Bruxelles.
-    Gestion via la plateforme TARA (tara.cfwb.be). Boulevard Léopold II, 44, 1080
-    Bruxelles.
+  activity: 'Direction de l''Administration générale de la Culture (Service général
+    de la Création artistique) qui verse une subvention PAR REPRÉSENTATION à un diffuseur
+    labélisé qui programme une production inscrite au Catalogue Diffusion. Décret
+    du 16 mai 2024, en vigueur le 1er janvier 2025 : la subvention est versée à l''organisateur,
+    qui paie le cachet complet à l''artiste. Gestion sur la plateforme Tara (tara.cfwb.be).
+    Boulevard Léopold II, 44, 1080 Bruxelles.'
   products:
-  - Aides aux diffuseurs, labellisation, demandes de subvention, demandes de quotas
-  - Catalogue Diffusion, répertoire des productions reconnues (Arts visuels, Arts
-    vivants, Musique)
-  - Quotas de diffusion, enveloppe budgétaire réservée à un diffuseur labellisé pour
-    une année civile
+  - Labélisation des diffuseurs, à tout moment de l'année, sur Tara
+  - Subvention à la diffusion tout public par représentation, forfait par artiste
+    (250 ou 370 EUR en musiques électroniques), plafonnée à 50 % du cachet, deux représentations
+    par production
+  - Quotas de diffusion (3 000 à 50 000 EUR par an), réservés après trois années consécutives
+    d'aides d'au moins 3 000 EUR
+  - Catalogue Diffusion, 980 productions en musique dont 43 en « Musiques électroniques
+    » au 2026-09-09
   size:
     employees: ''
     revenue: ''
   identifiers:
     vat: ''
     linkedin: ''
-why_us: 'C''est le seul dispositif du portefeuille qui ne finance pas le festival
-  mais fait BAISSER le coût de sa programmation, une logique complémentaire, et donc
-  cumulable, avec l''Aide aux structures de programmation. Le principe : un diffuseur
-  labellisé qui programme une production inscrite au Catalogue Diffusion reçoit une
-  subvention par représentation. Changement décisif entré en vigueur au 1er janvier
-  2025 : « les subventions à la diffusion seront désormais versées au diffuseur /
-  programmateur », auparavant elles transitaient par l''artiste. Autrement dit, c''est
-  désormais l''organisateur, donc Falc''ohm, qui encaisse. Pour une ASBL qui programme
-  régulièrement (10-15 événements par an), une subvention récurrente par date représente
-  un flux potentiellement supérieur à un subside ponctuel.
-
-  '
+why_us: 'Le doute du 14/07 est levé : les musiques électroniques sont au Catalogue
+  Diffusion (43 productions labélisées), et une ASBL sans contrat-programme peut demander
+  sa labélisation de diffuseur si elle diffuse « de manière régulière depuis au moins
+  2 ans », avec statuts, comptes de deux exercices et un projet à plus de 50 % de
+  spectacles. Depuis le 1er janvier 2025 c''est l''organisateur qui encaisse. Ce n''est
+  pas un financement de l''événement : c''est un remboursement partiel du cachet des
+  artistes wallons et bruxellois labélisés que nous programmons, et une place dans
+  un réseau que le Service des Musiques regarde (« intégration dans les réseaux professionnels
+  »). Le second bénéfice vaut plus que le premier.'
 ask:
   type:
   - financial
-  detail: 'Étape 1, obtenir la LABELLISATION de diffuseur et s''inscrire sur la plateforme
-    TARA (https://tara.cfwb.be/). C''est un prérequis absolu : sans label, aucune
-    aide. Étape 2, demander un QUOTA de diffusion (enveloppe budgétaire réservée pour
-    une année civile) : les quotas se demandent en SEPTEMBRE et sont attribués en
-    DÉCEMBRE. Étape 3, programmer des productions issues du Catalogue Diffusion et
-    percevoir la subvention par représentation. AVANT TOUTE CHOSE : faire confirmer
-    par le Service de la Diffusion que les MUSIQUES ACTUELLES sont bien couvertes
-    par le Catalogue Diffusion, ce point n''a pas pu être établi sur les pages publiques
-    et conditionne l''intérêt de toute la démarche.
-
-    '
-  realistic_value_eur: 3000
+  detail: '(1) Trois questions écrites à la Direction de la Diffusion avant toute
+    démarche : une structure itinérante sans salle propre peut-elle être labélisée,
+    et que déclare-t-elle comme infrastructure ; des artistes résidents membres de
+    l''ASBL sont-ils une « auto-programmation » (exclue) ; le Brabant wallon contribue-t-il
+    aux aides ponctuelles hors quota. (2) Si oui, labélisation sur Tara : statuts,
+    comptes et bilans 2024 et 2025, programmations passées, projet 2027 avec la part
+    de spectacles. (3) Ensuite, une demande par date, au plus tard 6 semaines avant,
+    pour chaque live d''un artiste labélisé. Aucun quota avant trois années consécutives
+    d''aides. Aucun dossier de partenariat : c''est une procédure.'
+  realistic_value_eur: 1500
 values:
 - Diffusion des artistes de la Fédération Wallonie-Bruxelles
 - Circulation des spectacles sur le territoire
-- Soutien aux lieux et opérateurs de diffusion
+- Diffusion artistique professionnelle
 - Accès à la culture
 sponsorship_history:
 - what: 'Réforme du dispositif Art&Vie au 1er janvier 2025 : « Les subventions à la
@@ -84,36 +85,91 @@ sponsorship_history:
     Arts vivants et Musique)
   url: https://creationartistique.cfwb.be/diffusion/aides/aides-aux-diffuseurs
   retrieved_on: 2026-07-14
-contacts: []
+- what: 'Catalogue Diffusion, filtre « Musiques électroniques » : 43 productions labélisées
+    (Le Motel, ECHT!, Pavel Tchikov, Why The Eye, Bothlane, Le Prince Harry...). Aucune
+    catégorie DJ ni techno. Les musiques électroniques sont donc bien un secteur couvert.'
+  url: https://creationartistique.cfwb.be/diffusion/les-ressources-en-diffusion/catalogue-diffusion/catalogue-diffusion
+  retrieved_on: '2026-09-09'
+- what: 'Décret du 16 mai 2024 relatif au soutien à la diffusion des productions artistiques
+    : art. 22 § 5 « L''intervention de la Communauté française est plafonnée à maximum
+    50% du prix de vente des productions artistiques diffusées » ; art. 21, quotas
+    de maximum 50 000 EUR ; art. 11 § 2, le producteur doit être « domicilié ou établi
+    en région de langue française ou dans la région bilingue de Bruxelles-Capitale
+    ».'
+  url: https://etaamb.openjustice.be/fr/2024007991.html
+  retrieved_on: '2026-09-09'
+contacts:
+- name: Isabelle Deleu
+  role: Direction de la Diffusion, labélisation tout public musiques actuelles (sauf
+    rock) et subventions tout public festivals
+  email: isabelle.deleu@cfwb.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://creationartistique.cfwb.be/index.php?id=2220
+  retrieved_on: '2026-09-09'
+  evidence: 'Page Contacts de la Création artistique, qui affiche « (at) » à la place
+    de « @ » : « Isabelle DELEU - Labélisation Tout public Musiques actuelles (sauf
+    Rock) - Subventions Tout public : Festivals / isabelle.deleu(at)cfwb.be ». Aussi
+    sur la démarche 4311 (labélisation d''un groupe en musiques actuelles) : « Isabelle
+    Deleu (...) isabelle.deleu@cfwb.be ».'
+- name: Catherine Buyens
+  role: Directrice de la Diffusion
+  email: catherine.buyens@cfwb.be
+  email_status: verified_public
+  linkedin: ''
+  phone: '024132776'
+  source_url: https://www.federation-wallonie-bruxelles.be/nc/la-fw-b-a-votre-service/guide-de-ladministration/?tx_cfwbdatacerbere_pi1%5BcaId%5D=2974
+  retrieved_on: '2026-09-09'
+  evidence: 'Page Contacts de la Création artistique : « Catherine BUYENS - Directrice
+    / catherine.buyens(at)cfwb.be ». Guide de l''Administration (caId=2974) : « Catherine
+    BUYENS », « Employée de niveau 1 », « catherine.buyens@cfwb.be », « 024132776
+    ».'
+- name: ''
+  role: Direction de la Diffusion, adresse générique tout public
+  email: diffusiontoutpublic@cfwb.be
+  email_status: generic
+  linkedin: ''
+  phone: +32 (0)2 413 23 99
+  source_url: https://creationartistique.cfwb.be/index.php?id=2220
+  retrieved_on: '2026-09-09'
+  evidence: 'Page Contacts : « diffusiontoutpublic(at)cfwb.be » et « diffusionscolaire(at)cfwb.be
+    », la page écrit « (at) » à la place de « @ ». Téléphone tout public « +32 (0)2
+    413 23 99 » lu sur la démarche 4823. Support Tara : 02 800 10 10.'
 inbound_channels:
 - type: portal
   url: https://tara.cfwb.be/
 - type: portal
-  url: https://creationartistique.cfwb.be/diffusion/aides/aides-aux-diffuseurs
+  url: https://creationartistique.cfwb.be/demarche/4317_demander_sa_labelisation_en_tant_que_diffuseur_en_arts_vivants_musique_et_arts_visuels
 - type: portal
-  url: https://creationartistique.cfwb.be/a-propos/contacts
+  url: https://creationartistique.cfwb.be/demarche/4823_demander_une_subvention_a_la_diffusion_artistique_tout_public_en_ligne
 scoring:
   business_fit: 6
-  partnership_probability: 4
-  impact_if_successful: 6
-  rationale: 'Le fit est potentiellement bon, une subvention par représentation versée
-    à l''organisateur, pour une structure qui programme 10 à 15 événements par an,
-    c''est un flux récurrent et non un one-shot, mais il repose sur une inconnue majeure
-    : rien sur les pages publiques ne confirme que les MUSIQUES ACTUELLES sont éligibles
-    au Catalogue Diffusion, et le régime général des Tournées Art et Vie les excluait
-    historiquement. La probabilité est donc basse tant que ce point n''est pas tranché,
-    et elle est encore réduite par le prérequis de labellisation, qui est une procédure
-    en soi. À traiter comme une piste à qualifier par un appel téléphonique, pas comme
-    un dossier à monter en l''état.
-
-    '
+  partnership_probability: 6
+  impact_if_successful: 4
+  rationale: 'REVU LE 2026-09-09 après recherche approfondie. Fit réel mais étroit
+    (6) : le dispositif ne finance pas l''événement, il rembourse une part du cachet
+    d''artistes labélisés, et notre programmation est majoritairement française ou
+    en DJ set ; seuls les lives originaux de résidents wallons et bruxellois labélisés
+    ouvrent un droit. Probabilité correcte (6) : la labélisation est une procédure
+    administrative ouverte aux ASBL sans reconnaissance, instruite par un gestionnaire,
+    pas par un jury. Impact faible (4) : 250 à 370 EUR par concert éligible, plafonnés
+    à 50 % du cachet, deux représentations par production, sur peut-être quatre à
+    six concerts par an. Le vrai bénéfice est indirect : le statut de diffuseur labélisé
+    compte pour le dossier du Service des Musiques et permet à nos résidents de décrocher
+    leur propre label.'
 deadlines:
-- what: 'Demandes de QUOTAS de diffusion : les quotas sont demandés en SEPTEMBRE et
-    attribués en décembre. Date précise non publiée, à faire confirmer par le Service
-    de la Diffusion. Dépôts possibles pour une programmation à partir du 01.01.2026
-    (année suivante par extension).'
+- what: 'Demandes de subvention pour les représentations 2026 : avant le 30 septembre
+    2026. Quotas 2027 : formulaires sur Tara du 1er au 30 septembre 2026, statut «
+    Labélisé » requis, plus de renouvellement automatique. SANS OBJET POUR NOUS cette
+    année : pas encore labélisés, et aucun quota avant trois années consécutives d''aides.'
   date: '2026-09-30'
-  url: https://creationartistique.cfwb.be/diffusion/aides/aides-aux-diffuseurs
+  url: https://creationartistique.cfwb.be/actualites/actualite/echeance-subventions-diffusion-2026-et-quotas-2027
+- what: 'À partir du 1er octobre 2026, les diffuseurs labélisés introduisent leurs
+    demandes pour la programmation 2027. La labélisation se demande à tout moment
+    sur Tara : la déposer à l''automne 2026 pour être prêt sur les dates de 2027.'
+  date: '2026-10-01'
+  url: https://creationartistique.cfwb.be/diffusion/aides/calendrier-des-depots-en-diffusion
 sources:
 - url: https://creationartistique.cfwb.be/diffusion/aides/aides-aux-diffuseurs
   retrieved_on: 2026-07-14
@@ -121,43 +177,138 @@ sources:
   retrieved_on: 2026-07-14
 - url: https://www.court-circuit.be/actualite/les-aides-a-la-diffusion-nouveautes-pour-le-dispositif-artvie-en-2025/
   retrieved_on: 2026-07-14
+- url: https://etaamb.openjustice.be/fr/2024007991.html
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/demarche/4823_demander_une_subvention_a_la_diffusion_artistique_tout_public_en_ligne
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/demarche/4317_demander_sa_labelisation_en_tant_que_diffuseur_en_arts_vivants_musique_et_arts_visuels
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/demarche/4318_demander_un_quota_de_diffusion_artistique
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/demarche/4311_demander_la_labelisation_dun_groupe_en_musiques_actuelles_pour_sa_diffusion_tout_public
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/fileadmin/sites/creart/uploads/Document/Diffusion/Ressources/Baremes_Diffusion_tout_public.pdf
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/diffusion/les-ressources-en-diffusion/catalogue-diffusion/catalogue-diffusion
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/actualites/actualite/echeance-subventions-diffusion-2026-et-quotas-2027
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/index.php?id=2220
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/activite/extras-2022/
+  retrieved_on: '2026-09-09'
 documents:
 - output\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie-Partnership-2026.pdf
 - output\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie-OnePager-2026.pdf
 - output\Federation-Wallonie-Bruxelles-Service-de-la-Diffusion-Tournees-Art-et-Vie\email.md
-interactions: []
+interactions:
+- date: '2026-09-09'
+  type: note
+  resume: 'RECHERCHE APPROFONDIE, à la demande de Corentin (on lui a conseillé « Art
+    et Vie »). Le nom n''existe plus : « subvention à la diffusion artistique tout
+    public », décret du 16 mai 2024. Le doute du 14/07 est levé, les musiques électroniques
+    sont au Catalogue (43 productions). Une ASBL sans contrat-programme peut être
+    labélisée diffuseur (2 ans d''activité, statuts, comptes de 2 exercices, projet
+    à plus de 50 % de spectacles). Mais le rendement est faible : 250 à 370 EUR par
+    concert d''un artiste wallon ou bruxellois labélisé, plafonnés à 50 % du cachet,
+    deux fois par production ; les collectifs français et les DJ sets de titres tiers
+    sont hors champ ; pas de quota avant trois années d''aides. Contacts nommés relevés
+    sur la page officielle : Isabelle Deleu (musiques actuelles, festivals), Catherine
+    Buyens (directrice). Détail dans knowledge/FWB Diffusion tout public.md.'
+- date: '2026-09-09'
+  type: note
+  resume: 'BROUILLON GMAIL CREE le 2026-09-09 dans contact@falcohmsystem.com (id r-4720106438374565377)
+    : a diffusiontoutpublic@cfwb.be, copie isabelle.deleu@cfwb.be, objet « Labelisation
+    d''un diffuseur sans salle propre : trois questions ». Sans piece jointe. Texte
+    : emails/fwb-diffusion-questions-labelisation.md. Des l''envoi : python -m kit
+    --log fwb-aide-a-la-diffusion mail "..." --status sent --date <ISO>.'
+- date: '2026-09-09'
+  type: note
+  resume: 'PRECISION DE CORENTIN le 2026-09-09 : presque toutes nos dates se tiennent
+    a La Fabriek, a Bruxelles (salle que nous n''exploitons pas). Le brouillon Gmail
+    et le texte dans emails/ ont ete corriges le meme jour : on n''ecrit plus « dans
+    des lieux differents » ni « sans lieu fixe » au sens itinerant, mais « la plupart
+    a La Fabriek, a Bruxelles ». Consequence : la voie « organisateur de concerts
+    » (18 artistes sur une saison) devient la plus naturelle pour la FWB, et l''infrastructure
+    a declarer pour une labelisation est celle de La Fabriek (jauge, regie).'
+- date: '2026-09-09'
+  type: note
+  resume: 'CORRECTION du 2026-09-09. Corentin : « quand est-ce que j''ai dit ça ??
+    » à propos de la phrase « Nous envisageons de demander notre labélisation comme
+    diffuseur ». Il ne l''a pas dit ; c''était une prémisse écrite par le dépôt. Brouillon
+    et texte corrigés : le mail ne fait plus que poser des questions. Il ne part que
+    si Corentin le décide.'
+- date: '2026-09-09'
+  type: note
+  resume: 'PRECISION DE CORENTIN le 2026-09-09 : en organisation pure, Gazmatek tient
+    entre 6 et 10 dates par an ; le « 10-15 » de data/stats.yaml compte aussi les
+    prestations et locations du sound system Falc''ohm. Pour une institution qui finance
+    des concerts, le chiffre a ecrire est 6 a 10. Brouillon Gmail, texte dans emails/
+    et fiches knowledge corriges le meme jour ; data/stats.yaml porte desormais les
+    deux chiffres (events_organised_per_year, deployments_per_year).'
+- date: '2026-09-09'
+  type: mail
+  resume: 'ENVOYE par Corentin le 2026-09-09 a 17:36 (15:36 UTC), fil Gmail 1a086cdee23a69b2,
+    a diffusiontoutpublic@cfwb.be, copie isabelle.deleu@cfwb.be. Objet « Labelisation
+    d''un diffuseur sans salle propre : trois questions ». Version corrigee : le mail
+    ne dit plus qu''on envisage une labelisation, seulement qu''on cherche a savoir
+    si le dispositif peut nous concerner. Corentin a decide de l''envoyer malgre le
+    score de 14. Sans piece jointe. Relance J+10 le 19/09.'
+- date: '2026-09-10'
+  type: note
+  resume: MESSAGE DU 2026-09-09 NON DISTRIBUE A CE JOUR, a diffusiontoutpublic@cfwb.be
+    et a isabelle.deleu@cfwb.be en copie. Meme refus temporaire que pour Diane Dernouchamps
+    le meme jour (seg-01.etnic.be, 554, reputation d'un domaine, statut 4.7.1). Gmail
+    reessaie jusqu'au 2026-09-12 vers 17:40. Les adresses ne sont pas en cause, voir
+    la fiche federation-wallonie-bruxelles.
+- date: '2026-09-12'
+  type: note
+  resume: 'ECHEC DEFINITIF le 2026-09-12 (Delivery Status Notification, Failure) pour
+    diffusiontoutpublic@cfwb.be et isabelle.deleu@cfwb.be : meme refus 554 du serveur
+    ETNIC pour reputation de domaine. Le message du 2026-09-09 n''a JAMAIS ete distribue.
+    Les adresses ne sont pas en cause.'
 events: []
 next_action:
-  what: 'UN SEUL APPEL À PASSER, et tout en dépend : joindre le Service de la Diffusion
-    (02/413.3000) et demander si les MUSIQUES ACTUELLES sont éligibles au Catalogue
-    Diffusion et si une ASBL organisatrice peut être labellisée diffuseur. Si la réponse
-    est non, archiver la fiche.'
-  due: '2026-09-01'
-notes: "FICHE À QUALIFIER, À LIRE AVANT D'INVESTIR DU TEMPS.\nLE POINT DE BLOCAGE\
-  \ : le régime général des « Tournées Art et Vie » s'applique historiquement à l'ensemble\
-  \ des disciplines des arts de la scène « à l'exclusion des disciplines relevant\
-  \ de la musique classique (programme spécifique) ET DES MUSIQUES ACTUELLES ». Or\
-  \ la page « Aides aux diffuseurs » mentionne un Catalogue Diffusion couvrant « Arts\
-  \ visuels, Arts vivants et Musique », sans préciser les genres, et Court-Circuit,\
-  \ la fédération des musiques actuelles, publie des actualités sur les évolutions\
-  \ du dispositif Art&Vie, ce qui suggère qu'il concerne bien ses membres. CONTRADICTION\
-  \ NON RÉSOLUE au 14/07/2026. Un appel au 02/413.3000 la tranche en cinq minutes.\
-  \ Ne rien monter avant.\nSI LA RÉPONSE EST POSITIVE, la mécanique est la suivante\
-  \ : 1. LABELLISATION du diffuseur + inscription sur la plateforme TARA (https://tara.cfwb.be/).\
-  \ Prérequis absolu. 2. DEMANDE DE QUOTA, « certains diffuseurs labélisés disposent\
-  \ d'un ou de deux quotas de diffusion pour une\n   année civile », constituant «\
-  \ une enveloppe budgétaire réservée ». Les quotas se demandent en SEPTEMBRE et\n\
-  \   sont attribués en DÉCEMBRE. C'est une échéance annuelle à ne pas rater.\n3.\
-  \ PROGRAMMATION obligatoire de productions inscrites au Catalogue Diffusion, on\
-  \ ne subventionne pas\n   n'importe quel artiste, uniquement ceux du catalogue.\
-  \ C'est une contrainte de programmation réelle.\n\nRÉFORME 2025 (l'élément qui rend\
-  \ cette fiche intéressante) : depuis le 01/01/2025, « les subventions à la diffusion\
-  \ sont versées au diffuseur / programmateur » et non plus à l'artiste. C'est l'organisateur\
-  \ qui touche.\nCUMUL : ce dispositif est complémentaire de l'Aide aux structures\
-  \ de programmation (fiche `federation-wallonie-bruxelles`), l'un subventionne l'édition,\
-  \ l'autre chaque représentation. Vérifier toutefois auprès du service qu'il n'y\
-  \ a pas d'incompatibilité, la FWB excluant généralement le double subventionnement\
-  \ d'une même dépense.\nCONTACTS : aucun contact nominatif du Service de la Diffusion\
-  \ n'est publié. Seul le numéro général de la Création artistique est disponible\
-  \ : 02/413.3000 (jours ouvrables, 8h30-17h). Page contacts : https://creationartistique.cfwb.be/a-propos/contacts.\
-  \ Ne pas inventer d'adresse email.\n"
+  what: 'RENVOI PRET : brouillon Gmail r6213508339425717961, SANS DESTINATAIRE. A
+    copier dans Outlook et envoyer depuis falcohm6tm@outlook.com a diffusiontoutpublic@cfwb.be,
+    copie isabelle.deleu@cfwb.be.'
+  due: '2026-09-15'
+notes: 'LE MÉCANISME, EN UNE PHRASE : un diffuseur labélisé qui programme une production
+  du Catalogue Diffusion reçoit, par représentation, un forfait selon le nombre d''artistes
+  (250 ou 370 EUR en musiques électroniques), plafonné à 50 % du cachet, deux fois
+  maximum par production, versé sous quatre semaines après le justificatif de prestation.
+
+  CONDITIONS PAR DATE (démarche 4823) : « La représentation ou le concert est l''objet
+  principal d''une manifestation ouverte au grand public » ; exclus : auto-programmations,
+  dates de création ou premier concert du groupe, manifestations caritatives ; « Le
+  droit d''entrée moyen à la représentation doit être de 4 € minimum » ; lieu en FWB,
+  « en dehors du lieu de création » ; demande « au plus tard 6 semaines avant la manifestation,
+  et dans tous les cas avant le 30 septembre » ; copie « au Service Culture provincial
+  ou CoCoF » ; « Toute représentation d''une durée inférieure à 45 minutes donnera
+  lieu à une subvention réduite de moitié ».
+
+  QUELS ARTISTES : uniquement les productions labélisées. Label d''un groupe en musiques
+  actuelles (démarche 4311) : établi en Wallonie ou à Bruxelles, « programmé au moins
+  3 fois » ou « 3 dates contractuellement planifiées » chez des opérateurs soutenus
+  ou des diffuseurs labélisés, « enregistrement sonore professionnel (tel qu''un EP
+  ou LP) ou une captation », « répertoire comprenant au moins 50 % de compositions
+  originales », « 45 minutes minimum », décision « dans les 5 semaines ». Un DJ set
+  de titres tiers ne remplit pas le critère des compositions originales ; un live
+  d''un producteur local le remplit. Les collectifs français sont exclus par l''art.
+  11 § 2 du décret.
+
+  QUOTAS : sans objet avant « trois années consécutives de subventions à la diffusion
+  tout public ou scolaire pour au moins 3.000 euros chaque année ». Et les nouveaux
+  quotas des « autres types de diffuseurs labélisés sont traités en dernier lieu ».
+
+  NON-CUMUL : « Le soutien Extras ne peut être demandé si soutien Art&Vie est déjà
+  introduit pour une même prestation » (Court-Circuit). Cumul avec les aides aux projets
+  du Service des Musiques : rien d''écrit dans un sens ni dans l''autre, à demander.
+
+  BRABANT WALLON : co-finance déjà (« En Province du Brabant wallon, ce fonctionnement
+  est déjà en place depuis plusieurs années », Court-Circuit) ; la page Culture de
+  la Province cite « les Tournées Art et Vie ». Barème provincial à confirmer, le
+  PDF des partenaires provinciaux n''a pas pu être lu.
+
+  PAGES NON OUVERTES le 2026-09-09 : Partenaires_provinciaux.pdf, Bilan-Diffusion-2025-web.pdf,
+  tara.cfwb.be (« Loading... » sans navigateur).'

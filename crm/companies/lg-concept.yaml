@@ -1,0 +1,115 @@
+slug: lg-concept
+company: LG-Concept
+aka:
+- LG Concept
+country: BE
+sector: eclairage
+persona: fournisseur-technique
+categories:
+- lighting
+- distributors
+status: replied
+phase: 1
+tags:
+- revendeur
+- belge
+score: 28
+website: https://www.lg-concept.be
+knowledge: ''
+profile:
+  activity: 'Specialiste son, lumiere et structure scenique : vente, installation,
+    maintenance et location de materiel audiovisuel, animation DJ, evenements. Plus
+    de 40 ans d''experience revendiques. Grand-Leez (Gembloux). Client B2B de Beglec
+    (Kevin David, 2026-09-15).'
+  products:
+  - Eclairage, son et video (vente et installation)
+  - Location de materiel
+  - Structure scenique
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: BE0819.505.389
+    linkedin: ''
+why_us: 'Premier revendeur d''eclairage a accepter le principe d''un partenariat :
+  conditions commerciales preferentielles et remise partenaire contre visibilite (reponse
+  de Louis Gregoire, administrateur, le 2026-09-16). Revendeur des gammes Beglec,
+  qui nous l''a cite.'
+ask:
+  type:
+  - discount
+  - visibility
+  detail: 'Conditions preferentielles et remise partenaire sur nos achats d''eclairage,
+    evolutives selon le volume ; contrepartie : logo sur nos supports, communication
+    pendant nos evenements, publications sur les reseaux.'
+  public: '- des conditions preferentielles sur nos achats d''eclairage, dans un partenariat
+    durable.'
+  realistic_value_eur: 0
+values:
+- relation commerciale durable
+- conseil
+- gagnant-gagnant
+sponsorship_history: []
+contacts:
+- name: Louis Gregoire
+  role: Administrateur
+  email: info@lg-concept.be
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 477 07 06 56
+  source_url: https://www.lg-concept.be/
+  retrieved_on: '2026-09-16'
+  evidence: 'Signature du courriel RECU le 2026-09-16 a 17:21 en reponse a notre mail
+    : « Louis Grégoire / Administrateur / ✉︎ info@lg-concept.be / ☎︎ +32/(0)477/07.06.56
+    / Rue de la Place, 31A | 5031 Grand-Leez / TVA: BE0819.505.389 ». Adresse generale,
+    mais c''est celle depuis laquelle l''administrateur nous a ecrit.'
+inbound_channels: []
+scoring:
+  business_fit: 7
+  partnership_probability: 8
+  impact_if_successful: 5
+  rationale: 'Fit correct : revendeur d''eclairage, le poste le plus vide du parc.
+    Probabilite elevee : l''administrateur accepte le principe par ecrit, remise partenaire
+    et visibilite. Impact moyen : conditions d''achat, pas de dotation, et le volume
+    depend d''une liste d''eclairage qui n''existe pas encore.'
+deadlines: []
+sources:
+- url: https://www.lg-concept.be/
+  retrieved_on: '2026-09-16'
+documents:
+- output\LG-Concept\LG-Concept-Partnership-2026.pdf
+- output\LG-Concept\LG-Concept-OnePager-2026.pdf
+- output\LG-Concept\email.md
+interactions:
+- date: '2026-09-16'
+  type: mail
+  resume: 'MAIL ENVOYE PAR CORENTIN LE 2026-09-16 A 16:21 a info@lg-concept.be : achat
+    d''eclairage neuf dans un partenariat, conditions preferentielles contre notre
+    nom sur le materiel et dans notre communication ; cite Kevin David (Beglec) comme
+    source.'
+- date: '2026-09-16'
+  type: réponse
+  resume: 'REPONSE POSITIVE LE 2026-09-16 A 17:21 de Louis Gregoire, administrateur.
+    Verbatim : « Votre proposition de partenariat nous intéresse réellement ». Il
+    accepte des « conditions commerciales préférentielles et une remise partenaire
+    intéressante », evolutive selon le materiel, les marques et le volume d''achats.
+    En contrepartie : logo sur nos supports, communication lors de nos evenements,
+    publications sur les reseaux, ou autre visibilite a definir. Il veut « construire
+    une vraie relation commerciale » et nous conseiller en son, lumiere et video.
+    « tout à fait partants pour en discuter ».'
+- date: '2026-09-17'
+  type: réponse
+  resume: 'RECU LE 2026-09-17 A 09:54 de Louis Gregoire, apres notre mail du 2026-09-16
+    (dossier joint, liste des categories, question sur le materiel son) : « nous pouvons
+    tout vous fournir au niveau light, son, truss et vidéo, en neuf et en occasion.
+    Envoyez nous la liste du matériel que vous désirez et je vous fais offre ». Pas
+    de marques ni de niveau de remise annonces : l''offre se fera sur une liste chiffree.'
+events: []
+next_action:
+  what: LG-Concept attend UNE LISTE CHIFFREE pour faire offre (light, son, truss,
+    video, neuf et occasion). Etablir les QUANTITES avec Corentin (data/bom.yaml,
+    lighting_needs), puis leur envoyer. Juger l'offre contre la valeur de la visibilite
+    (data/visibility-rates.yaml).
+  due: '2026-09-21'
+notes: 'Aussi prestataire (location, DJ) : garder la relation sur l''achat. Grand-Leez,
+  environ 25 km de Genappe.'

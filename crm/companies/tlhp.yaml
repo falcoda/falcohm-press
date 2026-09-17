@@ -4,67 +4,154 @@ aka:
 - TLHP
 - Tout Le Haut Parleur
 - toutlehautparleur.com
+- Son Lumière Concept
+- Holding Leluma
 country: FR
 sector: audio
 persona: fournisseur-technique
 categories:
 - distributors
 - audio_components
-- amplification
-status: lead
+status: followup_1
 phase: 1
-tags: []
-score: 49
+tags:
+- client-pro
+- technique
+- famille
+- diy
+score: 54
 website: https://www.toutlehautparleur.com
-knowledge: ''
+knowledge: knowledge/TLHP.md
 profile:
-  activity: 'Distributeur français de composants de haut-parleurs, entreprise familiale
-    basée à Bourgbarré près de Rennes. Se présente comme le premier vendeur de haut-parleurs
-    en Europe : plus de 14 000 références en stock, entrepôt de 1 500 m². Distributeur
-    officiel de PHL Audio et d''Oberton pour la zone France/Europe du Sud.'
+  activity: Distributeur français de composants de haut-parleurs, entreprise familiale
+    (René Denoual et ses trois fils) créée en 1992, 5 personnes, 80 000 clients, 14
+    000 références dont 7 000 à 7 500 en stock, centre logistique de 1 800 m² à Bourgbarré
+    près de Rennes depuis 2022. Chiffre d'affaires 2,8 M EUR en 2021 (3,5 M attendus
+    en 2022). Distributeur France de B&C Speakers, premier revendeur RCF de France,
+    distributeur officiel de PHL Audio et d'Oberton. Fabrique aussi des kits de sound
+    system à pavillons (APOLLON). Le site refuse les robots (HTTP 403).
   products:
-  - Transducteurs pro de toutes les grandes marques (B&C, 18Sound, FaitalPRO, Beyma,
-    PHL, Oberton, Celestion, RCF, Monacor, LaVoce…)
-  - Amplificateurs et modules d'amplification
-  - Composants de filtre (Mundorf, condensateurs, bobines)
-  - Pièces de caisson, connectique, membranes et kits de reconing
+  - Transducteurs de toutes les grandes marques, dont B&C Speakers et RCF (nos deux
+    marques arrêtées), 18Sound, FaitalPRO, Beyma, PHL, Oberton, Celestion, Lavoce,
+    BMS, Sica
+  - Composants de filtre passif (condensateurs, selfs, résistances, Mundorf)
+  - Connectique Neutrik (Speakon, XLR, powerCon) et câble
+  - Quincaillerie de caisson (coins, poignées, grilles, évents, vis, mousse, roulettes),
+    flightcase et rack
+  - Kits de reconing et membranes (274 kits B&C, 88 kits RCF)
+  - Kits de sound system APOLLON (4 ou 5 voies, pavillons, extérieur)
   size:
-    employees: ''
-    revenue: ''
+    employees: '5'
+    revenue: 2,8 M EUR (2021)
   identifiers:
-    vat: ''
+    vat: FR SIREN 385 258 470
     linkedin: ''
-why_us: 'TLHP est le distributeur francophone qui référence en un seul catalogue TOUTES
-  les marques que Falc''ohm doit arbitrer : B&C, 18Sound, FaitalPRO, Beyma, PHL, Oberton,
-  Celestion… Plutôt que de négocier six accords fabricants incertains, un seul accord
-  « tarif revendeur/pro » chez TLHP fait baisser la facture de l''intégralité de la
-  nomenclature, transducteurs, filtres, connectique, kits de recone, et ce de façon
-  récurrente sur les 5-10 ans du projet. C''est le levier le plus rentable du module.
-  Entreprise familiale depuis plus de 30 ans, francophone : le dossier arrive dans
-  la bonne langue, chez quelqu''un qui décide. Ils disposent en plus d''une procédure
-  de commande dédiée aux administrations et structures publiques, signe qu''ils savent
-  traiter des entités non commerciales comme une ASBL.'
+why_us: 'Le seul distributeur du module qui stocke à la fois nos deux marques de transducteurs,
+  leurs kits de reconing, la connectique Neutrik, les composants de filtre et la quincaillerie
+  de caisson : un seul compte couvre toute la nomenclature, sans le décalage de catalogue
+  qui a tué le poste transducteurs chez SoundImports. Entreprise familiale de cinq
+  personnes, francophone, où le fondateur est directeur général et ses fils tiennent
+  les achats : la décision est courte. Et ils fabriquent eux-mêmes des kits de sound
+  system à pavillons, testés en salle associative : ils comprennent ce que nous construisons,
+  et une construction documentée a sa place dans leur galerie « Réalisations ».'
 ask:
   type:
   - discount
-  - material
   - consumables
-  detail: 'Ouverture d''un compte à tarif revendeur / professionnel sur l''ensemble
-    du catalogue (transducteurs, filtres, connectique, membranes), avec conditions
-    dégressives sur le volume nécessaire à l''équipement de la série complète de subs
-    horn et de tops. Idéalement complété par une dotation partielle en composants
-    pour le premier caisson. Contrepartie : marquage sur les façades, making-of documenté
-    du build et visibilité sur 10-15 événements et 27 000 abonnés.'
+  - material
+  detail: 'DEJA CLIENTS PROFESSIONNELS (compte falcohm6tm@outlook.com, Corentin 2026-09-11)
+    : le compte pro existe, la demande est un PARTENARIAT. Soutien materiel sur quatre
+    postes enonces en categories : haut-parleurs de grave et moteurs de compression
+    ; connectique et cablage ; quincaillerie de caisson ; kits de reconing. Deux formes,
+    sans en imposer une : conditions preferentielles au-dela du tarif pro, ou dotation
+    partielle sur la premiere serie. La recherche du 2026-09-09 dit qu''ils vendent
+    avec conseil plutot qu''ils ne donnent : la premiere forme est la plus probable.
+    PAS DE COMPOSANTS DE FILTRE PASSIF (aucun modele n''en utilise hors le FB464,
+    commande avec le DCX464). NE PAS demander d''amplification ni de DSP (ADmark).
+    Ne pas reciter leur catalogue ni nos references. Contrepartie : documentation
+    de nos constructions pour leur galerie « Realisations » et leur forum, marquage
+    partenaire sur les caissons, mention des composants fournis par TLHP sur nos supports.
+    La « commande administration » est reservee aux administrations publiques francaises
+    : hors champ, ne pas s''en reclamer.'
+  public: "- des haut-parleurs de grave et des moteurs de compression, le poste le\
+    \ plus lourd, et un\n  consommable puisqu'ils se remplacent et se recônent ;\n\
+    - de la connectique et du câblage ;\n- de la quincaillerie de caisson ;\n- des\
+    \ kits de reconing pour la maintenance."
   realistic_value_eur: 12000
 values:
 - entreprise familiale
-- made-in-France (distribution)
-- profondeur de catalogue
-- communauté du haut-parleur
-sponsorship_history: []
+- conseil et service
+- communauté DIY et réalisations
+- profondeur de stock
+- réparation plutôt que remplacement
+sponsorship_history:
+- what: 'Culture DIY assumée : galerie « Réalisations » de projets clients (« each
+    project having a gallery showcasing speakers built by passionate enthusiasts »),
+    forum d''entraide depuis 2016, plans de caissons publiés. Aucun sponsoring ni
+    dotation trouvés.'
+  url: https://www.toutlehautparleur.com/realisation-enceinte-haute-fidelite-audio-diy
+  retrieved_on: '2026-09-09'
+- what: Kits de sound system à pavillons APOLLON conçus par TLHP (« APOLLON-V is the
+    first professional sound system kit in the world, developed by TLHP in France
+    »), et test d'un « Sound System expérimental » au Jardin Moderne, salle associative
+    de musiques actuelles à Rennes (Facebook, extrait).
+  url: https://www.toutlehautparleur.com/sound-system-tlhp-apollon
+  retrieved_on: '2026-09-09'
+- what: 'Distributeur France listé par B&C Speakers ; « TLHP is the French biggest
+    RCF speakers reseller » : nos deux marques de transducteurs sont en stock, avec
+    leurs kits de reconing.'
+  url: https://en.toutlehautparleur.com/brands-page/rcf.html
+  retrieved_on: '2026-09-09'
 contacts:
+- name: René Denoual
+  role: Directeur général, fondateur (président de juillet 2020 à octobre 2025, gérant
+    depuis 2005) ; gérant de HOLDING LELUMA, présidente de TLHP depuis le 16 octobre
+    2025
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://www.societe.com/societe/tlhp-385258470.html
+  retrieved_on: '2026-09-09'
+  evidence: 'Fiche societe.com (page ouverte) : « Directeur général depuis le 16 octobre
+    2025 : René DENOUAL », président de juillet 2020 à octobre 2025, gérant de janvier
+    2005 à juillet 2020. Mentions légales du site (extrait, site en 403) : « M. DENOUAL
+    René », « TLHP is a family company: René and his sons, Brice, Timotée and Mathieu
+    ». AUCUNE adresse nominative publiée.'
+- name: Brice Denoual
+  role: Production, logistique et achats (fils aîné)
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://www.bretagne-economique.com/portraits/tlhp-35-investi-4-meu-dans-un-centre-logistique-dernier-cri-pour-doubler-de-taille-2/
+  retrieved_on: '2026-09-09'
+  evidence: 'Post LinkedIn relayant l''article Bretagne Économique (extrait, page
+    non ouverte) : Brice et Mathieu « took charge of production, logistics and purchasing
+    ». L''ACHETEUR : interlocuteur logique pour un compte à conditions. Adresse directe
+    à obtenir par téléphone, jamais à deviner.'
+- name: Mathieu Denoual
+  role: Production, logistique et achats (fils cadet)
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://www.bretagne-economique.com/portraits/tlhp-35-investi-4-meu-dans-un-centre-logistique-dernier-cri-pour-doubler-de-taille-2/
+  retrieved_on: '2026-09-09'
+  evidence: Même source que Brice Denoual. Adresse directe à obtenir par téléphone.
+- name: Timotée Denoual
+  role: Stratégie numérique, site (lancé en novembre 2006), DPO
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://en.toutlehautparleur.com/qui-sommes-nous
+  retrieved_on: '2026-09-09'
+  evidence: 'Page « Qui sommes-nous » (extrait, site en 403) : « computer expert in
+    charge of the company''s digital strategy ». Cité comme DPO sur verif.com (extrait).
+    Interlocuteur pour la galerie « Réalisations », pas pour le compte.'
 - name: ''
-  role: Contact général / commercial
+  role: Contact général
   email: info@toutlehautparleur.com
   email_status: generic
   linkedin: ''
@@ -73,22 +160,37 @@ contacts:
   retrieved_on: 2026-07-14
   evidence: TLHP — Tout Le Haut-Parleur, 2 rue des Fermes Gauloises, 35230 Bourgbarré,
     France — +33 (0)8 92 70 76 57 — info@toutlehautparleur.com
+- name: ''
+  role: Contact général, ancien domaine
+  email: info@tlhp.fr
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.fostex.jp/en/distributors/tlhp/
+  retrieved_on: '2026-09-09'
+  evidence: 'Page distributeurs de Fostex (ouverte) : « 2 Rue des Fermes Gauloises
+    ZAC Bourgbarré Nord 35230 Bourgbarré FRANCE », « info@tlhp.fr ». Même adresse
+    sur la page distributeurs France de B&C (extrait).'
 inbound_channels:
+- type: portal
+  url: https://en.toutlehautparleur.com/compte-pro-tlhp
 - type: form
-  url: https://www.toutlehautparleur.com/commande-administration
+  url: https://www.toutlehautparleur.com/contacts/
 - type: portal
   url: https://en.toutlehautparleur.com/brands-page.html
 scoring:
-  business_fit: 9
+  business_fit: 10
   partnership_probability: 6
   impact_if_successful: 9
-  rationale: 'Un seul compte couvre toutes les marques que le projet doit arbitrer,
-    plus les consommables de maintenance : c''est le fit le plus large du module,
-    à égalité avec SoundImports. Probabilité correcte, PME familiale francophone,
-    décideur unique, et une remise leur coûte de la marge, pas de la trésorerie, mais
-    aucun antécédent de sponsoring trouvé, d''où 6 et non 7. Impact fort et surtout
-    récurrent : une remise permanente de 20-30 % sur toute la nomenclature vaut davantage
-    sur 5-10 ans qu''une dotation ponctuelle.'
+  rationale: 'REVU LE 2026-09-09. Fit maximal (10) : ils stockent nos deux marques
+    de transducteurs et leurs kits de reconing, la connectique Neutrik, les composants
+    de filtre et la quincaillerie de caisson ; un seul compte couvre toute la nomenclature
+    et la maintenance, sans décalage de catalogue. Probabilité correcte (6) : famille
+    de cinq personnes, fondateur aux commandes, fils aux achats, procédure « compte
+    pro » existante, culture DIY ; mais aucun antécédent de sponsoring, aucune adresse
+    nominative publiée, et une remise est tout ce qu''on peut espérer. Impact fort
+    et récurrent (9) : une remise permanente sur toute la nomenclature vaut plus sur
+    cinq à dix ans qu''une dotation.'
 deadlines: []
 sources:
 - url: https://www.phlaudio.com/distribution/index.html
@@ -97,24 +199,98 @@ sources:
   retrieved_on: 2026-07-14
 - url: https://en.toutlehautparleur.com/brands-page.html
   retrieved_on: 2026-07-14
+- url: https://www.societe.com/societe/tlhp-385258470.html
+  retrieved_on: '2026-09-09'
+- url: https://www.bretagne-economique.com/portraits/tlhp-35-investi-4-meu-dans-un-centre-logistique-dernier-cri-pour-doubler-de-taille-2/
+  retrieved_on: '2026-09-09'
+- url: https://www.fostex.jp/en/distributors/tlhp/
+  retrieved_on: '2026-09-09'
+- url: https://www.bcspeakers.com/en/distributors/country/France
+  retrieved_on: '2026-09-09'
+- url: https://en.toutlehautparleur.com/brands-page/rcf.html
+  retrieved_on: '2026-09-09'
+- url: https://en.toutlehautparleur.com/compte-pro-tlhp
+  retrieved_on: '2026-09-09'
+- url: https://www.toutlehautparleur.com/commande-administration
+  retrieved_on: '2026-09-09'
+- url: https://www.toutlehautparleur.com/sound-system-tlhp-apollon
+  retrieved_on: '2026-09-09'
+- url: https://www.toutlehautparleur.com/realisation-enceinte-haute-fidelite-audio-diy
+  retrieved_on: '2026-09-09'
 documents:
 - output\TLHP-SAS-Tout-Le-Haut-Parleur\TLHP-SAS-Tout-Le-Haut-Parleur-Partnership-2026.pdf
 - output\TLHP-SAS-Tout-Le-Haut-Parleur\TLHP-SAS-Tout-Le-Haut-Parleur-OnePager-2026.pdf
 - output\TLHP-SAS-Tout-Le-Haut-Parleur\email.md
-interactions: []
+interactions:
+- date: '2026-09-09'
+  type: note
+  resume: 'RECHERCHE APPROFONDIE, à la demande de Corentin (« TLHP intéressant »).
+    Décideurs identifiés : René Denoual (DG, fondateur) et ses fils Brice et Mathieu
+    (achats) et Timotée (numérique), via HOLDING LELUMA. Aucune adresse nominative
+    publiée ; deux génériques prouvées ; un fixe (02 30 96 24 64) vu en extrait, à
+    vérifier. B&C et RCF confirmés au stock avec leurs kits de reconing, Neutrik,
+    filtres, quincaillerie : fit maximal. La « commande administration » est réservée
+    aux administrations françaises, le dépôt s''était trompé le 14/07 ; le levier
+    est le « Compte Pro TLHP ». Aucun sponsoring trouvé, mais une galerie « Réalisations
+    », un forum et des kits de sound system APOLLON. Mail de premier contact rédigé
+    : emails/tlhp-premier-contact.md, à envoyer à une adresse directe seulement. Détail
+    dans knowledge/TLHP.md.'
+- date: '2026-09-13'
+  type: mail
+  resume: 'PREMIER CONTACT PARTENARIAT ENVOYE PAR CORENTIN LE 2026-09-13 A 18:32 a
+    info@tlhp.fr (generique, exception decidee le 2026-09-12), verifie dans Gmail.
+    Objet : « Devenir partenaires : un client pro qui agrandit son sound system ».
+    Deja clients pro sous falcohm6tm@outlook.com ; notre sound system tourne deja,
+    nous l''agrandissons. Demande : soutien materiel en categories (HP de grave et
+    moteurs, connectique et cablage, quincaillerie de caisson, kits de reconing),
+    conditions preferentielles au-dela du tarif pro ou dotation partielle. Volume
+    : 4 caissons fermes cette annee, une quinzaine sur deux ans, une vingtaine de
+    HP et moteurs. Contreparties : documentation pour leur galerie et leur forum,
+    marquage sur les caissons. Dossier de partenariat joint, regenere le 2026-09-13
+    sans amplification ni DSP.'
+- date: '2026-09-17'
+  type: relance
+  resume: 'RELANCE ENVOYEE PAR CORENTIN LE 2026-09-17 PAR LE FORMULAIRE DU SITE TLHP,
+    connecte au compte pro falcohm6tm@outlook.com, objet « Commande future », dossier
+    de partenariat joint. Texte de emails/tlhp-formulaire-relance.md, avec une contrepartie
+    ajoutee par Corentin : TLHP present sur les affiches de nos evenements (version
+    exacte, « tous » ou non, non confirmee), en plus du marquage sur les caissons
+    et de la documentation du build. Rappelle le mail du 2026-09-13 et l''orientation
+    de B&C vers ses distributeurs.'
 events: []
 next_action:
-  what: ''
-  due: ''
-notes: 'L''e-mail info@toutlehautparleur.com a été lu sur la page « distribution »
-  de PHL Audio (fabricant dont TLHP est le distributeur officiel), qui l''affiche
-  en clair, le site de TLHP lui-même bloque la lecture automatisée (HTTP 403). Une
-  adresse contact@toutlehautparleur.com circule aussi sur des annuaires mais N''A
-  PAS pu être lue sur une page : non reprise ici. Deux adresses TLHP apparaissent
-  selon les sources (Bourgbarré 35230 et Vern-sur-Seiche 35770) : celle retenue est
-  le siège tel qu''indiqué par PHL et par Oberton (2 rue des Fermes Gauloises, 35230
-  Bourgbarré). Oberton les désigne comme distributeur France/Monaco/Espagne/Italie,
-  aucun distributeur Benelux chez Oberton, donc TLHP est aussi la porte d''entrée
-  logique pour cette marque. À CREUSER : la page « commande administration » (procédure
-  pour structures publiques/associatives) confirme qu''ils savent facturer une entité
-  non commerciale, argument à utiliser dans l''approche.'
+  what: 'MAIL DU 2026-09-13 ET FORMULAIRE DU 2026-09-17 ENVOYES. Attendre. La reponse
+    peut arriver sur falcohm6tm@outlook.com (compte client) : y regarder aussi. Sans
+    nouvelles au 2026-10-01, derniere relance courte depuis Outlook, puis on arrete.
+    VIGILANCE : les affiches d''evenements ont ete offertes en contrepartie ; en negociation,
+    les rapporter a la valeur d''environ 800 EUR par evenement (data/visibility-rates.yaml).'
+  due: '2026-10-01'
+notes: 'SITE EN 403 : toutes les pages du site TLHP ont été lues en extraits de moteur,
+  jamais ouvertes. Avant de citer un chiffre ou une condition à TLHP, l''ouvrir dans
+  un navigateur.
+
+  COMMANDE ADMINISTRATION : réservée aux administrations publiques françaises (mandat
+  DGFiP, paiement à 30 jours, bon de commande cacheté). Une ASBL belge n''y entre
+  pas. L''argument noté le 14/07 (« ils savent facturer une entité non commerciale
+  ») tombe.
+
+  COMPTE PRO : activation sur demande, « special prices per quantity ». CGV du 05/06/2026
+  : TVA sur le bon de commande, puis hors TVA sur facture après validation du numéro
+  intracommunautaire. À confirmer avec le statut TVA de l''ASBL avant de s''en prévaloir.
+
+  LIVRAISON BELGIQUE : oui, frais selon transporteur, simulateur dans le panier, paiement
+  en quatre fois ouvert à la Belgique. Montant des frais : non trouvé.
+
+  NE PAS UTILISER : contact@toutlehautparleur.com (annuaire tiers, non lu sur une
+  page), le 02 23 27 65 99 (fiche communale de Vern-sur-Seiche, ancien site, probablement
+  périmée), le 0892 (surtaxé). Ancien site : 10 rue du Passavent, 35770 Vern-sur-Seiche,
+  encore dans les annuaires B&C et de la commune.
+
+  PHL AUDIO (fabricant dont TLHP est le distributeur) : nouvelle société depuis 2023,
+  président Yoann Flavignard, contact@phlaudio.com sans nom, pas de vente directe.
+  Hors nomenclature : ne pas écrire.
+
+  ADRESSE : info@tlhp.fr, generique, retenue par exception le 2026-09-12 (voir next_action).
+  COMPTE PRO : l''ASBL l''a DEJA (compte falcohm6tm@outlook.com, Corentin 2026-09-11).
+  Les lignes ci-dessus sur l''activation du compte pro datent de la recherche du 2026-09-09
+  et ne sont plus une etape a faire.'

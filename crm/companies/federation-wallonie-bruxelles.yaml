@@ -13,7 +13,7 @@ persona: institution
 categories:
 - culture_funding
 - public_funding
-status: lead
+status: sent
 phase: 2
 tags:
 - institution
@@ -66,9 +66,11 @@ ask:
 
     ATTENTION : « 7 concerts par an » ne correspond a AUCUNE des deux voies. La voie
     A compte les concerts d''une seule edition, la voie B compte 18 artistes sur l''annee.
-    Avec 10 a 15 dates par an, la voie B est probablement la plus accessible, et un
-    evenement a trois scenes comme Shadow satisfait sans doute la voie A a lui seul.
-    A COMPTER.
+    Avec 6 a 10 dates organisees par an (precision de Corentin du 2026-09-09, le «
+    10-15 » de data/stats.yaml compte aussi les prestations) et plusieurs artistes
+    par date, la voie B (18 artistes sur une saison) reste probablement accessible,
+    et un evenement a trois scenes comme Shadow satisfait sans doute la voie A a lui
+    seul. A COMPTER, date par date, artiste par artiste.
 
     Subvention de minimum 5 000 EUR, versee en une fois sous 6 000 EUR. Pieces : formulaire
     en ligne, budget previsionnel .xls, grille de programmation .docx, comptes et
@@ -89,6 +91,21 @@ sponsorship_history:
     l'organisation d'un festival de musique et les charges d'une année/saison de concerts
   url: https://creationartistique.cfwb.be/musiques/aides-musiques/aides-aux-festivals-lieux-de-diffusion-et-a-lorganisation-de-concerts
   retrieved_on: 2026-07-14
+- what: 'Session festivals du 25 mars 2025 (PDF des avis de la Commission) : Arty
+    Farty Bruxelles, Abrupt Festival (électronique), 20 000 EUR sur 40 000 demandés
+    ; Fleur Sauvage, La Nature Festival (techno en forêt), 16 000 EUR ; Bear Rock
+    Live, Bear Rock & Electro Festival, 10 000 EUR. Les refus électro de la même session
+    (Hyperlien, DNB Sewers, FCKNYE) tombent sur les critères rayonnement et budget,
+    pas sur l''esthétique.'
+  url: https://www.culture.be/administration/gouvernance-culturelle/commissions-d-avis/commission-davis-des-musiques/
+  retrieved_on: '2026-09-09'
+- what: 'Cadastre des subventions FWB 2024 et 2025 : Listen asbl (Listen Festival,
+    électronique) en soutien structurel, 51 000 + 10 027 EUR en 2024 ; Dark Side asbl
+    (Le Zik-Zak, Ittre, Brabant wallon) 17 000 + 3 750 EUR en 2024, puis 14 875 +
+    3 000 EUR d''équipement en 2025. Le Brabant wallon est la province la moins dotée
+    du réseau pop, rock, électro (Bilan 2023, p. 25).'
+  url: https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2024/
+  retrieved_on: '2026-09-09'
 contacts:
 - name: Diane Dernouchamps
   role: Service des Musiques, Secteurs des Musiques électroniques, du Jeune public
@@ -131,6 +148,20 @@ contacts:
   retrieved_on: 2026-07-14
   evidence: Sophie Millecamps - Directrice du Service des Musiques f.f. / +32(0)2/413.21.59
     / sophie.millecamps@cfwb.be
+- name: Alix Dehin
+  role: Cabinet de la Ministre-Présidente Elisabeth Degryse, Conseillère Musique et
+    dossiers transversaux culture
+  email: alix.dehin@gov.cfwb.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://degryse.cfwb.be/home/equipe/culture.html
+  retrieved_on: '2026-09-09'
+  evidence: 'Page « Culture » de l''équipe du cabinet : Alix Dehin, « Conseillère
+    Musique et dossiers transversaux culture », ligne « alix.dehin@gov.cfwb.be ».
+    Cabinet : Place Surlet de Chokier 15-17, 1000 Bruxelles, 02 801 74 11. NE PAS
+    SOLLICITER pour un dossier en cours d''instruction : le cabinet décide en dernier
+    ressort, ce n''est pas une porte d''entrée.'
 inbound_channels:
 - type: portal
   url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
@@ -152,15 +183,16 @@ scoring:
 
     '
 deadlines:
-- what: Aides aux projets d'artistes et bourses, session d'automne (dernière date
-    publiée du cycle en cours)
-  date: '2026-09-05'
-  url: https://creationartistique.cfwb.be/musiques/aides-musiques/calendrier-des-depots-en-musique
 - what: 'DOSSIER PRINCIPAL, Aides aux projets ponctuels de festivals, lieux de diffusion
-    et organisation de concerts. Récurrence annuelle observée : 5 février (2026 confirmé).
-    La date 2027 n''était PAS publiée au 14/07/2026 : à reconfirmer sur le calendrier
-    officiel dès la rentrée.'
+    et organisation de concerts. Date 2027 CONFIRMÉE le 2026-09-09 sur le calendrier
+    officiel : « Date limite d''envoi : 5 février 2027 ». Commission 4 à 6 semaines
+    après, décision jusqu''à 5 mois après la date butoir, paiement ensuite : prévoir
+    la trésorerie.'
   date: '2027-02-05'
+  url: https://creationartistique.cfwb.be/musiques/aides-musiques/calendrier-des-depots-en-musique
+- what: 'Aides aux projets d''artistes et bourses (pour nos résidents, pas pour l''ASBL)
+    : 5 avril 2027, puis 5 septembre 2027.'
+  date: '2027-04-05'
   url: https://creationartistique.cfwb.be/musiques/aides-musiques/calendrier-des-depots-en-musique
 sources:
 - url: https://www.federation-wallonie-bruxelles.be/demarche/4293-demander-une-subvention-pour-un-festival-un-lieu-de-diffusion-ou-lorganisation-de-concerts
@@ -171,6 +203,22 @@ sources:
   retrieved_on: 2026-07-14
 - url: https://creationartistique.cfwb.be/musiques
   retrieved_on: 2026-07-14
+- url: https://creationartistique.cfwb.be/demarche/4293_demander_une_subvention_pour_un_festival_un_lieu_de_diffusion_ou_lorganisation_de_concerts
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/demarche/4333_demander_une_subvention_pluriannuelle_pour_un_festival_un_lieu_de_diffusion_ou_lorganisation_de_concerts
+  retrieved_on: '2026-09-09'
+- url: https://creationartistique.cfwb.be/fileadmin/sites/creart/uploads/Document/A_propos/Musique/Bilans/Rapport_activite_musique-2023.pdf
+  retrieved_on: '2026-09-09'
+- url: https://www.culture.be/administration/gouvernance-culturelle/commissions-d-avis/commission-davis-des-musiques/
+  retrieved_on: '2026-09-09'
+- url: https://www.odwb.be/explore/dataset/fwb-cadastre-des-subventions-2024/
+  retrieved_on: '2026-09-09'
+- url: https://degryse.cfwb.be/home/equipe/culture.html
+  retrieved_on: '2026-09-09'
+- url: https://archive.pfwb.be/1000000020d90cd
+  retrieved_on: '2026-09-09'
+- url: https://www.educationpermanente.cfwb.be/reconnaissance-en-education-permanente/demander-une-reconnaissance-en-ep
+  retrieved_on: '2026-09-09'
 documents:
 - output/Federation-Wallonie-Bruxelles/Federation-Wallonie-Bruxelles-Partnership-2026.pdf
 - output/Federation-Wallonie-Bruxelles/Federation-Wallonie-Bruxelles-OnePager-2026.pdf
@@ -206,22 +254,78 @@ interactions:
     par une source competente AVANT le depot : c''est exactement l''objet du conseil
     individuel Musiscope, gratuit, administratif juridique et financier, demande au
     Conseil de la Musique le 2026-09-04.'
+- date: '2026-09-09'
+  type: note
+  resume: 'RECHERCHE APPROFONDIE du 2026-09-09, a la demande de Corentin. Date 2027
+    confirmee (5 fevrier). Montants 2025 aux festivals electro : Abrupt 20 000, La
+    Nature 16 000, Bear Rock & Electro 10 000 EUR ; refus Hyperlien, DNB Sewers, FCKNYE
+    sur rayonnement et budget, pas sur l''esthetique. Organigramme complet et cabinet
+    (Alix Dehin, conseillere Musique) avec adresses prouvees. Education permanente
+    : moratoire, rien avant 2028. Equipement : demarche 3935 reservee aux structurels
+    et suspendue. Le Brabant wallon est la province la moins dotee du reseau pop rock
+    electro. Deux questions de recevabilite a poser par ecrit a Diane Dernouchamps
+    (DJ set = concert ? definition artiste FWB ?), la question du defraiement volontaire
+    a Musiscope d''abord. Tout est dans knowledge/Federation Wallonie-Bruxelles.md.'
+- date: '2026-09-09'
+  type: note
+  resume: 'BROUILLON GMAIL CREE le 2026-09-09 dans contact@falcohmsystem.com (id r4101876329226403339)
+    : a diane.dernouchamps@cfwb.be, seule destinataire, objet « Trois questions de
+    recevabilite avant un depot du 5 fevrier 2027 ». Sans piece jointe : le dossier
+    viendra avec le depot. Texte : emails/fwb-musiques-questions-recevabilite.md.
+    Des l''envoi : python -m kit --log federation-wallonie-bruxelles mail "..." --status
+    sent --date <ISO>.'
+- date: '2026-09-09'
+  type: note
+  resume: 'PRECISION DE CORENTIN le 2026-09-09 : presque toutes nos dates se tiennent
+    a La Fabriek, a Bruxelles (salle que nous n''exploitons pas). Le brouillon Gmail
+    et le texte dans emails/ ont ete corriges le meme jour : on n''ecrit plus « dans
+    des lieux differents » ni « sans lieu fixe » au sens itinerant, mais « la plupart
+    a La Fabriek, a Bruxelles ». Consequence : la voie « organisateur de concerts
+    » (18 artistes sur une saison) devient la plus naturelle pour la FWB, et l''infrastructure
+    a declarer pour une labelisation est celle de La Fabriek (jauge, regie).'
+- date: '2026-09-09'
+  type: note
+  resume: 'PRECISION DE CORENTIN le 2026-09-09 : en organisation pure, Gazmatek tient
+    entre 6 et 10 dates par an ; le « 10-15 » de data/stats.yaml compte aussi les
+    prestations et locations du sound system Falc''ohm. Pour une institution qui finance
+    des concerts, le chiffre a ecrire est 6 a 10. Brouillon Gmail, texte dans emails/
+    et fiches knowledge corriges le meme jour ; data/stats.yaml porte desormais les
+    deux chiffres (events_organised_per_year, deployments_per_year).'
+- date: '2026-09-09'
+  type: mail
+  resume: 'ENVOYE par Corentin le 2026-09-09 a 17:38 (15:38 UTC), fil Gmail 1a086cb9236e5036,
+    a diane.dernouchamps@cfwb.be seule. Objet « Trois questions de recevabilite avant
+    un depot du 5 fevrier 2027 ». Sans piece jointe. Trois questions : DJ set = concert
+    ? definition de l''artiste FWB ? festival ou organisateur de concerts pour une
+    structure qui tient la plupart de ses 6 a 10 dates a La Fabriek ? Question fermee
+    finale. Relance J+10 le 19/09 si silence, courte, sur une seule des trois questions.'
+- date: '2026-09-10'
+  type: note
+  resume: 'MESSAGE DU 2026-09-09 NON DISTRIBUE A CE JOUR. Gmail signale le 2026-09-10
+    un refus TEMPORAIRE du serveur de la FWB (seg-01.etnic.be, ETNIC) : « 554 Your
+    access to this mail system has been rejected due to poor reputation of a domain
+    used in message transfer », statut 4.7.1. Gmail reessaie jusqu''au 2026-09-12
+    vers 17:40. L''ADRESSE N''EST PAS EN CAUSE : le meme refus frappe trois adresses
+    cfwb.be differentes le meme jour. C''est la REPUTATION de notre domaine qui est
+    en cause, pas son authentification : SPF, DKIM et DMARC (p=quarantine) sont en
+    place sur falcohmsystem.com, verifie le 2026-09-11.'
+- date: '2026-09-12'
+  type: note
+  resume: 'ECHEC DEFINITIF le 2026-09-12 (Delivery Status Notification, Failure) pour
+    diane.dernouchamps@cfwb.be : meme refus 554 du serveur ETNIC pour reputation de
+    domaine. Le message du 2026-09-09 n''a JAMAIS ete distribue. Les adresses ne sont
+    pas en cause.'
 events: []
 next_action:
-  what: 'DOSSIER LE PLUS RENTABLE DU FICHIER, depot le 2027-02-05. Deux questions
-    decident de sa recevabilite, et aucune ne porte sur l''argent. (1) LE TIERS D''ARTISTES
-    FWB. Il faut au moins 7 concerts dont un tiers d''artistes de la Federation. Or
-    la programmation connue de Gazmatek fait la part belle aux collectifs francais
-    (SP23, Heretik, Teknoise). RECOMPTER la derniere edition artiste par artiste :
-    combien sont domicilies en Wallonie ou a Bruxelles ? C''est le seuil qui risque
-    reellement de bloquer, pas les cachets. (2) LA TRACABILITE COMPTABLE. Le dossier
-    exige « les comptes et bilan de la derniere edition ». Les 20 a 30 000 EUR de
-    cachets doivent donc APPARAITRE dans les comptes, avec contrats, factures, SMart
-    ou declarations. Un cachet paye sans trace ne se prouve pas, et un seuil eliminatoire
-    qui ne se prouve pas est un seuil non atteint. (3) La relecture par le Conseil
-    de la Musique, demandee le 2026-09-04, sert exactement a valider ces deux points
-    avant de deposer.'
-  due: '2026-10-15'
+  what: 'RENVOI PRET : brouillon Gmail r-5426140120835108564, SANS DESTINATAIRE, texte
+    identique a celui du 2026-09-09 plus une ligne qui explique le renvoi. A COPIER
+    DANS OUTLOOK et envoyer depuis falcohm6tm@outlook.com a diane.dernouchamps@cfwb.be
+    : depuis contact@, le serveur ETNIC le refusera encore. La signature ne porte
+    plus le domaine falcohmsystem.com, par prudence. Puis demander une revision de
+    reputation de falcohmsystem.com sur talosintelligence.com. ENSUITE, en interne
+    : recompter la derniere edition artiste par artiste, tracabilite des cachets,
+    defraiement volontaire a poser d''abord a Musiscope.'
+  due: '2026-09-15'
 notes: 'ÉLIGIBILITÉ, conditions cumulatives (fiche officielle mise à jour le 27 avril
   2026) : (1) personne morale établie en FWB [OK, Genappe] ; (2) AUCUN contrat-programme
   ni contrat de création/service/diffusion en cours [OK] ; (3) développer des activités

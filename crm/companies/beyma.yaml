@@ -7,7 +7,7 @@ sector: audio
 persona: fabricant-audio
 categories:
 - audio_components
-status: lead
+status: paused
 phase: 1
 tags: []
 score: 36
@@ -89,10 +89,21 @@ documents:
 - output\Acustica-Beyma-S-L\Acustica-Beyma-S-L-Partnership-2026.pdf
 - output\Acustica-Beyma-S-L\Acustica-Beyma-S-L-OnePager-2026.pdf
 - output\Acustica-Beyma-S-L\email.md
-interactions: []
+interactions:
+- date: '2026-09-11'
+  type: note
+  resume: 'MIS EN PAUSE sur decision de Corentin le 2026-09-11. Leur seule demande
+    portait sur leurs propres haut-parleurs, or nos transducteurs sont arretes par
+    les plans : B&C et RCF, sans substitution possible (data/bom.yaml, driver_substitution,
+    arbitrage du 2026-09-09). Aucun contact n''avait ete pris.'
 events: []
 next_action:
-  what: ''
+  what: >-
+    EN PAUSE, decision de Corentin du 2026-09-11. Leur seule demande portait sur leurs propres
+    haut-parleurs, et nos transducteurs sont arretes par les plans : B&C et RCF, sans substitution
+    possible (data/bom.yaml, driver_substitution). Le kick bin partira tres probablement sur la meme
+    marque que le reste du parc. REPRISE : uniquement si un futur modele est dessine autour de leurs
+    transducteurs. Aucune date, a revoir au choix du kick bin.
   due: ''
 notes: 'La page "our-team" ne liste aucune personne nommée malgré son titre : seuls
   le téléphone et l''e-mail générique y sont répétés. Horaires lus : "08:00 - 15:00

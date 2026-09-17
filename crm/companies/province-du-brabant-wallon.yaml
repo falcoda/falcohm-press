@@ -32,7 +32,14 @@ profile:
     10.000 €
   - Place aux jeunes, contrepartie communale (1 € commune = 1 € Province) pour événements
     10-20 ans, 1.000 à 5.000 €
-  - Appel à projets pour les associations actives en éducation permanente
+  - Place aux Artistes, programmation estivale portée par les communes (juillet à
+    septembre)
+  - Assurance volontariat gratuite (RC, protection juridique, dommages corporels),
+    jusqu'à 200 journées de volontariat par an, financée par la Loterie Nationale
+  - Centre de prêt de matériel (chapiteaux jusqu'à 15x30 m, podiums, tentes, tables),
+    ouvert aux ASBL contre une cotisation annuelle (23 € liste A, 284 € liste B)
+  - Appel à projets éducation permanente, réservé aux associations reconnues par la
+    FWB (non éligible)
   size:
     employees: ''
     revenue: ''
@@ -54,17 +61,26 @@ why_us: 'L''ASBL est domiciliée à Genappe et Gazmatek se déroule sur le terri
 ask:
   type:
   - financial
-  detail: 'DEUX dispositifs à jouer en parallèle. (1) « Aide à l''organisation d''événements
-    culturels », Catégorie 1 (public > 1.000 ET budget > 50.000 € ET caractère supracommunal)
-    : subvention supérieure à 1.500 € avec un plafond de 10.000 €. Une seule demande
-    par an, au minimum 2 mois avant le début de l''événement, par courriel à culture.loisirs.citoyennete@brabantwallon.be
-    avec le formulaire PDF et ses annexes. (2) « Place aux jeunes » : chaque euro
-    investi par la COMMUNE est doublé par le Brabant wallon, uniquement pour des cachets
-    artistiques et leurs besoins en logistique et technique, minimum 1.000 €, plafond
-    5.000 €. Le projet est porté par la commune mais « il peut être porté par une
-    association locale » et doit viser les 10-20 ans : à monter avec Genappe.
-
-    '
+  - loan
+  - services
+  detail: 'QUATRE dispositifs, dans l''ordre du plus simple au plus lourd. (1) ASSURANCE
+    VOLONTARIAT, gratuite : demande d''agrément « au plus tard 6 semaines avant le
+    début de l''activité », décision du Collège sous 6 semaines, jusqu''à 200 journées
+    de volontariat par an. À demander pour chaque date, à commencer par Halloween
+    Shadow du 31/10 (dépôt avant le 19/09). (2) CENTRE DE PRÊT : cotisation annuelle
+    (23 € liste A, matériel léger ; 284 € liste B, matériel lourd), formulaire en
+    ligne, chapiteaux jusqu''à 15x30 m et podiums confirmés, le reste à vérifier au
+    catalogue. (3) « Aide à l''organisation d''événements culturels », Catégorie 1
+    (public > 1.000 ET budget > 50.000 € ET caractère supracommunal) : subvention
+    supérieure à 1.500 € avec un plafond de 10.000 €. Une seule demande par an, au
+    minimum 2 mois avant le début de l''événement, par courriel à culture.loisirs.citoyennete@brabantwallon.be
+    avec le formulaire PDF (refait en 2026, à relire) et ses annexes ; examen par
+    ordre d''arrivée, donc dépôt début janvier 2027. (4) « Place aux jeunes » : chaque
+    euro investi par la COMMUNE est doublé par le Brabant wallon, uniquement pour
+    des cachets artistiques et leurs besoins en logistique et technique, minimum 1.000
+    €, plafond 5.000 €, public 10-20 ans, « deejaying » cité parmi les disciplines
+    ; porté par la commune, à monter avec Genappe (mail à Michaël Rouffiange parti
+    le 04/09). Place aux Artistes (été) passe aussi par la commune.'
   realistic_value_eur: 8000
 values:
 - Accès à la culture sur le territoire
@@ -84,7 +100,53 @@ sponsorship_history:
     locale
   url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
   retrieved_on: 2026-07-14
+- what: 'Place aux Jeunes 2026 (communiqué provincial du 21 août 2026) : concerts,
+    hip hop, breakdance, skate, graffiti et ATELIERS DJ. La Province finance déjà
+    du deejaying pour les 10-20 ans. Benjamin Goes : « nous voulons offrir aux jeunes
+    du Brabant wallon des occasions de se retrouver, de découvrir de nouvelles passions
+    et de développer leurs talents ».'
+  url: https://www.info-lux.com/place-aux-jeunes-brabant-wallon-2026/pays/belgique/wallonie/province-du-brabant-wallon/
+  retrieved_on: '2026-09-09'
+- what: 'Festivals soutenus (sources tierces, montants non publiés) : Unisound Festival
+    (Court-Saint-Étienne, inclusif), BW Night Fever (Wavre, tribute), Inc''Rock puis
+    Belgofest (Incourt, pop-rock), Soli''Days (LLN, caritatif), Musiq3 Brabant wallon
+    (classique). Aucun festival électro ou techno trouvé. Montants officiels : Place
+    aux Artistes « 350 000€ engagés en 2021 », Théâtre Jean Vilar 1 000 000 EUR, La
+    Sucrerie 7 000 000 EUR.'
+  url: https://www.brabantwallon.be/les-grands-dossiers/la-culture-pour-tous-et-en-tous-lieux-du-brabant-wallon
+  retrieved_on: '2026-09-09'
 contacts:
+- name: Benjamin Goes
+  role: Député provincial (Les Engagés) en charge de la Culture, du Tourisme, de la
+    Jeunesse, des Affaires sociales, de la Santé, de la Petite enfance, du Logement
+    et de la Mobilité
+  email: benjamin.goes@brabantwallon.be
+  email_status: verified_public
+  linkedin: https://be.linkedin.com/in/benjamin-goes-031ba42
+  phone: '+32494927011'
+  source_url: https://brabantwallon.lesengages.be/visage/benjamin-goes/
+  retrieved_on: '2026-09-09'
+  evidence: 'Page Les Engagés Brabant wallon, ligne « Email: benjamin.goes@brabantwallon.be
+    ». Fonctions recopiées de la même page : « Député provincial en charge de : Culture,
+    Tourisme, Jeunesse, Affaires sociales, Santé, Petite enfance, Vieillissement actif
+    et accompagnement des aînés, Logement et Mobilité. » Téléphone lu sur la page
+    officielle du Collège (le-college-provincial-1), où l''e-mail est protégé par
+    Cloudflare. RÉSERVE : la page du parti affiche une adresse postale de gabarit
+    (« Rue du Commerce 123, 1000 Bruxelles ») ; DÉCODER le lien protégé de la page
+    officielle dans un navigateur avant tout envoi.'
+- name: Nancy Schroeders
+  role: Directrice d'administration de la culture, du sport et du tourisme
+  email: culture@brabantwallon.be
+  email_status: generic
+  linkedin: ''
+  phone: 010/23.61.56
+  source_url: https://www.brabantwallon.be/le-brabant-wallon/administration/qui-est-qui/organigramme
+  retrieved_on: '2026-09-09'
+  evidence: 'Nom et fonction lus sur l''organigramme officiel. Coordonnées lues dans
+    le communiqué provincial du 21 août 2026 (Place aux Jeunes 2026) reproduit par
+    info-lux.com : « Nancy Schroeders », « Directrice d''administration de la culture,
+    du sport et du tourisme », « 010/23.61.56 », « culture@brabantwallon.be ». Adresse
+    de service, pas nominative.'
 - name: ''
   role: Service de la culture, Direction d'administration de la culture, du sport
     et du tourisme
@@ -136,14 +198,41 @@ deadlines:
   url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
 - what: 'Place aux jeunes, activités éligibles entre le début des vacances d''été
     et la fin des vacances de printemps de l''année suivante. Aucune date de clôture
-    publiée au 14/07/2026 : à initier avec Genappe dès la rentrée.'
-  date: '2026-09-01'
+    publiée (vérifié le 2026-09-09). Porté par la commune : mail à Genappe parti le
+    04/09, relance le 14/09. Point de contrôle.'
+  date: '2026-10-01'
   url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
 sources:
 - url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
   retrieved_on: 2026-07-14
 - url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
   retrieved_on: 2026-07-14
+- url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/assurance-volontariat
+  retrieved_on: '2026-09-09'
+- url: https://www.brabantwallon.be/bw/vivre-se-divertir/culture-loisirs/centre-de-pret-1/procedure-demande-de-pret-de-materiel/
+  retrieved_on: '2026-09-09'
+- url: https://www.brabantwallon.be/bw/vivre-se-divertir/culture-loisirs/centre-de-pret-1/liste-du-materiel-1/
+  retrieved_on: '2026-09-09'
+- url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/appel-a-projets-a-destination-des-associations-actives-en-matiere-deducation-permanente
+  retrieved_on: '2026-09-09'
+- url: https://www.brabantwallon.be/les-grands-dossiers/la-culture-pour-tous-et-en-tous-lieux-du-brabant-wallon
+  retrieved_on: '2026-09-09'
+- url: https://www.brabantwallon.be/vivre-en-bw/culture/culture
+  retrieved_on: '2026-09-09'
+- url: https://www.brabantwallon.be/vivre-en-bw/jeunesse-et-sport/jeunesse-et-sport
+  retrieved_on: '2026-09-09'
+- url: https://www.brabantwallon.be/le-brabant-wallon/vie-politique/le-college-provincial/le-college-provincial-1
+  retrieved_on: '2026-09-09'
+- url: https://www.brabantwallon.be/le-brabant-wallon/administration/qui-est-qui/organigramme
+  retrieved_on: '2026-09-09'
+- url: https://brabantwallon.lesengages.be/visage/benjamin-goes/
+  retrieved_on: '2026-09-09'
+- url: https://www.info-lux.com/place-aux-jeunes-brabant-wallon-2026/pays/belgique/wallonie/province-du-brabant-wallon/
+  retrieved_on: '2026-09-09'
+- url: https://www.ccbw.be/ccbw/notre-equipe/
+  retrieved_on: '2026-09-09'
+- url: https://le38.be/a-propos/notre-equipe/
+  retrieved_on: '2026-09-09'
 documents:
 - output/Province-du-Brabant-wallon/Province-du-Brabant-wallon-Partnership-2026.pdf
 - output/Province-du-Brabant-wallon/Province-du-Brabant-wallon-OnePager-2026.pdf
@@ -151,13 +240,42 @@ documents:
 - output\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme-Partnership-2026.pdf
 - output\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme-OnePager-2026.pdf
 - output\Province-du-Brabant-wallon-Direction-d-administration-de-la-culture-du-sport-et-du-tourisme\email.md
-interactions: []
+interactions:
+- date: '2026-09-09'
+  type: note
+  resume: 'RECHERCHE APPROFONDIE du 2026-09-09, en deux volets, a la demande de Corentin.
+    NOUVEAU : assurance volontariat gratuite (RC, protection juridique, dommages corporels,
+    200 journees par an, agrement 6 semaines avant l''activite, decision du College
+    sous 6 semaines) ; centre de pret ouvert aux ASBL (cotisation 23 EUR liste A,
+    284 EUR liste B, chapiteaux jusqu''a 15x30 m, podiums). Les deux dispositifs connus
+    n''ont pas change, le formulaire culture a ete refait en 2026. Education permanente
+    : reserve aux reconnus FWB, non eligible. QUI DECIDE : Benjamin Goes (Les Engages),
+    depute provincial culture et jeunesse ; Nancy Schroeders, directrice d''administration
+    culture, sport, tourisme ; le pret de materiel releve de Sophie Keymolen. Aucun
+    festival electro ou techno soutenu trouve ; Place aux Jeunes 2026 finance des
+    ateliers DJ. CCBW (Francoise Kolen, Jessica De Pelsmaeker) et Le 38 a Genappe
+    (Emilie Lavaux) reperes comme relais. Tout est dans knowledge/Province du Brabant
+    wallon.md.'
 events: []
 next_action:
-  what: Vérifier que Falc'ohm ne touche aucune subvention provinciale récurrente ≥
-    2.000 € (critère d'exclusion), puis préparer le dossier Catégorie 1 pour dépôt
-    début janvier
-  due: '2026-12-01'
+  what: 'DANS L''ORDRE. ASSURANCE VOLONTARIAT ECARTEE par Corentin (rappel du 2026-09-16)
+    : le dispositif vise les stages et activites encadrees, pas un evenement comme
+    Halloween Shadow ; ne plus la proposer. (2) CENTRE DE PRÊT : lire le catalogue
+    2026-07 et le règlement (PDF non ouverts), décider liste A ou B, payer la cotisation,
+    réserver via le formulaire en ligne. (3) Vérifier que Falc''ohm ne touche aucune
+    subvention provinciale récurrente de 2.000 € ou plus (exclusion), puis relire
+    le formulaire 2026 de l''aide aux événements culturels et préparer le dossier
+    Catégorie 1 pour un dépôt début janvier 2027, examen par ordre d''arrivée. (4)
+    Place aux jeunes et Place aux Artistes : via la commune de Genappe, relance de
+    Michaël Rouffiange le 14/09. (5) LE DÉPUTÉ : Benjamin Goes (culture et jeunesse).
+    Décoder son adresse sur la page officielle du Collège (protégée par Cloudflare,
+    la version du site de son parti est à confirmer), puis, seulement après le premier
+    dépôt administratif, une lettre de présentation sans demande, qui reprend ses
+    mots sur Place aux Jeunes (« découvrir de nouvelles passions et développer leurs
+    talents ») et le monde associatif. Pas avant : un député sollicité sans dossier
+    en cours n''a rien à faire de la demande. Détail dans knowledge/Province du Brabant
+    wallon.md.'
+  due: '2026-10-01'
 notes: 'MONTANTS (Aide événements culturels), Cat. 1 : public > 1.000 pers. ET budget
   > 50.000 € ET caractère supra local → subvention > 1.500 €, plafond 10.000 €. Cat.
   2 : public > 500 ET budget > 30.000 € → plafond 5.000 €. Cat. 3 : public ≥ 100 ET

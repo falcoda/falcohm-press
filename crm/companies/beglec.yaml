@@ -10,7 +10,7 @@ persona: fournisseur-technique
 categories:
 - amplification
 - distributors
-status: sent
+status: lost
 phase: 1
 tags: []
 score: 34
@@ -71,11 +71,11 @@ values:
 sponsorship_history: []
 contacts:
 - name: Kevin David
-  role: Commercial Wallonie, Bruxelles et Luxembourg
+  role: Sales representative Brussels, Wallonia and Luxembourg
   email: david.kevin@beglec.com
   email_status: verified_public
   linkedin: ''
-  phone: ''
+  phone: +32 473.505.779
   source_url: https://beglec.com/departments-and-representatives/
   retrieved_on: '2026-07-14'
   evidence: Section « Wallonie, Bruxelles et Luxembourg » → « Kevin David », mailto
@@ -145,14 +145,53 @@ interactions:
     Objet : « Soutien materiel : eclairage, cablage et flightcases ». Demande en categories
     sans citer leurs marques maison : eclairage, cablage et connectique, racks d''amplis
     et flightcases. Amplification exclue (ADmark). Dossier PDF joint.'
+- date: '2026-09-10'
+  type: réponse
+  resume: 'REFUS DEFINITIF, recu le 2026-09-10 a 16:59 de Luc De Bauw, DIRECTEUR,
+    apres transfert interne par ventes@ en urgence haute. Verbatim : « nous ne faisons
+    jamais ce genre de chose. Ce serait une concurrence directe a nos clients prestataires,
+    qui investissent fortement dans notre materiel ». Il nous renvoie vers un de leurs
+    clients pour la location, Kevin David pouvant nous guider. LECON POUR TOUT LE
+    MODULE : un distributeur dont les clients sont des societes de location voit une
+    ASBL qui exploite son propre systeme comme une concurrente de ses clients, pas
+    comme un partenaire. A verifier avant d''ecrire a Amptec, Adam Hall et Penn Elcom.'
+- date: '2026-09-11'
+  type: mail
+  resume: 'ENVOYE PAR CORENTIN LE 2026-09-11 A 11:28, a Luc De Bauw, copie Kevin David
+    et ventes@. Version retouchee par Corentin : remerciement, nous cherchons a acheter
+    de l''eclairage neuf plutot qu''a louer, et la demande d''un revendeur est adressee
+    a Luc De Bauw directement plutot qu''a Kevin.'
+- date: '2026-09-11'
+  type: réponse
+  resume: 'RECU LE 2026-09-11 A 14:34 de Luc De Bauw : « Je laisse la reponse a cette
+    question a Kevin qui connait ses clients beaucoup mieux que moi ! », et un remerciement
+    pour l''interet porte a leurs produits. La question du revendeur en Brabant wallon
+    est donc chez Kevin David.'
+- date: '2026-09-15'
+  type: réponse
+  resume: 'RECU LE 2026-09-15 A 11:29 de Kevin David (Sales representative Brussels,
+    Wallonia and Luxembourg), qui repond a la question du revendeur : « Dans votre
+    zone geographique, il y a pas mal de client avec un compte B2B », As You Wish,
+    SBS, LG Concept, EDS Sonorisation, Arto, Ets Pierards, Global Production, DKE.
+    Il propose de le rappeler au +32 473.505.779 en cas de question.'
+- date: '2026-09-15'
+  type: mail
+  resume: 'ENVOYE PAR CORENTIN LE 2026-09-15 (brouillon r-4626760659906649986) a Kevin
+    David : merci pour la liste, et une question, lesquels de ces clients vendent
+    du neuf et pas seulement de la location.'
+- date: '2026-09-16'
+  type: réponse
+  resume: 'RECU LE 2026-09-16 A 15:22 de Kevin David : « La quasi-totalite des clients
+    presents dans cette liste devraient pouvoir vous revendre du materiel neuf ».
+    Et : si aucune ne convient, « la derniere sur la liste est la mienne » (DKE est
+    donc la societe de Kevin David), a contacter « si possible en dernier lieu pour
+    ne pas gener mes propres clients ».'
 events: []
 next_action:
-  what: 'BROUILLON GMAIL PRET dans contact@falcohmsystem.com (cree le 2026-09-03).
-    IL RESTE A JOINDRE LE PDF : output/Beglec-NV/, le connecteur ne peut pas porter
-    un fichier de 2 Mo. Puis envoyer. FR, Kevin David couvre Wallonie/Bruxelles, c''est
-    l''argument d''ouverture. Des l''envoi : python -m kit --log beglec mail "..."
-    --status sent --date <ISO>.'
-  due: '2026-09-04'
+  what: Plus rien a demander a Beglec. Les revendeurs de la liste de Kevin David vendent
+    quasiment tous du neuf (2026-09-16). DKE, la societe de Kevin David, est a contacter
+    EN DERNIER, a sa demande. Rien ne bouge tant qu'il n'y a pas de liste d'eclairage.
+  due: ''
 notes: 'Aucun e-mail public : la page « general contact » ne propose qu''un formulaire.
   Coordonnées lues : "Beglec NV", "''t Hofveld 2C, B-1702 Groot-Bijgaarden, Belgium"
   (Industriezone ''Gosset''), tél. "+32(0)2/481.70.70", "BTW: BE 0403.103.393". Le

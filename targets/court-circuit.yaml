@@ -1,0 +1,25 @@
+company: Court-Circuit, Fédération des Musiques Actuelles
+persona: institution
+module: institutionnel
+phase: 2
+contact:
+  name: David Dehard
+  role: Direction
+  email: david@courtcircuit.be
+website: https://www.court-circuit.be
+notes: 'Ce n''est ni un financeur ni un fournisseur : c''est la fédération des organisateurs
+  de concerts, et son contrat-programme lui demande de « rassembler également les
+  opérateurs du secteur non-professionnel qui ne bénéficient pas encore de reconnaissance
+  institutionnelle ou ne disposent pas encore d''emplois ». C''est notre description
+  exacte. Seize de ses membres sont des « organisations sans lieu fixe », plusieurs
+  sont techno (Symbiosis, La Nature, Corps et Logis). Pour 25 EUR par an, on entre
+  dans le réseau des salles (Rockerill, Vecteur, Belvédère, KulturA), on accède aux
+  formations son et lumière gratuites pour les membres, aux bourses Lotto de 500 EUR
+  par concert découverte, et surtout on coche « intégration dans les réseaux professionnels
+  », le critère sur lequel le dossier FWB du Service des Musiques nous juge le plus
+  fragile.
+
+  Fiche CRM : crm/companies/court-circuit.yaml
+
+  '
+display_name: Court-Circuit

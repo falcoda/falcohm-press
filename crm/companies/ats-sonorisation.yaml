@@ -1,0 +1,102 @@
+slug: ats-sonorisation
+company: ATS Sonorisation & Éclairage
+aka:
+- ATS
+country: BE
+sector: eclairage
+persona: fournisseur-technique
+categories:
+- lighting
+status: paused
+phase: 1
+tags:
+- occasion
+- belge
+- brabant-wallon
+score: 10
+website: https://www.ats-sonorisation.com
+knowledge: ''
+profile:
+  activity: Location, prestation et vente de matériel son et lumière depuis 1994,
+    à Braine-l'Alleud, environ 15 km de Genappe. Vend du neuf (théâtres, centres culturels,
+    écoles) et de l'occasion (page « Matériel d'occasion »).
+  products:
+  - Éclairage et son neufs
+  - Matériel d'occasion, surtout du son en septembre 2026
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Voisin immédiat, qui vend à la fois du neuf et de l''occasion : c''est le
+  revendeur de proximité que Beglec nous a lui-même indiqué comme canal. Petite structure,
+  où le contact nommé est aussi celui qui répond.'
+ask:
+  type:
+  - material
+  - discount
+  detail: 'Acheter de l''éclairage, neuf ou d''occasion, dans le cadre d''un partenariat,
+    visibilité sur 10 à 15 dates par an en retour. ATTENTION : ATS est aussi prestataire
+    son et lumière en Brabant wallon, donc en partie concurrent. On lui propose une
+    vente, jamais une aide.'
+  public: '- de l''éclairage, neuf ou d''occasion, dans le cadre d''un partenariat.'
+  realistic_value_eur: 0
+values: []
+sponsorship_history: []
+contacts:
+- name: David Vuylsteke
+  role: Contact de la page « Matériel d'occasion »
+  email: info@ats-sonorisation.com
+  email_status: generic
+  linkedin: ''
+  phone: +32 (0)475 741 641
+  source_url: https://www.ats-sonorisation.com/occasion
+  retrieved_on: '2026-09-13'
+  evidence: 'Page « Matériel d''occasion », lue par extraction : « David Vuylsteke
+    », « Avenue Albert 1er 15, 1420 Braine-l''Alleud », « +32 (0)475 741 641 », «
+    info@ats-sonorisation.com ». Adresse générique, mais c''est celle que la page
+    associe à son nom.'
+inbound_channels: []
+scoring:
+  business_fit: 6
+  partnership_probability: 4
+  impact_if_successful: 4
+  rationale: 'Fit moyen : ils vendent de la lumière neuve, mais leur occasion est
+    aujourd''hui du son. Probabilité moyenne-basse : petite structure où l''on parle
+    au patron, mais un prestataire voisin a peu d''intérêt à équiper un autre prestataire
+    du même territoire. Impact limité : un revendeur local, pas un flux.'
+deadlines: []
+sources:
+- url: https://www.ats-sonorisation.com/
+  retrieved_on: '2026-09-13'
+- url: https://www.ats-sonorisation.com/occasion
+  retrieved_on: '2026-09-13'
+documents:
+- emails/ats-sonorisation-orientation.md
+interactions:
+- date: '2026-09-13'
+  type: mail
+  resume: 'MAIL D''ORIENTATION ENVOYE PAR CORENTIN LE 2026-09-13 A 18:31 a info@ats-sonorisation.com,
+    adresse a David Vuylsteke, en francais, verifie dans Gmail. Objet : « Achat d''eclairage
+    : a qui m''adresser ? ». Trois lignes : les deux marques, achat d''eclairage neuf
+    ou d''occasion dans le cadre d''un partenariat avec visibilite sur 10 a 15 dates
+    par an, et une seule question : est-ce lui, ou quelqu''un d''autre. Aucun dossier.'
+- date: '2026-09-16'
+  type: réponse
+  resume: 'RECU LE 2026-09-16 A 15:47 de David Vuylsteke, depuis david.vuylsteke@gmail.com
+    (sa signature : « Les emails destines a ATS Sonorisation sont desormais centralises
+    sur cette adresse »). Verbatim : « Je ne fonctionne pas sur base de partenariat
+    contre visibilite : je vends du materiel, neuf ou d''occasion, a des tarifs corrects
+    selon les opportunites du moment ». Il propose un prix sur une liste precise (nombre
+    d''appareils, lyres, wash, PAR). TVA BE0611881245. MIS EN PAUSE par Corentin le
+    2026-09-16 : on laisse tomber pour le moment. Reprise possible le jour ou une
+    liste d''eclairage existe, comme simple achat.'
+events: []
+next_action:
+  what: 'EN PAUSE (Corentin, 2026-09-16). David Vuylsteke ne fait pas de partenariat,
+    il vend a bon prix sur liste. Reprise seulement comme simple achat, une fois une
+    liste d''eclairage etablie (data/bom.yaml, todo). Adresse a utiliser : david.vuylsteke@gmail.com.'
+  due: ''
+notes: 'Langue : français. Voisin et en partie concurrent : ne rien partager de notre
+  activité de prestation.'

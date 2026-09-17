@@ -24,6 +24,8 @@ brands:
 org:
   name: "Falc'ohm System ASBL"
   vat: "BE 0744.675.235"
+  vat_registered: true      # assujettie à la TVA, confirmé par Corentin le 2026-09-16 : un fournisseur
+                            # européen peut facturer hors TVA (autoliquidation) sur ce numéro
   address: "Rue des Croix du Feu 4, 1473 Genappe"
   qr_url: "https://www.gazmatek.com"
   qr_label: "www.gazmatek.com"

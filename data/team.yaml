@@ -59,17 +59,17 @@ activities:
 # la loi belge. C'est une DÉCISION de l'ASBL, pas une évidence : à trancher par Corentin.
 supervisors:
   - name: Alexandre Tozar
-    role: Spécialiste lumière
+    role: Ingénieur lumière et technicien son   # Corentin, 2026-09-14
     internal: true
     hours: null                 # TODO, nombre d'heures d'intervention sur le projet
     hourly_cost: null           # TODO, obligatoire : sans mode de calcul, le poste est non éligible
   - name: Ludovic Floeh
-    role: Spécialiste lumière
+    role: Ingénieur lumière et technicien son   # Corentin, 2026-09-14
     internal: null              # TODO, interne ou externe ?
     hours: null                 # TODO
     hourly_cost: null           # TODO
   - name: Corentin Dallenogare
-    role: Spécialiste son, président de l'ASBL
+    role: Ingénieur son et technicien son, président de l'ASBL   # Corentin, 2026-09-14
     internal: true
     hours: null                 # TODO
     hourly_cost: null           # TODO

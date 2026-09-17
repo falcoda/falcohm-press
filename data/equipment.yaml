@@ -1,0 +1,10 @@
+# Le matériel d'exploitation que l'ASBL possède déjà. À distinguer de data/bom.yaml, qui décrit ce
+# qu'on construit et ce qu'on achète. Ouvert le 2026-09-14 pour le mail à Highshow : le dépôt
+# n'avait aucun inventaire.
+consoles:
+  - { use: lumière, model: "ChamSys MagicQ Stadium Connect", source: "Corentin, 2026-09-14" }
+  - { use: son, model: "Allen & Heath SQ5", source: "Corentin, 2026-09-14" }
+effects:
+  - { use: fumée, model: "Look Solutions Unique 2", source: "Corentin, 2026-09-16" }
+todo:
+  - Inventaire du reste du parc son et lumière (projecteurs, micros, câblage, structures), à la demande.

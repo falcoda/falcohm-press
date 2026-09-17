@@ -9,7 +9,7 @@ persona: fournisseur-technique
 categories:
 - distributors
 - amplification
-status: sent
+status: followup_1
 phase: 1
 tags: []
 score: 21
@@ -154,14 +154,16 @@ interactions:
     sales@. Objet : « Material support: cable assembly and servicing ». Demande :
     confection de cablage sur mesure et acces au centre de reparation et aux pieces.
     Amplification exclue (ADmark). En anglais. Dossier PDF joint.'
+- date: '2026-09-14'
+  type: relance
+  resume: RELANCE ENVOYEE PAR CORENTIN LE 2026-09-14 A 09:48 a Bart Willems, copie
+    Charlotte Willems, dans le fil.
 events: []
 next_action:
-  what: 'BROUILLON GMAIL PRET dans contact@falcohmsystem.com (cree le 2026-09-03).
-    IL RESTE A JOINDRE LE PDF : output/Amptec-BV/, le connecteur ne peut pas porter
-    un fichier de 2 Mo. Puis envoyer. NL, siege a Bilzen (Limbourg). A Bart Willems
-    (CEO), CC Charlotte Willems (co-CEO) et sales@. Des l''envoi : python -m kit --log
-    amptec mail "..." --status sent --date <ISO>.'
-  due: '2026-09-04'
+  what: 'RELANCE ENVOYEE LE 2026-09-14. Sans reponse, derniere relance a J+30 puis
+    on arrete (trois contacts maximum). Rappel : Amptec travaille pour les loueurs,
+    l''objection de Beglec peut valoir ici.'
+  due: '2026-10-04'
 notes: 'Autres adresses de service lues sur la même page (toutes génériques) : production@amptec.be
   (production / câblage, +32 11 28 62 64), support@amptec.be (support technique +32
   11 28 62 62 ; réparation et pièces détachées +32 11 28 62 61), logistics@amptec.be,

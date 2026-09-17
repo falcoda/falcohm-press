@@ -12,7 +12,7 @@ categories:
 - distributors
 - audio_components
 - amplification
-status: replied
+status: sent
 phase: 1
 tags: []
 score: 50
@@ -278,26 +278,51 @@ interactions:
     de montage), a lui de dire ce qu''il porte. Smaart : nous irons chez Rational
     Acoustics. Question fermee : ouvrir le compte B2B maintenant, pour etre deja client
     le jour ou B&C entre dans leur gamme.'
+- date: '2026-09-09'
+  type: réponse
+  resume: 'RECU LE 2026-09-09 A 14:00 UTC, verifie dans Gmail, absent du depot jusqu''au
+    2026-09-11. Omar prend acte du non sur les transducteurs et le transmet a sa direction
+    pour peser sur l''ajout de B&C a leur gamme. DEUX QUESTIONS : combien de UMIK-2
+    par an ; et les NUMEROS D''ARTICLE de leur site avec la quantite par caisson.
+    Ils couvrent la connectique type Speakon et les plaques de bornier, le cablage
+    interne, les bornes, les joints et l''amortissant, les revetements type DuraTex,
+    les poignees et la visserie de montage. Speakon et coins : leur gamme ne couvre
+    pas toutes les options. C''est avec ces informations qu''il evaluera le compte
+    B2B et ses conditions.'
+- date: '2026-09-11'
+  type: mail
+  resume: 'ENVOYE PAR CORENTIN LE 2026-09-11 A 11:27, texte du brouillon Gmail sans
+    retouche : 2 ou 3 UMIK-2 ; peinture (Warnex, absent de leur gamme), joints et
+    amortissant retires de la liste ; par caisson 2 Speakon chassis 4 poles (leur
+    article 1649), 1 bornier, 8 coins, 4 poignees, environ 3 m de cable, environ 200
+    vis ; volume inchange, 4 caissons fermes et environ 16 sur deux ans. Il lui est
+    demande de proposer les articles pour tout sauf le Speakon. Question fermee :
+    est-ce assez pour examiner le compte ?'
+- date: '2026-09-15'
+  type: réponse
+  resume: 'RECU LE 2026-09-15 A 12:05. Omar propose ses articles : bornier 260-110
+    (Blank Terminal Cup 132 x 183 mm), coins Monacor MZF-8508 (Large Metal Corner),
+    poignees 262-821 (Steel Bar Handle 162 x 220 x 60), cable SI-WIRE 4,0 mm2 OFC
+    « unless your plans specify a different cable gauge », vis 081-1100 (3,3 x 25,4
+    mm, en demandant si les plans utilisent une seule taille), Speakon 1649 confirme.
+    Et surtout : « With the cabinet volumes and hardware requirements you have now
+    shared, I have enough information for your business account ». Il demande notre
+    numero de TVA et notre adresse pour creer le compte.'
+- date: '2026-09-15'
+  type: mail
+  resume: 'ENVOYE PAR CORENTIN LE 2026-09-15 (brouillon r-7185801166404755308) : accepte
+    le bornier 260-110, les poignees 262-821, le cable 4,0 mm2 et le Speakon 1649
+    ; demande les dimensions des coins MZF-8508 ; reporte les vis a une liste de tailles
+    tiree des plans ; donne l''adresse de l''ASBL et le numero d''entreprise BE 0744.675.235
+    pour le compte B2B.'
 events: []
 next_action:
-  what: >-
-    ENVOYE LE 2026-09-09, LA BALLE EST CHEZ EUX. Trois choses a faire pendant qu'on attend, et
-    aucune ne depend de sa reponse.
-    (1) RELANCE AU 2026-09-12 S'IL NE REPOND PAS, et sur une seule chose : le compte B2B. C'est le
-    J+3 que le depot applique a un statut `replied`, et c'est le bon rythme ici, il a repondu en
-    trois heures les 4 et 8 septembre. Une relance courte, jamais un rappel de tout le fil.
-    (2) LES QUANTITES PAR CAISSON MANQUENT. On lui a demande une quincaillerie de caisson sans
-    savoir combien de Speakon, de coins, de poignees et de metres de cable il faut par caisson
-    (data/bom.yaml, todo). Il repondra par une liste de produits et il faudra des quantites en
-    face, sinon on perd les conditions qu'on vient d'ouvrir. C'est la seule chose qui peut nous
-    faire perdre du temps ici.
-    (3) CIBLE RATIONAL ACOUSTICS a creer : il ne distribue pas Smaart et l'a ecrit noir sur blanc.
-    Une licence logicielle est typiquement ce qu'un editeur accorde a une association qui publie
-    ses mesures.
-    L'ECHEANCE QUI COMPTE N'EST PAS LA NOTRE : le jour ou B&C entre dans leur gamme, tout le poste
-    transducteurs revient sur la table. C'est lui qui a promis le signal, ne pas le reclamer, et
-    reverifier de nous-memes vers la fin de l'annee si rien n'est venu.
-  due: '2026-09-12'
+  what: 'COMPTE B2B EN COURS : TVA et adresse envoyees a Omar le 2026-09-15. L''ASBL
+    est bien assujettie a la TVA (Corentin, 2026-09-16), donc le numero BE 0744.675.235
+    transmis est le bon et la facturation hors TVA en autoliquidation est correcte.
+    Attendre la creation du compte et les dimensions des coins MZF-8508. De notre
+    cote : la liste des tailles de vis tiree des plans.'
+  due: '2026-09-22'
 notes: 'E-mails NON VÉRIFIABLES en l''état : les deux adresses publiées sur la page
   « Klantenservice / Customer support » (une générique + une pour l''équipe commerciale,
   explicitement dédiée aux « business orders and long-term partnerships ») sont masquées

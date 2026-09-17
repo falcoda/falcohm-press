@@ -1,0 +1,310 @@
+slug: court-circuit
+company: Court-Circuit, Fédération des Musiques Actuelles
+display_name: Court-Circuit
+aka:
+- Court-Circuit ASBL
+- Courtcircuit
+- Pôle Musiques Actuelles Wallonie-Bruxelles
+- Fédération des Musiques Actuelles
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- culture_funding
+status: paused
+phase: 2
+tags:
+- institution
+- musique
+- reseau
+- adhesion
+score: 29
+website: https://www.court-circuit.be
+knowledge: knowledge/Court-Circuit.md
+profile:
+  activity: Fédération du secteur des musiques actuelles en Fédération Wallonie-Bruxelles
+    (ASBL depuis 1992, fédération professionnelle reconnue en 2020, contrat-programme
+    FWB 2024-2029). Elle rassemble les lieux et les organisations de concerts, les
+    représente, les professionnalise et les met en réseau. Six personnes, 67 à 76
+    membres (37 lieux, 17 festivals, 16 organisations sans lieu fixe). Siège 24 avenue
+    Cardinal Mercier, 5000 Namur ; antenne avenue de la Toison d'Or 72, 1060 Bruxelles.
+    Elle ne finance pas d'événements.
+  products:
+  - Adhésion (25 EUR par an pour une structure non subventionnée), réseau, représentation,
+    intranet, promotion sur court-circuit.be, .band et .live
+  - Circuit Sessions, formations (technique son et lumière, premiers secours, administratif,
+    communication), gratuites pour les membres sans accès aux Fonds 4S et 304
+  - Dispositifs financiers réservés aux membres en 2026 (bourses Lotto de 500 EUR
+    par concert découverte, Expertises, Explore)
+  - Guide de l'Organisation de Concerts et ressources ASBL (gestion des bénévoles,
+    obligations 2026)
+  - court-circuit.live (agenda des dates) et court-circuit.band (appels à candidatures)
+  size:
+    employees: '6'
+    revenue: ''
+  identifiers:
+    vat: BE0449.970.231
+    linkedin: https://be.linkedin.com/company/courtcircuit-asbl
+why_us: 'Ce n''est ni un financeur ni un fournisseur : c''est la fédération des organisateurs
+  de concerts, et son contrat-programme lui demande de « rassembler également les
+  opérateurs du secteur non-professionnel qui ne bénéficient pas encore de reconnaissance
+  institutionnelle ou ne disposent pas encore d''emplois ». C''est notre description
+  exacte. Seize de ses membres sont des « organisations sans lieu fixe », plusieurs
+  sont techno (Symbiosis, La Nature, Corps et Logis). Pour 25 EUR par an, on entre
+  dans le réseau des salles (Rockerill, Vecteur, Belvédère, KulturA), on accède aux
+  formations son et lumière gratuites pour les membres, aux bourses Lotto de 500 EUR
+  par concert découverte, et surtout on coche « intégration dans les réseaux professionnels
+  », le critère sur lequel le dossier FWB du Service des Musiques nous juge le plus
+  fragile.'
+ask:
+  type:
+  - services
+  detail: 'UNE SEULE DEMANDE : l''adhésion comme « organisation de concerts sans lieu
+    fixe ». Conditions (page Devenir membre) : personne morale en Wallonie ou à Bruxelles,
+    au moins 12 artistes ou groupes par an, responsable de programmation désigné,
+    rémunération correcte des musiciens, charte éthique ; cotisation 25 EUR minimum.
+    Engagements : formulaire GIMIC, enquête annuelle, présence à un événement par
+    an, encodage des dates sur court-circuit.live. Ensuite, sans rien demander de
+    plus : formations du cycle 4 (second semestre 2026), bourses Lotto (septembre
+    à décembre 2026), dispositif Expertises. Ne pas demander de matériel ni d''argent
+    : ils n''en ont pas pour ça. Ne pas envoyer le dossier de partenariat généré,
+    qui demande un « soutien institutionnel ».'
+  realistic_value_eur: 2000
+values:
+- Professionnalisation et structuration du secteur
+- Mise en réseau des lieux et organisations de concerts
+- Émergence artistique en Wallonie et à Bruxelles
+- Juste rémunération des artistes
+- Ancrage territorial et diversité
+sponsorship_history:
+- what: 'Contrat-programme FWB 2024-2029 : « rassembler également les opérateurs du
+    secteur non-professionnel qui ne bénéficient pas encore de reconnaissance institutionnelle
+    ou ne disposent pas encore d''emplois » (rapport d''activités 2025, p. 20). Membres
+    techno : Symbiosis (Namur, « active dans les musiques électroniques depuis 2013
+    »), La Nature (Vielsalm, NoName, Hors-Piste Festival « centré autour de la musique
+    électronique et en particulier la techno »), Corps et Logis (Ferme du Biéreau),
+    Rockerill (soirées Flashforward).'
+  url: https://www.court-circuit.be/wp-content/uploads/2026/06/260522_Rapport_2025.pdf
+  retrieved_on: '2026-09-09'
+- what: 'Trois dispositifs financiers 2026 réservés aux membres (annonce du 12 mai
+    2026) : « Support Your Local Music Scene by Lotto » (« bourses de 500€ pour soutenir
+    la production de concerts » de découverte, septembre à décembre 2026), « Dispositif
+    Explore » (mobilité internationale), « Dispositif Expertises » (« financements
+    pour faire appel à des expert·es externes »).'
+  url: https://www.court-circuit.be/actualite/soutien-financier-3-nouvelles-opportunites-a-saisir-pour-les-membres-de-court-circuit/
+  retrieved_on: '2026-09-09'
+- what: 'Circuit Sessions 2025 : « Initiation à la technique son et lumière en salles
+    de concerts » (Yorrick Detroy, 18 et 27 novembre 2025) ; 90 EUR la journée, «
+    gratuité à destination des structures membres qui ne peuvent pas bénéficier de
+    ses fonds ».'
+  url: https://www.court-circuit.be/actualite/circuit-session-court-circuit-lance-son-programme-de-formations/
+  retrieved_on: '2026-09-09'
+contacts:
+- name: David Dehard
+  role: Direction
+  email: david@courtcircuit.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.court-circuit.be/contacts/
+  retrieved_on: '2026-09-09'
+  evidence: 'Page Contacts, trois lignes consécutives : « David DEHARD / DIRECTION
+    / david(@)courtcircuit.be ». Le site affiche « (@) » à la place de « @ », obfuscation
+    anti-spam. Domaine des adresses : courtcircuit.be, alors que le site est court-circuit.be
+    (les deux sont à eux, courtcircuit.be redirige vers le site). Direction depuis
+    2006 ; signe le rapport d''activités 2025.'
+- name: Martin Hellinckx
+  role: Projets, événements et médiation (Concours Circuit, programmation)
+  email: martin@courtcircuit.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.court-circuit.be/contacts/
+  retrieved_on: '2026-09-09'
+  evidence: 'Page Contacts : « Martin HELLINCKX / PROJETS / martin(@)courtcircuit.be
+    ». Confirmé sur court-circuit.band, appel Concours Circuit 2026 : « contact :
+    martin(a)courtcircuit.be ».'
+- name: Solène Rasquin
+  role: Coordination administrative et financière (inscriptions aux formations)
+  email: solene@courtcircuit.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.court-circuit.be/actualite/circuit-session-court-circuit-lance-son-programme-de-formations/
+  retrieved_on: '2026-09-09'
+  evidence: 'Actualité du 21 janvier 2025, en clair : « Envoyez un email à solene@courtcircuit.be
+    avec vos informations complètes (nom, structure, numéro TVA, adresse). » Aussi
+    sur la page Contacts : « Solène RASQUIN / ADMINISTRATION / solene(@)courtcircuit.be
+    ».'
+- name: ''
+  role: Adresse générale
+  email: info@courtcircuit.be
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.court-circuit.be/conditions-dutilisation-et-mentions-legales/
+  retrieved_on: '2026-09-09'
+  evidence: 'Mentions légales : « INFO@COURTCIRCUIT.BE » ; page Contacts et page Devenir
+    membre : info@courtcircuit.be. Ne pas utiliser « info@court-circuit.be » affiché
+    par IDLM (tiers).'
+inbound_channels:
+- type: form
+  url: https://www.gimic.org/questionnaires/1c2af89590
+- type: form
+  url: https://www.court-circuit.be/contacts/
+- type: linkedin
+  url: https://be.linkedin.com/company/courtcircuit-asbl
+scoring:
+  business_fit: 7
+  partnership_probability: 7
+  impact_if_successful: 6
+  rationale: 'Fit réel (7) : ils n''ont ni matériel ni argent pour nous, mais ils
+    ont ce qui manque à une ASBL bénévole qui veut déposer un dossier FWB : formations
+    son et lumière et premiers secours, guides, réseau des salles, visibilité des
+    dates, et une fois membre des bourses de 500 EUR par concert découverte. Probabilité
+    bonne (7) : l''adhésion est ouverte toute l''année aux opérateurs non reconnus,
+    les conditions (12 artistes par an, responsable de programmation, rémunération
+    des musiciens) sont remplies, et trois membres sont déjà techno ; reste l''acte
+    de l''AG et la charte éthique à signer. Impact moyen mais structurant (6) : quelques
+    centaines à deux mille euros par an en formations et bourses, et surtout la case
+    « réseaux professionnels » du dossier du Service des Musiques, qui pèse sur un
+    subside à cinq chiffres.'
+deadlines:
+- what: 'Bourses « Support Your Local Music Scene by Lotto », 500 EUR par concert
+    découverte, septembre à décembre 2026, MEMBRES UNIQUEMENT : sans objet tant que
+    l''adhésion n''est pas actée. Raison de plus pour adhérer maintenant.'
+  date: '2026-12-31'
+  url: https://www.court-circuit.be/actualite/soutien-financier-3-nouvelles-opportunites-a-saisir-pour-les-membres-de-court-circuit/
+- what: Circuit Sessions, cycle 4 « programmé pour le second semestre de l'année 2026
+    », contenu non publié au 2026-09-09. Surveiller la page Formations ; inscription
+    par mail à Solène Rasquin.
+  date: '2026-10-15'
+  url: https://www.court-circuit.be/activite/formations/
+- what: 'Assemblée générale de Court-Circuit, qui acte les membres effectifs : juin
+    (2026 passée). Déposer l''adhésion bien avant juin 2027.'
+  date: '2027-06-01'
+  url: https://www.court-circuit.be/devenir-membre/
+sources:
+- url: https://www.court-circuit.be/court-circuit-missions/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/devenir-membre/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/contacts/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/conditions-dutilisation-et-mentions-legales/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/wp-content/uploads/2026/06/260522_Rapport_2025.pdf
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/activite/formations/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/actualite/soutien-financier-3-nouvelles-opportunites-a-saisir-pour-les-membres-de-court-circuit/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/activite/plasma/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/membre/symbiosis/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/membre/lanature/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/ressource/le-guide-de-lorganisation-de-concerts-en-wallonie-et-bruxelles/
+  retrieved_on: '2026-09-09'
+- url: https://www.court-circuit.be/historique/
+  retrieved_on: '2026-09-09'
+documents: []
+interactions:
+- date: '2026-09-09'
+  type: note
+  resume: 'FICHE CRÉÉE après recherche approfondie, à la demande de Corentin (on lui
+    a conseillé Court-Circuit). Rapport d''activités 2025 lu en entier. Ce n''est
+    pas un financeur : c''est la fédération des organisateurs de concerts, et son
+    contrat-programme vise explicitement les opérateurs non reconnus comme nous. Adhésion
+    à 25 EUR, formulaire GIMIC, engagements légers. Aucun prêt de matériel, aucun
+    fonds ouvert aux non-membres ; les Extras (250 ou 500 EUR par prestation) n''existent
+    plus. Trois membres techno identifiés. Mail d''adhésion rédigé : emails/court-circuit-adhesion.md.
+    Détail dans knowledge/Court-Circuit.md.'
+- date: '2026-09-09'
+  type: note
+  resume: 'BROUILLON GMAIL CREE le 2026-09-09 dans contact@falcohmsystem.com (id r-1108782329116886060)
+    : a david@courtcircuit.be, copie info@courtcircuit.be, objet « Demande d''adhesion
+    d''une organisation de concerts sans lieu fixe ». Sans piece jointe (si Corentin
+    veut en joindre une, c''est la presentation, jamais le dossier de partenariat).
+    A VALIDER PAR CORENTIN AVANT ENVOI : l''adhesion engage l''ASBL (25 EUR, enquete
+    annuelle, un evenement par an, dates encodees). Texte : emails/court-circuit-adhesion.md.
+    Des l''envoi : python -m kit --log court-circuit mail "..." --status sent --date
+    <ISO>.'
+- date: '2026-09-09'
+  type: note
+  resume: 'PRECISION DE CORENTIN le 2026-09-09 : presque toutes nos dates se tiennent
+    a La Fabriek, a Bruxelles (salle que nous n''exploitons pas). Le brouillon Gmail
+    et le texte dans emails/ ont ete corriges le meme jour : on n''ecrit plus « dans
+    des lieux differents » ni « sans lieu fixe » au sens itinerant, mais « la plupart
+    a La Fabriek, a Bruxelles ». Consequence : la voie « organisateur de concerts
+    » (18 artistes sur une saison) devient la plus naturelle pour la FWB, et l''infrastructure
+    a declarer pour une labelisation est celle de La Fabriek (jauge, regie).'
+- date: '2026-09-09'
+  type: note
+  resume: 'PRECISION DE CORENTIN le 2026-09-09 : en organisation pure, Gazmatek tient
+    entre 6 et 10 dates par an ; le « 10-15 » de data/stats.yaml compte aussi les
+    prestations et locations du sound system Falc''ohm. Pour une institution qui finance
+    des concerts, le chiffre a ecrire est 6 a 10. Brouillon Gmail, texte dans emails/
+    et fiches knowledge corriges le meme jour ; data/stats.yaml porte desormais les
+    deux chiffres (events_organised_per_year, deployments_per_year).'
+- date: '2026-09-09'
+  type: mail
+  resume: 'ENVOYE par Corentin le 2026-09-09 a 17:38 (15:38 UTC), fil Gmail 1a086cd824fd8553,
+    a david@courtcircuit.be, copie info@courtcircuit.be. Objet « Demande d''adhesion
+    d''une organisation de concerts sans lieu fixe ». Corentin a donc decide l''adhesion
+    (25 EUR, enquete annuelle, un evenement par an, dates a encoder sur court-circuit.live).
+    Sans piece jointe. Question fermee : formulaire GIMIC ou passage par la direction
+    d''abord ? Relance J+10 le 19/09. Des l''admission : compte court-circuit.live,
+    cycle 4 des formations, bourses Lotto.'
+- date: '2026-09-10'
+  type: réponse
+  resume: 'RECU LE 2026-09-10 a 11:03 de David Dehard : « Oui, vous pouvez vous inscrire
+    via notre page Membre. Votre dossier sera transmis a notre Organe d''Administration
+    ». Le formulaire en ligne est donc la bonne porte, pas de detour.'
+- date: '2026-09-11'
+  type: mail
+  resume: 'ENVOYE PAR CORENTIN LE 2026-09-11 A 11:26 : « Merci, beaucoup ». Simple
+    remerciement, version de Corentin. L''INSCRIPTION N''EST PAS FAITE : Corentin
+    la fera plus tard.'
+events: []
+next_action:
+  what: 'EN ATTENTE, SUR DECISION DE CORENTIN LE 2026-09-11 : il fera l''inscription
+    plus tard. TODO CORENTIN : s''inscrire par la page Membre de courtcircuit.be,
+    c''est la consigne de David Dehard du 2026-09-10. L''adhesion engage 25 EUR et
+    trois obligations de l''ASBL (enquete annuelle, presence a un evenement par an,
+    encodage des dates sur court-circuit.live). Rappel au 2026-10-01, date choisie
+    par defaut, a deplacer si besoin. POURQUOI NE PAS LAISSER FILER : l''Organe d''Administration
+    doit valider l''adhesion, et c''est le critere « collaboration sectorielle » du
+    dossier FWB de fevrier 2027, celui qui a coule Hyperlien. Remerciement deja envoye
+    le 2026-09-11, rien a lui ecrire avant l''inscription.'
+  due: '2026-10-01'
+notes: 'CE N''EST PAS UN FINANCEUR. Ne rien lui demander d''autre que l''adhésion,
+  puis les services réservés aux membres. Leur vocabulaire : « musiques actuelles
+  », « organisation de concerts sans lieu fixe », « professionnalisation », « juste
+  rémunération », « émergence ». Jamais « collectif », « scène électronique », « free
+  party », « sound system » comme identité : ces mots n''existent nulle part chez
+  eux.
+
+  CONDITIONS D''ADHÉSION (page Devenir membre, formulation à revérifier sur le formulaire)
+  : au moins 12 artistes ou groupes par an (6 pour un festival avec part majoritaire
+  FWB), un responsable de programmation désigné, « rémunération correcte des musiciens
+  », charte éthique. Cotisation « 0,10% de la subvention ordinaire FWB avec un minimum
+  de 25 euros [...] et maximum de 100 euros ».
+
+  CE QUI N''EXISTE PLUS : les Extras et les Tournées sectorielles (le contrat 2024-2029
+  demande de « mettre de côté le pôle diffusion »), l''Electronic Music Program (page
+  vide). Propulsion n''est pas à eux ; ProPulse (AssProPro) est seulement relayé,
+  « musiques électroniques (hors DJ) ».
+
+  ÉQUIPE : David Dehard (direction), Solène Rasquin (administration, formations),
+  Martin Hellinckx (projets), Florence Delporte (communication institutionnelle, absence
+  probable à l''automne 2026), Margaux Bernard (communication événementielle), Stanislas
+  Levacq (membres et ressources, absent de la page Contacts au 2026-09-09). Organe
+  d''administration depuis avril 2025 : Anne Harpigny (L''Entrepôt), Frédéric Maréchal
+  (Botanique), Kostia Pace (Jazz Station), Phil Henrion (Atelier Rock), Pierre Mulder
+  (OM), Royen Mulenga (Motown Concerts).
+
+  NON VÉRIFIÉ : pages des trois dispositifs financiers (espace membres), programme
+  du cycle 4, Fête de la FWB 2026 (24 au 27 septembre, financeur non confirmé), présence
+  actuelle de Stanislas Levacq, téléphone 02/550.13.32 (CGU de court-circuit.live).'

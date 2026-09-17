@@ -10,7 +10,7 @@ sector: institutionnel
 persona: institution
 categories:
 - public_funding
-status: lead
+status: paused
 phase: 2
 tags: []
 score: 22
@@ -121,9 +121,10 @@ scoring:
     raté sans perdre l''année. Impact moyen-fort : jusqu''à 9.000 € et, surtout, une
     première reconnaissance publique fédérale qui crédibilise le dossier Musiques.'
 deadlines:
-- what: 'Soutien aux projets jeunes, Train 4 : plateforme SUBside ouverte du 15 août
-    au 15 SEPTEMBRE 2026 (clôture). ATTENTION : SUBside a été mis à jour en 2025,
-    les comptes existants doivent changer de mot de passe avant tout dépôt.'
+- what: 'ÉCARTÉ le 2026-09-09 par Corentin, pas de dépôt. Soutien aux projets jeunes,
+    Train 4 : plateforme SUBside ouverte du 15 août au 15 SEPTEMBRE 2026 (clôture).
+    ATTENTION : SUBside a été mis à jour en 2025, les comptes existants doivent changer
+    de mot de passe avant tout dépôt.'
   date: '2026-09-15'
   url: https://servicejeunesse.cfwb.be/appel-a-projets/projets-jeunes/
 - what: 'Soutien aux projets jeunes, Train 1 : dépôt du 15 décembre 2026 au 15 janvier
@@ -139,11 +140,27 @@ documents:
 - output\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse-Partnership-2026.pdf
 - output\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse-OnePager-2026.pdf
 - output\Federation-Wallonie-Bruxelles-Service-de-la-Jeunesse\email.md
-interactions: []
+interactions:
+- date: '2026-09-09'
+  type: note
+  resume: 'TRAIN 4 ECARTE par Corentin le 2026-09-09 (cloture SUBside le 15/09) :
+    « ca ne nous correspond pas trop, on fait des evenements, pas des activites de
+    jeunes ». L''appel « Soutien aux projets jeunes » finance des projets portes par
+    et pour des jeunes, pas des dates de festival. Le compte SUBside active le 07/09
+    reste utile pour d''autres dispositifs FWB. Seule voie qui resterait coherente,
+    a decider avant le Train 1 (15/12 au 15/01) : le pole technique, des benevoles
+    de moins de 30 ans qui construisent le sound system, actions 3 ou 4, avec Falc''ohm
+    en association de reference. Pas d''evenement dans ce dossier-la.'
 events: []
 next_action:
-  what: ''
-  due: ''
+  what: 'EN PAUSE (décision de Corentin, 2026-09-09) : le Train 4 est écarté, nous
+    faisons des événements, pas des activités de jeunes. Aucun dépôt le 15/09. Une
+    seule question à trancher avant le Train 1 (dépôt du 15/12 au 15/01) : veut-on
+    présenter le pôle technique, des bénévoles de moins de 30 ans qui construisent
+    le sound system, comme un projet jeunes (actions 3 ou 4, Falc''ohm en association
+    de référence) ? Si non, passer la fiche en discarded. Sans événement dans ce
+    dossier-là, dans tous les cas.'
+  due: '2026-11-30'
 notes: 'CALENDRIER, 4 trains par an, la plateforme SUBside n''ouvre qu''UN MOIS avant
   la clôture : Train 1 : 15 décembre → 15 janvier | Train 2 : 15 février → 15 mars
   | Train 3 : 15 mai → 15 juin | Train 4 : 15 août → 15 septembre. DÉPÔT : exclusivement

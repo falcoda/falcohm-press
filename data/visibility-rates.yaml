@@ -1,0 +1,10 @@
+# Ce que vaut la visibilité qu'on offre. Sert à juger une remise partenaire : si la remise vaut moins que
+# la visibilité donnée, on paie le partenariat. Source unique, ne pas réécrire ailleurs.
+event_name_display:
+  rate_eur_htva: 800
+  reference_audience: 800
+  what: "Afficher le nom d'un partenaire sur un événement d'environ 800 personnes"
+  source: Corentin Dallenogare, 2026-09-16 (prix pratiqué en général)
+  use: >-
+    Repère INTERNE de négociation, jamais écrit à un partenaire tel quel. Exemple : une remise de 10 % sur
+    4 000 EUR d'achats vaut 400 EUR, soit la moitié d'un seul événement de visibilité.

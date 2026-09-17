@@ -8,7 +8,7 @@ sector: audio
 persona: fabricant-audio
 categories:
 - audio_components
-status: lead
+status: paused
 phase: 1
 tags: []
 score: 26
@@ -90,10 +90,21 @@ documents:
 - output\Precision-Devices-Ltd\Precision-Devices-Ltd-Partnership-2026.pdf
 - output\Precision-Devices-Ltd\Precision-Devices-Ltd-OnePager-2026.pdf
 - output\Precision-Devices-Ltd\email.md
-interactions: []
+interactions:
+- date: '2026-09-11'
+  type: note
+  resume: 'MIS EN PAUSE sur decision de Corentin le 2026-09-11. Leur seule demande
+    portait sur leurs propres haut-parleurs, or nos transducteurs sont arretes par
+    les plans : B&C et RCF, sans substitution possible (data/bom.yaml, driver_substitution,
+    arbitrage du 2026-09-09). Aucun contact n''avait ete pris.'
 events: []
 next_action:
-  what: ''
+  what: >-
+    EN PAUSE, decision de Corentin du 2026-09-11. Leur seule demande portait sur leurs propres
+    haut-parleurs, et nos transducteurs sont arretes par les plans : B&C et RCF, sans substitution
+    possible (data/bom.yaml, driver_substitution). Le kick bin partira tres probablement sur la meme
+    marque que le reste du parc. REPRISE : uniquement si un futur modele est dessine autour de leurs
+    transducteurs. Aucune date, a revoir au choix du kick bin.
   due: ''
 notes: 'E-mail NON VÉRIFIABLE : l''adresse est masquée par la protection anti-spam
   Cloudflare sur toutes les pages du site (contact, produits, where-to-buy) et s''affiche

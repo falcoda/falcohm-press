@@ -4,18 +4,10 @@
 partners:
 - company: Bourguignon Bois
   module: bois
-  status: sent
+  status: paused
   score: 58
   contact: ''
   email: info@bourguignonbois.be
-  sent: '2026-08-23'
-  followup: ''
-- company: SoundImports B.V.
-  module: audio
-  status: lead
-  score: 57
-  contact: ''
-  email: sales@soundimports.nl
   sent: ''
   followup: ''
 - company: Fédération Wallonie-Bruxelles, Service des Musiques
@@ -26,17 +18,25 @@ partners:
   email: diane.dernouchamps@cfwb.be
   sent: ''
   followup: ''
+- company: SoundImports B.V.
+  module: audio
+  status: replied
+  score: 50
+  contact: Omar Sadek
+  email: info@audio-components.com
+  sent: ''
+  followup: ''
 - company: Biemar Bois
   module: bois
-  status: sent
+  status: paused
   score: 49
   contact: Serge Tilkin
   email: serge.tilkin@biemar.be
-  sent: '2026-08-23'
+  sent: ''
   followup: ''
 - company: Cras
   module: bois
-  status: lead
+  status: paused
   score: 49
   contact: ''
   email: service@cras.be
@@ -52,15 +52,15 @@ partners:
   followup: ''
 - company: Diffusion Menuiserie
   module: bois
-  status: sent
+  status: paused
   score: 45
   contact: ''
   email: contact@diffusionmenuiserie.be
-  sent: '2026-08-23'
+  sent: ''
   followup: ''
 - company: Lhoir & Marteau
   module: bois
-  status: lead
+  status: paused
   score: 45
   contact: Michel Marteau
   email: info@lhoir-marteau.be
@@ -70,33 +70,25 @@ partners:
   module: institutionnel
   status: lead
   score: 44
-  contact: ''
-  email: culture.loisirs.citoyennete@brabantwallon.be
-  sent: ''
-  followup: ''
-- company: APEX, GIVA Audiovisual Technologies BV
-  module: audio
-  status: lead
-  score: 43
-  contact: ''
-  email: marketing@apex-audio.be
+  contact: Benjamin Goes
+  email: benjamin.goes@brabantwallon.be
   sent: ''
   followup: ''
 - company: Wopaco
   module: bois
-  status: sent
+  status: paused
   score: 40
   contact: ''
   email: vanrobaeys@wopaco.be
-  sent: '2026-08-23'
-  followup: ''
-- company: Base
-  module: telecom
-  status: qualified
-  score: 39
-  contact: Sylvie Dewaele
-  email: sylvie.dewaele@tbwa.be
   sent: ''
+  followup: ''
+- company: B&C Speakers S.p.A.
+  module: audio
+  status: sent
+  score: 36
+  contact: Patty Adeyemi
+  email: padeyemi@bcspeakers.com
+  sent: '2026-09-04'
   followup: ''
 - company: Acústica Beyma S.L.
   module: audio
@@ -105,6 +97,22 @@ partners:
   contact: ''
   email: beyma@beyma.com
   sent: ''
+  followup: ''
+- company: Base
+  module: telecom
+  status: paused
+  score: 34
+  contact: Sylvie Dewaele
+  email: sylvie.dewaele@tbwa.be
+  sent: ''
+  followup: ''
+- company: Beglec NV
+  module: audio
+  status: sent
+  score: 34
+  contact: Kevin David
+  email: david.kevin@beglec.com
+  sent: '2026-09-04'
   followup: ''
 - company: PHL Audio
   module: audio
@@ -132,11 +140,27 @@ partners:
   followup: ''
 - company: Lochten & Germeau
   module: bois
-  status: sent
+  status: paused
   score: 32
   contact: ''
   email: info@lochten.be
-  sent: '2026-08-23'
+  sent: ''
+  followup: ''
+- company: Court-Circuit, Fédération des Musiques Actuelles
+  module: institutionnel
+  status: lead
+  score: 29
+  contact: David Dehard
+  email: david@courtcircuit.be
+  sent: ''
+  followup: ''
+- company: RCF S.p.A.
+  module: audio
+  status: lead
+  score: 29
+  contact: ''
+  email: privacy@rcf.it
+  sent: ''
   followup: ''
 - company: Brasserie St-Feuillien
   module: boissons
@@ -148,26 +172,10 @@ partners:
   followup: ''
 - company: Triplaco
   module: bois
-  status: sent
+  status: paused
   score: 28
   contact: ''
   email: info@triplaco.be
-  sent: '2026-07-14'
-  followup: ''
-- company: B&C Speakers S.p.A.
-  module: audio
-  status: lead
-  score: 27
-  contact: Patty Adeyemi
-  email: padeyemi@bcspeakers.com
-  sent: ''
-  followup: ''
-- company: Powersoft S.p.A.
-  module: audio
-  status: lead
-  score: 27
-  contact: ''
-  email: privacy@powersoft.com
   sent: ''
   followup: ''
 - company: Precision Devices Ltd
@@ -176,14 +184,6 @@ partners:
   score: 26
   contact: ''
   email: info@precision-devices.com
-  sent: ''
-  followup: ''
-- company: Amptec BV
-  module: audio
-  status: lead
-  score: 25
-  contact: Bart Willems
-  email: bart.willems@amptec.be
   sent: ''
   followup: ''
 - company: Audio Solvation
@@ -204,27 +204,27 @@ partners:
   followup: ''
 - company: Vanhumbeeck Frères
   module: bois
-  status: sent
+  status: paused
   score: 25
   contact: ''
   email: info@vanhum.be
-  sent: '2026-08-23'
+  sent: ''
   followup: ''
 - company: Ville de Genappe, Administration communale
   module: institutionnel
-  status: lead
+  status: sent
   score: 24
   contact: Michaël Rouffiange
   email: michael.rouffiange@genappe.be
-  sent: ''
+  sent: '2026-09-04'
   followup: ''
 - company: Conseil de la Musique
   module: institutionnel
-  status: lead
+  status: sent
   score: 24
   contact: Christophe Hars
   email: c.hars@conseildelamusique.be
-  sent: ''
+  sent: '2026-09-04'
   followup: ''
 - company: Faital S.p.A. (FaitalPRO)
   module: audio
@@ -234,21 +234,21 @@ partners:
   email: privacy@faital.com
   sent: ''
   followup: ''
-- company: RAM Audio (C.E. Studio-2 S.L.)
-  module: audio
-  status: lead
-  score: 24
-  contact: ''
-  email: support@ramaudio.com
-  sent: ''
-  followup: ''
 - company: Fédération Wallonie-Bruxelles, Service de la Jeunesse
   module: institutionnel
-  status: lead
+  status: paused
   score: 22
   contact: ''
   email: service.jeunesse@cfwb.be
   sent: ''
+  followup: ''
+- company: Amptec BV
+  module: audio
+  status: sent
+  score: 21
+  contact: Bart Willems
+  email: bart.willems@amptec.be
+  sent: '2026-09-04'
   followup: ''
 - company: Loterie Nationale
   module: institutionnel
@@ -308,11 +308,11 @@ partners:
   followup: ''
 - company: GEDE-BOIS
   module: bois
-  status: sent
+  status: paused
   score: 18
   contact: ''
   email: info@gedebois.be
-  sent: '2026-08-23'
+  sent: ''
   followup: ''
 - company: AB InBev / Jupiler
   module: boissons
@@ -320,14 +320,6 @@ partners:
   score: 17
   contact: Esther Louis
   email: esther.louis@ab-inbev.com
-  sent: ''
-  followup: ''
-- company: RCF S.p.A.
-  module: audio
-  status: lead
-  score: 17
-  contact: ''
-  email: privacy@rcf.it
   sent: ''
   followup: ''
 - company: Latvijas Finieris (Riga Wood)
@@ -338,14 +330,6 @@ partners:
   email: inese.paberza@finieris.lv
   sent: ''
   followup: ''
-- company: Beglec NV
-  module: audio
-  status: lead
-  score: 15
-  contact: Kevin David
-  email: david.kevin@beglec.com
-  sent: ''
-  followup: ''
 - company: Bureau International Jeunesse (BIJ)
   module: institutionnel
   status: lead
@@ -354,12 +338,12 @@ partners:
   email: bij@cfwb.be
   sent: ''
   followup: ''
-- company: Fédération Wallonie-Bruxelles, Service de la Diffusion (Tournées Art et Vie)
+- company: Fédération Wallonie-Bruxelles, Direction de la Diffusion (Diffusion tout public, ex Art et Vie)
   module: institutionnel
   status: lead
   score: 14
-  contact: ''
-  email: ''
+  contact: Isabelle Deleu
+  email: isabelle.deleu@cfwb.be
   sent: ''
   followup: ''
 - company: Cera

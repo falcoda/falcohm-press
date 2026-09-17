@@ -8,7 +8,7 @@ persona: fournisseur-technique
 categories:
 - distributors
 - audio_components
-status: lead
+status: paused
 phase: 1
 tags: []
 score: 25
@@ -80,10 +80,22 @@ documents:
 - output\Audio-Solvation\Audio-Solvation-Partnership-2026.pdf
 - output\Audio-Solvation\Audio-Solvation-OnePager-2026.pdf
 - output\Audio-Solvation\email.md
-interactions: []
+interactions:
+- date: '2026-09-13'
+  type: note
+  resume: 'QUALIFIEE LE 2026-09-13 sur audiosolvation.nl : leurs seuls transducteurs
+    sont PHL Audio (mis en pause le 2026-09-11, hors nomenclature). Ni B&C ni RCF
+    au catalogue. Le reste est du systeme complet (L-Acoustics, Yamaha, QSC, Q-SYS,
+    Sennheiser) et des accessoires (Klotz, Konig & Meyer). Seule ligne utile : le
+    cable Klotz, trop petit pour une demande (environ 3 m par caisson). MISE EN PAUSE,
+    meme raison que PHL Audio. Reprise uniquement si un futur modele est dessine autour
+    de transducteurs PHL.'
 events: []
 next_action:
-  what: ''
+  what: 'EN PAUSE depuis le 2026-09-13 : leurs seuls transducteurs sont PHL Audio,
+    hors nomenclature (B&C et RCF uniquement, data/bom.yaml, driver_substitution).
+    REPRISE : uniquement si un futur modele est dessine autour de transducteurs PHL.
+    Aucune date.'
   due: ''
 notes: 'Fiche construite à partir de la page « distribution » officielle de PHL Audio,
   qui les désigne comme distributeur mondial (hors Asie) et publie leurs coordonnées

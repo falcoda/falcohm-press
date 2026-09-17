@@ -121,7 +121,17 @@ documents:
 - output\Loterie-Nationale\Loterie-Nationale-Partnership-2026.pdf
 - output\Loterie-Nationale\Loterie-Nationale-OnePager-2026.pdf
 - output\Loterie-Nationale\email.md
-interactions: []
+interactions:
+- date: '2026-09-09'
+  type: note
+  resume: 'Question de Corentin le 2026-09-09 : peut-on contacter la Loterie ? Reponse
+    du depot : oui, mais c''est un portail, pas un mail (aucun contact humain publie,
+    contacts vides). Regle eliminatoire : demande au plus tard 3 MOIS AVANT l''evenement.
+    Halloween Shadow du 31/10 est donc hors delai depuis le 31/07. Viser la premiere
+    date de 2027 : creer le compte maintenant, monter le budget sur les postes eligibles
+    (cachets, technique, scene, production ; jamais assurances, taxes, carburant,
+    consultance, catering), et deposer des que la date est fixee, avec plus de 3 mois
+    de marge. Il manque au depot la date de la premiere edition 2027.'
 events: []
 next_action:
   what: Créer le compte sur demandesubside.loterie-nationale.be et préparer la demande

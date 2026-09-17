@@ -7,7 +7,7 @@ sector: audio
 persona: fabricant-audio
 categories:
 - audio_components
-status: lead
+status: paused
 phase: 1
 tags: []
 score: 34
@@ -92,10 +92,21 @@ documents:
 - output\PHL-Audio\PHL-Audio-Partnership-2026.pdf
 - output\PHL-Audio\PHL-Audio-OnePager-2026.pdf
 - output\PHL-Audio\email.md
-interactions: []
+interactions:
+- date: '2026-09-11'
+  type: note
+  resume: 'MIS EN PAUSE sur decision de Corentin le 2026-09-11. Leur seule demande
+    portait sur leurs propres haut-parleurs, or nos transducteurs sont arretes par
+    les plans : B&C et RCF, sans substitution possible (data/bom.yaml, driver_substitution,
+    arbitrage du 2026-09-09). Aucun contact n''avait ete pris.'
 events: []
 next_action:
-  what: ''
+  what: >-
+    EN PAUSE, decision de Corentin du 2026-09-11. Leur seule demande portait sur leurs propres
+    haut-parleurs, et nos transducteurs sont arretes par les plans : B&C et RCF, sans substitution
+    possible (data/bom.yaml, driver_substitution). Le kick bin partira tres probablement sur la meme
+    marque que le reste du parc. REPRISE : uniquement si un futur modele est dessine autour de leurs
+    transducteurs. Aucune date, a revoir au choix du kick bin.
   due: ''
 notes: 'PHL ne distribue pas en direct partout : sa page « distribution » ne liste
   que deux distributeurs mondiaux, Audio Solvation (NL, Sittard, 1h de Genappe) et

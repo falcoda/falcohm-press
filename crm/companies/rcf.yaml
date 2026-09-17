@@ -9,7 +9,7 @@ persona: fabricant-audio
 categories:
 - audio_components
 - amplification
-status: lead
+status: replied
 phase: 1
 tags: []
 score: 29
@@ -66,6 +66,42 @@ sponsorship_history:
   url: https://it.wikipedia.org/wiki/RCF_Arena
   retrieved_on: 2026-07-14
 contacts:
+- name: Matthijs Klaasse
+  role: Senior Sales Manager BeNeLux, RCF Germany GmbH
+  email: matthijs.klaasse@rcf.de
+  email_status: verified_public
+  linkedin: ''
+  phone: +31 646 846 187
+  source_url: https://www.rcf.it/en/rcf-germany-benelux-austria-staff
+  retrieved_on: '2026-09-17'
+  evidence: 'Courriel RECU le 2026-09-17 a 09:25 depuis matthijs.klaasse@rcf.de, signe
+    « Matthijs Klaasse / Senior Sales Manager BeNeLux / RCF Germany GmbH / Mobil:
+    +31 (0)646 846 187 ». Adresse prouvee par le fait qu''il nous a ecrit ; matthijs@rcf.de,
+    publiee sur la page d''equipe, lui parvient aussi.'
+- name: Matthijs Klaasse
+  role: Senior Sales Manager BeNeLux, bureau RCF Allemagne, BeNeLux et Autriche
+  email: matthijs@rcf.de
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.rcf.it/en/rcf-germany-benelux-austria-staff
+  retrieved_on: '2026-09-13'
+  evidence: 'Page officielle « RCF Germania - BeNeLux - Austria STAFF » sur rcf.it
+    : « Matthijs Klaasse », « Senior Sales Manager BeNeLux », « matthijs@rcf.de ».
+    Lue par extraction le 2026-09-13 : rouvrir la page dans un navigateur avant l''envoi.
+    Domaine rcf.de et non rcf.it : c''est la filiale allemande qui couvre le Benelux,
+    publiée par RCF elle-même.'
+- name: Niels Timmermanns
+  role: Application Support Germany/BeNeLux (support technique, pas commercial)
+  email: niels@rcf.de
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://www.rcf.it/en/rcf-germany-benelux-austria-staff
+  retrieved_on: '2026-09-13'
+  evidence: 'Même page : « Niels Timmermanns », « Application Support Germany/BeNeLux
+    », « niels@rcf.de ». Interlocuteur technique : ne pas lui adresser une demande
+    commerciale.'
 - name: ''
   role: DPO / vie privée
   email: privacy@rcf.it
@@ -117,18 +153,38 @@ sources:
   retrieved_on: 2026-07-14
 - url: https://www.rcf.it/en/privacy-policy
   retrieved_on: '2026-07-14'
+- url: https://www.rcf.it/en/rcf-germany-benelux-austria-staff
+  retrieved_on: '2026-09-13'
+- url: https://www.rcf.it/en/-/rcf-announces-a-new-distributor-in-benelux
+  retrieved_on: '2026-09-13'
 documents:
 - output\RCF-S-p-A\RCF-S-p-A-Partnership-2026.pdf
 - output\RCF-S-p-A\RCF-S-p-A-OnePager-2026.pdf
 - output\RCF-S-p-A\email.md
-interactions: []
+interactions:
+- date: '2026-09-16'
+  type: mail
+  resume: 'PREMIER CONTACT ENVOYE PAR CORENTIN LE 2026-09-16 A 16:21 a Matthijs Klaasse
+    (matthijs@rcf.de), en anglais, sans piece jointe. Le 21LF-N451 deja dans nos MTH
+    4654 (environ 6 cette annee selon le prix) ; demande de conditions preferentielles
+    sur le 21LF-N451 et ses kits de reconing ; contrepartie marquage sur les caissons
+    et documentation du build ; question : est-ce lui pour la Belgique.'
+- date: '2026-09-17'
+  type: réponse
+  resume: 'RECU LE 2026-09-17 A 09:25 de Matthijs Klaasse (matthijs.klaasse@rcf.de,
+    Senior Sales Manager BeNeLux, RCF Germany GmbH, Koln, mobile +31 646 846 187).
+    Il demande une clarification : « Do you need a collaboration/good price for the
+    lf21n451, so you can use this component for your self-build speakers? ». Reponse
+    en brouillon Gmail : oui, bon prix sur environ 6 unites cette annee et kits de
+    reconing, nom RCF sur les caissons en retour ; question : quel prix sur six unites,
+    en direct ou via un revendeur.'
 events: []
 next_action:
-  what: 'Trouver un interlocuteur nomme chez RCF, cote OEM ou distribution Benelux,
-    AVANT tout envoi : la fiche n''a que le DPO et un info@. Argument d''ouverture
-    desormais solide : leur 21LF-N451 est deja dans notre nomenclature, nous ne demandons
-    pas a essayer leur produit, nous l''achetons deja.'
-  due: '2026-09-20'
+  what: 'REPONSE A MATTHIJS EN BROUILLON GMAIL (sans citation) : oui, bon prix sur
+    environ 6 x 21LF-N451 cette annee et kits de reconing, nom RCF sur les caissons
+    ; question : prix sur six unites, en direct ou via revendeur. Comparer ensuite
+    avec le prix TLHP (compte pro).'
+  due: '2026-09-18'
 notes: 'Aucun e-mail public : le site n''expose qu''un formulaire et un helpdesk.
   Coordonnées lues : "Via Raffaello Sanzio, 13 42124 Reggio Emilia (RE) Italy", tél.
   "+39 0522 274 411", VAT "04081310965". À noter : RCF et Eighteen Sound sont tous
