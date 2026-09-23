@@ -9,7 +9,7 @@ persona: fabricant-audio
 categories:
 - audio_components
 - amplification
-status: replied
+status: lost
 phase: 1
 tags: []
 score: 29
@@ -178,6 +178,17 @@ interactions:
     en brouillon Gmail : oui, bon prix sur environ 6 unites cette annee et kits de
     reconing, nom RCF sur les caissons en retour ; question : quel prix sur six unites,
     en direct ou via un revendeur.'
+- date: '2026-09-18'
+  type: réponse
+  resume: 'DEUX REPONSES DE MATTHIJS KLAASSE LE 2026-09-18. (1) 15:50 : pas de compte
+    direct chez RCF pour six pieces, « setting up an account at RCF for ''only'' 6
+    pieces, that''s a bit too much work », il propose de nous connecter a un revendeur
+    belge. (2) 16:21, apres la question de Corentin sur le minimum : « The rough sales
+    price of the LF21N451 is between 600 and 700 euro''s. You need 6 per year, so
+    that''s roughly 4200 EUR per year of sales. I''m aiming on about 15K to 20K per
+    year when I''m doing direct business with an account ». Il renvoie au reseau de
+    revendeurs, dedie aux petits comptes, et annonce que quelqu''un nous contactera.
+    REPERE DE PRIX OBTENU : 600 a 700 EUR l''unite, prix de vente indicatif.'
 events: []
 next_action:
   what: 'REPONSE A MATTHIJS EN BROUILLON GMAIL (sans citation) : oui, bon prix sur

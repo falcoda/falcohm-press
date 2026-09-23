@@ -303,16 +303,45 @@ other_needs:
 # Catégories données par Corentin, SANS quantités à ce jour. Premier destinataire : LG-Concept, qui a
 # accepté une remise partenaire contre visibilité le 2026-09-16.
 lighting_needs:
-  source: Corentin Dallenogare, 2026-09-16
+  source: Corentin Dallenogare, 2026-09-16, complété le 2026-09-18
   items:
     - { item: Machine à fumée, note: "une Look Unique 2 déjà au parc (data/equipment.yaml) : besoin en complément, à préciser" }
+    - { item: Liquide à fumée, note: "ajouté le 2026-09-18 ; consommable, à racheter régulièrement" }
     - { item: PAR LED }
     - { item: Lyres }
+    - { item: "Lyres avec anneau LED (effet halo)", note: "« lyre avec rond dedans », Corentin 2026-09-18 ; modèle exact à confirmer" }
     - { item: Petites wash }
-    - { item: "Projecteurs de type Showtec Sabre, ou équivalent" }
+    - { item: "Projecteurs de type Showtec Saber, ou équivalent" }
     - { item: "Univers Art-Net (nodes)" }
     - { item: Truss, note: "seulement si le prix est avantageux" }
+    - { item: Monotubes, note: "ajouté le 2026-09-18" }
+    - { item: Embases, note: "ajouté le 2026-09-18 ; embases de pied ou de truss, à préciser" }
+    - { item: Praticables, note: "ajouté le 2026-09-18 ; scène, pas éclairage, mais demandé au même revendeur" }
   todo: Quantités par catégorie. Sans elles, aucun revendeur ne chiffre la remise.
+
+# ---------------------------------------------------------------------------
+# 6. AMPLIFICATION : achats (Corentin, 2026-09-18)
+# ---------------------------------------------------------------------------
+# Achat simple chez un revendeur, PAS une demande de partenariat : l'amplification reste un poste
+# couvert (data/existing-suppliers.yaml), on n'y propose aucun marquage « Powered by X ».
+amp_needs:
+  source: Corentin Dallenogare, 2026-09-18
+  items:
+    - { item: "ADmark AD442", note: "référence donnée par Corentin" }
+    - { item: "Lab.gruppen PLM 24K44", note: "référence donnée par Corentin, à vérifier : la gamme PLM+ connue compte le 12K44 et le 20K44" }
+  todo: Quantités.
+
+# Prix de reference, pour juger une offre. Sert de mètre étalon, jamais de chiffre envoyé tel quel.
+reference_prices:
+  - item: RCF 21LF-N451
+    best_known_eur_htva: 422.62   # offre TLHP Q-2609_RD84US du 2026-09-22 ; 443,75 EUR au tarif revendeur du compte
+    source: "Corentin, 2026-09-21 ; precise le 2026-09-22 : c'est le prix de TLHP (offre Q-2609_RD84US)"
+    list_price_eur: "600 à 700"
+    list_source: "Matthijs Klaasse, RCF Benelux, 2026-09-18 : « The rough sales price of the LF21N451 is between 600 and 700 euro's »"
+    note: >-
+      Toute offre au-dessus de 443 EUR HTVA n'en est pas une. Devis Bekafun BEKA-SQ26009586 du
+      2026-09-18 : prix non relevé dans le dépôt, à comparer à ces 443 EUR.
+
 
 # ---------------------------------------------------------------------------
 # 4. CE QUI MANQUE ENCORE

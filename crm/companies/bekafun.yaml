@@ -1,0 +1,91 @@
+slug: bekafun
+company: Bekafun BV
+aka:
+- Bekafun
+country: BE
+sector: audio
+persona: fournisseur-technique
+categories:
+- distributors
+- audio_components
+status: replied
+phase: 1
+tags:
+- revendeur
+- belge
+score: 18
+website: https://www.bekafun.be
+knowledge: ''
+profile:
+  activity: Revendeur belge de materiel son et lumiere, vers qui RCF Benelux nous
+    a orientes le 2026-09-18 pour les transducteurs RCF.
+  products:
+  - Transducteurs RCF
+  - Materiel son et lumiere
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Premier revendeur a avoir chiffre : devis BEKA-SQ26009586 pour le 21LF-N451,
+  envoye le 2026-09-18 a la suite du renvoi de Matthijs Klaasse (RCF Benelux). Leur
+  mail invite ouvertement a negocier si un meilleur prix existe ailleurs.'
+ask:
+  type:
+  - discount
+  detail: 'Un prix sur le 21LF-N451, six unites pour commencer, puis en recurrent,
+    plus les kits de reconing. Repere : l''ASBL les obtient deja a 443 EUR HTVA (data/bom.yaml,
+    reference_prices).'
+  public: '- le RCF 21LF-N451, six unites pour commencer, puis de facon recurrente,
+    et les kits de reconing.'
+  realistic_value_eur: 0
+values: []
+sponsorship_history: []
+contacts:
+- name: ''
+  role: Equipe commerciale (Team Bekafun)
+  email: sales@bekafun.be
+  email_status: generic
+  linkedin: ''
+  phone: ''
+  source_url: https://www.bekafun.be
+  retrieved_on: '2026-09-21'
+  evidence: Courriel RECU le 2026-09-18 a 17:11 depuis sales@bekafun.be, objet « Bekafun
+    BV - offerte - BEKA-SQ26009586 - rcf woofer », signe « Bekafun BV / Team Bekafun
+    », devis PDF joint. Adresse prouvee par le fait qu'ils nous ont ecrit.
+inbound_channels: []
+scoring:
+  business_fit: 7
+  partnership_probability: 5
+  impact_if_successful: 5
+  rationale: 'Fit correct : ils vendent le transducteur exact de notre nomenclature,
+    en Belgique. Probabilite moyenne : ils ont deja chiffre et invitent a negocier,
+    mais rien ne dit qu''ils descendront sous 443 EUR. Impact moyen : un prix d''achat,
+    pas un partenariat.'
+deadlines: []
+sources: []
+documents: []
+interactions:
+- date: '2026-09-18'
+  type: réponse
+  resume: 'DEVIS RECU LE 2026-09-18 A 17:11 (BEKA-SQ26009586, « rcf woofer », PDF
+    joint), a la suite du renvoi de RCF Benelux. Mail en neerlandais, qui invite a
+    negocier : « Graag reactie als U meer informatie wil, aanpassingen wil doen, of
+    ''elders'' een betere prijs hebt gekregen ». Prix du devis non releve dans le
+    depot (PDF non ouvert).'
+- date: '2026-09-21'
+  type: mail
+  resume: 'REPONSE PREPAREE EN BROUILLON GMAIL r-49817735145486115, en anglais : nous
+    obtenons deja le 21LF-N451 a 443 EUR HTVA (Corentin, 2026-09-21), peuvent-ils
+    s''aligner ou faire mieux ; six unites pour commencer, besoin recurrent, kits
+    de reconing aussi.'
+events: []
+next_action:
+  what: 'ENVOYER LE BROUILLON GMAIL r-49817735145486115 (anglais) : alignement sur
+    443 EUR HTVA. Relever le prix du devis BEKA-SQ26009586 et l''inscrire dans data/bom.yaml,
+    reference_prices. Sans reponse au 2026-10-01, relancer une fois, puis comparer
+    avec TLHP et SoundImports le jour ou B&C et RCF y sont disponibles.'
+  due: '2026-10-01'
+notes: 'Entreprise flamande : ecrire en ANGLAIS, jamais en neerlandais (CLAUDE.md).
+  Devis recu en neerlandais.'

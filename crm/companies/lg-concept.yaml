@@ -108,8 +108,10 @@ events: []
 next_action:
   what: LG-Concept attend UNE LISTE CHIFFREE pour faire offre (light, son, truss,
     video, neuf et occasion). Etablir les QUANTITES avec Corentin (data/bom.yaml,
-    lighting_needs), puis leur envoyer. Juger l'offre contre la valeur de la visibilite
-    (data/visibility-rates.yaml).
+    lighting_needs, liste completee le 2026-09-18), puis leur envoyer en demandant
+    le POURCENTAGE de remise par marque sur prix public HTVA, pas seulement un prix
+    total. Comparer avec Arto (crm/companies/arto.yaml), qui annonce aussi une remise
+    sur la gamme Beglec. Juger l'offre contre la valeur de la visibilite (data/visibility-rates.yaml).
   due: '2026-09-21'
 notes: 'Aussi prestataire (location, DJ) : garder la relation sur l''achat. Grand-Leez,
   environ 25 km de Genappe.'

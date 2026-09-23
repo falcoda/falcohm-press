@@ -1,0 +1,91 @@
+slug: arto
+company: Arto
+aka:
+- Arto SPRL
+country: BE
+sector: eclairage
+persona: fournisseur-technique
+categories:
+- lighting
+- distributors
+status: replied
+phase: 1
+tags:
+- revendeur
+- belge
+score: 25
+website: https://www.arto.tv
+knowledge: ''
+profile:
+  activity: 'Revendeur des gammes Beglec dans notre region, client B2B de Beglec (Kevin
+    David, 2026-09-15).'
+  products:
+  - Eclairage, gammes Beglec (vente)
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'Deuxieme revendeur d''eclairage a repondre positivement : offre de prix avec
+  une « remise professionnelle attractive » sur la gamme Beglec (Hugo Neyens, 2026-09-18).
+  Sert de point de comparaison face a LG-Concept.'
+ask:
+  type:
+  - discount
+  - visibility
+  detail: 'Remise en pourcentage sur prix public, par marque de la gamme Beglec. A
+    comparer avec LG-Concept. Amplification : achat simple, jamais de marquage « Powered
+    by ».'
+  public: '- des conditions preferentielles sur nos achats d''eclairage, dans un partenariat
+    durable.'
+  realistic_value_eur: 0
+values:
+- relation commerciale durable
+sponsorship_history: []
+contacts:
+- name: Hugo Neyens
+  role: ''
+  email: hugo@arto.tv
+  email_status: verified_public
+  linkedin: ''
+  phone: +32 498 62 82 17
+  source_url: https://www.arto.tv
+  retrieved_on: '2026-09-18'
+  evidence: 'Signature du courriel RECU le 2026-09-18 a 10:28 en reponse a notre mail
+    a info@arto.tv : « Hugo Neyens / Tél. : +32 (0)10.40.13.05 / Gsm : +32 (0)498.62.82.17
+    / E-Mail : hugo@arto.tv ».'
+inbound_channels: []
+scoring:
+  business_fit: 6
+  partnership_probability: 7
+  impact_if_successful: 6
+  rationale: 'Fit correct : revendeur Beglec, eclairage neuf, le poste le plus vide du
+    parc. Probabilite bonne : remise annoncee par ecrit, mais il parle de « remise professionnelle
+    », pas encore de visibilite. Impact moyen : conditions d''achat, et surtout un levier
+    de comparaison face a LG-Concept.'
+deadlines: []
+sources:
+- url: https://www.arto.tv
+  retrieved_on: '2026-09-18'
+documents: []
+interactions:
+- date: '2026-09-16'
+  type: mail
+  resume: 'MAIL ENVOYE PAR CORENTIN LE 2026-09-16 A 16:21 a info@arto.tv : achat d''eclairage
+    neuf dans un partenariat durable, conditions preferentielles contre notre nom sur
+    le materiel et dans notre communication ; cite Kevin David (Beglec) comme source.'
+- date: '2026-09-18'
+  type: réponse
+  resume: 'RECU LE 2026-09-18 A 10:28 de Hugo Neyens (hugo@arto.tv, info@ en copie)
+    : « Il nous est effectivement tout à fait possible de vous transmettre une offre
+    de prix avec une remise professionnelle attractive pour des produits de la gamme
+    de chez Beglec. Quelles seraient les références que vous recherchez ? ». Propose
+    le telephone (on repond par ecrit).'
+events: []
+next_action:
+  what: 'Repondre a Hugo Neyens : liste par categories, et demander le pourcentage de
+    remise par marque sur prix public HTVA. Comparer avec LG-Concept.'
+  due: '2026-09-21'
+notes: 'Ne vend a priori que la gamme Beglec : pas de Lab.gruppen ni d''ADmark attendus
+  ici.'

@@ -12,7 +12,7 @@ persona: fournisseur-technique
 categories:
 - distributors
 - audio_components
-status: followup_1
+status: negotiation
 phase: 1
 tags:
 - client-pro
@@ -257,14 +257,149 @@ interactions:
     exacte, « tous » ou non, non confirmee), en plus du marquage sur les caissons
     et de la documentation du build. Rappelle le mail du 2026-09-13 et l''orientation
     de B&C vers ses distributeurs.'
+- date: '2026-09-21'
+  type: réponse
+  resume: 'REPONSE DE MATHIEU (TLHP) LE 2026-09-21 A 14:45, via le formulaire du compte
+    pro : la demande peut etre examinee directement par leurs services. Il demande
+    references, quantites, calendrier, besoins sur 12 mois, autres composants, niveau
+    de participation attendu (conditions tarifaires, remise sur quantite ou fourniture
+    partielle). Il note nos achats B&C deja faits chez eux (6NDL38-16 et DH450-16,
+    retours actifs). Il demande si la proposition a ete adressee a d''autres fournisseurs,
+    et si TLHP serait fournisseur principal ou l''un de plusieurs.'
+- date: '2026-09-22'
+  type: mail
+  resume: 'REPONSE ENVOYEE PAR CORENTIN LE 2026-09-22. Besoin avant Halloween (evenement
+    de 2 500 a 3 000 personnes) : 6 x RCF LF21N451-8, 4 x B&C 12NDL88-16, 2 x DCX464-16+16,
+    2 x FB46416V2 (6 subs et 2 tetes 3 voies). Sur 12 mois, environ : 12 x 12NDL88-16
+    (ou equivalent 14 pouces), 6 x DCX464, 6 x FB464, selon la livraison du prochain
+    plan. Autres : Warnex BLK-6 et WHITE-1, poignees, borniers Speakon, vis noires,
+    kits de recone. B&C marque de toutes nos tetes, RCF pour les subs. Prix compares
+    ailleurs, aucun partenariat son conclu, ouverts a TLHP fournisseur principal ;
+    demarche eclairage ailleurs. Participation : reduction en pourcentage fixe sur
+    tous nos achats, sur la duree, OU fourniture partielle de la serie Halloween ;
+    en retour : affiches d''evenements, reseaux, caissons. Logo sur les retours actifs
+    B&C contre une reduction sur ces commandes passees. Question : delai de reponse,
+    et application des conditions aux commandes de la semaine prochaine si accord.'
+- date: '2026-09-22'
+  type: réponse
+  resume: 'REPONSE DE MATHIEU (TLHP) LE 2026-09-22 A 12:26. ACCORD DE PRINCIPE, progressif
+    : « des conditions correspondant à un niveau revendeur, directement appliquées
+    à votre compte client TLHP », applicables aux prochaines commandes dont la serie
+    actuelle (Halloween), pas retroactives sur les commandes livrees. Revision possible
+    vers une remise plus avantageuse si les volumes se confirment et que TLHP devient
+    fournisseur principal. PAS de fourniture gratuite ni partielle. CONTREPARTIE DEMANDEE
+    : logo TLHP sur les nouveaux caissons, les affiches d''evenements, les supports
+    numeriques et les contenus de fabrication, « pendant toute sa durée ». POURCENTAGE
+    NON CHIFFRE. COMPTE : enregistre comme compte PARTICULIER (et non pro, contrairement
+    a ce que le depot notait) ; choix a faire : le faire evoluer au nom de l''ASBL
+    en gardant l''historique (a condition de confirmer que les commandes passees etaient
+    pour l''ASBL), ou ouvrir un second compte. Stocks et delais avant Halloween a
+    verifier de leur cote.'
+- date: '2026-09-22'
+  type: mail
+  resume: 'REPONSE ENVOYEE PAR CORENTIN LE 2026-09-22 (formulaire / compte client).
+    Accord de principe sur une collaboration progressive. Compte : faire evoluer le
+    compte actuel en compte professionnel au nom de l''ASBL, informations confirmees
+    exactes, commandes passees realisees pour l''association (declaration de Corentin).
+    Questions sur la visibilite : quels caissons (serie actuelle et suivantes, construits
+    avec leurs composants), quelle forme (autocollant, plaque), fournie ou non. Question
+    sur le chiffre : ce que representent les conditions revendeur (pourcentage ou
+    prix sur la liste Halloween), disponibilites et delais. La frequence des affiches
+    n''est volontairement pas abordee.'
+- date: '2026-09-22'
+  type: réponse
+  resume: 'OFFRE RECUE LE 2026-09-22 (12:xx puis 14:14). Compte passe en PROFESSIONNEL
+    au nom de l''ASBL, historique conserve, premier niveau de conditions revendeur
+    applique durablement. Pas de pourcentage fixe (remises variables selon marques
+    et references). OFFRE SPECIFIQUE Q-2609_RD84US pour la serie Halloween : 4 089,87
+    EUR HT hors transport, au lieu de 4 451,82 EUR HT (soit 361,95 EUR, environ 8,1
+    %), valable jusqu''au 2026-10-02, presentee comme « accompagnement exceptionnel
+    ». Reevaluation du niveau permanent si les volumes se confirment. Aucune reservation
+    avant validation et paiement ; livraison avant Halloween non garantie ; delais
+    sur les pages produit. VISIBILITE EXIGEE : logo TLHP sur les caissons et enceintes
+    de la serie actuelle et des futures realisations equipees de composants TLHP,
+    pendant la collaboration ; pas de support fourni, logos PNG fournis (blanc, noir,
+    gris fonce/orange ; AI, JPEG, PDF sur demande) ; logo complet avec « TLHP », les
+    ondes et « toutlehautparleur.com », couleurs et proportions intactes, contraste
+    adapte. AFFICHES ET COMMUNICATION : simple AUTORISATION (« pourra ») pour les
+    evenements ou du materiel TLHP est utilise, toute autre utilisation sur accord
+    ecrit prealable.'
+- date: '2026-09-22'
+  type: note
+  resume: 'DETAIL DE L''OFFRE Q-2609_RD84US (lignes transmises par Corentin le 2026-09-22)
+    : RCF LF21N451-8 6 x 422,62 ; Warnex noir 6 kg 75,38 ; Warnex blanc 1 kg 21,67
+    ; 12NDL88-16 4 x 162,71 ; DCX464-16+16 2 x 343,63 ; FB46416V2 2 x 59,50 ; total
+    4 089,87 EUR HT. Meme panier au tarif revendeur du compte, sans l''offre : 4 370,64
+    EUR HT. GAIN DE L''OFFRE : 280,77 EUR HT (environ 6,4 %). Disponibilites du panier
+    : 12NDL88 et Warnex noir en stock ; RCF environ 3 semaines ; FB464 4 au 11 oct.
+    ; Warnex blanc 13 au 20 oct. ; DCX464 19 au 26 oct. chez TLHP : RISQUE pour Halloween
+    (31/10).'
+- date: '2026-09-22'
+  type: note
+  resume: 'NIVEAU REVENDEUR MESURE (panier avant activation, screen de Corentin, 2026-09-22)
+    : avant 4 451,82 EUR HT, apres activation 4 370,64 EUR HT (-81,18 EUR). Detail
+    : RCF LF21N451 443,75 -> 443,75 (0 %) ; Warnex noir et blanc inchanges (0 %) ;
+    12NDL88-16 183,05 -> 175,72 (-4,0 %) ; DCX464-16+16 403,39 -> 381,29 (-5,5 %)
+    ; FB46416V2 69,85 -> 66,02 (-5,5 %). LA REMISE DURABLE NE PORTE QUE SUR LE B&C,
+    4 a 5,5 %, soit environ 250 EUR par an sur les besoins prevus a 12 mois. Pistes
+    : etendre le niveau revendeur au RCF, et fixer un seuil chiffre pour la reevaluation
+    promise.'
+- date: '2026-09-22'
+  type: mail
+  resume: 'TROIS MESSAGES DE CORENTIN LE 2026-09-22 (14:40, 14:45, 14:49), via le
+    compte client. (1) Pret a valider rapidement ; demande le transport offert sur
+    cette premiere commande ; marquage en autocollants vinyle blanc, 8 au total (un
+    par caisson), a joindre a la commande ; DCX464-16+16 annonce en reception le 6
+    oct. chez TLHP, juge court pour Halloween : demande si DCX464-8+8 et FB464 8+8
+    ohm sont en stock comme alternative. (2) Adresse de LIVRAISON modifiee : 2 rue
+    du Champ Binette, 1380 Lasne, Belgique ; facturation inchangee (Rue des Croix
+    du Feu 4, 1473 Genappe). (3) Quantite de WARNEX-BLK-6 passee a 2. Le point « logo
+    limite aux 8 caissons de cette serie » n''a PAS ete aborde : a ouvrir au moment
+    de la serie suivante.'
+- date: '2026-09-22'
+  type: réponse
+  resume: 'DEUX MESSAGES DE MATHIEU LE 2026-09-22. (15:18) ULTIMATUM : la limitation
+    du logo a la serie actuelle « ne correspond pas au fonctionnement propose » ;
+    offre suspendue ; si le cadre initial n''est pas accepte (logo sur la serie actuelle
+    et les futures series principalement equipees chez TLHP), pas de partenariat :
+    compte pro conserve, mais sans conditions revendeur ni offre exceptionnelle. (15:27)
+    DELAIS : DCX464-8+8 2 pieces en stock (sinon 2 au 9 oct.) ; FI-FB4648 en stock
+    mais PAS en V2 ; FI-FB4648V2 1er au 8 oct. ; DCX464-16+16 19 au 26 oct. ; FI-FB46416V2
+    4 au 11 oct. Prix recalcule selon la version. Aucune reservation avant paiement.
+    Corentin a demande des precisions sur les avantages et reductions avant de confirmer
+    le cadre.'
+- date: '2026-09-23'
+  type: réponse
+  resume: 'ACCORD DE PARTENARIAT CONCLU. Mathieu confirme le 2026-09-23 a 06:18 le
+    cadre negocie par Corentin. CONTREPARTIES DUES PAR NOUS : logo TLHP sur les 8
+    caissons de la serie actuelle ; logo sur les futures series principalement equipees
+    de haut-parleurs et composants achetes chez TLHP ; mention de TLHP dans les contenus
+    consacres a la construction de ces realisations ; presence de TLHP dans la rubrique
+    partenaires de nos sites ; transmission de photographies des systemes realises,
+    utilisables par TLHP. ACTE PAR ECRIT, ET C''EST LE POINT GAGNE : « la presence
+    de TLHP sur les autres communications relatives a vos evenements et sur les publications
+    ne concernant pas directement la construction des systemes restera facultative
+    ». Les affiches d''evenement restent donc libres pour les partenaires evenementiels.
+    Autocollants a notre charge (TLHP fournit les fichiers, formats AI, JPEG ou PDF
+    sur demande, charte a respecter). CONFIGURATION RETENUE : 2 x DCX464-8+8, 2 x
+    FI-FB4648V2, 2 x WARNEX-BLK-6, plus 6 x RCF LF21N451-8. Offre mise a jour et reactivee,
+    montant recalcule pour le 8+8, a recevoir. Transport jamais offert par TLHP, pour
+    personne.'
 events: []
 next_action:
-  what: 'MAIL DU 2026-09-13 ET FORMULAIRE DU 2026-09-17 ENVOYES. Attendre. La reponse
-    peut arriver sur falcohm6tm@outlook.com (compte client) : y regarder aussi. Sans
-    nouvelles au 2026-10-01, derniere relance courte depuis Outlook, puis on arrete.
-    VIGILANCE : les affiches d''evenements ont ete offertes en contrepartie ; en negociation,
-    les rapporter a la valeur d''environ 800 EUR par evenement (data/visibility-rates.yaml).'
-  due: '2026-10-01'
+  what: 'ATTENDRE l''offre mise a jour (2 x DCX464-8+8, 2 x FI-FB4648V2, 2 x WARNEX-BLK-6,
+    6 x RCF), puis : (1) VERIFIER LE MONTANT recalcule pour le 8+8 contre les 4 089,87
+    EUR HT du 16+16 et contre le panier au tarif du compte ; (2) VERIFIER que les
+    canaux ADmark acceptent 8 ohm sur la voie aigu, et que le plan JW Sound l''admet
+    ; (3) VALIDER ET PAYER IMMEDIATEMENT : les 2 DCX464-8+8 en stock ne sont reserves
+    qu''au reglement, et les FI-FB4648V2 n''arrivent chez TLHP que du 1er au 8 oct.
+    ; livraison 2 rue du Champ Binette, 1380 Lasne, facturation inchangee. APRES PAIEMENT,
+    passer la fiche en won et produire : post LinkedIn, post Instagram, communique,
+    checklist d''activation (autocollants a faire imprimer, rubrique partenaires des
+    deux sites, photos a envoyer a TLHP). LEVIER SUIVANT : la reevaluation du niveau
+    permanent, sur volumes reels ; et grouper les achats de RCF par 8 (432,93 EUR)
+    ou 12 (422,62 EUR) au lieu de 6 (443,75 EUR).'
+  due: '2026-09-24'
 notes: 'SITE EN 403 : toutes les pages du site TLHP ont été lues en extraits de moteur,
   jamais ouvertes. Avant de citer un chiffre ou une condition à TLHP, l''ouvrir dans
   un navigateur.

@@ -12,7 +12,7 @@ categories:
 - distributors
 - audio_components
 - amplification
-status: sent
+status: replied
 phase: 1
 tags: []
 score: 50
@@ -315,6 +315,17 @@ interactions:
     ; demande les dimensions des coins MZF-8508 ; reporte les vis a une liste de tailles
     tiree des plans ; donne l''adresse de l''ASBL et le numero d''entreprise BE 0744.675.235
     pour le compte B2B.'
+- date: '2026-09-17'
+  type: réponse
+  resume: 'RECU LE 2026-09-17 A 16:23 d''Omar Sadek. COMPTE B2B CREE ET ACTIVE : «
+    I have created and activated your account », mail de creation de mot de passe
+    recu le meme jour. Prix business visibles apres connexion sur shop.audio-components.com.
+    Coins MZF-8508 : 40 x 31 x 31 mm. IMPORTANT : « the pricing currently applied
+    to your account is based on the fact that, for now, your purchases will mainly
+    consist of cabinet hardware. Once B&C is available in our assortment, we can review
+    your pricing again ». Et : pour des transducteurs ou d''autres composants en plus
+    grande quantite, il peut chercher une remise supplementaire et faire un devis
+    sur mesure.'
 events: []
 next_action:
   what: 'COMPTE B2B EN COURS : TVA et adresse envoyees a Omar le 2026-09-15. L''ASBL
