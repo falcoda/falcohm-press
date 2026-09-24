@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(PYTHONIOENCODING=utf-8 grep -rniE \"audio.?comp\" crm/companies/ targets/ modules/ knowledge/)"
+      "Bash(PYTHONIOENCODING=utf-8 grep -rniE \"audio.?comp\" crm/companies/ targets/ modules/ knowledge/)",
+      "Read(//c/Users/coren/AppData/Roaming/Code/User/**)"
     ]
   }
 }
