@@ -10,7 +10,7 @@ persona: institution
 categories:
 - public_funding
 - local_government
-status: followup_1
+status: replied
 phase: 2
 tags: []
 score: 24
@@ -24,8 +24,9 @@ profile:
   products:
   - Subsides communaux aux associations (budget communal)
   - Soutien logistique et matériel aux organisateurs d'événements sur le territoire
-  - Porte d'entrée obligatoire du dispositif provincial « Place aux jeunes » (contrepartie
-    1 € commune = 1 € Province)
+  - Financement communal du dispositif provincial « Place aux jeunes » (contrepartie
+    1 € commune = 1 € Province), dont la coordination et la mise en oeuvre sont confiées
+    au Centre culturel Le 38 et à la Maison des Jeunes (courrier E53476 du 2026-09-30)
   size:
     employees: ''
     revenue: ''
@@ -163,6 +164,7 @@ documents:
 - output\Ville-de-Genappe-Administration-communale\Ville-de-Genappe-Administration-communale-Partnership-2026.pdf
 - output\Ville-de-Genappe-Administration-communale\Ville-de-Genappe-Administration-communale-OnePager-2026.pdf
 - output\Ville-de-Genappe-Administration-communale\email.md
+- emails/genappe-reponse-courrier-e53476.md
 interactions:
 - date: '2026-09-04'
   type: mail
@@ -186,12 +188,27 @@ interactions:
     d''envoyer). Accroche : accuse de reception du 7 septembre ; argument : Place
     aux jeunes, 1 EUR commune = 1 EUR Province, engagement a preparer avant le budget
     ; question : ou en est l''examen.'
+- date: '2026-09-30'
+  type: réponse
+  resume: 'COURRIER OFFICIEL DE LA VILLE (réf. AG/API, entrée n° E53476), en pièce jointe
+    d''un e-mail d''Angie Pique (angie.pique@genappe.be, administration communale) du
+    2026-09-30 à 15:46. Signé par M. Tock, Directrice générale, et S. Bury (Stéphanie
+    Bury, Première échevine) pour le Bourgmestre empêché. Contenu : à Genappe, « Place
+    aux Jeunes » est organisé par le Centre culturel Le 38 et la Maison des Jeunes,
+    qui en assurent la coordination et la mise en oeuvre ; la Ville nous invite à les
+    contacter directement. Le volet « soutien communal direct à l''ASBL » n''est PAS
+    traité, ni accepté ni refusé. Le courrier vise « votre lettre du 7 septembre »,
+    date de l''accusé de réception du secrétariat, pas forcément celle de l''envoi.
+    Suites : fiche crm/companies/le-38.yaml créée, réponse rédigée (emails/genappe-reponse-courrier-e53476.md).'
 events: []
 next_action:
-  what: 'RELANCE ENVOYEE LE 2026-09-14 a Michael Rouffiange. Attendre. Point de controle
-    budget communal le 2026-09-30 : sans reponse a cette date, passer par le telephone
-    de l''echevinat plutot qu''un troisieme mail.'
-  due: '2026-09-30'
+  what: 'Envoyer emails/genappe-reponse-courrier-e53476.md en réponse à Angie Pique
+    (remerciement + une question : le soutien communal direct suit-il son propre chemin
+    ou faut-il une demande distincte, et auprès de quel service). Place aux Jeunes
+    est fermé pour 2026-2027 (réorienté santé et bien-être, le 38 n''y participe plus,
+    2026-10-01) : le soutien communal direct redevient la seule demande ouverte auprès
+    de la Ville. Ne plus parler de Place aux Jeunes à la commune.'
+  due: '2026-10-05'
 notes: 'ORDRE D''ATTAQUE : viser Michaël Rouffiange EN PREMIER (Festivités + Jeunesse
   = le périmètre exact de Gazmatek), puis Christophe Balestrie (Culture) en second
   appui, et n''aller vers le Bourgmestre Gérard Couronné (Finances et budget) qu''une
@@ -210,6 +227,12 @@ notes: 'ORDRE D''ATTAQUE : viser Michaël Rouffiange EN PREMIER (Festivités + J
   et aucun agent du service Culture n''est nommément identifiable sur le site. La
   page « Primes communales » (https://www.genappe.be/je-trouve/primes-communales)
   n''a pas été ouverte et pourrait contenir un règlement. Il faut passer par les échevins,
-  pas par un formulaire. ANGLE COMPLÉMENTAIRE : l''« ASBL des Salles Communales »
+  pas par un formulaire. MISE À JOUR DU 2026-10-01 : la commune n''est PAS le guichet opérationnel de Place
+  aux Jeunes, c''est le 38 avec la Maison des Jeunes (courrier E53476). Stéphanie Bury,
+  Première échevine (Enseignement, ATL, Académie de Musique, Plan de Cohésion Sociale),
+  signe pour le Bourgmestre et préside la commission du PCS où siègent Émilie Lavaux
+  et Tristan Scarnière du 38 (rapport annuel 2025, p. 11). Son adresse n''est pas encore
+  dans les contacts : à recopier depuis la page du Collège avec son evidence si on
+  doit lui écrire. ANGLE COMPLÉMENTAIRE : l''« ASBL des Salles Communales »
   relève de l''échevin de la Culture, piste pour un accès à une salle ou à du matériel
   à coût réduit.'

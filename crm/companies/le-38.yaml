@@ -1,0 +1,209 @@
+slug: le-38
+company: Le 38, Carrefour culturel de Genappe
+display_name: Le 38
+aka:
+- Centre culturel de Genappe
+- Le 38 Carrefour culturel
+- Maison des Jeunes de Genappe
+- Le Bug-1
+country: BE
+sector: institutionnel
+persona: institution
+categories:
+- local_government
+status: replied
+phase: 2
+tags:
+- institution
+- belge
+- jeunesse
+- contact-chaud
+score: 17
+website: https://le38.be/
+knowledge: knowledge/Le 38.md
+profile:
+  activity: 'Carrefour culturel de Genappe, Rue de Bruxelles 38, 1470 Genappe. Réunit
+    sous un même toit le Centre culturel, la Maison des Jeunes (ancien Bug-1), les
+    Ateliers du 38 (CEC) et une Fabrique de patrimoine. La Maison des Jeunes accueille
+    « une quarantaine de jeunes chaque jour » (Tristan Scarnière, L''Avenir, 30/09/2026).
+    Désigné par la Ville comme coordinateur de « Place aux Jeunes » (courrier E53476),
+    mais n''y participe plus en 2026-2027 : le dispositif a été réorienté vers la santé
+    et le bien-être des jeunes (Tristan Scarnière, 2026-10-01). Public large, pas seulement
+    ado : Centre culturel, Maison de jeunes et Centre d''expression et de créativité.
+    A un responsable technique (Damien Narciandi Alonso).'
+  products:
+  - Ancien porteur local de « Place aux Jeunes » (événement hip-hop au skatepark
+    de Genappe), arrêté en 2026-2027 après la réorientation du dispositif
+  - Parc technique propre géré par un responsable technique (contenu à connaître)
+  - 'Événements jeunesse de la Maison des Jeunes : Genappe Zoo (« Mini festival 100%
+    hip-hop »), skate contest et battle de breakdance, Passe à la Maison (portes ouvertes)'
+  - AG et CA ouverts aux associations socioculturelles du territoire
+  size:
+    employees: ''
+    revenue: ''
+  identifiers:
+    vat: ''
+    linkedin: ''
+why_us: 'C''est la Ville de Genappe qui nous y a envoyés (courrier E53476), et le
+  38 a répondu le jour même en mettant son responsable technique dans la boucle pour
+  « envisager un éventuel autre partenariat ». Place aux Jeunes est fermé, mais le
+  38 ne vise pas que les ados : Centre culturel, Maison de jeunes et CEC organisent
+  des événements qui ont besoin de son, et un centre culturel a un parc technique
+  (éclairage, scène) là où le nôtre est le plus faible (data/existing-suppliers.yaml
+  : l''éclairage est le poste le moins couvert). Deux voisins genappiens qui échangent
+  du matériel, c''est un partenariat qui dure.'
+ask:
+  type:
+  - services
+  - financial
+  detail: 'INTERNE, mis à jour le 2026-10-01 après la réponse de Tristan. Place aux
+    Jeunes est hors jeu (réorienté santé et bien-être, le 38 n''y participe plus).
+    Trois pistes soumises à Damien, responsable technique : (1) notre système son
+    et l''équipe au service d''événements du 38 ; (2) échange de matériel entre les
+    deux parcs, notre son contre leur éclairage ou leurs praticables (éclairage = poste
+    le moins couvert chez nous) ; (3) une date Gazmatek dans leurs lieux, si la salle
+    s''y prête (capacité, horaires, voisinage : rien de connu). Ne pas demander de subside au 38 : il est lui-même subsidié par la Ville
+    (Plan de Cohésion Sociale, 1.500 EUR par an au 38 ; subside de fonctionnement
+    à la Maison des Jeunes, rapport annuel 2025 de la Ville). Second temps : demander
+    à siéger à leur AG comme association socioculturelle du territoire.'
+  public: mettre notre système son et l'équipe qui l'exploite au service d'événements
+    du 38, échanger du matériel entre nos deux parcs (éclairage, praticables), ou
+    accueillir une date Gazmatek au 38
+  realistic_value_eur: 0
+values:
+- Cohésion sociale et lien entre habitants
+- Expression citoyenne et artistique
+- Jeunesse, accueil et activités abordables pour tous les jeunes
+- Tissu associatif local
+sponsorship_history:
+- what: Coordonne « Place aux Jeunes » à Genappe avec la Maison des Jeunes (courrier
+    de la Ville de Genappe, réf. E53476, reçu le 2026-09-30, pièce jointe d'un e-mail
+    d'Angie Pique, administration communale)
+  url: https://le38.be/
+  retrieved_on: '2026-10-01'
+- what: 'Maison des Jeunes : « Genappe Zoo: Mini festival 100% hip-hop », skate contest
+    et battle de breakdance, Passe à la Maison'
+  url: https://le38.be/la-maison-de-jeunes/projets-et-evenements/
+  retrieved_on: '2026-10-01'
+- what: 'Partenaire de la Ville : co-organise Genappe perd la Boule (décembre 2024),
+    Plateforme locale du Volontariat ; reçoit 1.500 EUR par an du Plan de Cohésion
+    Sociale ; la Ville subsidie la Maison des Jeunes pour son fonctionnement'
+  url: https://www.genappe.be/commune/administration/services-communaux/affaires-generales/fichiers/ra/ra2025-1.pdf
+  retrieved_on: '2026-10-01'
+contacts:
+- name: Tristan Scarnière
+  role: Coordinateur, Jeunesse (Maison des Jeunes)
+  email: tristan@le38.be
+  email_status: verified_public
+  linkedin: ''
+  phone: ''
+  source_url: https://le38.be/a-propos/notre-equipe/
+  retrieved_on: '2026-10-01'
+  evidence: Tristan Scarnière / Coordinateur - Jeunesse / tristan@le38.be (adresse
+    protégée par l'encodeur anti-spam CleanTalk, affichée « tr*****@**38.be », décodée
+    au clic par Corentin le 2026-10-01)
+- name: Damien Narciandi Alonso
+  role: Régisseur, présenté par Tristan Scarnière comme « responsable technique du
+    38 »
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://le38.be/a-propos/notre-equipe/
+  retrieved_on: '2026-10-01'
+  evidence: 'Damien Narciandi Alonso / Régisseur / adresse protégée (affichée « da****@**38.be
+    ») ; mis en copie par Tristan Scarnière dans sa réponse du 2026-10-01 : son adresse
+    exacte est dans l''en-tête de ce mail, à recopier ici'
+- name: Émilie Lavaux
+  role: Directrice
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://le38.be/a-propos/notre-equipe/
+  retrieved_on: '2026-10-01'
+  evidence: Émilie Lavaux / Directrice / adresse protégée par l'encodeur anti-spam
+    CleanTalk (affichée « em****@**38.be »)
+- name: Cécile Voglaire
+  role: Chargée de projet, Culture
+  email: ''
+  email_status: none
+  linkedin: ''
+  phone: ''
+  source_url: https://le38.be/a-propos/notre-equipe/
+  retrieved_on: '2026-10-01'
+  evidence: Cécile Voglaire / Chargée de projet, Culture / adresse protégée (affichée
+    « ce****@**38.be »)
+inbound_channels:
+- type: form
+  url: https://le38.be/a-propos/contact/
+scoring:
+  business_fit: 6
+  partnership_probability: 7
+  impact_if_successful: 4
+  rationale: 'RÉVISÉ LE 2026-10-01 : Place aux Jeunes est fermé, mais Tristan a répondu
+    le jour même et mis le responsable technique en copie pour un autre partenariat
+    : probabilité 7. Le fit reste 6 (un centre culturel a des besoins de son et un
+    parc d''éclairage, mais rien ne dit encore qu''il prête ou échange). Impact 4 :
+    local, en nature, mais durable. ANALYSE D''ORIGINE : Le fit est réel mais indirect : la Maison des Jeunes fait des événements
+    musicaux qui ont besoin d''un système son, mais pour des 10-20 ans, alors que
+    Gazmatek vise les 18-34 ans. On n''y entre pas avec un événement Gazmatek, on
+    y entre avec le matériel et l''équipe de Falc''ohm System. La probabilité est
+    correcte : c''est la Ville qui nous y envoie par écrit, la structure est locale
+    et accessible, mais l''enveloppe 2026-2027 est peut-être déjà engagée et ils ont
+    leurs propres prestataires. L''impact direct est faible (1.000 à 5.000 EUR doublés,
+    partagés avec les cachets), mais il compte ailleurs : un premier projet mené avec
+    un opérateur reconnu de la Fédération Wallonie-Bruxelles et la Province crédibilise
+    les dossiers Province et FWB, et ancre l''ASBL dans le tissu associatif genappien.'
+deadlines: []
+sources:
+- url: https://le38.be/a-propos/notre-equipe/
+  retrieved_on: '2026-10-01'
+- url: https://le38.be/la-maison-de-jeunes/projets-et-evenements/
+  retrieved_on: '2026-10-01'
+- url: https://www.lavenir.net/regions/brabantwallon/genappe/2026/09/30/a-genappe-le-38-ouvre-grand-ses-portes-pour-lancer-sa-nouvelle-saison-ZO75HN72AZDBVAZUKVNAKUUMQY/
+  retrieved_on: '2026-10-01'
+- url: https://www.genappe.be/commune/administration/services-communaux/affaires-generales/fichiers/ra/ra2025-1.pdf
+  retrieved_on: '2026-10-01'
+documents:
+- emails/le38-place-aux-jeunes.md
+- emails/le38-reponse-damien.md
+interactions:
+- date: '2026-10-01'
+  type: note
+  resume: 'Fiche créée sur orientation écrite de la Ville de Genappe (courrier réf.
+    E53476, reçu le 2026-09-30) : à Genappe, Place aux Jeunes est coordonné par le
+    38 et la Maison des Jeunes. Premier mail rédigé pour Tristan Scarnière (emails/le38-place-aux-jeunes.md),
+    en attente de son adresse décodée.'
+- date: '2026-10-01'
+  type: mail
+  resume: 'Premier contact envoyé par Corentin à Tristan Scarnière (tristan@le38.be),
+    sur orientation de la Ville (courrier E53476). Deux pistes : un événement monté
+    ensemble dans Place aux Jeunes, ou à défaut un soutien matériel aux événements
+    de la MJ (Genappe Zoo). Précédent cité : MJ Le Prisme, Braine-l''Alleud. Question
+    : l''une des deux pistes vous intéresse-t-elle ?'
+- date: '2026-10-01'
+  type: réponse
+  resume: 'Réponse de Tristan Scarnière le 2026-10-01 à 14:54, Damien (responsable
+    technique du 38) en copie. Le 38 ne participe plus à Place aux Jeunes cette année
+    : historiquement un événement hip-hop au skatepark de Genappe, mais la Province
+    a réorienté le dispositif vers la santé mentale des jeunes, ils ne rentraient
+    plus dans le cadre. Le 38 = Maison de jeunes + Centre culturel + Centre d''expression
+    et de créativité : le public ado n''est pas leur seule cible. Il passe la main
+    à Damien pour envisager un autre partenariat.'
+events: []
+next_action:
+  what: 'Répondre à Tristan et Damien dans le même fil (emails/le38-reponse-damien.md) :
+    on leur demande ce qu''ils avaient en tête, partants pour sonoriser ou échanger
+    du matériel (éclairage). Puis recopier l''adresse de Damien depuis l''en-tête
+    du mail dans contacts.'
+  due: '2026-10-05'
+notes: 'Les adresses de l''équipe sont protégées par l''encodeur anti-spam CleanTalk
+  : elles se décodent au clic, dans un navigateur. On ne les décode pas par script,
+  on clique comme un visiteur. HOMONYMIE À NOTER, SANS CONCLURE : un Julien Scarnière
+  siège au Conseil communal de Genappe (rapport annuel 2025 de la Ville). Aucun lien
+  établi avec Tristan Scarnière, ne jamais en faire état. Émilie Lavaux et Tristan
+  Scarnière siègent tous deux à la Commission d''accompagnement du Plan de Cohésion
+  Sociale, présidée par Stéphanie Bury, Première échevine (rapport annuel 2025, p.
+  11). C''est elle qui signe « pour le Bourgmestre empêché » le courrier E53476 :
+  la Ville connaît ces deux interlocuteurs et les fréquente.'

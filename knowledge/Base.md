@@ -55,6 +55,7 @@ Le mot « sponsor » ? Une demande d'argent ? Un dossier trop long ? Noter les e
 |---|---|---|---|
 | 06/09/2026 | Tournage d'une publicité Base avec le matériel Falc'ohm, prestation facturée | En personne | Bien passé. Le logo Base sur le matériel relève du décor de tournage, pas d'un partenariat. Photos en interne uniquement. |
 | 09/09/2026 | Corentin rapporte ce que la responsable du tournage lui a dit | Oral | « Ils le recontacteront si d'autres projets se présentent. » Décision de Corentin : on ne cherche plus le décideur budget, on laisse venir. Fiche CRM en `paused`. |
+| 02/10/2026 | Sortie du clip « Tout est facile » sur la chaîne BASEBelgium | YouTube | Falc'ohm absent des crédits. Équipe projet BASE nommée : Sandrine Decleer, Laetitia Descamps, Catherine Van Dingenen, Stéphanie Lengelé. Brouillon : `emails/base-tout-est-facile.md`. |
 
 ## 10. Prochaine action
 - [ ] Rien à envoyer. Consigner le nom de la responsable du 06/09 dans la fiche CRM (sans adresse tant qu'aucune n'est prouvée).

@@ -198,9 +198,12 @@ deadlines:
   url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
 - what: 'Place aux jeunes, activités éligibles entre le début des vacances d''été
     et la fin des vacances de printemps de l''année suivante. Aucune date de clôture
-    publiée (vérifié le 2026-09-09). Porté par la commune : mail à Genappe parti le
-    04/09, relance le 14/09. Point de contrôle.'
-  date: '2026-10-01'
+    publiée (vérifié le 2026-09-09). PISTE FERMÉE À GENAPPE POUR 2026-2027 : le dispositif
+    a été réorienté vers la santé et le bien-être des jeunes (la page provinciale demande
+    de « porter une attention particulière à la santé et au bien-être des jeunes »,
+    vérifié le 2026-10-01), et le 38 n''y participe plus (Tristan Scarnière, 2026-10-01).
+    À revoir seulement si un projet bien-être des 10-20 ans se présente.'
+  date: '2027-04-30'
   url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/place-aux-jeunes
 sources:
 - url: https://www.brabantwallon.be/le-brabant-wallon/demarches/aides-et-formulaires/aide-a-lorganisation-devenements-culturels
@@ -266,8 +269,10 @@ next_action:
     subvention provinciale récurrente de 2.000 € ou plus (exclusion), puis relire
     le formulaire 2026 de l''aide aux événements culturels et préparer le dossier
     Catégorie 1 pour un dépôt début janvier 2027, examen par ordre d''arrivée. (4)
-    Place aux jeunes et Place aux Artistes : via la commune de Genappe, relance de
-    Michaël Rouffiange le 14/09. (5) LE DÉPUTÉ : Benjamin Goes (culture et jeunesse).
+    Place aux jeunes : FERMÉ pour 2026-2027 à Genappe (dispositif réorienté santé et
+    bien-être, le 38 n''y participe plus, 2026-10-01). La relation avec le 38 continue
+    sur un autre terrain, voir crm/companies/le-38.yaml.
+    Place aux Artistes : passe toujours par la commune. (5) LE DÉPUTÉ : Benjamin Goes (culture et jeunesse).
     Décoder son adresse sur la page officielle du Collège (protégée par Cloudflare,
     la version du site de son parti est à confirmer), puis, seulement après le premier
     dépôt administratif, une lettre de présentation sans demande, qui reprend ses

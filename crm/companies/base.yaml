@@ -42,11 +42,19 @@ ask:
   - visibility
   - services
   - material
-  detail: 'Ce n''est pas « donnez-nous de l''argent » mais un échange : accueillir
-    la cabine d''enregistrement mobile Base sur un événement Gazmatek (accès direct
-    à leur cible) contre un partenariat télécom/visibilité et, idéalement, une location/fourniture
-    de sonorisation Falc''ohm reconduite. Réactiver la relation existante avant la
-    fermeture de la fenêtre de septembre 2026.'
+  detail: 'REVU LE 2026-10-02 (décision de Corentin) : partenaire de l''ASBL dans la
+    durée, PAS d''une saison. Soutien de BASE contre visibilité Génération Débrouille sur
+    nos événements et nos canaux. Halloween Shadow (31/10) proposé comme première occasion,
+    AVEC RÉSERVE sur les délais. Ne pas écrire que l''ASBL découpe le bois : ce n''est
+    pas toujours le cas. Contreparties limitées au palier
+    « Partenaire de saison » (realistic: true) : ni naming, ni stand d''activation, ni
+    marquage caissons. Aucun montant écrit. La piste cabine est abandonnée (voir deadlines).
+    Pas de demande de crédit sur le clip.'
+  public: 'Un soutien de BASE à l''association, et en retour une présence Génération
+    Débrouille sur nos événements et nos canaux : logo sur les affiches de nos événements,
+    mention dans nos aftermovies et posts dédiés, droit d''usage de nos événements dans
+    votre communication, communiqué de presse commun, entrées et accès backstage sur
+    nos dates.'
   realistic_value_eur: 5000
 values:
 - Génération Débrouille (débrouillardise, DIY)
@@ -129,7 +137,31 @@ contacts:
   retrieved_on: 2026-07-14
   evidence: Motivated sponsoring requests can be submitted directly to the Social
     Impact (SI) SPOC, currently elise.verlinden@telenetgroup.be
+- name: Sandrine Decleer
+  role: Head of BASE Brand, Media and Communication, BASE (Telenet group) (titre de son
+    post LinkedIn du 2026-10-02 sur la sortie du clip, où elle remercie l'équipe projet). Membre de l'équipe
+    projet BASE nommée dans la description du clip « Tout est facile ». DÉCIDEUSE PRESSENTIE
+    pour un partenariat de marque Génération Débrouille.
+  email: ''
+  email_status: none
+  linkedin: https://www.linkedin.com/in/sandrinedecleer/
+  phone: ''
+  source_url: https://www.youtube.com/watch?v=mEW-r2EkRVM
+  retrieved_on: 2026-10-02
+  evidence: 'BASE Project Team: Sandrine Decleer, Laetitia Descamps, Catherine Van Dingenen
+    & Stéphanie Lengelé'
+- name: Tom Guetens
+  role: Head of Sponsoring, Brand Activation & Retail Communication, Telenet group
+  email: ''
+  email_status: none
+  linkedin: https://www.linkedin.com/in/tom-guetens-b1245b40/
+  phone: ''
+  source_url: https://www.linkedin.com/in/tom-guetens-b1245b40/
+  retrieved_on: 2026-10-02
+  evidence: ''
 inbound_channels:
+- type: linkedin
+  url: https://www.linkedin.com/in/sandrinedecleer/
 - type: form
   url: https://tbwa.be/contact/
 - type: portal
@@ -181,6 +213,8 @@ sources:
   retrieved_on: 2026-07-14
 - url: https://www.base.be/fr/promo/camille.html
   retrieved_on: 2026-07-14
+- url: https://www.youtube.com/watch?v=mEW-r2EkRVM
+  retrieved_on: 2026-10-02
 documents:
 - output/Base/Base-Partnership-2026.pdf
 - output/Base/Base-OnePager-2026.pdf
@@ -219,15 +253,30 @@ interactions:
     projets se présentent. DÉCISION DE CORENTIN : on ne cherche plus le décideur budget
     sponsoring, on laisse venir. La relation reste celle d''un fournisseur payé, et
     c''est elle qui rapporte.'
+- date: '2026-10-02'
+  type: note
+  resume: 'SORTIE DU CLIP « Tout est facile » (Camille Yembe, Lesley, RAPHA, Bruant
+    & Génération Débrouille, powered by BASE), chaîne BASEBelgium, publié le 2026-10-02.
+    Falc''ohm N''EST PAS crédité dans la description (crédités : Incendie Films en production,
+    Lites en EQ caméra, Wave en agence créative). Équipe projet BASE nommée publiquement
+    : Sandrine Decleer, Laetitia Descamps, Catherine Van Dingenen, Stéphanie Lengelé
+    (aucune adresse prouvée). Corentin propose de lancer la demande de collaboration.
+    Brouillon préparé : emails/base-tout-est-facile.md. Corentin écarte la demande de crédit
+    sur le clip : on demande directement un partenariat durable avec l''ASBL, soutien
+    contre visibilité, Shadow 31/10 proposé avec réserve.'
 events: []
 next_action:
-  what: EN PAUSE (décision de Corentin, 2026-09-09). Rien à envoyer, rien à demander.
-    Deux choses seulement. (1) Consigner dans contacts le nom de la responsable du
-    06/09, sans adresse si on n'en a pas de prouvée. (2) Le jour où Base ou l'agence
-    rappelle pour un projet, la question du partenariat se pose en personne, sur place,
-    pas par mail. La sortie du clip Camille Yembe reste à surveiller pour la référence
-    ; ne rien publier des photos du 06/09 avant.
-  due: '2026-11-02'
+  what: 'Envoyer emails/base-tout-est-facile.md. Décideuse pressentie : Sandrine Decleer
+    (Lead BASE Brand and Communication), AUCUNE adresse publique trouvée le 2026-10-02
+    (seule press@telenetgroup.be existe, générique, interdite). Deux voies : (1) la
+    responsable du tournage du 06/09, si Corentin a son adresse dans un échange réel,
+    en lui demandant de transmettre à Sandrine Decleer ; (2) LinkedIn vers Sandrine
+    Decleer. Le mail
+    va chez BASE, jamais chez Incendie Films (pas de budget de marque). Matériel visible en arrière-plan
+    sur une bonne partie du clip, COMME DÉCOR et non comme sonorisation (confirmé par Corentin
+    le 2026-10-02). Toute référence à ce clip, auprès de BASE ou d''une autre cible, dit
+    « notre sound system à l''image », jamais « nous avons sonorisé le clip ». Ne rien publier des photos du 06/09 avant l''accord écrit de BASE.'
+  due: '2026-10-06'
 notes: 'Campagne 2026 : agence créative TBWA\Belgium (signataire du spot, info@tbwa.be,
   +32 2 679 75 00, Zaventem), volet musical Wave (Aalst), contenu/documentaire VML,
   média Wavemaker (agence média de Telenet). Ces agences ont opérationnellement loué/déployé

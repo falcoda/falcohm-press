@@ -189,7 +189,10 @@ budgétaires et porte les priorités jeunesse.
       début janvier 2027.
 - [ ] Décoder l'adresse de Benjamin Goes sur la page officielle du Collège ; lettre de présentation
       sans demande après le premier dépôt administratif.
-- [ ] Place aux jeunes et Place aux Artistes : relance de Genappe le 14/09.
+- [x] Place aux jeunes : la Ville a répondu le 30/09 (courrier E53476) et renvoyé vers le 38. Le 38
+      répond le 01/10 : il n'y participe plus, la Province a réorienté le dispositif vers la santé et
+      le bien-être des jeunes (confirmé sur la page provinciale). Piste fermée pour 2026-2027.
+      Place aux Artistes : toujours via la commune.
 
 ## 11. Structures liées
 
@@ -211,6 +214,7 @@ offre au tissu associatif de la ville un lieu d'échange et d'expression citoyen
 coordinateur jeunesse ; Odile Collin, chargée de projet GAL, culture et association ; Damien
 Narciandi Alonso, régisseur. AG et CA ouverts aux associations socioculturelles du territoire
 [extrait] : une ASBL de Genappe peut demander à siéger. C'est le relais local le plus naturel, et
-il n'a pas de fiche CRM : à créer le jour où on lui demande quelque chose.
+fiche CRM créée le 01/10/2026 (`crm/companies/le-38.yaml`) : la Ville de Genappe, par courrier
+E53476 du 30/09/2026, désigne le 38 et la Maison des Jeunes comme coordinateurs de Place aux Jeunes.
 
 **Le Monty** (Genappe, « lieu de Transition ») : opérateur soutenu par la Province, à qualifier.
